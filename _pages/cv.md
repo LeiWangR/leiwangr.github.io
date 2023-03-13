@@ -48,7 +48,6 @@ Research experience
   * MLRG, Data61/CSIRO (Floreat WA)
   * Supervisor: Dr. Piotr Koniusz (Data61/CSIRO & ANU) and A/Prof. Du Huynh (UWA)
   
-[]()
 
 
 <!-- * Mar 2018-Jul 2018: **Teaching Assistant**
