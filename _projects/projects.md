@@ -20,7 +20,8 @@ author_profile: true
   * Scikit-learn
   * TensorFlow
   * MatConvNet -->
-  
+
+I am working on the following projects:
 
 * Automatic Training Data Search and Model Evaluation by Measuring Domain Gap
 
