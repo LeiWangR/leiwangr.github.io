@@ -1,14 +1,14 @@
 ---
 layout: archive
-title: "Projects"
-permalink: /projects/
+title: "Skills"
+permalink: /skills/
 author_profile: true
 ---
 
 <!-- Skills
 ====== -->
 
-<!-- * Programming languages
+* Programming languages
   * Python
   * Matlab
   * C/C++
@@ -19,15 +19,5 @@ author_profile: true
   * Pytorch
   * Scikit-learn
   * TensorFlow
-  * MatConvNet -->
+  * MatConvNet
   
-
-* Automatic Training Data Search and Model Evaluation by Measuring Domain Gap
-
-* Human action recognition (robust human action modelling)
-  * Action recognition in videos 
-  * Action recognition in skeleton sequences
-
-* Industrial research project
-  * One- & few-shot anomaly detection
-  * Anomaly detection in skeleton sequences
