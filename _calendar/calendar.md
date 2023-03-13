@@ -12,5 +12,5 @@ author_profile: true
 Contact
 ======
 
-If I can be of assistance, please do not hesitate to contact me via my Data61 email attached in the left sidebar navigation menu.
+If I can be of assistance, please contact me via my Data61 email in the left sidebar.
 
