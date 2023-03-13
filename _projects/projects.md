@@ -20,6 +20,12 @@ author_profile: true
   * Scikit-learn
   * TensorFlow
   * MatConvNet -->
+  
+I have worked with the large-scale volumetric action recognition datasets which are bigger by several orders of magnitude compared to ImageNet. 
+
+I have a solid background to work on cross-dataset problems (i) understand very well concepts of distribution shift between datasets (ii) issues with generalization to new class concepts (iii) issues underpinning model failures due to out-of-distribution situations (iv) issues resulting from low sample counts, and so forth. 
+
+My knowledge gained from past research experience spaning several computer vision and machine learning disciplines including camera projective geometry, graph neural networks, and optimal transportation (apart from action recognition and few-shot learning).
 
 I am working on the following projects:
 
