@@ -32,7 +32,10 @@ author_profile: true
 
 * *22/07/2019-present*: **Postgraduate Research Student** (PhD student, full-time)
   * Machine Learning Research Group (MLRG), Data61/CSIRO (Acton & Black Mountain ACT)
-  * Supervisor: [Dr. Piotr Koniusz](http://users.cecs.anu.edu.au/~koniusz/) (Data61/CSIRO & ANU)
+  * Supervisory panel: 
+    * Chair of panel: [Prof. Stephen Gould](http://users.cecs.anu.edu.au/~sgould/) (ANU)
+    * Primary supervisor: [Dr. Piotr Koniusz](http://users.cecs.anu.edu.au/~koniusz/) (Data61/CSIRO & ANU)
+    * Associate supervisor: Dr. Liang Zheng (ANU)
   * <font color="red">One paper each published at CVPR, ICCV, ECCV, ACM-MM, TPAMI & TIP</font>
   * <font color="red">Received <strong>the Sang Uk Lee Best Student Paper Award</strong> from ACCV’22</font>
 
