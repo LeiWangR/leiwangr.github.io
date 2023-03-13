@@ -13,6 +13,7 @@ author_profile: true
 
 * *05/07/2021-<font color="blue">present</font>*: **Computer Scientist** (contract)
   * Active Intelligence Australia PTY Limited, Perth, WA
+  * <font color="red">granted</font><strong><font color="red"> Incentive Unit Award </font></strong><font color="red">09/09/2022-08/09/2032</font>
 
 * *28/09/2020-28/01/2021*: **Machine Learning Researcher** (contract)
   * Ebenezer Technologies, Barranquilla, Colombia
