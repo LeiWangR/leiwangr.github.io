@@ -85,7 +85,7 @@ author:
   bio              : "Lei Wang is a Research Fellow with the School of Computing, ANU College of Engineering, Computing and Cybernetics under the supervision of Prof. Tom Gedeon (Curtin University) and Dr. Liang Zheng (ANU). Since 2018, he has been a full-time Computer Vision Researcher with iCetana Pty Ltd. He was a Visiting Researcher in Machine Learning Research Group at Data61/CSIRO (former NICTA). He was also a Visiting Researcher with the Department of Computer Science and Software Engineering, UWA. His research interests include action recognition in videos, anomaly detection, video image processing, one- and few-shot learning, deep learning, tensor learning and domain adaptation."
   location         : "Canberra ACT 2601, Australia"
   employer         : "ANU & Data61/CSIRO" 
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=VWCZLXgAAAAJ&hl=en"
   email            : "lei.wang@data61.csiro.au"
   researchgate     : "https://www.researchgate.net/profile/Lei-Wang-358"
