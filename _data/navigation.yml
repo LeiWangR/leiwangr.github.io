@@ -9,8 +9,8 @@ main:
   - title: "Services"
     url: /services/
     
-#   - title: "Skills"
-#     url: /skills/
+  - title: "Skills"
+    url: /skills/
 
 #   - title: "Talks"
 #     url: /talks/    
