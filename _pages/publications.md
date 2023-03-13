@@ -103,7 +103,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 				<div class="gs_gray"><strong>L Wang</strong></div>
 				<div class="gs_gray">US patent (provisional)</div>
 			</td>
-			<td class="gsc_a_c">&nbsp;</td>
+<!-- 			<td class="gsc_a_c">&nbsp;</td> -->
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2022</span></td>
 		</tr>
 		<tr class="gsc_a_tr">
@@ -111,7 +111,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 				<div class="gs_gray"><strong>L Wang</strong>, G Woods</div>
 				<div class="gs_gray">AU Patent AU 2,019,903,775</div>
 			</td>
-			<td class="gsc_a_c">&nbsp;</td>
+<!-- 			<td class="gsc_a_c">&nbsp;</td> -->
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2019</span></td>
 		</tr>
 		<tr class="gsc_a_tr">
@@ -119,7 +119,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 				<div class="gs_gray"><strong>L Wang</strong>, M Reda Mansour, G Woods</div>
 				<div class="gs_gray">AU Patent AU 2,019,900,316</div>
 			</td>
-			<td class="gsc_a_c">&nbsp;</td>
+<!-- 			<td class="gsc_a_c">&nbsp;</td> -->
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2019</span></td>
 		</tr>
 	</tbody>
@@ -155,7 +155,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 				<div class="gs_gray"><strong>L Wang</strong></div>
 				<div class="gs_gray">Master&rsquo;s thesis, School of the Computer Science and Software Engineering, The University of Western Australia</div>
 			</td>
-			<td class="gsc_a_c">&nbsp;</td>
+<!-- 			<td class="gsc_a_c">&nbsp;</td> -->
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2017</span></td>
 		</tr>
 	</tbody>
