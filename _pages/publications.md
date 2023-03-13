@@ -15,9 +15,9 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=VWCZLXgAAAAJ&hl=en).
+You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=VWCZLXgAAAAJ&hl=en) profile.
 
-<h3>Publications</h3>
+<h3>Conference/journal papers</h3>
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr">
