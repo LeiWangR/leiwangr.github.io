@@ -43,3 +43,6 @@ Related links
 	<li><a href="https://researchers.anu.edu.au/researchers/wang-lxxxxxxx">ANU researcher profile</a></li>
   <li><a href="https://people.csiro.au/W/L/lei-wang">CSIRO's Data61 profile</a></li>
 </ul>
+
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Australia%2FSydney&src=bGVpLndAYW51LmVkdS5hdQ&src=YWRkcmVzc2Jvb2sjY29udGFjdHNAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&src=ZW4uYXVzdHJhbGlhbiNob2xpZGF5QGdyb3VwLnYuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23039BE5&color=%2333B679&color=%230B8043" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
