@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Mr. Lei Wang"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Mr. Lei Wang"
+description              : &description "Research Fellow at the Australian National University"
+url                      : https://lei-wang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "lei-wang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Mr. Lei Wang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Lei Wang is a Research Fellow with the School of Computing, ANU College of Engineering, Computing and Cybernetics under the supervision of Prof. Tom Gedeon (Curtin University) and Dr. Liang Zheng (ANU). Since 2018, he has been a full-time Computer Vision Researcher with iCetana Pty Ltd. He was a Visiting Researcher in Machine Learning Research Group at Data61/CSIRO (former NICTA). He was also a Visiting Researcher with the Department of Computer Science and Software Engineering, UWA. He has published a large number of first-author papers during his PhD candidature in high quality venues (Rank A* conferences or journals with impact factor > 10.0) including CVPR, ICCV, ECCV, ACM MM, TPAMI and TIP under the supervision of Dr. Piotr Koniusz (Data61/CSIRO & ANU). He also received the Sang Uk Lee Best Student Paper Award from ACCV'22. His research interests include action recognition in videos, anomaly detection, video image processing, one- and few-shot learning, deep learning, tensor learning and domain adaptation. He is an IEEE Student Member and an ACM Student Member."
+  location         : "Canberra, Australia"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=VWCZLXgAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
