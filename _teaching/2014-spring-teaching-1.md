@@ -1,7 +1,7 @@
 ---
 title: "Teaching Assistant"
 collection: teaching
-type: "CITS5508 Machine Learning"
+type: "CITS5508 Machine Learning, postgraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Department of Computer Science and Software Engineering (CSSE), The University of Western Australia (UWA)"
 date: Mar 2018-Jul 2018
