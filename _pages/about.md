@@ -18,7 +18,7 @@ His research interests include action recognition in videos, anomaly detection, 
 
 He is an IEEE Student Member and an ACM Student Member.
 
-Research interests
+<!-- Research interests
 ======
 
 * Action recognition
@@ -27,7 +27,7 @@ Research interests
 * One- & few-shot learning
 * Deep learning
 * Tensor learning
-* Domain adaptation
+* Domain adaptation -->
 
 Education
 ======
