@@ -21,11 +21,11 @@ author_profile: true
   * TensorFlow
   * MatConvNet -->
   
-I have worked with the large-scale volumetric action recognition datasets which are bigger by several orders of magnitude compared to ImageNet. 
+I have worked with the <font color="blue">large-scale volumetric</font> action recognition datasets which are bigger by several orders of magnitude compared to ImageNet. I have learnt to deal efficiently with complex projects given <font color="blue">limited computational resources</font> (albeit HPC-based).
 
-I have a solid background to work on cross-dataset problems, I understand very well (i) concepts of distribution shift between datasets (ii) issues with generalization to new class concepts (iii) issues underpinning model failures due to out-of-distribution situations (iv) issues resulting from low sample counts, and so forth. 
+I have a solid background to work on <font color="blue">cross-dataset problems</font>, I understand very well (i) concepts of distribution shift between datasets (ii) issues with generalization to new class concepts (iii) issues underpinning model failures due to out-of-distribution situations (iv) issues resulting from low sample counts, and so forth. 
 
-My knowledge gained from past research experience span several computer vision and machine learning disciplines including camera projective geometry, graph neural networks, and optimal transportation (apart from action recognition and few-shot learning).
+My knowledge gained from past research experience span several <font color="blue">computer vision and machine learning disciplines</font> including camera projective geometry, graph neural networks, and optimal transportation (apart from action recognition and few-shot learning).
 
 I am working on the following projects:
 
@@ -39,4 +39,4 @@ I am working on the following projects:
   * One- & few-shot anomaly detection
   * Anomaly detection in skeleton sequences
 
-I have delivered a number of strong scientic ideas as witnessed by my (i) academic outputs (papers in high quality venues and patents) and (ii) practical knowledge of action recognition / anomaly detection systems.
+<font color="blue">I have delivered a number of strong scientic ideas as witnessed by my (i) academic outputs (papers in high quality venues and patents) and (ii) practical knowledge of action recognition / anomaly detection systems.</font>
