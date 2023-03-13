@@ -27,6 +27,8 @@ I have a solid background to work on <font color="blue">cross-dataset problems</
 
 My knowledge gained from past research experience span several <font color="blue">computer vision and machine learning disciplines</font> including camera projective geometry, graph neural networks, and optimal transportation (apart from action recognition and few-shot learning).
 
+I have delivered a number of strong scientic ideas as witnessed by my (i) academic outputs (papers in high quality venues and patents) and (ii) practical knowledge of action recognition / anomaly detection systems.
+
 I am working on the following projects:
 
 * Automatic Training Data Search and Model Evaluation by Measuring Domain Gap
@@ -38,5 +40,3 @@ I am working on the following projects:
 * Industrial research project
   * One- & few-shot anomaly detection
   * Anomaly detection in skeleton sequences
-
-<font color="blue">I have delivered a number of strong scientic ideas as witnessed by my (i) academic outputs (papers in high quality venues and patents) and (ii) practical knowledge of action recognition / anomaly detection systems.</font>
