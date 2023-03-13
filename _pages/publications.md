@@ -55,7 +55,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://dl.acm.org/doi/10.1145/3474085.3475572"><strong><span class="gsc_a_at">Self-supervising Action Recognition by Statistical Moment and Subspace Descriptors</span></strong></a>
 				<div class="gs_gray"><strong>L Wang</strong>, P Koniusz</div>
-				<div class="gs_gray">ACM International Conference on Multimedia (ACM-MM) [<strong><font color="red">A*</font></strong>], 4324​-4333</div>
+				<div class="gs_gray">ACM International Conference on Multimedia (ACM-MM) [<strong><font color="red">A*</font></strong>], 4324-4333</div>
 			</td>
 			<td class="gsc_a_c">&nbsp;</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2021</span></td>
@@ -79,7 +79,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://ieeexplore.ieee.org/document/9008573"><strong data-bind="text: title">Hallucinating IDT Descriptors and I3D Optical Flow Features for Action Recognition with CNNs</strong></a>
 				<div class="gs_gray"><strong>L Wang</strong>, P Koniusz, DQ Huynh</div>
-				<div class="gs_gray">IEEE International Conference on Computer Vision (ICCV) [<strong><font color="red">A*</font></strong>], 8698​​-8708</div>
+				<div class="gs_gray">IEEE International Conference on Computer Vision (ICCV) [<strong><font color="red">A*</font></strong>], 8698-8708</div>
 			</td>
 			<td class="gsc_a_c">&nbsp;</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2019</span></td>
@@ -94,7 +94,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 		</tr>
 	</tbody>
 </table>
-<h3>&nbsp;</h3>
+<!-- <h3>&nbsp;</h3> -->
 <h3>Patents</h3>
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
@@ -124,7 +124,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 		</tr>
 	</tbody>
 </table>
-<p>&nbsp;</p>
+<!-- <p>&nbsp;</p> -->
 <h3>arXiv preprints</h3>
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
@@ -146,7 +146,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 		</tr>
 	</tbody>
 </table>
-<p>&nbsp;</p>
+<!-- <p>&nbsp;</p> -->
 <h3>Master&rsquo;s thesis</h3>
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
