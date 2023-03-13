@@ -18,7 +18,7 @@ I regularly review technical papers for the following journals, conferences & wo
   * The Visual Computer (TVCJ), IET Computer Vision, Electronics Letters
  
 * Conferences:
-  * ICML2023, CVPR2023, ICLR 2023, AAAI 2023, NeurIPS 2022, CVPR 2022, AAAI 2022, ICML 2022, ECCV 2022 (<strong><font color="red">outstanding reviewer</strong>),
+  * ICML2023, CVPR2023, ICLR 2023, AAAI 2023, NeurIPS 2022, CVPR 2022, AAAI 2022, ICML 2022, ECCV 2022 (<strong><font color="red">outstanding reviewer</font></strong>),
   * BMVC 2022, BMVC 2021, BMVC 2020
 
 * Workshops:
