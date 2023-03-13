@@ -25,7 +25,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 				<div class="gs_gray"><strong>L Wang</strong>, P Koniusz</div>
 				<div class="gs_gray">Computer Vision and Pattern Recognition (CVPR)</div>
 			</td>
-			<td class="gsc_a_c">[<font color="red"><strong>A*</strong>, accepted, to appear</font>]</td>
+			<td class="gsc_a_c">[<font color="red"><strong>A*</strong>, accepted</font>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2023</span></td>
 		</tr>
 		<tr class="gsc_a_tr">
@@ -33,7 +33,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 				<div class="gs_gray"><strong>L Wang</strong>, P Koniusz</div>
 				<div class="gs_gray">Asian Conference on Computer Vision (ACCV), 307-326</div>
 			</td>
-			<td class="gsc_a_c">[<font color="red"><strong>B</strong>, oral, 4.9% acceptance rate, <strong>Best Student Paper Award</strong></font>]</td>
+			<td class="gsc_a_c">[<font color="red"><strong>B</strong>, oral, <strong>Best Student Paper Award</strong></font>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2022</span></td>
 		</tr>
 		<tr class="gsc_a_tr">
