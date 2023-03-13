@@ -35,11 +35,11 @@ Education
 * **Master of Professional Engineering** - MPE, Software Engineering, The University of Western Australia, *Feb 2016 - March 2018*
 
 
-<h3>Related Links</h3>
+Related links
+======
 <ul>
 	<li><a href="https://scholar.google.com/citations?user=VWCZLXgAAAAJ&amp;hl=en">Google Scholar</a></li>
   <li><a href="https://cecc.anu.edu.au/people/lei-wang">ANU student profile</a></li> 
 	<li><a href="https://researchers.anu.edu.au/researchers/wang-lxxxxxxx">ANU researcher profile</a></li>
   <li><a href="https://people.csiro.au/W/L/lei-wang">CSIRO's Data61 profile</a></li>
 </ul>
-<p>&nbsp;</p>
