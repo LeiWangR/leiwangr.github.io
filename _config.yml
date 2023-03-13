@@ -196,7 +196,10 @@ collections:
   services:
     output: true
     permalink: /:collection/:path/
-  calendar:
+#   calendar:
+#     output: true
+#     permalink: /:collection/:path/
+  contact:
     output: true
     permalink: /:collection/:path/
 
@@ -277,10 +280,17 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _calendar
+#   # _calendar
+#   - scope:
+#       path: ""
+#       type: calendar
+#     values:
+#       layout: single
+#       author_profile: true
+  # _contact
   - scope:
       path: ""
-      type: calendar
+      type: contact
     values:
       layout: single
       author_profile: true
