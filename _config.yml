@@ -196,6 +196,9 @@ collections:
   services:
     output: true
     permalink: /:collection/:path/
+  calendar:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -271,6 +274,13 @@ defaults:
   - scope:
       path: ""
       type: skills
+    values:
+      layout: single
+      author_profile: true
+  # _calendar
+  - scope:
+      path: ""
+      type: calendar
     values:
       layout: single
       author_profile: true
