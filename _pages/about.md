@@ -38,7 +38,7 @@ Education
 Related links
 ======
 <ul>
-	<li><a href="https://scholar.google.com/citations?user=VWCZLXgAAAAJ&amp;hl=en">Google Scholar</a></li>
+<!-- 	<li><a href="https://scholar.google.com/citations?user=VWCZLXgAAAAJ&amp;hl=en">Google Scholar</a></li> -->
   <li><a href="https://cecc.anu.edu.au/people/lei-wang">ANU student profile</a></li> 
 	<li><a href="https://researchers.anu.edu.au/researchers/wang-lxxxxxxx">ANU researcher profile</a></li>
   <li><a href="https://people.csiro.au/W/L/lei-wang">CSIRO's Data61 profile</a></li>
