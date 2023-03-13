@@ -32,7 +32,9 @@ Research interests
 Paper Reviewing
 ======
 
-I regularly review technical papers for the following journals, conferences & workshops. I write high quality reviews for papers in action recognition and anomaly detection.
+I regularly review technical papers for the following journals, conferences & workshops. 
+
+I write high quality reviews for papers in action recognition and anomaly detection.
 
 * Journals:
   * IEEE Transactions on Multimedia (T-MM), Pattern Recognition, Computer Vision and Image Understanding (CVIU),
