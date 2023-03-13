@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Services"
+title: "Paper Reviewing"
 permalink: /services/
 author_profile: true
 ---
 
-Paper Reviewing
-======
+<!-- Paper Reviewing
+====== -->
 
 I regularly review technical papers for the following journals, conferences & workshops. 
 
