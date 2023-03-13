@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Mr. Lei Wang"
-  avatar           : "lei-wang.png"
+  avatar           : "lei-wang.jpg"
   bio              : "Lei Wang is a Research Fellow with the School of Computing, ANU College of Engineering, Computing and Cybernetics under the supervision of Prof. Tom Gedeon (Curtin University) and Dr. Liang Zheng (ANU). Since 2018, he has been a full-time Computer Vision Researcher with iCetana Pty Ltd. He was a Visiting Researcher in Machine Learning Research Group at Data61/CSIRO (former NICTA). He was also a Visiting Researcher with the Department of Computer Science and Software Engineering, UWA. His research interests include action recognition in videos, anomaly detection, video image processing, one- and few-shot learning, deep learning, tensor learning and domain adaptation."
   location         : "Canberra ACT 2601, Australia"
   employer         : "ANU & Data61/CSIRO" 
