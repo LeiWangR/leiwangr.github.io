@@ -190,7 +190,7 @@ collections:
   experience:
     output: true
     permalink: /:collection/:path/
-  skills:
+  projects:
     output: true
     permalink: /:collection/:path/
   services:
@@ -273,7 +273,7 @@ defaults:
   # _skills
   - scope:
       path: ""
-      type: skills
+      type: projects
     values:
       layout: single
       author_profile: true
