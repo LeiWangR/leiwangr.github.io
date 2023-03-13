@@ -33,6 +33,8 @@ author_profile: true
 * *22/07/2019-present*: **Postgraduate Research Student** (PhD student, full-time)
   * Machine Learning Research Group (MLRG), Data61/CSIRO (Acton & Black Mountain ACT)
   * Supervisor: Dr. Piotr Koniusz (Data61/CSIRO & ANU)
+  * <font color="red">One paper each published at CVPR, ICCV, ECCV, ACM-MM, TPAMI & TIP</font>
+  * <font color="red">Received <strong>the Sang Uk Lee Best Student Paper Award</strong> from ACCV’22</font>
 
 * *10/10/2018-09/10/2019*: **Visiting Researcher**
   * Department of Computer Science and Software Engineering (CSSE), The University of Western Australia (UWA)
