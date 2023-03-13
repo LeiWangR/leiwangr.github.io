@@ -35,7 +35,7 @@ Education
 * **Master of Professional Engineering** - MPE, Software Engineering, The University of Western Australia, *Feb 2016 - March 2018*
 
 
-Related links
+Related Links
 ======
 <ul>
 <!-- 	<li><a href="https://scholar.google.com/citations?user=VWCZLXgAAAAJ&amp;hl=en">Google Scholar</a></li> -->
