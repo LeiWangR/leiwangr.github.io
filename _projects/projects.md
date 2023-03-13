@@ -39,4 +39,4 @@ I am working on the following projects:
   * One- & few-shot anomaly detection
   * Anomaly detection in skeleton sequences
 
-I have delivered a number of strong scientic ideas as witnessed by (i) academic outputs (papers and patents) and (ii) practical knowledge of action recognition and anomaly detection systems.
+I have delivered a number of strong scientic ideas as witnessed by my (i) academic outputs (papers in high quality venues and patents) and (ii) practical knowledge of action recognition / anomaly detection systems.
