@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Experience"
+permalink: /experience/
+author_profile: true
+---
+
 Research experience
 ======
 * *20/02/2023-present*: **Research Fellow** (full-time)
