@@ -5,8 +5,8 @@ permalink: /skills/
 author_profile: true
 ---
 
-Skills
-======
+<!-- Skills
+====== -->
 * Programming languages
   * Python
   * Matlab
