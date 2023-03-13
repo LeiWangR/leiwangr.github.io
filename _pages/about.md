@@ -12,7 +12,7 @@ Lei Wang is a Research Fellow with the School of Computing, ANU College of Engin
 
 Since 2018, he has been a full-time Computer Vision Researcher with iCetana Pty Ltd. He was a Visiting Researcher in Machine Learning Research Group at Data61/CSIRO (former NICTA). He was also a Visiting Researcher with the Department of Computer Science and Software Engineering, UWA.
 
-He is currently also a Computer Scientist with the Active Intelligence Australia PTY Limited, Perth, WA. He is involved in developing commercial anomaly detection solutions and helps raise 1.2M USD for the project.
+He is currently also a Computer Scientist with the Active Intelligence Australia PTY Limited, Perth, WA. He is involved in developing commercial anomaly detection solutions and helps raise 1.2M USD for the project. He has been granted Incentive Unit Award since 2022.
 
 Before starting his PhD at ANU and Data61/CSIRO, he has been offered a number of competitive full PhD scholarships including ARC Industrial Transformation Training Centre Scholarship, UWA International Fee Scholarship, University Postgraduate Award, Data61 PhD Scholarship, Data61 Top-up Scholarship and ANU HDR Fee Remission Merit Scholarship.
 
