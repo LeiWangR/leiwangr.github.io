@@ -28,3 +28,8 @@ Research interests
 * Deep learning
 * Tensor learning
 * Domain adaptation
+
+Education
+======
+* PhD in Computer Science, The Australian National University, *22 July 2019 - present*
+* MPE in Software Engineering, The University of Western Australia, *Feb 2016 - March 2018*
