@@ -5,7 +5,7 @@ permalink: /contact/
 author_profile: true
 ---
 
-Please note that my working hours in the office are: 10:00am to 6:00pm (Australian Eastern Daylight Time) from Monday to Friday.
+Please note that my working hours in the office are: 10:00am to 6:00pm (AEDT) from Monday to Friday.
 
 Feel free to reach me on ANU campus for discussions.
 
