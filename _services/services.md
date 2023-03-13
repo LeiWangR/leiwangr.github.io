@@ -10,7 +10,7 @@ author_profile: true
 
 I regularly review technical papers for the following journals, conferences & workshops. 
 
-I write high quality reviews for papers in action recognition and anomaly detection.
+<font color="blue">I write high quality reviews for papers in action recognition and anomaly detection.</font>
 
 * Journals:
   * IEEE Transactions on Multimedia (T-MM), Pattern Recognition (PR), Computer Vision and Image Understanding (CVIU),
@@ -18,7 +18,7 @@ I write high quality reviews for papers in action recognition and anomaly detect
   * The Visual Computer (TVCJ), IET Computer Vision, Electronics Letters
  
 * Conferences:
-  * ICML2023, CVPR2023, ICLR 2023, AAAI 2023, NeurIPS 2022, CVPR 2022, AAAI 2022, ICML 2022, ECCV 2022 (***outstanding reviewer***),
+  * ICML2023, CVPR2023, ICLR 2023, AAAI 2023, NeurIPS 2022, CVPR 2022, AAAI 2022, ICML 2022, ECCV 2022 (<strong><font color="red">outstanding reviewer</strong>),
   * BMVC 2022, BMVC 2021, BMVC 2020
 
 * Workshops:
