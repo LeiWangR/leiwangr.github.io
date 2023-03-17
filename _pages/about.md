@@ -8,9 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-<!-- [Prof. Tom Gedeon](https://staffportal.curtin.edu.au/staff/profile/view/tom-gedeon-5e48a1fd/) (Curtin University) and  -->
 
-Lei Wang is a Research Fellow with the School of Computing, ANU College of Engineering, Computing and Cybernetics under the supervision of [Dr. Liang Zheng](https://zheng-lab.cecs.anu.edu.au/) (ANU).
+Lei Wang is a Research Fellow with the School of Computing, ANU College of Engineering, Computing and Cybernetics under the supervision of [Dr. Liang Zheng](https://zheng-lab.cecs.anu.edu.au/) (ANU) and [Prof. Tom Gedeon](https://staffportal.curtin.edu.au/staff/profile/view/tom-gedeon-5e48a1fd/) (Curtin University).
 
 He is currently also a Computer Scientist with the Active Intelligence Australia PTY Limited, Perth, WA. He leads the research and development of commercial anomaly detection solutions, and the project has raised 1.2M USD. Since 2022, he has been granted the Incentive Unit Award.
 
