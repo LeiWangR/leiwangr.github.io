@@ -45,4 +45,4 @@ author_profile: true
 
 * *21/09/2018-19/07/2019*: **Visiting Researcher**
   * MLRG, Data61/CSIRO (Floreat WA)
-  * Supervisor: Dr. Piotr Koniusz (Data61/CSIRO & ANU) and A/Prof. Du Huynh (UWA)
+  * Supervisor: Dr. Piotr Koniusz (Data61/CSIRO & ANU)
