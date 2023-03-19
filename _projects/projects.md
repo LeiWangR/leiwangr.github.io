@@ -21,7 +21,11 @@ author_profile: true
   * TensorFlow
   * MatConvNet -->
   
-I have worked with the <font color="blue">large-scale volumetric</font> action recognition datasets which are bigger by several orders of magnitude compared to ImageNet. I have learnt to deal efficiently with complex projects given <font color="blue">limited computational resources</font> (albeit HPC-based).
+I am a hardworking, passionate and self-disciplined researcher.
+  
+I have worked with the <font color="blue">large-scale volumetric</font> action recognition datasets which are bigger by several orders of magnitude compared to ImageNet. 
+
+I have learnt to deal efficiently with complex projects given <font color="blue">limited computational resources</font> (albeit HPC-based).
 
 I have a solid background to work on <font color="blue">cross-dataset problems</font>, I understand very well (i) concepts of distribution shift between datasets (ii) issues with generalization to new class concepts (iii) issues underpinning model failures due to out-of-distribution situations (iv) issues resulting from low sample counts, and so forth. 
 
