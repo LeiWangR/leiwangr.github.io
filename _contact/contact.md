@@ -16,5 +16,5 @@ Feel free to reach me on ANU campus for discussions if you are interested in my 
 Email Me
 ======
 
-If I can be of assistance, please contact me [via email](mailto:lei.wang@data61.csiro.au) if you are off campus.
+If I can be of assistance, please contact me [via email](mailto:lei.wang@data61.csiro.au).
 
