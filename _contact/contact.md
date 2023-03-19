@@ -5,7 +5,7 @@ permalink: /contact/
 author_profile: true
 ---
 
-Please note that my working hours in the office are: 10:00am to 6:00pm (AEDT) from Monday to Friday.
+My working hours in the office are: 10:00am to 6:00pm (AEDT) from Monday to Friday. My timetable is synced in real-time and attached below.
 
 Feel free to reach me on ANU campus for discussions if you are interested in my research work.
 
@@ -16,5 +16,5 @@ Feel free to reach me on ANU campus for discussions if you are interested in my 
 Email Me
 ======
 
-If I can be of assistance, please contact me [via email](mailto:lei.wang@data61.csiro.au)
+If I can be of assistance, please contact me [via email](mailto:lei.wang@data61.csiro.au).
 
