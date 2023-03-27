@@ -13,6 +13,7 @@ I regularly review technical papers for the following journals, conferences & wo
 <font color="blue">I write high quality reviews for papers in action recognition and anomaly detection.</font>
 
 * Journals:
+  * IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
   * IEEE Transactions on Multimedia (T-MM), Pattern Recognition (PR), Computer Vision and Image Understanding (CVIU),
   * Neural Computing and Applications (NCAA), Journal of Visual Communication and Image Representation (JVCI), Signal, Image and Video Processing (SIVP),
   * The Visual Computer (TVCJ), IET Computer Vision, Electronics Letters
