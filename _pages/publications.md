@@ -21,7 +21,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr">
-			<td class="gsc_a_t"><a href=""><strong><span class="gsc_a_at">3Mformer: Multi-order Multi-mode Transformer for Skeletal Action Recognition</span></strong></a>
+			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2303.14474.pdf"><strong><span class="gsc_a_at">3Mformer: Multi-order Multi-mode Transformer for Skeletal Action Recognition</span></strong></a>
 				<div class="gs_gray"><strong>L Wang</strong>, P Koniusz</div>
 				<div class="gs_gray">Computer Vision and Pattern Recognition (CVPR)</div>
 			</td>
