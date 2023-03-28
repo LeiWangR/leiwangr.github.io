@@ -101,7 +101,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href=""><strong><span class="gsc_a_at">System and Method of Detecting Anomalies from Mass Data</span></strong></a>
 				<div class="gs_gray"><strong>L Wang</strong></div>
-				<div class="gs_gray">US patent (provisional)</div>
+				<div class="gs_gray">US patent (provisional, SN 63/326,525)</div>
 			</td>
 <!-- 			<td class="gsc_a_c">&nbsp;</td> -->
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2022</span></td>
