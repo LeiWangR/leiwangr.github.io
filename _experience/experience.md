@@ -18,7 +18,7 @@ author_profile: true
 
 * *28/09/2020-28/01/2021*: **Machine Learning Researcher** (contract)
   * Ebenezer Technologies, Barranquilla, Colombia
-  * <font color="red">Delivered a skeletal anomaly detection system</font>
+  * <font color="red">Delivered a skeletal anomaly detection system (Alice Guardian smart video surveillance)</font>
 
 * *22/07/2019-28/09/2020*: **Machine Learning / Computer Vision Researcher** (Casual Appointment, 20%)
   * iCetana Pty Ltd, Perth, WA
@@ -27,7 +27,8 @@ author_profile: true
 
 * *02/07/2018-19/07/2019*: **Computer Vision Research Intern** (full-time)
   * iCetana Pty Ltd, Perth, WA
-  * Supervisor and Manager: [Dr. Moussa Reda Mansour](https://scholar.google.com/citations?user=3WWA0FMAAAAJ&hl=en) (iCetana’s former Research & Development Lead) and Mr. Graeme Woods (iCetana’s former Head of Product)
+  * Supervisor: [Dr. Moussa Reda Mansour](https://scholar.google.com/citations?user=3WWA0FMAAAAJ&hl=en) (iCetana’s former Research & Development Lead) 
+  * Manager: Mr. Graeme Woods (iCetana’s former Head of Product)
   * <font color="red">Filed a provisional patent</font>
 
 * *22/07/2019-present*: **Postgraduate Research Student** (PhD student, full-time)
