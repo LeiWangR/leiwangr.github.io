@@ -23,5 +23,6 @@ I regularly review technical papers for the following journals, conferences & wo
   * BMVC 2022, BMVC 2021, BMVC 2020
 
 * **Workshops**:
-  * Deep Vision Workshop (CVPR 2020), Vision Datasets Understanding (1st VDU at CVPR 2022, 2nd VDU at CVPR 2023)
+  * Deep Vision Workshop (CVPR 2020), 
+  * Vision Datasets Understanding (1st VDU at CVPR 2022, 2nd VDU at CVPR 2023)
 
