@@ -17,13 +17,13 @@ author_profile: true
   </tr>
   <tr>
     <th>Office <br> hours</th>
-    <td>lei.wang@data61.csiro.au</td>
+    <td>10:00am-6:00pm (AEDT) <br> Monday-Friday</td>
   </tr>
 </table>
 
 <h2>My Timetable</h2>
 
-My working hours in the office are: 10:00am to 6:00pm (AEDT) from Monday to Friday. 
+<!-- My working hours in the office are: 10:00am to 6:00pm (AEDT) from Monday to Friday.  -->
 
 My timetable attached below is automatically synced in real time.
 
