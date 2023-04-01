@@ -37,13 +37,15 @@ I have delivered a number of strong scientific ideas as witnessed by my (i) acad
 <!-- <p>&nbsp;</p> -->
 <h2>Research interests</h2>
 
-* Action recognition
+My interests include action recognition in videos, anomaly detection, video image processing, one- and few-shot learning, deep learning, tensor learning and domain adaptation.
+
+<!-- * Action recognition
 * Anomaly detection
 * Video image processing
 * One- & few-shot learning
 * Deep learning
 * Tensor learning
-* Domain adaptation
+* Domain adaptation -->
 <!-- <p>&nbsp;</p> -->
 <h2>Ongoing projects</h2>
 
