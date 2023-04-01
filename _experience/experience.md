@@ -12,9 +12,9 @@ author_profile: true
   * Postdoc advisor: [Dr. Liang Zheng](https://zheng-lab.cecs.anu.edu.au/) (ANU) and [Prof. Tom Gedeon](https://staffportal.curtin.edu.au/staff/profile/view/tom-gedeon-5e48a1fd/) (Curtin University)
 
 * *05/07/2021-<font color="blue">present</font>*: **Computer Scientist** (contract)
-  * Active Intelligence Australia PTY Limited, Perth, WA
-  * <font color="red">Filed a provisional patent, raised 1.2M USD</font>
-  * <font color="red">Granted <strong> the Incentive Unit Award </strong>09/09/2022-08/09/2032</font>
+  * Active Intelligence Australia Pty Ltd, Perth, Western Australia (WA)
+  * <font color="red">Filed a provisional patent, raised 1.2 million US dollars (~1.79 million Australian dollars)</font>
+  * <font color="red">Granted <strong> the Incentive Unit Award </strong>(09/09/2022-08/09/2032)</font>
 
 * *28/09/2020-28/01/2021*: **Machine Learning Researcher** (contract)
   * Ebenezer Technologies, Barranquilla, Colombia
@@ -31,7 +31,7 @@ author_profile: true
   * <font color="red">Filed a provisional patent</font>
 
 * *22/07/2019-present*: **Postgraduate Research Student** (PhD student, full-time)
-  * School of Computing, ANU College of Engineering, Computing and Cybernetics | Machine Learning Research Group (MLRG), Data61/CSIRO (Acton & Black Mountain ACT)
+  * [1] School of Computing, ANU College of Engineering, Computing and Cybernetics and [2] Machine Learning Research Group (MLRG), Data61/CSIRO (Acton & Black Mountain ACT)
   * Supervisory panel: 
     * Chair of panel: [Prof. Stephen Gould](http://users.cecs.anu.edu.au/~sgould/) (ANU)
     * Primary supervisor: [Dr. Piotr Koniusz](http://users.cecs.anu.edu.au/~koniusz/) (Data61/CSIRO & ANU)
