@@ -6,18 +6,18 @@ author_profile: true
 ---
 
 
-<table style="white-space:nowrap; width:100%">
+<table style="white-space:nowrap; width:100%; border: none;">
   <tr>
-    <th style="max-width:100%; white-space:nowrap;">Email</th>
-    <td style="max-width:100%; white-space:nowrap;">lei.wang@data61.csiro.au</td>
+    <th style="max-width:100%; white-space:nowrap; border: none;">Email</th>
+    <td style="max-width:100%; white-space:nowrap; border: none;">lei.wang@data61.csiro.au</td>
   </tr>
   <tr>
-    <th style="max-width:100%; white-space:nowrap;">Address <br> /Office</th>
-    <td style="max-width:100%; white-space:nowrap;">Room N218, CSIT Building <br> ANU Campus <br> Acton ACT 2601</td>
+    <th style="max-width:100%; white-space:nowrap; border: none;">Address <br> /Office</th>
+    <td style="max-width:100%; white-space:nowrap; border: none;">Room N218, CSIT Building <br> ANU Campus <br> Acton ACT 2601</td>
   </tr>
   <tr>
-    <th style="max-width:100%; white-space:nowrap;">Office <br> hours</th>
-    <td style="max-width:100%; white-space:nowrap;">10:00am-6:00pm (AEDT) <br> Monday-Friday</td>
+    <th style="max-width:100%; white-space:nowrap; border: none;">Office <br> hours</th>
+    <td style="max-width:100%; white-space:nowrap; border: none;">10:00am-6:00pm (AEDT) <br> Monday-Friday</td>
   </tr>
 </table>
 
