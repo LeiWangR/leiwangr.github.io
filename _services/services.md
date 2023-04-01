@@ -7,8 +7,8 @@ author_profile: true
 
 <!-- Paper Reviewing
 ====== -->
-
-<h2>Paper Reviewing</h2>
+<!-- 
+<h2>Paper Reviewing</h2> -->
 
 I regularly review technical papers for the following journals, conferences & workshops. 
 
