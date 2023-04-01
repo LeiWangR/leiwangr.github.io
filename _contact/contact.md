@@ -8,16 +8,16 @@ author_profile: true
 
 <table style="width:100%">
   <tr>
-    <th>Email</th>
-    <td>lei.wang@data61.csiro.au</td>
+    <th style="max-width:100%; white-space:nowrap;">Email</th>
+    <td style="max-width:100%; white-space:nowrap;">lei.wang@data61.csiro.au</td>
   </tr>
   <tr>
-    <th>Address <br> /Office</th>
-    <td>Room N218, CSIT Building <br> ANU Campus <br> Acton ACT 2601</td>
+    <th style="max-width:100%; white-space:nowrap;">Address <br> /Office</th>
+    <td style="max-width:100%; white-space:nowrap;">Room N218, CSIT Building <br> ANU Campus <br> Acton ACT 2601</td>
   </tr>
   <tr>
-    <th>Office <br> hours</th>
-    <td>10:00am-6:00pm (AEDT) <br> Monday-Friday</td>
+    <th style="max-width:100%; white-space:nowrap;">Office <br> hours</th>
+    <td style="max-width:100%; white-space:nowrap;">10:00am-6:00pm (AEDT) <br> Monday-Friday</td>
   </tr>
 </table>
 
