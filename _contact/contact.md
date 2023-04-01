@@ -9,7 +9,7 @@ author_profile: true
 <div>
 <table style="white-space:nowrap; width:100%; border: none;">
   <tr>
-    <th style="white-space:nowrap; border: none;">Email</th>
+    <th style="white-space:nowrap; border: none;">Email address</th>
     <td style="white-space:nowrap; border: none;">lei.wang@data61.csiro.au</td>
   </tr>
   <tr>
