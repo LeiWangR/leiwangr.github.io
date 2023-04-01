@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 
+<div>
 <table style="white-space:nowrap; width:100%; border: none;">
   <tr>
     <th style="max-width:100%; white-space:nowrap; border: none;">Email</th>
@@ -17,9 +18,10 @@ author_profile: true
   </tr>
   <tr>
     <th style="max-width:100%; white-space:nowrap; border: none;">Office hours</th>
-    <td style="max-width:100%; white-space:nowrap; border: none;">10:00am-6:00pm (AEDT) <br> from Monday to Friday</td>
+    <td style="max-width:100%; white-space:nowrap; border: none;">10:00am-6:00pm (AEDT) <br> From Monday to Friday</td>
   </tr>
 </table>
+</div>
 
 <h2>My Timetable</h2>
 
