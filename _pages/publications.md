@@ -84,7 +84,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 			<td class="gsc_a_c">[<strong><font color="red">A*</font></strong>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2019</span></td>
 		</tr>
-		<tr class="gsc_a_tr">
+		<tr class="gsc_a_tr" style="background-color:#FFFFE0">
 			<td class="gsc_a_t"><a href="https://ieeexplore.ieee.org/document/8803051"><strong><span class="gsc_a_at">Loss Switching Fusion with Similarity Search for Video Classification</span></strong></a>
 				<div class="gs_gray"><strong>L Wang</strong>, DQ Huynh, MR Mansour</div>
 				<div class="gs_gray">26th IEEE International Conference on Image Processing (ICIP), 974-978</div>
@@ -98,7 +98,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 <h3>Patents</h3>
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
-		<tr class="gsc_a_tr">
+		<tr class="gsc_a_tr" style="background-color:#FFFFE0">
 			<td class="gsc_a_t"><a href=""><strong><span class="gsc_a_at">System and Method of Detecting Anomalies from Mass Data</span></strong></a>
 				<div class="gs_gray"><strong>L Wang</strong></div>
 				<div class="gs_gray">US patent (provisional, SN 63/326,525)</div>
@@ -106,7 +106,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 <!-- 			<td class="gsc_a_c">&nbsp;</td> -->
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2022</span></td>
 		</tr>
-		<tr class="gsc_a_tr">
+		<tr class="gsc_a_tr" style="background-color:#FFFFE0">
 			<td class="gsc_a_t"><a href="http://pericles.ipaustralia.gov.au/ols/auspat/applicationDetails.do?applicationNo=2019903775"><strong><span class="gsc_a_at">Method and System for Classifying Video Data</span></strong></a>
 				<div class="gs_gray"><strong>L Wang</strong>, G Woods</div>
 				<div class="gs_gray">AU Patent AU 2,019,903,775</div>
@@ -114,7 +114,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 <!-- 			<td class="gsc_a_c">&nbsp;</td> -->
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2019</span></td>
 		</tr>
-		<tr class="gsc_a_tr">
+		<tr class="gsc_a_tr" style="background-color:#FFFFE0">
 			<td class="gsc_a_t"><a href="http://pericles.ipaustralia.gov.au/ols/auspat/applicationDetails.do?applicationNo=2019900316"><strong><span class="gsc_a_at">System and Method of Video Data Retrieval</span></strong></a>
 				<div class="gs_gray"><strong>L Wang</strong>, M Reda Mansour, G Woods</div>
 				<div class="gs_gray">AU Patent AU 2,019,900,316</div>
