@@ -38,8 +38,8 @@ He is an IEEE Student Member and an ACM Student Member.
 
 * **Doctor of Philosophy** - PhD, Computer Science, The Australian National University, *22 July 2019 - present*
 * **Master of Professional Engineering** - MPE, Software Engineering, The University of Western Australia, *Feb 2016 - March 2018*
-<!-- 
-<p>&nbsp;</p> -->
+
+<!-- <p>&nbsp;</p> -->
 
 <h2>Related Links</h2>
 
