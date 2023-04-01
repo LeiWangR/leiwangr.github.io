@@ -4,12 +4,14 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-<table style="width:100%">
-  <tr>
+
+
+<table style="width:100%; border-collapse: collapse; border: none;">
+  <tr style="border: none;">
     <th>Email</th>
     <th>Address/Office</th>
   </tr>
-  <tr>
+  <tr style="border: none;">
     <td>lei.wang@data61.csiro.au</td>
     <td>Room N218, CSIT Building <br> ANU, Canberra ACT 2601</td>
   </tr>
