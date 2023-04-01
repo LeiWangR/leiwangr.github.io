@@ -5,6 +5,7 @@ permalink: /contact/
 author_profile: true
 ---
 
+My contact information is below.
 
 <div>
 <table style="white-space:nowrap; width:100%; border: none;">
