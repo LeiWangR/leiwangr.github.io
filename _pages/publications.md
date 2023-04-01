@@ -17,7 +17,7 @@ author_profile: true
 
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=VWCZLXgAAAAJ&hl=en) profile.
 
-Light cyan highlights research works during PhD candidature and light yellow highlights industrial research work.
+Light cyan highlights research works during PhD candidature and light yellow highlights industrial research works.
 
 <h3>Conference/journal papers</h3>
 <table id="gsc_a_t">
