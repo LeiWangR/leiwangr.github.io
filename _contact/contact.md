@@ -12,12 +12,12 @@ author_profile: true
     <td style="max-width:100%; white-space:nowrap; border: none;">lei.wang@data61.csiro.au</td>
   </tr>
   <tr>
-    <th style="max-width:100%; white-space:nowrap; border: none;">Address <br> /Office</th>
+    <th style="max-width:100%; white-space:nowrap; border: none;">Address/Office</th>
     <td style="max-width:100%; white-space:nowrap; border: none;">Room N218, CSIT Building <br> ANU Campus <br> Acton ACT 2601</td>
   </tr>
   <tr>
-    <th style="max-width:100%; white-space:nowrap; border: none;">Office <br> hours</th>
-    <td style="max-width:100%; white-space:nowrap; border: none;">10:00am-6:00pm (AEDT) <br> Monday-Friday</td>
+    <th style="max-width:100%; white-space:nowrap; border: none;">Office hours</th>
+    <td style="max-width:100%; white-space:nowrap; border: none;">10:00am-6:00pm (AEDT) <br> from Monday to Friday</td>
   </tr>
 </table>
 
