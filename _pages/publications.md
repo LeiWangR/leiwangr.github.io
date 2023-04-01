@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=VWCZLXgAAAAJ&hl=en) profile.
+You can find my published articles on my [Google Scholar](https://scholar.google.com/citations?user=VWCZLXgAAAAJ&hl=en) profile.
 
 <h3>Conference/journal papers</h3>
 <table id="gsc_a_t">
@@ -162,3 +162,5 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 </table>
 <p>&nbsp;</p>
 <font size="3" color="blue">*Light cyan highlights the research works during my PhD candidature, light yellow highlights my industrial research works. My master's thesis is in misty rose color and other collaborative research works are in platinum color.</font>
+
+<font size="3" color="blue">*Last updated: 02/04/2023</font>
