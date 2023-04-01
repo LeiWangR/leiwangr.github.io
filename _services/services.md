@@ -10,7 +10,7 @@ author_profile: true
 
 I regularly review technical papers for the following journals, conferences & workshops. 
 
-<font color="blue">I write high quality reviews for papers in action recognition and anomaly detection.</font>
+<font color="blue">I write high quality reviews for papers in my research interests, e.g., action recognition, anomaly detection, etc.</font>
 
 * Journals:
   * IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI),
