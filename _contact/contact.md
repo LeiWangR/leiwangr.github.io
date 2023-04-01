@@ -28,7 +28,9 @@ My contact information is below.
 
 <!-- My working hours in the office are: 10:00am to 6:00pm (AEDT) from Monday to Friday.  -->
 
-My timetable attached below is automatically synced in real time.
+<!-- My timetable attached below is automatically synced in real time. -->
+
+My attached schedule is automatically live synchronized.
 
 Feel free to reach me if you are interested in my research work.
 
