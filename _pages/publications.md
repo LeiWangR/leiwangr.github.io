@@ -44,7 +44,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 			<td class="gsc_a_c">[<font color="red"><strong>A*</strong>, oral, 2.7% acceptance rate</font>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2022</span></td>
 		</tr>
-		<tr class="gsc_a_tr">
+		<tr class="gsc_a_tr" style="background-color:#DCDCDC">
 			<td class="gsc_a_t"><a href="https://ieeexplore.ieee.org/document/9895208"><strong><span class="gsc_a_at">Fusing Higher-Order Features in Graph Neural Networks for Skeleton-Based Action Recognition</span></strong></a>
 				<div class="gs_gray">Z Qin, Y Liu, P Ji, D Kim, <strong>L Wang</strong>, B McKay, S Anwar, T Gedeon</div>
 				<div class="gs_gray">IEEE Transactions on Neural Networks and Learning Systems (TNNLS), (Early Access)</div>
@@ -161,4 +161,4 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 	</tbody>
 </table>
 <p>&nbsp;</p>
-<font size="3" color="blue">Light cyan highlights the research works during my PhD candidature, light yellow highlights my industrial research works. My master's thesis is in misty rose color and other collaborative research works are in white color.</font>
+<font size="3" color="blue">Light cyan highlights the research works during my PhD candidature, light yellow highlights my industrial research works. My master's thesis is in misty rose color and other collaborative research works are in gainsboro color.</font>
