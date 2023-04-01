@@ -5,12 +5,12 @@ This was forked from [Stuart Geiger](https://github.com/staeiou) (originally Stu
 
 For Lei only:
 
-- forked, updated & created 13/03/2023
+- forked, updated & created: 13/03/2023
 
-- released 14/03/2023
+- released: 14/03/2023
 
-- new released 02/04/2023
+- new released: 02/04/2023
 
-- last updated 02/04/2023
+- last updated: 02/04/2023
 
 
