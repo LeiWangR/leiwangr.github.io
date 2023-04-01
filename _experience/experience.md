@@ -8,7 +8,7 @@ author_profile: true
 <!-- Research experience
 ====== -->
 
-<h3>Academic research</h3>
+<h2>Academic research</h2>
 
 * *20/02/2023-<font color="blue">present</font>*: **Research Fellow** (full-time)
   * School of Computing, ANU College of Engineering, Computing and Cybernetics
@@ -32,7 +32,7 @@ author_profile: true
   * Supervisor: Dr. Piotr Koniusz (Data61/CSIRO & ANU)
 
 
-<h3>Industry research</h3>
+<h2>Industry research</h2>
 
 * *05/07/2021-<font color="blue">present</font>*: **Computer Scientist** (contract)
   * Active Intelligence Australia Pty Ltd, Perth, Western Australia (WA)
