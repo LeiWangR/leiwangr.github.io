@@ -13,7 +13,11 @@ author_profile: true
   </tr>
   <tr>
     <th>Address <br> /Office</th>
-    <td>Room N218, CSIT Building <br> ANU, Canberra ACT 2601</td>
+    <td>Room N218, CSIT Building <br> ANU Campus <br> Acton ACT 2601</td>
+  </tr>
+  <tr>
+    <th>Office <br> hours</th>
+    <td>lei.wang@data61.csiro.au</td>
   </tr>
 </table>
 
