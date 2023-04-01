@@ -31,7 +31,7 @@ author_profile: true
   * <font color="red">Filed a provisional patent</font>
 
 * *22/07/2019-present*: **Postgraduate Research Student** (PhD student, full-time)
-  * [1] School of Computing, ANU College of Engineering, Computing and Cybernetics and [2] Machine Learning Research Group (MLRG), Data61/CSIRO (Acton & Black Mountain ACT)
+  * [1] School of Computing, ANU College of Engineering, Computing and Cybernetics & [2] Machine Learning Research Group (MLRG), Data61/CSIRO (Acton & Black Mountain ACT)
   * Supervisory panel: 
     * Chair of panel: [Prof. Stephen Gould](http://users.cecs.anu.edu.au/~sgould/) (ANU)
     * Primary supervisor: [Dr. Piotr Koniusz](http://users.cecs.anu.edu.au/~koniusz/) (Data61/CSIRO & ANU)
