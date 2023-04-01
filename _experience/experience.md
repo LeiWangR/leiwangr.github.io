@@ -7,9 +7,32 @@ author_profile: true
 <!-- <font color="red"><strong>A*</strong>, accepted, to appear</font> -->
 <!-- Research experience
 ====== -->
+
+<h3>Academic research</h3>
+
 * *20/02/2023-<font color="blue">present</font>*: **Research Fellow** (full-time)
   * School of Computing, ANU College of Engineering, Computing and Cybernetics
   * Postdoc advisor: [Dr. Liang Zheng](https://zheng-lab.cecs.anu.edu.au/) (ANU) and [Prof. Tom Gedeon](https://staffportal.curtin.edu.au/staff/profile/view/tom-gedeon-5e48a1fd/) (Curtin University)
+
+* *22/07/2019-present*: **Postgraduate Research Student** (PhD student, full-time)
+  * [1] School of Computing, ANU College of Engineering, Computing and Cybernetics & [2] Machine Learning Research Group (MLRG), Data61/CSIRO (Acton & Black Mountain ACT)
+  * Supervisory panel: 
+    * Chair of panel: [Prof. Stephen Gould](http://users.cecs.anu.edu.au/~sgould/) (ANU)
+    * Primary supervisor: [Dr. Piotr Koniusz](http://users.cecs.anu.edu.au/~koniusz/) (Data61/CSIRO & ANU)
+    * Associate supervisor: Dr. Liang Zheng (ANU)
+  * <font color="red">One paper each published at CVPR, ICCV, ECCV, ACM-MM, TPAMI & TIP</font>
+  * <font color="red">Received <strong>the Sang Uk Lee Best Student Paper Award</strong> from ACCV’22</font>
+
+* *10/10/2018-09/10/2019*: **Visiting Researcher**
+  * Department of Computer Science and Software Engineering (CSSE), The University of Western Australia (UWA)
+  * Supervisor: [A/Prof. Du Huynh](https://research-repository.uwa.edu.au/en/persons/du-huynh) (UWA)
+
+* *21/09/2018-19/07/2019*: **Visiting Researcher**
+  * MLRG, Data61/CSIRO (Floreat WA)
+  * Supervisor: Dr. Piotr Koniusz (Data61/CSIRO & ANU)
+
+
+<h3>Industry research</h3>
 
 * *05/07/2021-<font color="blue">present</font>*: **Computer Scientist** (contract)
   * Active Intelligence Australia Pty Ltd, Perth, Western Australia (WA)
@@ -32,19 +55,3 @@ author_profile: true
   * Manager: Mr. Graeme Woods (iCetana’s former Head of Product)
   * <font color="red">Filed a provisional patent [AU Patent AU 2,019,900,316]</font>
 
-* *22/07/2019-present*: **Postgraduate Research Student** (PhD student, full-time)
-  * [1] School of Computing, ANU College of Engineering, Computing and Cybernetics & [2] Machine Learning Research Group (MLRG), Data61/CSIRO (Acton & Black Mountain ACT)
-  * Supervisory panel: 
-    * Chair of panel: [Prof. Stephen Gould](http://users.cecs.anu.edu.au/~sgould/) (ANU)
-    * Primary supervisor: [Dr. Piotr Koniusz](http://users.cecs.anu.edu.au/~koniusz/) (Data61/CSIRO & ANU)
-    * Associate supervisor: Dr. Liang Zheng (ANU)
-  * <font color="red">One paper each published at CVPR, ICCV, ECCV, ACM-MM, TPAMI & TIP</font>
-  * <font color="red">Received <strong>the Sang Uk Lee Best Student Paper Award</strong> from ACCV’22</font>
-
-* *10/10/2018-09/10/2019*: **Visiting Researcher**
-  * Department of Computer Science and Software Engineering (CSSE), The University of Western Australia (UWA)
-  * Supervisor: [A/Prof. Du Huynh](https://research-repository.uwa.edu.au/en/persons/du-huynh) (UWA)
-
-* *21/09/2018-19/07/2019*: **Visiting Researcher**
-  * MLRG, Data61/CSIRO (Floreat WA)
-  * Supervisor: Dr. Piotr Koniusz (Data61/CSIRO & ANU)
