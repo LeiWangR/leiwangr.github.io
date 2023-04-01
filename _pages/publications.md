@@ -161,5 +161,4 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 	</tbody>
 </table>
 <p>&nbsp;</p>
-<font size="2">Light cyan highlights research works during PhD candidature and light yellow highlights industrial research works. 
-My master's thesis is in misty rose color and other collaborative research works are in white color.</font>
+<font size="2">Light cyan highlights the research works during my PhD candidature, light yellow highlights my industrial research works, my master's thesis is in misty rose color and other collaborative research works are in white color.</font>
