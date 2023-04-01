@@ -6,13 +6,13 @@ author_profile: true
 ---
 
 
-<table style="width:100%; border-collapse: collapse; border: none;">
-  <tr style="border: none;">
+<table style="width:100%">
+  <tr>
     <th>Email</th>
-    <th>Address/Office</th>
-  </tr>
-  <tr style="border: none;">
     <td>lei.wang@data61.csiro.au</td>
+  </tr>
+  <tr>
+    <th>Address <br> /Office</th>
     <td>Room N218, CSIT Building <br> ANU, Canberra ACT 2601</td>
   </tr>
 </table>
