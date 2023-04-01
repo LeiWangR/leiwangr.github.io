@@ -13,7 +13,8 @@ author_profile: true
 
 * *05/07/2021-<font color="blue">present</font>*: **Computer Scientist** (contract)
   * Active Intelligence Australia Pty Ltd, Perth, Western Australia (WA)
-  * <font color="red">Filed a provisional patent, raised 1.2 million US dollars (~1.79 million Australian dollars)</font>
+  * <font color="red">Filed a patent [US provisional patent, SN 63/326,525]</font>
+  * <font color="red">Raised 1.2 million US dollars (~1.79 million Australian dollars)</font>
   * <font color="red">Granted <strong> the Incentive Unit Award </strong>(09/09/2022-08/09/2032)</font>
 
 * *28/09/2020-28/01/2021*: **Machine Learning Researcher** (contract)
@@ -23,13 +24,13 @@ author_profile: true
 * *22/07/2019-28/09/2020*: **Machine Learning / Computer Vision Researcher** (Casual Appointment, 20%)
   * iCetana Pty Ltd, Perth, WA
   * Manager: [Mr. Graeme Woods](https://www.linkedin.com/in/graeme-woods-877608213/) (iCetana’s former Head of Product)
-  * <font color="red">Filed a provisional patent</font>
+  * <font color="red">Filed a provisional patent [AU Patent AU 2,019,903,775]</font>
 
 * *02/07/2018-19/07/2019*: **Computer Vision Research Intern** (full-time)
   * iCetana Pty Ltd, Perth, WA
   * Supervisor: [Dr. Moussa Reda Mansour](https://scholar.google.com/citations?user=3WWA0FMAAAAJ&hl=en) (iCetana’s former Research & Development Lead) 
   * Manager: Mr. Graeme Woods (iCetana’s former Head of Product)
-  * <font color="red">Filed a provisional patent</font>
+  * <font color="red">Filed a provisional patent [AU Patent AU 2,019,900,316]</font>
 
 * *22/07/2019-present*: **Postgraduate Research Student** (PhD student, full-time)
   * [1] School of Computing, ANU College of Engineering, Computing and Cybernetics & [2] Machine Learning Research Group (MLRG), Data61/CSIRO (Acton & Black Mountain ACT)
