@@ -23,11 +23,9 @@ His research interests include action recognition in videos, anomaly detection, 
 
 He is an IEEE Student Member and an ACM Student Member.
 
-<p>&nbsp;</p>
+<!-- <p>&nbsp;</p> -->
 
 <!-- Research interests
-======
-
 * Action recognition
 * Anomaly detection
 * Video image processing
@@ -36,15 +34,15 @@ He is an IEEE Student Member and an ACM Student Member.
 * Tensor learning
 * Domain adaptation -->
 
-Education
-======
+<h2>Education</h2>
+
 * **Doctor of Philosophy** - PhD, Computer Science, The Australian National University, *22 July 2019 - present*
 * **Master of Professional Engineering** - MPE, Software Engineering, The University of Western Australia, *Feb 2016 - March 2018*
+<!-- 
+<p>&nbsp;</p> -->
 
-<p>&nbsp;</p>
+<h2>Related Links</h2>
 
-Related Links
-======
 <ul>
 <!-- 	<li><a href="https://scholar.google.com/citations?user=VWCZLXgAAAAJ&amp;hl=en">Google Scholar</a></li> -->
   <li><a href="https://cecc.anu.edu.au/people/lei-wang">Lei's ANU student profile</a></li> 
