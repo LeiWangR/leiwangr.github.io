@@ -160,5 +160,5 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 		</tr>
 	</tbody>
 </table>
-<!-- <p>&nbsp;</p> -->
-<font size="3" color="blue">Light cyan highlights the research works during my PhD candidature, light yellow highlights my industrial research works. My master's thesis is in misty rose color and other collaborative research works are in platinum color.</font>
+<p>&nbsp;</p>
+<font size="3" color="blue">*Light cyan highlights the research works during my PhD candidature, light yellow highlights my industrial research works. My master's thesis is in misty rose color and other collaborative research works are in platinum color.</font>
