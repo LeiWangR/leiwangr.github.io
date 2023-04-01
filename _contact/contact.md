@@ -5,7 +5,9 @@ permalink: /contact/
 author_profile: true
 ---
 
-My working hours in the office are: 10:00am to 6:00pm (AEDT) from Monday to Friday. My timetable attached below is automatically synced in real time.
+My working hours in the office are: 10:00am to 6:00pm (AEDT) from Monday to Friday. 
+
+My timetable attached below is automatically synced in real time.
 
 Feel free to reach me on ANU campus for discussions if you are interested in my research work.
 
