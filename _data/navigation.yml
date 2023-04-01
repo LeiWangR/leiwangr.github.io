@@ -6,17 +6,18 @@ main:
   - title: "Experience"
     url: /experience/
     
-  - title: "Services"
-    url: /services/
-    
   - title: "Projects"
     url: /projects/
+    
+  - title: "Services"
+    url: /services/
+
 
 #   - title: "Talks"
 #     url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/
+#   - title: "Teaching"
+#     url: /teaching/
     
 #   - title: "Calendar"
 #     url: /calendar/
