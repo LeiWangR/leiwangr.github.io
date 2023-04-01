@@ -19,7 +19,7 @@ author_profile: true
 
 * *28/09/2020-28/01/2021*: **Machine Learning Researcher** (contract)
   * Ebenezer Technologies, Barranquilla, Colombia
-  * <font color="red">Delivered a skeletal anomaly detection system (Alice Guardian smart video surveillance)</font>
+  * <font color="red">Delivered an anomaly detection system (Alice Guardian smart video surveillance)</font>
 
 * *22/07/2019-28/09/2020*: **Machine Learning / Computer Vision Researcher** (Casual Appointment, 20%)
   * iCetana Pty Ltd, Perth, WA
