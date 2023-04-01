@@ -20,7 +20,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 <h3>Conference/journal papers</h3>
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
-		<tr class="gsc_a_tr" style="background-color:#81D8D0">
+		<tr class="gsc_a_tr" style="background-color:#B2FFFF">
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2303.14474.pdf"><strong><span class="gsc_a_at">3Mformer: Multi-order Multi-mode Transformer for Skeletal Action Recognition</span></strong></a>
 				<div class="gs_gray"><strong>L Wang</strong>, P Koniusz</div>
 				<div class="gs_gray">Computer Vision and Pattern Recognition (CVPR)</div>
@@ -28,7 +28,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 			<td class="gsc_a_c">[<font color="red"><strong>A*</strong>, accepted, to appear</font>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2023</span></td>
 		</tr>
-		<tr class="gsc_a_tr">
+		<tr class="gsc_a_tr" style="background-color:#B2FFFF">
 			<td class="gsc_a_t"><a href="https://openaccess.thecvf.com/content/ACCV2022/papers/Wang_Temporal-Viewpoint_Transportation_Plan_for_Skeletal_Few-shot_Action_Recognition_ACCV_2022_paper.pdf"><strong><span class="gsc_a_at">Temporal-Viewpoint Transportation Plan for Skeletal Few-shot Action Recognition</span></strong></a>
 				<div class="gs_gray"><strong>L Wang</strong>, P Koniusz</div>
 				<div class="gs_gray">Asian Conference on Computer Vision (ACCV), 307-326</div>
@@ -36,7 +36,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 			<td class="gsc_a_c">[<font color="red"><strong>B</strong>, oral, 4.9% acceptance rate, <br><strong>Best Student Paper Award</strong></font>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2022</span></td>
 		</tr>
-		<tr class="gsc_a_tr">
+		<tr class="gsc_a_tr" style="background-color:#B2FFFF">
 			<td class="gsc_a_t"><a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136810174.pdf"><strong><span class="gsc_a_at">Uncertainty-DTW for Time Series and Sequences</span></strong></a>
 				<div class="gs_gray"><strong>L Wang</strong>, P Koniusz</div>
 				<div class="gs_gray">European Conference on Computer Vision (ECCV), 176-195</div>
@@ -52,7 +52,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 			<td class="gsc_a_c">[<strong><font color="red">IF: 14.255</font></strong>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2021</span></td>
 		</tr>
-		<tr class="gsc_a_tr">
+		<tr class="gsc_a_tr" style="background-color:#B2FFFF">
 			<td class="gsc_a_t"><a href="https://dl.acm.org/doi/10.1145/3474085.3475572"><strong><span class="gsc_a_at">Self-supervising Action Recognition by Statistical Moment and Subspace Descriptors</span></strong></a>
 				<div class="gs_gray"><strong>L Wang</strong>, P Koniusz</div>
 				<div class="gs_gray">ACM International Conference on Multimedia (ACM-MM), 4324-4333</div>
@@ -60,7 +60,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 			<td class="gsc_a_c">[<strong><font color="red">A*</font></strong>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2021</span></td>
 		</tr>
-		<tr class="gsc_a_tr">
+		<tr class="gsc_a_tr" style="background-color:#B2FFFF">
 			<td class="gsc_a_t"><strong data-bind="text: title"><a href="https://ieeexplore.ieee.org/document/9521829">Tensor Representations for Action Recognition</a></strong>
 				<div class="gs_gray">P Koniusz,<strong> L Wang</strong>, A Cherian</div>
 				<div class="gs_gray">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 44 (2), 648-665</div>
@@ -68,7 +68,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 			<td class="gsc_a_c">[<strong><font color="red">IF: 24.314</font></strong>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2020</span></td>
 		</tr>
-		<tr class="gsc_a_tr">
+		<tr class="gsc_a_tr" style="background-color:#B2FFFF">
 			<td class="gsc_a_t"><a href="https://ieeexplore.ieee.org/document/8753686"><strong><span class="gsc_a_at">A Comparative Review of Recent Kinect-based Action Recognition Algorithms</span></strong></a>
 				<div class="gs_gray"><strong>L Wang</strong>, DQ Huynh, P Koniusz</div>
 				<div class="gs_gray">IEEE Transactions on Image Processing (TIP) 29 (1), 15-28</div>
@@ -76,7 +76,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 			<td class="gsc_a_c">[<strong><font color="red">IF: 11.041</font></strong>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2020</span></td>
 		</tr>
-		<tr class="gsc_a_tr">
+		<tr class="gsc_a_tr" style="background-color:#B2FFFF">
 			<td class="gsc_a_t"><a href="https://ieeexplore.ieee.org/document/9008573"><strong data-bind="text: title">Hallucinating IDT Descriptors and I3D Optical Flow Features for Action Recognition with CNNs</strong></a>
 				<div class="gs_gray"><strong>L Wang</strong>, P Koniusz, DQ Huynh</div>
 				<div class="gs_gray">IEEE International Conference on Computer Vision (ICCV), 8698-8708</div>
