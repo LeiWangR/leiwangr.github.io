@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-<table style="width:100%">
+<table style="white-space:nowrap; width:100%">
   <tr>
     <th style="max-width:100%; white-space:nowrap;">Email</th>
     <td style="max-width:100%; white-space:nowrap;">lei.wang@data61.csiro.au</td>
