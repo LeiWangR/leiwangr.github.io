@@ -9,7 +9,7 @@ My working hours in the office are: 10:00am to 6:00pm (AEDT) from Monday to Frid
 
 My timetable attached below is automatically synced in real time.
 
-Feel free to reach me on ANU campus for discussions if you are interested in my research work.
+Feel free to contact me if you are interested in my research work.
 
 <h2>My Timetable</h2>
 
