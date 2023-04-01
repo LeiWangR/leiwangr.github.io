@@ -17,7 +17,9 @@ author_profile: true
 
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=VWCZLXgAAAAJ&hl=en) profile.
 
-Light cyan highlights research works during PhD candidature and light yellow highlights industrial research works.
+Light cyan highlights research works during PhD candidature and light yellow highlights industrial research works. 
+
+My master thesis is in light red and other collaborative research works are in white color.
 
 <h3>Conference/journal papers</h3>
 <table id="gsc_a_t">
@@ -152,7 +154,7 @@ Light cyan highlights research works during PhD candidature and light yellow hig
 <h3>Master&rsquo;s thesis</h3>
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
-		<tr class="gsc_a_tr">
+		<tr class="gsc_a_tr" style="background-color:#FF7F7F">
 			<td class="gsc_a_t"><a href="https://www.researchgate.net/profile/Lei_Wang51/publication/332369012_Analysis_and_Evaluation_of_Kinect-based_Action_Recognition_Algorithms/links/5cb001be4585156cd7916b18/Analysis-and-Evaluation-of-Kinect-based-Action-Recognition-Algorithms.pdf"><strong><span class="gsc_a_at">Analysis and Evaluation of Kinect-based Action Recognition Algorithms</span></strong></a><br />
 				<div class="gs_gray"><strong>L Wang</strong></div>
 				<div class="gs_gray">Master&rsquo;s thesis, School of the Computer Science and Software Engineering, The University of Western Australia</div>
