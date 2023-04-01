@@ -20,7 +20,9 @@ author_profile: true
   * Scikit-learn
   * TensorFlow
   * MatConvNet -->
-  
+
+<h2>Personal statement</h2>
+
 I am a hardworking, passionate and self-disciplined researcher.
   
 I have worked with the <font color="blue">large-scale volumetric</font> action recognition datasets which are bigger by several orders of magnitude compared to ImageNet. 
