@@ -162,10 +162,8 @@ You can find my published articles on my [Google Scholar](https://scholar.google
 </table>
 <p>&nbsp;</p>
 
-<font size="3" color="blue">*Light cyan highlights the research works during my PhD candidature and light yellow highlights my industrial research works. </font>
-
-
-<font size="3" color="blue">*My master's thesis is in misty rose color and other collaborative research works are in platinum color.</font>
-
-
-<font size="3" color="blue">*Last updated: 02/04/2023.</font>
+<font size="3" color="blue">
+	Light cyan highlights the research works during my PhD candidature and light yellow highlights my industrial research works.
+	My master's thesis is in misty rose color and other collaborative research works are in platinum color.
+	Last updated: 02/04/2023.	
+</font>
