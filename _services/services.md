@@ -39,3 +39,4 @@ I regularly review technical papers for the following journals, conferences & wo
     * Supervise laboratory classes
     * Help with assignment marking
 
+<font color="blue">I am currently a research-intensive staff working on academic and industrial research projects, and I am not engaged in any teaching at this time.</font>
