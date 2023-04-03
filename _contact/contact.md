@@ -19,26 +19,23 @@ My contact information is below.
   </tr>
   <tr>
     <th style="width:1px; white-space:nowrap; border: none;">Office hours</th>
-    <td style="white-space:nowrap; border: none;">10:00am-6:00pm (AEDT) <br> From Monday to Friday <br> <font color="blue">(subject to change)</font> </td>
+    <td style="white-space:nowrap; border: none;"> 9:00am-5:00pm (AEST) or <br> 10:00am-6:00pm (AEDT) <br> From Monday to Friday <br> <font color="blue">(subject to change)</font> </td>
   </tr>
 </table>
 </div>
 
-<h2>My Timetable</h2>
+<!-- <h2>My Timetable</h2> -->
 
-<!-- My working hours in the office are: 10:00am to 6:00pm (AEDT) from Monday to Friday.  -->
+<font color="blue"></font>
 
-<!-- My timetable attached below is automatically synced in real time. -->
+<!-- My attached schedule is automatically live synchronized. -->
 
-My attached schedule is automatically live synchronized.
+<!-- Feel free to reach me if you are interested in my research work. -->
 
-Feel free to reach me if you are interested in my research work.
+<!-- <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Australia%2FSydney&showTitle=0&showNav=0&mode=WEEK&showPrint=0&showTabs=0&showCalendars=0&showTz=1&src=bGVpLndAYW51LmVkdS5hdQ&src=ZW4uYXVzdHJhbGlhbiNob2xpZGF5QGdyb3VwLnYuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23039BE5&color=%230B8043" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe> -->
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Australia%2FSydney&showTitle=0&showNav=0&mode=WEEK&showPrint=0&showTabs=0&showCalendars=0&showTz=1&src=bGVpLndAYW51LmVkdS5hdQ&src=ZW4uYXVzdHJhbGlhbiNob2xpZGF5QGdyb3VwLnYuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23039BE5&color=%230B8043" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-<!-- <p>&nbsp;</p> -->
-
-<h2>Email Me</h2>
+<!-- <h2>Email Me</h2> -->
 
 
 If I can be of assistance, please contact me [via email](mailto:lei.wang@data61.csiro.au).
