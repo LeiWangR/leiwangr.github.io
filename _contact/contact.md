@@ -28,7 +28,7 @@ My contact information is below.
 
 <font color="red">I am currently out of the office on a business, and I will be returning in early May.</font>
 
-<font color="red">My working hours and ongoing research projects remain unchanged unless specified otherwise.</font>
+<font color="red">My working hours and ongoing research projects remain unchanged at the moment unless specified otherwise.</font>
 
 <!-- My attached schedule is automatically live synchronized. -->
 
