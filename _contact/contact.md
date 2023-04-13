@@ -26,7 +26,7 @@ My contact information is below.
 
 <!-- <h2>My Timetable</h2> -->
 
-<font color="blue"></font>
+<font color="red">I am currently out of office with my beloved family till early May.</font>
 
 <!-- My attached schedule is automatically live synchronized. -->
 
