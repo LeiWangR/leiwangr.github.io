@@ -26,9 +26,7 @@ My contact information is below.
 
 <!-- <h2>My Timetable</h2> -->
 
-<font color="red">I am currently out of the office on a business, and I will be returning in early May.</font>
-
-<font color="red">My working hours and ongoing research projects remain unchanged at the moment unless specified otherwise.</font>
+<font color="red">I am currently out of the office on a business, and I will be returning in early May. My working hours and ongoing research projects during this period of time remain unchanged unless specified otherwise.</font>
 
 <!-- My attached schedule is automatically live synchronized. -->
 
