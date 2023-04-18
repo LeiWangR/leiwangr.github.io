@@ -28,6 +28,8 @@ My contact information is below.
 
 <font color="red">I am currently out of the office on a business, and I will be returning in early May. </font> 
 
+
+
 <font color="red">My working hours (10:00am-6:00pm CST) and ongoing research projects (both academia and industry) during this period of time remain unchanged unless specified otherwise.</font>
 
 <!-- My attached schedule is automatically live synchronized. -->
