@@ -26,11 +26,11 @@ My contact information is below.
 
 <!-- <h2>My Timetable</h2> -->
 
-<font color="red">I am currently out of the office on a business, and I will be returning in early May. </font> 
+<!-- <font color="red">I am currently out of the office on a business, and I will be returning in early May. </font> -->
 
 
 
-<font color="red">My working hours (10:00am-6:00pm CST) and ongoing research projects (both academia and industry) during this period of time remain unchanged.</font>
+<!-- <font color="red">My working hours (10:00am-6:00pm CST) and ongoing research projects (both academia and industry) during this period of time remain unchanged.</font> -->
 
 <!-- My attached schedule is automatically live synchronized. -->
 
