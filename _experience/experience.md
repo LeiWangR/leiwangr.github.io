@@ -43,7 +43,7 @@ I am also trying to bridge the gap between academic research and industry resear
 * *20/02/2023-<font color="blue">present</font>*: **Research Fellow** (full-time)
   * School of Computing, ANU College of Engineering, Computing and Cybernetics
   * Postdoc advisor: [Dr. Liang Zheng](https://zheng-lab.cecs.anu.edu.au/) (ANU) and [Prof. Tom Gedeon](https://staffportal.curtin.edu.au/staff/profile/view/tom-gedeon-5e48a1fd/) (Curtin University)
-  * <font color="red">Grant: Sharing early insights for more resilient communities (Co-Investigator)</font>
+  * <font color="red">I am a Co-Investigator on <strong>Grant 'Sharing early insights for more resilient communities'</strong></font>
 
 * *22/07/2019-present*: **Postgraduate Research Student** (PhD student, full-time)
   * [1] School of Computing, ANU College of Engineering, Computing and Cybernetics & [2] Machine Learning Research Group (MLRG), Data61/CSIRO (Acton & Black Mountain ACT)
