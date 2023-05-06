@@ -60,3 +60,4 @@ I am working on the following projects:
 * Industrial research project
   * One- & few-shot anomaly detection
   * Anomaly detection in skeleton sequences
+  * Research student: **Supasun Khumpraphan**
