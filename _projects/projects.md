@@ -44,7 +44,7 @@ author_profile: true
 * Industrial research project
   * One- & few-shot anomaly detection
   * Anomaly detection in skeleton sequences
-  * Research student: **Supasun Khumpraphan**
+  * Research student: [Supasun Khumpraphan](https://micsupasun.github.io/)
 
 <h2>Grant</h2>
 
