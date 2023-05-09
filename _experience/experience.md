@@ -8,11 +8,11 @@ author_profile: true
 <!-- Research experience
 ====== -->
 
-In academia, I focus on hypothesizing, researching, publishing papers, and teaching to advance the field of knowledge.
+<!-- In academia, I focus on hypothesizing, researching, publishing papers, and teaching to advance the field of knowledge.
 
 In industry, I focus on developing new products and technologies, applying science to solve problems in the marketplace, and working with team members to create innovative solutions that will benefit the company financially.
 
-I am also trying to bridge the gap between academic research and industry research needs.
+I am also trying to bridge the gap between academic research and industry research needs. -->
 
 
 <h2>Industry research</h2>
