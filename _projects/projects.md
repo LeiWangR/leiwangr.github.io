@@ -69,6 +69,6 @@ My knowledge gained from past research experience span several <font color="blue
 
 I have delivered a number of strong scientific ideas as witnessed by my (i) academic outputs (papers in high quality venues) and (ii) practical knowledge of action recognition / anomaly detection systems (patents).
 <!-- <p>&nbsp;</p> -->
-<h2>Research interests</h2>
+<!-- <h2>Research interests</h2>
 
-My interests include action recognition in videos, anomaly detection, video image processing, one- and few-shot learning, deep learning, tensor learning and domain adaptation.
+My interests include action recognition in videos, anomaly detection, video image processing, one- and few-shot learning, deep learning, tensor learning and domain adaptation. -->
