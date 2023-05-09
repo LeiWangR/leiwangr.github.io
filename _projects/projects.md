@@ -35,15 +35,12 @@ author_profile: true
 
 <!-- I am working on the following projects: -->
 
-* ARC grant: Automatic Training Data Search and Model Evaluation by Measuring Domain Gap
+* Automatic Training Data Search and Model Evaluation by Measuring Domain Gap
 
-* Human action recognition (robust human action modelling)
-  * Action recognition in videos 
-  * Action recognition in skeleton sequences
+* Human action recognition in videos
 
 * Industrial research project
-  * One- & few-shot anomaly detection
-  * Anomaly detection in videos / skeleton sequences
+  * Human-related anomaly detection in surveillance videos
   * Research student: [Supasun Khumpraphan](https://micsupasun.github.io/)
 
 <h2>Research grant / funding</h2>
