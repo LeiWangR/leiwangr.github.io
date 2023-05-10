@@ -84,7 +84,7 @@ author:
   avatar           : "lw.jpg" # "leiwang.jpg" # "lei-wang.jpg"
   bio              : "Research Fellow at ANU, Computer Scientist with Active Intelligence Australia Pty Ltd"
   location         : # "Room N218, CSIT Building" # "Canberra ACT 2601"
-  employer         : "ANU & Data61/CSIRO"# "ANU, Canberra ACT 2601"  
+  employer         : "ANU" # "ANU & Data61/CSIRO"# "ANU, Canberra ACT 2601"  
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=VWCZLXgAAAAJ&hl=en"
   email            : "lei.wang@data61.csiro.au"
