@@ -41,8 +41,7 @@ author_profile: true
 
 * Industrial research project
   * Human-related anomaly detection in surveillance videos
-  * Research student: Supasun Khumpraphan
-<!--   * Research student: [Supasun Khumpraphan](https://micsupasun.github.io/) -->
+  * Research student: [Supasun Khumpraphan](https://micsupasun.github.io/)
 
 <h2>Research grant / funding</h2>
 
