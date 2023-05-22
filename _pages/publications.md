@@ -21,11 +21,11 @@ You can find my published articles on my [Google Scholar](https://scholar.google
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr" style="background-color:#E0FFFF">
-			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2303.14474.pdf"><strong><span class="gsc_a_at">3Mformer: Multi-order Multi-mode Transformer for Skeletal Action Recognition</span></strong></a>
+			<td class="gsc_a_t"><a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_3Mformer_Multi-Order_Multi-Mode_Transformer_for_Skeletal_Action_Recognition_CVPR_2023_paper.pdf"><strong><span class="gsc_a_at">3Mformer: Multi-order Multi-mode Transformer for Skeletal Action Recognition</span></strong></a>
 				<div class="gs_gray"><strong>L Wang</strong>, P Koniusz</div>
-				<div class="gs_gray">Computer Vision and Pattern Recognition (CVPR)</div>
+				<div class="gs_gray">Computer Vision and Pattern Recognition (CVPR), 5620-5621</div>
 			</td>
-			<td class="gsc_a_c">[<font color="red"><strong>A*</strong>, accepted, to appear</font>]</td>
+			<td class="gsc_a_c">[<font color="red"><strong>A*</strong></font>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2023</span></td>
 		</tr>
 		<tr class="gsc_a_tr" style="background-color:#E0FFFF">
