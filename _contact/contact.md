@@ -44,7 +44,7 @@ My contact information is below.
 
 If I can be of assistance, please contact me [via email](mailto:lei.wang@data61.csiro.au).
 
-Please note that I only reply to emails from known senders (with full name, institution/university name, and the purposes of emailing clearly stated).
+Please note that I only reply to emails from known senders (**or** emails with full name, institution/university name, and the purposes of emailing clearly stated).
 
 Please **do not use an anonymous email address** as it will never get replied.
 
