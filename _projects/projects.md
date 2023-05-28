@@ -47,7 +47,7 @@ author_profile: true
 
 * Sharing early insights for more resilient communities
   * I am a Co-Investigator (Co-I).
-  * Research Assistant: [Saswat Panda](https://biology.anu.edu.au/people/professional-staff/saswat-panda)(ANU)
+  * Research Assistant: [Saswat Panda](https://biology.anu.edu.au/people/professional-staff/saswat-panda) (ANU)
   * This project is a joint initiative with the Southern NSW Drought Resilience Adoption and Innovation Hub and forms part of the Australian Government’s Agricultural Innovation Hubs Program. 
   * The project is being conducted by the University of Canberra, Australian National University, Charles Sturt University, and University of Wollongong.
   * The project is to develop and test ‘early warning’ indicators for loss of resilience following challenging climate-related events. These indicators will be used to develop a resource that can be used to by the wide range of organisations and services to identify communities in the early stages of resilience loss and provide targeted support to agricultural communities.
