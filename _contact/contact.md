@@ -11,7 +11,7 @@ My contact information is below.
 <table style="white-space:nowrap; width:100%; border: none;">
   <tr>
     <th style="width:1px; white-space:nowrap; border: none;">Email address</th>
-    <td style="white-space:nowrap; border: none;">lei.wang@data61.csiro.au</td>
+    <td style="white-space:nowrap; border: none;">lei.w@anu.edu.au</td>
   </tr>
   <tr>
     <th style="width:1px; white-space:nowrap; border: none;">Address/Office</th>
@@ -42,7 +42,7 @@ My contact information is below.
 <!-- <h2>Email Me</h2> -->
 
 
-If I can be of assistance, please contact me [via email](mailto:lei.wang@data61.csiro.au).
+If I can be of assistance, please contact me [via email](mailto:lei.w@anu.edu.au).
 
 Please note that I only reply to emails from known senders (**or** emails with full name, institution/university name, and the purposes of emailing clearly stated).
 
