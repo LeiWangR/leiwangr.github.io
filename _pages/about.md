@@ -9,11 +9,11 @@ redirect_from:
 ---
 
 
-Lei Wang is a Research Fellow with the School of Computing, ANU College of Engineering, Computing and Cybernetics under the supervision of [Dr. Liang Zheng](https://zheng-lab.cecs.anu.edu.au/) (ANU) and [Prof. Tom Gedeon](https://staffportal.curtin.edu.au/staff/profile/view/tom-gedeon-5e48a1fd/) (Curtin University).
+<font color="blue">[University:]</font> Lei Wang is a Research Fellow with the School of Computing, ANU College of Engineering, Computing and Cybernetics under the supervision of [Dr. Liang Zheng](https://zheng-lab.cecs.anu.edu.au/) (ANU) and [Prof. Tom Gedeon](https://staffportal.curtin.edu.au/staff/profile/view/tom-gedeon-5e48a1fd/) (Curtin University).
 
-He is currently also a Computer Scientist with the Active Intelligence Australia Pty Ltd, Perth. He leads the research and development of commercial anomaly detection solutions, and the project has raised 1.2 million US dollars. Since then, he has been granted the Incentive Unit Award.
+<font color="blue">[Industry:]</font> He is currently also a Computer Scientist with the Active Intelligence Australia Pty Ltd, Perth. He leads the research and development of commercial anomaly detection solutions, and the project has raised 1.2 million US dollars. Since then, he has been granted the Incentive Unit Award.
 
-Mr. Lei Wang is now also a Visiting Scientist at Data61/CSIRO (Black Mountain ACT).
+<font color="blue">[Government:]</font> Mr. Lei Wang is now also a Visiting Scientist at Data61/CSIRO (Black Mountain ACT).
 
 Since 2018, he has been a full-time Computer Vision Researcher with iCetana Pty Ltd. He was a Visiting Researcher in Machine Learning Research Group at Data61/CSIRO (former NICTA). He was also a Visiting Researcher with the Department of Computer Science and Software Engineering, UWA.
 
