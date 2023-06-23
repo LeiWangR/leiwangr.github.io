@@ -9,13 +9,13 @@ redirect_from:
 ---
 
 
-<font color="blue">[University:]</font>Lei Wang is a Research Fellow with the School of Computing, ANU College of Engineering, Computing and Cybernetics under the supervision of [Dr. Liang Zheng](https://zheng-lab.cecs.anu.edu.au/) (ANU) and [Prof. Tom Gedeon](https://staffportal.curtin.edu.au/staff/profile/view/tom-gedeon-5e48a1fd/) (Curtin University).
+Lei Wang is a Research Fellow with the School of Computing, ANU College of Engineering, Computing and Cybernetics under the supervision of [Dr. Liang Zheng](https://zheng-lab.cecs.anu.edu.au/) (ANU) and [Prof. Tom Gedeon](https://staffportal.curtin.edu.au/staff/profile/view/tom-gedeon-5e48a1fd/) (Curtin University).
 
-<font color="blue">[Industry:]</font>He is currently also a Computer Scientist with the Active Intelligence Australia Pty Ltd, Perth. He leads the research and development of commercial anomaly detection solutions, and the project has raised 1.2 million US dollars. Since then, he has been granted the Incentive Unit Award.
+He is currently also a Computer Scientist with the Active Intelligence Australia Pty Ltd, Perth. He leads the research and development of commercial anomaly detection solutions, and the project has raised 1.2 million US dollars. Since then, he has been granted the Incentive Unit Award.
 
-Mr. Lei Wang is now also a Visiting Scientist at Data61, the Commonwealth Scientific and Industrial Research Organisation (CSIRO).
+Mr. Lei Wang is now also a Visiting Scientist at Data61 (former NICTA), the Commonwealth Scientific and Industrial Research Organisation (CSIRO).
 
-Since 2018, he has been a full-time Computer Vision Researcher with iCetana Pty Ltd. He was a Visiting Researcher in Machine Learning Research Group at Data61/CSIRO (former NICTA). He was also a Visiting Researcher with the Department of Computer Science and Software Engineering, UWA.
+Since 2018, he has been a full-time Computer Vision Researcher with iCetana Pty Ltd. He was a Visiting Researcher in Machine Learning Research Group at Data61/CSIRO. He was also a Visiting Researcher with the Department of Computer Science and Software Engineering, UWA.
 
 Before starting his PhD at ANU and Data61/CSIRO, he has been offered a number of competitive full PhD scholarships including ARC Industrial Transformation Training Centre Scholarship, UWA International Fee Scholarship, University Postgraduate Award, Data61 PhD Scholarship, Data61 Top-up Scholarship and ANU HDR Fee Remission Merit Scholarship.
 
