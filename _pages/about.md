@@ -38,8 +38,8 @@ He is an IEEE Student Member and an ACM Student Member.
 
 <h2>Education</h2>
 
-* **Doctor of Philosophy** - PhD, Computer Science, The Australian National University (<font color="blue">ranked 27th by the 2023 QS World University Rankings, 1st in Australia</font>), *22 July 2019 - present*
-* **Master of Professional Engineering** - MPE, Software Engineering, The University of Western Australia (<font color="blue">ranked 90th by the 2023 QS World University Rankings, 7th in Australia</font>), *Feb 2016 - March 2018*
+* **Doctor of Philosophy** - PhD, Computer Science, The Australian National University (<font color="blue">ranked 27th in the world & 1st in Australia by the 2023 QS World University Rankings</font>), *22 July 2019 - present*
+* **Master of Professional Engineering** - MPE, Software Engineering, The University of Western Australia (<font color="blue">ranked 90th in the world & 7th in Australia by the 2023 QS World University Rankings</font>), *Feb 2016 - March 2018*
 
 <!-- <p>&nbsp;</p> -->
 
