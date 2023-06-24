@@ -15,7 +15,7 @@ He is currently also a Computer Scientist with the Active Intelligence Australia
 
 Mr. Lei Wang is now also a Visiting Scientist in Machine Learning Research Group (MLRG) at Data61 (former NICTA), The Commonwealth Scientific and Industrial Research Organisation (CSIRO).
 
-Since 2018, he has been a full-time Computer Vision Researcher with iCetana Pty Ltd, Perth. He was a Visiting Researcher in MLRG at Data61/CSIRO. He was also a Visiting Researcher with the Department of Computer Science and Software Engineering, the University of Western Australia (UWA).
+Since 2018, he has been a full-time Computer Vision Researcher with iCetana Pty Ltd, Perth. He was a Visiting Researcher in MLRG at Data61/CSIRO. He was also a Visiting Researcher with the Department of Computer Science and Software Engineering, The University of Western Australia (UWA).
 
 Before starting his PhD at ANU and Data61/CSIRO, he has been offered a number of competitive full PhD scholarships including ARC Industrial Transformation Training Centre Scholarship, UWA International Fee Scholarship, University Postgraduate Award, Data61 PhD Scholarship, Data61 Top-up Scholarship and ANU HDR Fee Remission Merit Scholarship.
 
