@@ -38,8 +38,8 @@ He is an IEEE Student Member and an ACM Student Member.
 
 <h2>Education</h2>
 
-* **Doctor of Philosophy** - PhD, Computer Science, The Australian National University (<font color="blue">ranked 27th in the world & 1st in Australia by the 2023 QS World University Rankings</font>), *22 July 2019 - present*
-* **Master of Professional Engineering** - MPE, Software Engineering, The University of Western Australia (<font color="blue">ranked 90th in the world & 7th in Australia by the 2023 QS World University Rankings</font>), *Feb 2016 - March 2018*
+* **Doctor of Philosophy** - PhD, Computer Science, The Australian National University (ANU)<sup>[1](#myfootnote1)</sup>, *22 July 2019 - present*
+* **Master of Professional Engineering** - MPE, Software Engineering, The University of Western Australia (UWA) <sup>[2](#myfootnote2)</sup>, *Feb 2016 - March 2018*
 
 <!-- <p>&nbsp;</p> -->
 
@@ -51,3 +51,7 @@ He is an IEEE Student Member and an ACM Student Member.
 	<li><a href="https://researchers.anu.edu.au/researchers/wang-lxxxxxxx">Lei's ANU researcher profile</a></li>
   <li><a href="https://people.csiro.au/W/L/lei-wang">Lei's CSIRO's Data61 profile</a></li>
 </ul>
+
+<a name="myfootnote1">1</a>: <font color="blue">ANU is ranked 27th in the world & 1st in Australia by the 2023 QS World University Rankings</font>
+
+<a name="myfootnote2">2</a>: <font color="blue">UWA is ranked 90th in the world & 7th in Australia by the 2023 QS World University Rankings</font>
