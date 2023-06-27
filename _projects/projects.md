@@ -47,7 +47,7 @@ author_profile: true
 
 * Video dynamics distillation
 
-Video captures motions such as natural dynamics and human actions. Various research works have been dedicated in learning and extracting spatio-temporal features from videos for human action recognition, anomaly detection, and scene understanding tasks. 
+  Video captures motions such as natural dynamics and human actions. Various research works have been dedicated in learning and extracting spatio-temporal features from videos for human action recognition, anomaly detection, and scene understanding tasks. 
 Nowadays, video data have been pre-processed to a variety of data formats using either machine learning tools / computer vision algorithms or physical sensors (e.g., Microsoft Kinect camera with OpenNI framework), for example, optical flows that highlight the video dynamics, depth videos that segment the
 foreground objects and human subjects, and skeleton sequences that focus on human poses evolving in time, for better video understanding. 
 However, videos contain very redundant information, which hinders the effectiveness and efficiency in extracting the motions of interest, and forces the computer vision community works hard in various large-scale pre-training for downstream video processing tasks. 
@@ -57,7 +57,7 @@ Many downstream video processing tasks will benefit from our video dynamic disti
 
 * Training video data optimisation
 
-We live in a world where most of our actions are constantly captured by cameras. Video cameras are spread almost everywhere: in smartphones, computers, drones, surveillance systems, cars, robots, intercoms, etc.
+  We live in a world where most of our actions are constantly captured by cameras. Video cameras are spread almost everywhere: in smartphones, computers, drones, surveillance systems, cars, robots, intercoms, etc.
 The quality of video data highly affects the performance of video models in its massive useful applications.
 Video data optimisation aims to improve the quality of video data being feed into the model for training hence improving the model performance, e.g., recognition accuracy and generalisation abilities. 
 However, videos are more challenging due to the extra introduced temporal signals, which makes video understanding hard. 
