@@ -43,30 +43,6 @@ author_profile: true
   * Human-related anomaly detection in surveillance videos
 <!--   * Research student: [Supasun Khumpraphan](https://micsupasun.github.io/) -->
 
-<h2>2023-2024 ANU Summer Research Scholars Program</h2>
-
-* Video dynamics distillation
-
-  Video captures motions such as natural dynamics and human actions. Various research works have been dedicated in learning and extracting spatio-temporal features from videos for human action recognition, anomaly detection, and scene understanding tasks. 
-Nowadays, video data have been pre-processed to a variety of data formats using either machine learning tools / computer vision algorithms or physical sensors (e.g., Microsoft Kinect camera with OpenNI framework), for example, optical flows that highlight the video dynamics, depth videos that segment the
-foreground objects and human subjects, and skeleton sequences that focus on human poses evolving in time, for better video understanding. 
-However, videos contain very redundant information, which hinders the effectiveness and efficiency in extracting the motions of interest, and forces the computer vision community works hard in various large-scale pre-training for downstream video processing tasks. 
-Until now, video processing still highly relies on 3D CNNs, and it still suffers from the darkness of large and complicated models. In this research project, we aim to develop more lightweight video data formats which are able to efficiently distill the motions at different granular levels by removing redundant information while focusing on the core dynamics. 
-We also explore the acceleration of training and testing while reducing the amount of video data for storage, and answer a scientific question `How much information is contained in the video data and in what format?'.
-Many downstream video processing tasks will benefit from our video dynamic distillation process, towards making video understanding much easier and more efficient. This also opens up a new research direction in exploring better video data representations for more lightweight cutting-edge video models.
-
-* Training video data optimisation
-
-  We live in a world where most of our actions are constantly captured by cameras. Video cameras are spread almost everywhere: in smartphones, computers, drones, surveillance systems, cars, robots, intercoms, etc.
-The quality of video data highly affects the performance of video models in its massive useful applications.
-Video data optimisation aims to improve the quality of video data being feed into the model for training hence improving the model performance, e.g., recognition accuracy and generalisation abilities. 
-However, videos are more challenging due to the extra introduced temporal signals, which makes video understanding hard. 
-Compared to image domain, videos suffer from much more serious data quality issues. 
-Moving cameras, challenging natural dynamics e.g., rainy, snowy, reflection, etc., background dynamics e.g., tree waving, camera noise and camera shaking issues degrade the video model performance when trained on these unstable and noisy videos. 
-Further challenging issues including the label errors and noisy ground truths, and the labeling process for video contents is even more labor-intensive and tedious.
-Many video data optimisation methods have been proposed in the literature for training robust video models, for example, video data augmentation is widely used in video model training. Generic video augmentation uses some basic video transformations such as geometric, color space, temporal, erasing and mixing, e.g., video data augmentation via temporal cropping. However, these augmentation methods are still unable to address the video data quality issues as they simply create a large number of diverse video contents with different focuses which still highly rely on the quality of original video data.
-In this research project, we aim to explore video data optimisation techniques that are able to improve the model performance for downstream video processing tasks such as human action recognition and anomaly detection. We also explore (i) the influence of training videos on the prediction of a test video (ii) how each individual training video affect the generalisation ability of a model and (iii) do we need all the video data in the training set or shall we drop unfavorable video samples and how.
-
 <h2>Research grant / funding</h2>
 
 * Sharing early insights for more resilient communities
@@ -77,6 +53,29 @@ In this research project, we aim to explore video data optimisation techniques t
   * The project is to develop and test ‘early warning’ indicators for loss of resilience following challenging climate-related events. These indicators will be used to develop a resource that can be used to by the wide range of organisations and services to identify communities in the early stages of resilience loss and provide targeted support to agricultural communities.
   * Through understanding early warning signs that individuals and communities are at risk of resilience loss, we could inform policy and support service interventions earlier. This would provide communities with the necessary support to mitigate wider and longer lasting resilience loss related to the impacts of a climate events, which in turn, would reduce the overall harm to lives and livelihoods and facilitate resilience building across physical, psychological, social, economic, domains.
 
+<h2>2023-2024 ANU Summer Research Scholars Program</h2>
+
+* Project 1: Video dynamics distillation
+
+  Video captures motions such as natural dynamics and human actions. Various research works have been dedicated in learning and extracting spatio-temporal features from videos for human action recognition, anomaly detection, and scene understanding tasks. 
+Nowadays, video data have been pre-processed to a variety of data formats using either machine learning tools / computer vision algorithms or physical sensors (e.g., Microsoft Kinect camera with OpenNI framework), for example, optical flows that highlight the video dynamics, depth videos that segment the
+foreground objects and human subjects, and skeleton sequences that focus on human poses evolving in time, for better video understanding. 
+However, videos contain very redundant information, which hinders the effectiveness and efficiency in extracting the motions of interest, and forces the computer vision community works hard in various large-scale pre-training for downstream video processing tasks. 
+Until now, video processing still highly relies on 3D CNNs, and it still suffers from the darkness of large and complicated models. In this research project, we aim to develop more lightweight video data formats which are able to efficiently distill the motions at different granular levels by removing redundant information while focusing on the core dynamics. 
+We also explore the acceleration of training and testing while reducing the amount of video data for storage, and answer a scientific question `How much information is contained in the video data and in what format?'.
+Many downstream video processing tasks will benefit from our video dynamic distillation process, towards making video understanding much easier and more efficient. This also opens up a new research direction in exploring better video data representations for more lightweight cutting-edge video models.
+
+* Project 2: Training video data optimisation
+
+  We live in a world where most of our actions are constantly captured by cameras. Video cameras are spread almost everywhere: in smartphones, computers, drones, surveillance systems, cars, robots, intercoms, etc.
+The quality of video data highly affects the performance of video models in its massive useful applications.
+Video data optimisation aims to improve the quality of video data being feed into the model for training hence improving the model performance, e.g., recognition accuracy and generalisation abilities. 
+However, videos are more challenging due to the extra introduced temporal signals, which makes video understanding hard. 
+Compared to image domain, videos suffer from much more serious data quality issues. 
+Moving cameras, challenging natural dynamics e.g., rainy, snowy, reflection, etc., background dynamics e.g., tree waving, camera noise and camera shaking issues degrade the video model performance when trained on these unstable and noisy videos. 
+Further challenging issues including the label errors and noisy ground truths, and the labeling process for video contents is even more labor-intensive and tedious.
+Many video data optimisation methods have been proposed in the literature for training robust video models, for example, video data augmentation is widely used in video model training. Generic video augmentation uses some basic video transformations such as geometric, color space, temporal, erasing and mixing, e.g., video data augmentation via temporal cropping. However, these augmentation methods are still unable to address the video data quality issues as they simply create a large number of diverse video contents with different focuses which still highly rely on the quality of original video data.
+In this research project, we aim to explore video data optimisation techniques that are able to improve the model performance for downstream video processing tasks such as human action recognition and anomaly detection. We also explore (i) the influence of training videos on the prediction of a test video (ii) how each individual training video affect the generalisation ability of a model and (iii) do we need all the video data in the training set or shall we drop unfavorable video samples and how.
 
 <!-- <h2>Personal statement</h2> -->
 
