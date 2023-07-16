@@ -41,7 +41,7 @@ You can find my published articles on my [Google Scholar](https://scholar.google
 				<div class="gs_gray"><strong>L Wang</strong>, P Koniusz</div>
 				<div class="gs_gray">European Conference on Computer Vision (ECCV), 176-195</div>
 			</td>
-			<td class="gsc_a_c">[<font color="red"><strong>A*</strong>, oral, 2.7% acceptance rate</font>]<br><a href="https://github.com/LeiWangR/uDTW" style="color:#008000;">Codes</a></td>
+			<td class="gsc_a_c">[<font color="red"><strong>A*</strong>, oral, 2.7% acceptance rate</font>]<br><a href="https://github.com/LeiWangR/uDTW" style="color:#008000;">Code</a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2022</span></td>
 		</tr>
 		<tr class="gsc_a_tr" style="background-color:#E5E4E2">
@@ -49,7 +49,7 @@ You can find my published articles on my [Google Scholar](https://scholar.google
 				<div class="gs_gray">Z Qin, Y Liu, P Ji, D Kim, <strong>L Wang</strong>, B McKay, S Anwar, T Gedeon</div>
 				<div class="gs_gray">IEEE Transactions on Neural Networks and Learning Systems (TNNLS), (Early Access)</div>
 			</td>
-			<td class="gsc_a_c">[<strong><font color="red">IF: 14.255</font></strong>]<br><a href="https://github.com/harutatsuakiyama/Angular-Skeleton-Encoding" style="color:#008000;">Codes</a></td>
+			<td class="gsc_a_c">[<strong><font color="red">IF: 14.255</font></strong>]<br><a href="https://github.com/harutatsuakiyama/Angular-Skeleton-Encoding" style="color:#008000;">Code</a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2021</span></td>
 		</tr>
 		<tr class="gsc_a_tr" style="background-color:#E0FFFF">
@@ -57,7 +57,7 @@ You can find my published articles on my [Google Scholar](https://scholar.google
 				<div class="gs_gray"><strong>L Wang</strong>, P Koniusz</div>
 				<div class="gs_gray">ACM International Conference on Multimedia (ACM-MM), 4324-4333</div>
 			</td>
-			<td class="gsc_a_c">[<strong><font color="red">A*</font></strong>]<br><a href="https://github.com/LeiWangR/ODFSDF" style="color:#008000;">Codes</a></td>
+			<td class="gsc_a_c">[<strong><font color="red">A*</font></strong>]<br><a href="https://github.com/LeiWangR/ODFSDF" style="color:#008000;">Code</a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2021</span></td>
 		</tr>
 		<tr class="gsc_a_tr" style="background-color:#E0FFFF">
