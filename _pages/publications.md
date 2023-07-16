@@ -141,7 +141,7 @@ You can find my published articles on my [Google Scholar](https://scholar.google
 				<div class="gs_gray">P Koniusz, <strong>L Wang</strong>, K Sun</div>
 				<div class="gs_gray">arXiv preprint arXiv:2110.05216</div>
 			</td>
-			<td class="gsc_a_c">(an extension of our TPAMI&#39;20)</td>
+			<td class="gsc_a_c">(an extension of our TPAMI&#39;20)<br><a href="https://github.com/LeiWangR/HoTP" style="color:#008000;">Preprocessing codes</a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2021</span></td>
 		</tr>
 	</tbody>
