@@ -73,7 +73,7 @@ You can find my published articles on my [Google Scholar](https://scholar.google
 				<div class="gs_gray"><strong>L Wang</strong>, DQ Huynh, P Koniusz</div>
 				<div class="gs_gray">IEEE Transactions on Image Processing (TIP) 29 (1), 15-28</div>
 			</td>
-			<td class="gsc_a_c">[<strong><font color="red">IF: 11.041</font></strong>]<br><a href="https://github.com/LeiWangR/HDG" style="color:#008000;">Datasets & Codes</a></td>
+			<td class="gsc_a_c">[<strong><font color="red">IF: 11.041</font></strong>]<br><a href="https://github.com/LeiWangR/HDG" style="color:#008000;">Dataset & Code</a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2020</span></td>
 		</tr>
 		<tr class="gsc_a_tr" style="background-color:#E0FFFF">
@@ -141,7 +141,7 @@ You can find my published articles on my [Google Scholar](https://scholar.google
 				<div class="gs_gray">P Koniusz, <strong>L Wang</strong>, K Sun</div>
 				<div class="gs_gray">arXiv preprint arXiv:2110.05216</div>
 			</td>
-			<td class="gsc_a_c">(an extension of our TPAMI&#39;20)<br><a href="https://github.com/LeiWangR/HoTP" style="color:#008000;">Preprocessing codes</a></td>
+			<td class="gsc_a_c">(an extension of our TPAMI&#39;20)<br><a href="https://github.com/LeiWangR/HoTP" style="color:#008000;">Code (preprocessing)</a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2021</span></td>
 		</tr>
 	</tbody>
