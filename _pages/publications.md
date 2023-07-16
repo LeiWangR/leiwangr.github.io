@@ -33,7 +33,7 @@ You can find my published articles on my [Google Scholar](https://scholar.google
 				<div class="gs_gray"><strong>L Wang</strong>, P Koniusz</div>
 				<div class="gs_gray">Asian Conference on Computer Vision (ACCV), 307-326</div>
 			</td>
-			<td class="gsc_a_c">[<font color="red"><strong>B</strong>, oral, 4.9% acceptance rate, <br><strong>Best Student Paper Award</strong></font>]</td>
+			<td class="gsc_a_c">[<font color="red"><strong>B</strong>, oral, 4.9% acceptance rate, <br><strong>Best Student Paper Award</strong></font>]<br><a href="" style="color:#008000;">Codes</a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2022</span></td>
 		</tr>
 		<tr class="gsc_a_tr" style="background-color:#E0FFFF">
@@ -57,7 +57,7 @@ You can find my published articles on my [Google Scholar](https://scholar.google
 				<div class="gs_gray"><strong>L Wang</strong>, P Koniusz</div>
 				<div class="gs_gray">ACM International Conference on Multimedia (ACM-MM), 4324-4333</div>
 			</td>
-			<td class="gsc_a_c">[<strong><font color="red">A*</font></strong>]</td>
+			<td class="gsc_a_c">[<strong><font color="red">A*</font></strong>]<br><a href="" style="color:#008000;">Codes</a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2021</span></td>
 		</tr>
 		<tr class="gsc_a_tr" style="background-color:#E0FFFF">
