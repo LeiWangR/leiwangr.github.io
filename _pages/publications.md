@@ -41,7 +41,7 @@ You can find my published articles on my [Google Scholar](https://scholar.google
 				<div class="gs_gray"><strong>L Wang</strong>, P Koniusz</div>
 				<div class="gs_gray">European Conference on Computer Vision (ECCV), 176-195</div>
 			</td>
-			<td class="gsc_a_c">[<font color="red"><strong>A*</strong>, oral, 2.7% acceptance rate</font>]</td>
+			<td class="gsc_a_c">[<font color="red"><strong>A*</strong>, oral, 2.7% acceptance rate</font>]<a href="https://github.com/LeiWangR/uDTW" style="color:#008000;"> codes</a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2022</span></td>
 		</tr>
 		<tr class="gsc_a_tr" style="background-color:#E5E4E2">
