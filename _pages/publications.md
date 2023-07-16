@@ -89,7 +89,7 @@ You can find my published articles on my [Google Scholar](https://scholar.google
 				<div class="gs_gray"><strong>L Wang</strong>, DQ Huynh, MR Mansour</div>
 				<div class="gs_gray">26th IEEE International Conference on Image Processing (ICIP), 974-978</div>
 			</td>
-			<td class="gsc_a_c">[<strong><font color="red">B</font></strong><font color="red">, industrial research <br>+ 1 AU<strong>&nbsp;patent</strong></font>]<br><a href="https://github.com/LeiWangR/LSFNet" style="color:#008000;">Scene understanding dataset</a></td>
+			<td class="gsc_a_c">[<strong><font color="red">B</font></strong><font color="red">, industrial research <br>+ 1 AU<strong>&nbsp;patent</strong></font>]<br><a href="https://github.com/LeiWangR/LSFNet" style="color:#008000;">Our dataset</a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2019</span></td>
 		</tr>
 	</tbody>
