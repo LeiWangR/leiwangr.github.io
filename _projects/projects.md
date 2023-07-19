@@ -55,7 +55,7 @@ author_profile: true
 
 <h2>2023-2024 ANU Summer Research Scholars Program</h2>
 
-[Links](https://cecc.anu.edu.au/current-students/research-opportunities/summer-research-projects-2023)
+[ANU CECC SRS Projects Page](https://cecc.anu.edu.au/current-students/research-opportunities/summer-research-projects-2023)
 
 * Project 1: Video dynamics distillation
 
