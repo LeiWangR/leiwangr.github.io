@@ -53,7 +53,9 @@ author_profile: true
   * The project is to develop and test ‘early warning’ indicators for loss of resilience following challenging climate-related events. These indicators will be used to develop a resource that can be used to by the wide range of organisations and services to identify communities in the early stages of resilience loss and provide targeted support to agricultural communities.
   * Through understanding early warning signs that individuals and communities are at risk of resilience loss, we could inform policy and support service interventions earlier. This would provide communities with the necessary support to mitigate wider and longer lasting resilience loss related to the impacts of a climate events, which in turn, would reduce the overall harm to lives and livelihoods and facilitate resilience building across physical, psychological, social, economic, domains.
 
-<h2>[2023-2024 ANU Summer Research Scholars Program](https://cecc.anu.edu.au/current-students/research-opportunities/summer-research-scholarships)</h2>
+<h2>2023-2024 ANU Summer Research Scholars Program</h2>
+
+[Links](https://cecc.anu.edu.au/current-students/research-opportunities/summer-research-projects-2023)
 
 * Project 1: Video dynamics distillation
 
