@@ -31,7 +31,7 @@ author_profile: true
 * Tensor learning
 * Domain adaptation -->
 <!-- <p>&nbsp;</p> -->
-<h2>Research projects</h2>
+<h2>Research project</h2>
 
 <!-- I am working on the following projects: -->
 
@@ -43,7 +43,7 @@ author_profile: true
   * Human-related anomaly detection in surveillance videos
 <!--   * Research student: [Supasun Khumpraphan](https://micsupasun.github.io/) -->
 
-<h2>Research grant / funding</h2>
+<h2>Research grant / award / funding</h2>
 
 * Sharing early insights for more resilient communities
   * I am a Co-Investigator (Co-I).
