@@ -46,7 +46,7 @@ author_profile: true
 <h2>Research grant / award / funding</h2>
 
 * Sharing early insights for more resilient communities
-  * I am a Co-Investigator (Co-I).
+  * I am a **Co-Investigator (Co-I)**.
   * Research Assistant: [Saswat Panda](https://biology.anu.edu.au/people/professional-staff/saswat-panda) (ANU)
   * This project is a joint initiative with the Southern NSW Drought Resilience Adoption and Innovation Hub and forms part of the Australian Government’s Agricultural Innovation Hubs Program. 
   * The project is being conducted by the University of Canberra, Australian National University, Charles Sturt University, and University of Wollongong.
@@ -54,7 +54,7 @@ author_profile: true
   * Through understanding early warning signs that individuals and communities are at risk of resilience loss, we could inform policy and support service interventions earlier. This would provide communities with the necessary support to mitigate wider and longer lasting resilience loss related to the impacts of a climate events, which in turn, would reduce the overall harm to lives and livelihoods and facilitate resilience building across physical, psychological, social, economic, domains.
  
 * Grant / Project Award from Oracle for Research
-  * Oracle Cloud credits award (AU$48,000 for 366 days)
+  * **Oracle Cloud credits award** (**AU$48,000**<!-- for 366 days -->)
   * Research project: Automatic, large-scale screening of failure cases in autonomous driving
   <!-- * Computer perception techniques have been widely used in real-world applications such as autonomous vehicles. While the state-of-the-art methods achieve impressive system accuracy, their real-world robustness is often hindered by corner cases, e.g., a pedestrian partially occluded by an umbrella on a dark day.Instead of letting such cases happen during deployment, in this project, we aim to develop a protocol which can detect potential failure cases through screening millions of different test scenarios via simulation. The identified corner cases are then used to understand system vulnerability and improve accuracy and safety in the end. -->
   * Automotive AI is rapidly replacing human drivers by enabling autonomous vehicles that use sensors to gather data about their surroundings. State-of-the-art methods achieve impressive system accuracy; however, technology is not always perfect, and this imperfection might be magnified  when it comes to safety-critical applications like autonomous driving. Potential failure cases include severe occlusions, extreme weather, low lighting conditions, strange human appearances and poses, which will compromise system performance and even lead to undesirable consequences.
