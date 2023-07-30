@@ -46,7 +46,7 @@ author_profile: true
 <h2>Research grant / award / funding</h2>
 
 * Sharing early insights for more resilient communities
-  * I am a **Co-Investigator (Co-I)**.
+  * I am a **Co-Investigator (Co-I)**
   * Research Assistant: [Saswat Panda](https://biology.anu.edu.au/people/professional-staff/saswat-panda) (ANU)
   * This project is a joint initiative with the Southern NSW Drought Resilience Adoption and Innovation Hub and forms part of the Australian Government’s Agricultural Innovation Hubs Program. 
   * The project is being conducted by the University of Canberra, Australian National University, Charles Sturt University, and University of Wollongong.
