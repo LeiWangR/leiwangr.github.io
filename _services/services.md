@@ -15,11 +15,13 @@ author_profile: true
   <tr>
     <th>Topic</th>
     <th>Host</th>
+    <th>Description</th>
     <th>Date</th>
   </tr>
   <tr>
     <td>Action Recognition: Past, Present and Future</td>
     <td><a href="https://dl2link.com">Prof. Haijun Zhang</a>, <br> Department of Computer Science, <br> Harbin Institute of Technology, <br> Shenzhen, China</td>
+    <td>"The next generation of international Chinese young students face to face" Issue 21</td>
     <td>12 Aug 2023</td>
 <!--     "The next generation of international Chinese young students face to face" Issue 21 -->
   </tr>
