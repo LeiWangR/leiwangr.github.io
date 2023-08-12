@@ -13,9 +13,9 @@ author_profile: true
 <font size="5" face="Courier New" >
 <table style="width:100%">
   <tr>
-    <td>Topic</td>
-    <td>Host</td>
-    <td>Date</td>
+    <th>Topic</th>
+    <th>Host</th>
+    <th>Date</th>
   </tr>
   <tr>
     <td>Action Recognition: Past, Present and Future</td>
