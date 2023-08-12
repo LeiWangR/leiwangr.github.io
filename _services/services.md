@@ -19,7 +19,7 @@ author_profile: true
   </tr>
   <tr>
     <td>Action Recognition: Past, Present and Future</td>
-    <td>Prof. Haijun Zhang, <br> School of Computer Science and Technology, <br> Harbin Institute of Technology (Shenzhen)</td>
+    <td>[Prof. Haijun Zhang](https://dl2link.com), <br> Department of Computer Science, <br> Harbin Institute of Technology <br> Shenzhen, P. R. China</td>
     <td>12 Aug 2023</td>
   </tr>
 </table>
