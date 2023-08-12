@@ -10,6 +10,12 @@ author_profile: true
 
 <h2>Invited Talk</h2>
 
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+
 <font size="5">
 <table style="width:100%">
   <tr>
