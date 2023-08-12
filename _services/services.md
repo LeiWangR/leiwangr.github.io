@@ -10,7 +10,7 @@ author_profile: true
 
 <h2>Invited Talk</h2>
 
-<font size="5">
+<!-- <font size="5"> -->
 <table style="width:100%" border="1px solid black;">
   <tr>
     <th>Topic</th>
@@ -26,7 +26,7 @@ author_profile: true
 <!--     "The next generation of international Chinese young students face to face" Issue 21 -->
   </tr>
 </table>
-</font>
+<!-- </font> -->
 
 <h2>Paper Reviewing</h2>
 
