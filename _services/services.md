@@ -21,7 +21,7 @@ author_profile: true
   <tr>
     <td>Action Recognition: Past, Present and Future <a href="../files/AR_PPF_Lei.pdf">[slides]</a></td>
     <td><a href="https://dl2link.com">Prof. Haijun Zhang</a>, <br> Department of Computer Science, <br> Harbin Institute of Technology, <br> Shenzhen, China</td>
-    <td>"The next generation of international Chinese young students face to face" Issue 21</td>
+    <td>"The next generation of international Chinese young students face to face" Issue 21 <br> International Cooperation and Exchange Program Series Activities of Harbin Institute of Technology (Shenzhen) </td>
     <td>12 Aug 2023</td>
 <!--     "The next generation of international Chinese young students face to face" Issue 21 -->
   </tr>
