@@ -8,6 +8,23 @@ author_profile: true
 <!-- Paper Reviewing
 ====== -->
 
+<h2>Invited Talk</h2>
+
+<table style="width:100%">
+  <tr>
+    <td>Topic</td>
+    <td>Host</td>
+    <td>Date</td>
+  </tr>
+  <tr>
+    <td>Action Recognition: Past, Present and Future</td>
+    <td>Prof. Haijun Zhang, <br>Harbin Institute of Technology</td>
+    <td>12 Aug 2023</td>
+  </tr>
+</table>
+
+* 
+
 <h2>Paper Reviewing</h2>
 
 I regularly review technical papers for the following journals, conferences & workshops. 
