@@ -23,7 +23,6 @@ author_profile: true
   </tr>
 </table>
 
-* 
 
 <h2>Paper Reviewing</h2>
 
