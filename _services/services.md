@@ -10,6 +10,7 @@ author_profile: true
 
 <h2>Invited Talk</h2>
 
+<font size="5" face="Courier New" >
 <table style="width:100%">
   <tr>
     <td>Topic</td>
@@ -22,7 +23,7 @@ author_profile: true
     <td>12 Aug 2023</td>
   </tr>
 </table>
-
+</font>
 
 <h2>Paper Reviewing</h2>
 
