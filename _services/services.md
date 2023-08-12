@@ -11,7 +11,7 @@ author_profile: true
 <h2>Invited Talk</h2>
 
 <font size="5">
-<table>
+<table style="width:100%" border="1px solid black;">
   <tr>
     <th>Topic</th>
     <th>Host</th>
