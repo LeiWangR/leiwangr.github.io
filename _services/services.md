@@ -10,7 +10,7 @@ author_profile: true
 
 <h2>Invited Talk</h2>
 
-<font size="5" face="Courier New" >
+<font size="5">
 <table style="width:100%">
   <tr>
     <th>Topic</th>
