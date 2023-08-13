@@ -46,6 +46,7 @@ I am also trying to bridge the gap between academic research and industry resear
   * Postdoc advisor: [Dr. Liang Zheng](https://zheng-lab.cecs.anu.edu.au/) (ANU) and [Prof. Tom Gedeon](https://staffportal.curtin.edu.au/staff/profile/view/tom-gedeon-5e48a1fd/) (Curtin University)
   * <font color="red"><strong>Grant</strong>: I am a Co-Investigator (Co-I) on 'Sharing early insights for more resilient communities'</font>
   * <font color="red"><strong>Grant / Project Award from Oracle (AU$48,000) </strong> for Research on 'Automatic, large-scale screening of failure cases in autonomous driving' </font>
+  * <font color="red"><strong>Invited talk</strong> on 'Action Recognition: Past, Present and Future' hosted by Prof. Haijun Zhang (Department of Computer Science, Harbin Institute of Technology, Shenzhen, China) </font>
 
 * *30/06/2023-<font color="blue">present</font>*: **Visiting Scientist**
   * Machine Learning Research Group (MLRG), Data61/CSIRO (Black Mountain ACT)
