@@ -63,7 +63,7 @@ author_profile: true
 
 <h2>Bachelor & Honours research project</h2>
 
-If you are an ANU undergraduate looking for an Honors research project, please note that I usually take 2-3 honors students each year and that 24-unit projects are preferred. 
+If you are an ANU undergraduate looking for an Honors research project, please note that I usually take 2 honors students maximum each year (for the purpose of high quality supervision) and that 24-unit projects are preferred. 
 
 If you are an ANU master student looking for individual projects, you should have some research background, good GPA and coding abilities. You should also have sufficient time for research.
 
