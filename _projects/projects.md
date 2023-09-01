@@ -67,7 +67,7 @@ If you are an ANU undergraduate looking for an Honors research project, please n
 
 If you are an ANU master student looking for individual projects, you should have some research background, good GPA and coding abilities. You should also have sufficient time for research.
 
-
+I always look for motivated and hard-working students who are interested in doing research with me. However, you must have good mathematical and computational skills, preferably with prior experience in machine learning and/or computer vision. Strong programming skills in Python, Matlab and/or TensorFlow are a must, hands-on deep learning know-how is important too. Integrity, honesty, ability to work under pressure and explore while taking strict directions is a must.
 
 
 <h2>ANU Summer Research Scholars Program</h2>
