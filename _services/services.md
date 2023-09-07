@@ -28,6 +28,29 @@ author_profile: true
 </table>
 <!-- </font> -->
 
+<h2>Reading Seminar</h2>
+
+<table style="width:100%" border="1px solid black;">
+  <tr>
+    <th>Topic</th>
+    <th>Host</th>
+    <th>Description</th>
+    <th>Date</th>
+  </tr>
+  <tr>
+    <td>Unveiling the Pulse of Computer Science <a href="../files/0908_reading_session.pdf">[slides]</a></td>
+    <td>Dr. Liang Zheng's weekly paper reading session</td>
+    <td>This reading session covers (i) research trend in computer science, (ii) industry & academic research in computer vision and (iii) a closer look at citations.</td>
+    <td>8 Sep 2023</td>
+  </tr>
+  <tr>
+    <td>Contrastive Learning meets Masked Modeling <a href="../files/reading_seminar_lei.pdf">[slides]</a></td>
+    <td>Dr. Liang Zheng's weekly paper reading session</td>
+    <td>This reading session covers (i) a comparison of contrastive learning and masked image modeling w.r.t. model behaviour, model architecture, self-attention and feature representation</td>
+    <td>2 June 2023</td>
+  </tr>
+</table>
+
 <h2>Paper Reviewing</h2>
 
 I regularly review technical papers for the following journals, conferences & workshops. 
