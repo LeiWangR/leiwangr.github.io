@@ -33,7 +33,7 @@ author_profile: true
 <table style="width:100%" border="1px solid black;">
   <tr>
     <th>Topic</th>
-    <th>Group</th>
+    <th>Research group</th>
     <th>Description</th>
     <th>Date</th>
   </tr>
