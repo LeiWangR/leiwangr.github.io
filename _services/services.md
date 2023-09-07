@@ -46,7 +46,7 @@ author_profile: true
   <tr>
     <td>Contrastive Learning meets Masked Modeling <a href="../files/reading_seminar_lei.pdf">[slides]</a></td>
     <td>Dr. Liang Zheng's weekly paper reading session</td>
-    <td>This reading session covers (i) a comparison of contrastive learning and masked image modeling w.r.t. model behaviour, model architecture, self-attention and feature representation</td>
+    <td>This reading session covers a comparison between contrastive learning and masked image modeling with regard to model behavior, model architecture, self-attention, and representation.</td>
     <td>2 June 2023</td>
   </tr>
 </table>
