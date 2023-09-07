@@ -49,6 +49,12 @@ author_profile: true
     <td>This reading session covers a comparison between contrastive learning and masked image modeling with regard to model behavior, model architecture, self-attention, and representation.</td>
     <td>2 June 2023</td>
   </tr>
+  <tr>
+    <td>Robust Human Action Modelling <a href="../files/oral_presentation_slides.pdf">[slides]</a></td>
+    <td>PhD completion seminar</td>
+    <td></td>
+    <td>2 Feb 2023</td>
+  </tr>
 </table>
 
 <h2>Paper Reviewing</h2>
