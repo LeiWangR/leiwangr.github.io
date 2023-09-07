@@ -38,7 +38,7 @@ author_profile: true
     <th>Date</th>
   </tr>
   <tr>
-    <td>Unveiling the Pulse of Computer Science <a href="../files/0908_reading_session.pdf">[slides]</a></td>
+    <td>Industry-Academia Dynamics in Computer Vision: Trends, Collaboration, and Citation Patterns <a href="../files/0908_reading_session.pdf">[slides]</a></td>
     <td>Dr. Liang Zheng's weekly paper reading session</td>
     <td>This reading session covers (i) research trend in computer science, (ii) industry & academic research in computer vision and (iii) a closer look at citations.</td>
     <td>8 Sep 2023</td>
