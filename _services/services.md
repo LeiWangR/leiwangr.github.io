@@ -33,7 +33,7 @@ author_profile: true
 <table style="width:100%" border="1px solid black;">
   <tr>
     <th>Topic</th>
-    <th>Host</th>
+    <th>Group</th>
     <th>Description</th>
     <th>Date</th>
   </tr>
@@ -45,7 +45,7 @@ author_profile: true
   </tr>
   <tr>
     <td>Contrastive Learning meets Masked Modeling <a href="../files/reading_seminar_lei.pdf">[slides]</a></td>
-    <td>Dr. Liang Zheng's weekly paper reading session</td>
+    <td>[1] Dr. Liang Zheng's weekly paper reading session <br> [2] Dr. Piotr Koniusz's research group (repeated paper reading session)</td>
     <td>This reading session covers a comparison between contrastive learning and masked image modeling with regard to model behavior, model architecture, self-attention, and representation.</td>
     <td>2 June 2023</td>
   </tr>
