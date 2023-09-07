@@ -51,8 +51,8 @@ author_profile: true
   </tr>
   <tr>
     <td>Robust Human Action Modelling <a href="../files/oral_presentation_slides.pdf">[slides]</a></td>
-    <td>PhD completion seminar</td>
-    <td></td>
+    <td>ANU College of Engineering, Computing and Cybernetics</td>
+    <td>PhD completion seminar: This seminar covers the following topics (i) an introduction to action recognition (AR) and a comparative review of AR methods, (ii) video-based action recognition, (iii) skeleton-based action recognition, and (iv) one- and few-shot action recognition. </td>
     <td>2 Feb 2023</td>
   </tr>
 </table>
