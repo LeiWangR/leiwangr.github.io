@@ -61,7 +61,7 @@ author_profile: true
 
 I regularly review technical papers for the following journals, conferences & workshops. 
 
-<font color="blue">I write high quality reviews for papers in my research interests, e.g., action recognition, anomaly detection, one- and few-shot learning, deep learning, tensor learning, domain adaptation, etc.</font>
+<!-- <font color="blue">I write high quality reviews for papers in my research interests, e.g., action recognition, anomaly detection, one- and few-shot learning, deep learning, tensor learning, domain adaptation, etc.</font> -->
 
 * **Journals**:
   * IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI),
@@ -92,4 +92,4 @@ I regularly review technical papers for the following journals, conferences & wo
     * Supervise laboratory classes
     * Help with assignment marking
 
-<font color="blue">I am currently a research-intensive staff working on academic and industrial research projects, and I am not engaged in any teaching at this time.</font>
+<!-- <font color="blue">I am currently a research-intensive staff working on academic and industrial research projects, and I am not engaged in any teaching at this time.</font> -->
