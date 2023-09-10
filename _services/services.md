@@ -57,7 +57,7 @@ author_profile: true
   </tr>
   <tr>
     <td>Analysis and Evaluation of Kinect-based Action Recognition Algorithms <a href="../files/GENG5512ResearchSeminarv4.pdf">[slides]</a></td>
-    <td>UWA's School of Computer Science and Software Engineering</td>
+    <td>UWA's Department of Computer Science and Software Engineering</td>
     <td>MPE Engineering Research Project: In this seminar, I discussed (i) applications, issues, and techniques in action recognition (AR) and (ii) an analysis and evaluation of four handcrafted AR algorithms. </td>
     <td>Oct 2017</td>
   </tr>
