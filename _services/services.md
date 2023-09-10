@@ -55,6 +55,12 @@ author_profile: true
     <td>PhD completion seminar: This seminar covers the following topics (i) an introduction to action recognition (AR) and a comparative review of AR methods, (ii) video-based action recognition, (iii) skeleton-based action recognition, and (iv) one- and few-shot action recognition. </td>
     <td>2 Feb 2023</td>
   </tr>
+  <tr>
+    <td>Analysis and Evaluation of Kinect-based Action Recognition Algorithms <a href="../files/GENG5512ResearchSeminarv4.pdf">[slides]</a></td>
+    <td>School of Computer Science and Software Engineering, <br> The University of Western Australia</td>
+    <td>MPE Engineering Research Project: In this seminar, I discussed (i) applications, issues, and techniques in action recognition (AR) and (ii) an analysis and evaluation of four handcrafted AR algorithms. </td>
+    <td>Oct 2017</td>
+  </tr>
 </table>
 
 <h2>Paper Reviewing</h2>
