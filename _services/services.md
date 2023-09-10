@@ -28,7 +28,7 @@ author_profile: true
 </table>
 <!-- </font> -->
 
-<h2>Reading Seminar</h2>
+<h2>Research Seminar</h2>
 
 <table style="width:100%" border="1px solid black;">
   <tr>
