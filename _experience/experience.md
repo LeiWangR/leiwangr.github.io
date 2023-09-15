@@ -47,7 +47,7 @@ I am also trying to bridge the gap between academic research and industry resear
   * <font color="red"><strong>Grant</strong>: I am a Co-Investigator (Co-I) on 'Sharing early insights for more resilient communities'</font>
   * <font color="red"><strong>Grant / Project Award from Oracle (AU$48,000) </strong> for Research on 'Automatic, large-scale screening of failure cases in autonomous driving' </font>
   * <font color="red"><strong>Invited talk</strong> on 'Action Recognition: Past, Present and Future' hosted by Harbin Institute of Technology, Shenzhen, China </font>
-  * <font color="red"><strong>NCI Adaptater Scheme Q4 2023 (HPC funding scheme) </strong> on 'Towards building general-purpose multimodal foundation models'</font>
+  * <font color="red"><strong>NCI Adaptater Scheme Q4 2023 (HPC funding scheme)</strong>: I am a Chief Investigator (CI) on 'Towards building general-purpose multimodal foundation models'</font>
 
 * *30/06/2023-<font color="blue">present</font>*: **Visiting Scientist**
   * Machine Learning Research Group (MLRG), Data61/CSIRO (Black Mountain ACT)
