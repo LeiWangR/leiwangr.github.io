@@ -31,16 +31,16 @@ author_profile: true
 * Tensor learning
 * Domain adaptation -->
 <!-- <p>&nbsp;</p> -->
-<h2>Research project</h2>
+<!-- <h2>Research project</h2> -->
 
 <!-- I am working on the following projects: -->
 
-* Automatic Training Data Search and Model Evaluation by Measuring Domain Gap
+<!-- * Automatic Training Data Search and Model Evaluation by Measuring Domain Gap -->
 
-* Human action recognition in videos
+<!-- * Human action recognition in videos -->
 
-* Industrial research project
-  * Human-related anomaly detection in surveillance videos
+<!-- * Industrial research project -->
+<!--   * Human-related anomaly detection in surveillance videos -->
 <!--   * Research student: [Supasun Khumpraphan](https://micsupasun.github.io/) -->
 
 <h2>Research grant / award / funding</h2>
