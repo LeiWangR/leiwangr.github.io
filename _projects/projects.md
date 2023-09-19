@@ -53,7 +53,7 @@ The Active Intelligence Research Challenge Award (Industry AIR award) was establ
 
 Industry AIR awards are granted based on merit and are not subject to quotas. In general, 4 candidates can be awarded out of a pool of 20 candidates (20% acceptance rate, based on the 2023-2024 results).
 
-2023-2024 awarded candicates are: Arjun Raj, Liyun Zhu, Liwen Luo, and Qixiang Chen.
+- 2023-2024 awarded candicates are: Arjun Raj, Liyun Zhu, Liwen Luo, and Qixiang Chen.
 
 <h2>Bachelor & Honours research project</h2>
 
