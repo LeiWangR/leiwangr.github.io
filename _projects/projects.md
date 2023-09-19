@@ -57,6 +57,8 @@ Industry AIR awards are granted based on merit and are not subject to quotas. In
 
 - <font color="green"> 2023-2024 awarded ANU students are: Arjun Raj, Liyun Zhu, Liwen Luo, and Qixiang Chen. </font>
 
+- <font color="green"> Visting student: Zerui Wang (UWA)</font>
+
 
 <h2>Bachelor & Honours research project</h2>
 
