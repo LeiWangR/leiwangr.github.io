@@ -53,7 +53,7 @@ The Active Intelligence Research Challenge Award (**Industry AIR Award**) was es
 
 The Industry AIR Award includes a cash prize (up to $5,000) along with a research internship (6-12 months full-time). These awards are provided by Active Intelligence Corporation LLC.
 
-Industry AIR Awards are granted solely on merit and are not subject to quotas. Typically, four candidates can receive awards from a pool of 20 candidates (with a minimum GPA of 6.75), resulting in an approximate acceptance rate of 20%, based on the 2023-2024 results.
+Industry AIR Awards are granted solely on merit and are not subject to quotas. Typically, four candidates can receive awards from a pool of 20 candidates (with a minimum GPA of 6.75/7), resulting in an approximate acceptance rate of 20%, based on the 2023-2024 results.
 
 For more information regarding the application process, please contact the awarded candidates before reaching out to me.
 
