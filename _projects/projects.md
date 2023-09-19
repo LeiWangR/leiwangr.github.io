@@ -55,7 +55,7 @@ The Industry AIR award includes a cash award plus a research internship. The awa
 
 Industry AIR awards are granted based on merit and are not subject to quotas. In general, 4 candidates can be awarded out of a pool of 20 candidates (~20% acceptance rate, based on the 2023-2024 results).
 
-- <font color="green"> 2023-2024 awarded ANU international students are: Mr. Arjun Raj, Mr. Liyun Zhu, Mr. Liwen Luo, and Mr. Qixiang Chen. </font>
+- <font color="green"> 2023-2024 awarded ANU *international* students are: Mr. Arjun Raj, Mr. Liyun Zhu, Mr. Liwen Luo, and Mr. Qixiang Chen. </font>
 
 - <font color="green"> Visting student: Mr. Zerui Wang (UWA), 16/06/2023 - 19/07/2023.</font>
 
@@ -74,7 +74,7 @@ The SRS scholarship includes board and on-campus accommodation for 9 weeks (run 
 
 For more details, please refer to [Summer Research Scholarships](https://cecc.anu.edu.au/current-students/research-opportunities/summer-research-scholarships). You can find my research projects by visiting [2023-2024 ANU CECC SRS Projects Page](https://cecc.anu.edu.au/current-students/research-opportunities/summer-research-projects-2023), get in touch if you are interested.
 
-- <font color="green"> 2023-2024 awarded ANU student: Mr. Xiuyuan Yuan. Thanks to the ANU School of Computing for providing research funding.</font>
+- <font color="green"> 2023-2024 awarded ANU *domestic* student: Mr. Xiuyuan (Jack) Yuan. Thanks to the ANU School of Computing for providing research funding.</font>
 
 <!-- * Project 1: Video dynamics distillation -->
 
