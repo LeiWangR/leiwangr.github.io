@@ -45,7 +45,7 @@ author_profile: true
 
 I always look for motivated and hardworking students who are interested in doing research with me. However, you must have good mathematical and computational skills, preferably with prior experience in machine learning and/or computer vision. Strong programming skills in Python, Matlab, and/or TensorFlow are a must, and hands-on deep learning know-how is important too. Integrity, honesty, the ability to work under pressure, and the ability to explore while following strict directions are all essential.
 
-<h2>Industry AIR Award for Students</h2>
+<h2>Industry AIR Awards for Students</h2>
 
 I annually organize multiple industry research awards to support promising research candidates (Bachelor's, Honours, and Master's Students) interested in my research areas.
 
