@@ -55,6 +55,7 @@ Industry AIR awards are granted based on merit and are not subject to quotas. In
 
 - 2023-2024 awarded candicates are: Arjun Raj, Liyun Zhu, Liwen Luo, and Qixiang Chen.
 
+
 <h2>Bachelor & Honours research project</h2>
 
 If you are an ANU undergraduate looking for an Honors research project, please note that I usually take a maximum of 2 honors students each year (for the purpose of high-quality supervision), and 24-unit projects are preferred.
