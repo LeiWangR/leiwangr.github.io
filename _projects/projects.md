@@ -55,7 +55,7 @@ The Industry AIR award includes a cash award plus a research internship. The awa
 
 Industry AIR awards are granted based on merit and are not subject to quotas. In general, 4 candidates can be awarded out of a pool of 20 candidates (~20% acceptance rate, based on the 2023-2024 results).
 
-- <font color="green"> 2023-2024 awarded ANU students are: Mr. Arjun Raj, Mr. Liyun Zhu, Mr. Liwen Luo, and Mr. Qixiang Chen. </font>
+- <font color="green"> 2023-2024 awarded ANU international students are: Mr. Arjun Raj, Mr. Liyun Zhu, Mr. Liwen Luo, and Mr. Qixiang Chen. </font>
 
 - <font color="green"> Visting student: Mr. Zerui Wang (UWA), 16/06/2023 - 19/07/2023</font>
 
