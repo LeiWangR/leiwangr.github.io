@@ -49,9 +49,9 @@ I always look for motivated and hardworking students who are interested in doing
 
 I annually organize multiple industry research awards to support promising research candidates (Bachelor's, Honours, and Master's Students) interested in my research areas.
 
-The Active Intelligence Research Challenge Award (**Industry AIR award**) was established by Lei Wang and Francis Williams to honor individuals who have demonstrated exceptional dedication, expertise, and a commitment to excellence in the field of Artificial Intelligence and Machine Learning. 
+The Active Intelligence Research Challenge Award (**Industry AIR Award**) was established by Lei Wang and Francis Williams to honor individuals who have demonstrated exceptional dedication, expertise, and a commitment to excellence in the field of Artificial Intelligence and Machine Learning. 
 
-The Industry AIR award includes a cash award plus a research internship. The awards are provided by Active Intelligence Corporation LLC.
+The Industry AIR Award includes a cash award (up to $5,000) plus a research internship. The awards are provided by Active Intelligence Corporation LLC.
 
 Industry AIR awards are granted based on merit and are not subject to quotas. In general, 4 candidates can be awarded out of a pool of 20 candidates (~20% acceptance rate, based on the 2023-2024 results).
 
