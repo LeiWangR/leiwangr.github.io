@@ -43,6 +43,25 @@ author_profile: true
 <!--   * Human-related anomaly detection in surveillance videos -->
 <!--   * Research student: [Supasun Khumpraphan](https://micsupasun.github.io/) -->
 
+I always look for motivated and hardworking students who are interested in doing research with me. However, you must have good mathematical and computational skills, preferably with prior experience in machine learning and/or computer vision. Strong programming skills in Python, Matlab, and/or TensorFlow are a must, and hands-on deep learning know-how is important too. Integrity, honesty, the ability to work under pressure, and the ability to explore while following strict directions are all essential.
+
+<h2>Industry Research Award for Bachelor's, Honours, and Master's Students.</h2>
+
+I annually organize multiple industry research awards to support promising research candidates interested in my research areas.
+
+The Active Intelligence Research Challenge Award (Industry AIR award) was established by Lei Wang and Francis Williams to honor individuals who have demonstrated exceptional dedication, expertise, and a commitment to excellence in the field of Active Intelligence and Machine Learning. The awards are provided by Active Intelligence Corporation LLC.
+
+Industry AIR awards are granted based on merit and are not subject to quotas.
+
+2023-2024 awarded candicates are: Arjun Raj, Liyun Zhu, Liwen Luo, and Qixiang Chen.
+
+<h2>Bachelor & Honours research project</h2>
+
+If you are an ANU undergraduate looking for an Honors research project, please note that I usually take a maximum of 2 honors students each year (for the purpose of high-quality supervision), and 24-unit projects are preferred.
+
+If you are an ANU master's student looking for individual projects, you should have some research background, a good GPA, and coding abilities. You should also have sufficient time for research.
+
+
 <h2>Research grant / award / funding</h2>
 
 * Sharing early insights for more resilient communities
@@ -67,15 +86,6 @@ author_profile: true
   * Scope: Vision-language pre-training (VLP) has attracted rapidly growing attention in both computer vision and NLP communities due to the emergence of large-scale multimodal foundation models like Contrastive Language-Image Pre-training (CLIP). It is very encouraging to see that many Vision-Language (VL) systems have been deployed in industry. For example, iPhone can generate image captions read by VoiceOver for vision-impaired users. Although multimodal intelligence has been applied in many areas including image-text, core computer vision and video-text tasks, there are still many factors to be considered including robustness to new domains, fairness and responsible AI issues.
   * Aim: One common theme stands out is how to build a general-purpose multi-modal foundation model. We aim to build a foundation model that is stable and generalisable, and can be readily adopted to various downstream tasks, ranging from image-level vision tasks (e.g., image classification, retrieval, and captioning), region-level vision tasks (e.g., object detection and phrase grounding), to pixel-level vision tasks (e.g., segmentation and image generation). In order to build a
 general-purpose foundation model, we need a unified model architecture that can be readily scaled up; and when being pre-trained at scale, it can be readily adopted to various downstream computer vision and VL tasks.
- 
-
-<h2>Bachelor & Honours research project</h2>
-
-If you are an ANU undergraduate looking for an Honors research project, please note that I usually take a maximum of 2 honors students each year (for the purpose of high-quality supervision), and 24-unit projects are preferred.
-
-If you are an ANU master's student looking for individual projects, you should have some research background, a good GPA, and coding abilities. You should also have sufficient time for research.
-
-I always look for motivated and hardworking students who are interested in doing research with me. However, you must have good mathematical and computational skills, preferably with prior experience in machine learning and/or computer vision. Strong programming skills in Python, Matlab, and/or TensorFlow are a must, and hands-on deep learning know-how is important too. Integrity, honesty, the ability to work under pressure, and the ability to explore while following strict directions are all essential.
 
 
 <h2>ANU Summer Research Scholars Program</h2>
