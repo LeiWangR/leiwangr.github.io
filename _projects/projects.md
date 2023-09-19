@@ -74,7 +74,7 @@ The SRS scholarship includes board and on-campus accommodation for 9 weeks (run 
 
 For more details, please refer to [Summer Research Scholarships](https://cecc.anu.edu.au/current-students/research-opportunities/summer-research-scholarships). You can find my research projects by visiting [2023-2024 ANU CECC SRS Projects Page](https://cecc.anu.edu.au/current-students/research-opportunities/summer-research-projects-2023), get in touch if you are interested.
 
-- <font color="green"> 2023-2024 awarded ANU student: Mr. Xiuyuan Yuan. </font>
+- <font color="green"> 2023-2024 awarded ANU student: Mr. Xiuyuan Yuan. Thanks to the ANU School of Computing for providing research funding.</font>
 
 <!-- * Project 1: Video dynamics distillation -->
 
