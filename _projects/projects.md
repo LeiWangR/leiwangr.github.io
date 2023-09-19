@@ -45,9 +45,9 @@ author_profile: true
 
 I always look for motivated and hardworking students who are interested in doing research with me. However, you must have good mathematical and computational skills, preferably with prior experience in machine learning and/or computer vision. Strong programming skills in Python, Matlab, and/or TensorFlow are a must, and hands-on deep learning know-how is important too. Integrity, honesty, the ability to work under pressure, and the ability to explore while following strict directions are all essential.
 
-<h2>Industry Research Award for Bachelor's, Honours, and Master's Students.</h2>
+<h2>Industry Research Award for Research Students.</h2>
 
-I annually organize multiple industry research awards to support promising research candidates interested in my research areas.
+I annually organize multiple industry research awards to support promising research candidates (Bachelor's, Honours, and Master's Students) interested in my research areas.
 
 The Active Intelligence Research Challenge Award (Industry AIR award) was established by Lei Wang and Francis Williams to honor individuals who have demonstrated exceptional dedication, expertise, and a commitment to excellence in the field of Active Intelligence and Machine Learning. The awards are provided by Active Intelligence Corporation LLC.
 
