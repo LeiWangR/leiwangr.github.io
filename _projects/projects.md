@@ -51,7 +51,7 @@ I annually organize multiple industry research awards to support promising resea
 
 The Active Intelligence Research Challenge Award (Industry AIR award) was established by Lei Wang and Francis Williams to honor individuals who have demonstrated exceptional dedication, expertise, and a commitment to excellence in the field of Artificial Intelligence and Machine Learning. The awards are provided by Active Intelligence Corporation LLC.
 
-Industry AIR awards are granted based on merit and are not subject to quotas.
+Industry AIR awards are granted based on merit and are not subject to quotas. In general, 4 candidates can be awarded out of a pool of 20 candidates (20% acceptance rate, based on the 2023-2024 results).
 
 2023-2024 awarded candicates are: Arjun Raj, Liyun Zhu, Liwen Luo, and Qixiang Chen.
 
