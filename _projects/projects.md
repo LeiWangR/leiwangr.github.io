@@ -109,7 +109,7 @@ In this research project, we aim to explore video data optimisation techniques t
 
 <h2>Bachelor & Honours research project</h2>
 
-I am a [registered ANU HDR supervisor](https://services.anu.edu.au/research-support/hdr-supervision-development/hdr-supervision-registration-and-renewal/hdr-1).
+I am a [registered ANU Higher Degree Research (HDR) supervisor](https://services.anu.edu.au/research-support/hdr-supervision-development/hdr-supervision-registration-and-renewal/hdr-1).
 
 If you are an ANU undergraduate seeking an Honors research project, please note that I typically accept a maximum of two Honors students each year to ensure high-quality supervision, and I prefer 24-unit projects.
 
