@@ -47,7 +47,9 @@ I always look for motivated and hardworking students who are interested in doing
 
 <h2>Industry AIR Awards for Students</h2>
 
-I annually organize multiple industry research awards to support promising research candidates (Bachelor's, Honours, and Master's Students) interested in my research areas.
+I annually organize multiple industry research awards to support promising research candidates (Bachelor's, Honours, and Master's Students) interested in my research areas. 
+
+Please note that only students from the Group of Eight (Go8) Australian universities are considered.
 
 The Active Intelligence Research Challenge Award (**Industry AIR Award**) was established by Lei Wang and Francis Williams to honor individuals who have demonstrated exceptional dedication, expertise, and a commitment to excellence in the field of Artificial Intelligence and Machine Learning. 
 
@@ -55,7 +57,7 @@ The Industry AIR Award includes a cash prize (up to $5,000) along with a researc
 
 Industry AIR Awards are granted solely on merit and are not subject to quotas. Typically, four candidates can receive awards from a pool of 20 candidates (with a minimum GPA of 6.75/7), resulting in an approximate acceptance rate of 20%, based on the 2023-2024 results.
 
-For more information regarding the application process, please contact the awarded candidates before reaching out to me.
+For more information regarding the application and award process, please contact the awarded candidates before reaching out to me.
 
 - <font color="green"> 2023-2024 awarded ANU international students are: Mr. Arjun Raj, Mr. Liyun Zhu, Mr. Liwen Luo, and Mr. Qixiang Chen. </font>
 
