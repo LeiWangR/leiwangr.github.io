@@ -43,7 +43,7 @@ author_profile: true
 <!--   * Human-related anomaly detection in surveillance videos -->
 <!--   * Research student: [Supasun Khumpraphan](https://micsupasun.github.io/) -->
 
-I always look for motivated and hardworking students who are interested in doing research with me. However, you must have good mathematical and computational skills, preferably with prior experience in machine learning and/or computer vision. Strong programming skills in Python, Matlab, and/or TensorFlow are a must, and hands-on deep learning know-how is important too. Integrity, honesty, the ability to work under pressure, and the ability to explore while following strict directions are all essential.
+I always look for motivated and hardworking students who are interested in doing research with me. However, applicants must possess good mathematical and computational skills, preferably with prior experience in machine learning and/or computer vision. Strong programming skills in Python, Matlab, and/or TensorFlow are essential, and hands-on deep learning expertise is important as well. Additionally, integrity, honesty, the ability to work under pressure, and the capacity to explore while adhering to strict directions are all essential qualities.
 
 <h2>Industry AIR Awards for Students</h2>
 
@@ -109,9 +109,9 @@ In this research project, we aim to explore video data optimisation techniques t
 
 <h2>Bachelor & Honours research project</h2>
 
-If you are an ANU undergraduate looking for an Honors research project, please note that I usually take a maximum of 2 honors students each year (for the purpose of high-quality supervision), and 24-unit projects are preferred.
+If you are an ANU undergraduate seeking an Honors research project, please note that I typically accept a maximum of two Honors students each year to ensure high-quality supervision, and I prefer 24-unit projects.
 
-If you are an ANU master's student looking for individual projects, you should have some research background, a good GPA, and coding abilities. You should also have sufficient time for research.
+If you are an ANU master's student seeking individual projects, I require candidates to have a solid research background, a strong GPA, and proficient coding skills. Additionally, it is important that you have adequate time available for research.
 
 
 <h2>Research grant / award / funding</h2>
