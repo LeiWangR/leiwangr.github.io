@@ -71,11 +71,6 @@ For more information regarding the application and award process, please contact
   - <font color="blue"> Mr. Zerui Wang (The University of Western Australia, Bachelor of Science), 16/06/2023 - 19/07/2023.</font>
 
 
-<h2>Bachelor & Honours research project</h2>
-
-If you are an ANU undergraduate looking for an Honors research project, please note that I usually take a maximum of 2 honors students each year (for the purpose of high-quality supervision), and 24-unit projects are preferred.
-
-If you are an ANU master's student looking for individual projects, you should have some research background, a good GPA, and coding abilities. You should also have sufficient time for research.
 
 <h2>ANU Summer Research Scholars Program</h2>
 
@@ -110,6 +105,13 @@ Moving cameras, challenging natural dynamics e.g., rainy, snowy, reflection, etc
 Further challenging issues including the label errors and noisy ground truths, and the labeling process for video contents is even more labor-intensive and tedious.
 Many video data optimisation methods have been proposed in the literature for training robust video models, for example, video data augmentation is widely used in video model training. Generic video augmentation uses some basic video transformations such as geometric, color space, temporal, erasing and mixing, e.g., video data augmentation via temporal cropping. However, these augmentation methods are still unable to address the video data quality issues as they simply create a large number of diverse video contents with different focuses which still highly rely on the quality of original video data.
 In this research project, we aim to explore video data optimisation techniques that are able to improve the model performance for downstream video processing tasks such as human action recognition and anomaly detection. We also explore (i) the influence of training videos on the prediction of a test video (ii) how each individual training video affect the generalisation ability of a model and (iii) do we need all the video data in the training set or shall we drop unfavorable video samples and how. -->
+
+
+<h2>Bachelor & Honours research project</h2>
+
+If you are an ANU undergraduate looking for an Honors research project, please note that I usually take a maximum of 2 honors students each year (for the purpose of high-quality supervision), and 24-unit projects are preferred.
+
+If you are an ANU master's student looking for individual projects, you should have some research background, a good GPA, and coding abilities. You should also have sufficient time for research.
 
 
 <h2>Research grant / award / funding</h2>
