@@ -59,14 +59,14 @@ Industry AIR Awards are granted solely on merit and are not subject to quotas. T
 
 For more information regarding the application and award process, please contact the awarded candidates before reaching out to me.
 
-- <font color="green"> 2023-2024 awarded ANU international students are:</font>
-  - <font color="green"> Mr. Arjun Raj (Bachelor of Advanced Computing (Research and Development) (Honours)),</font>
-  - <font color="green"> Mr. Liyun Zhu (Master of Machine Learning and Computer Vision),</font>
-  - <font color="green"> Mr. Liwen Luo (Master of Machine Learning and Computer Vision), and </font>
-  - <font color="green"> Mr. Qixiang Chen (Bachelor of Advanced Computing (Honours)). </font>
+- <font color="blue"> 2023-2024 awarded ANU international students are:</font>
+  - <font color="blue"> Mr. Arjun Raj (Bachelor of Advanced Computing (Research and Development) (Honours)),</font>
+  - <font color="blue"> Mr. Liyun Zhu (Master of Machine Learning and Computer Vision),</font>
+  - <font color="blue"> Mr. Liwen Luo (Master of Machine Learning and Computer Vision), and </font>
+  - <font color="blue"> Mr. Qixiang Chen (Bachelor of Advanced Computing (Honours)). </font>
 
-- <font color="green"> Visiting student: </font>
-  - <font color="green"> Mr. Zerui Wang (The University of Western Australia, Bachelor of Science), 16/06/2023 - 19/07/2023.</font>
+- <font color="blue"> Visiting student: </font>
+  - <font color="blue"> Mr. Zerui Wang (The University of Western Australia, Bachelor of Science), 16/06/2023 - 19/07/2023.</font>
 
 
 <h2>Bachelor & Honours research project</h2>
@@ -83,8 +83,8 @@ The SRS scholarship includes board and on-campus accommodation for 9 weeks (run 
 
 For more details, please refer to [Summer Research Scholarships](https://cecc.anu.edu.au/current-students/research-opportunities/summer-research-scholarships). You can find my research projects by visiting [2023-2024 ANU CECC SRS Projects Page](https://cecc.anu.edu.au/current-students/research-opportunities/summer-research-projects-2023), get in touch if you are interested.
 
-- <font color="green"> 2023-2024 awarded ANU domestic student: </font>
-  - <font color="green"> Mr. Xiuyuan (Jack) Yuan (Bachelor of Advanced Computing). </font> <font color="red"> Thanks to the ANU School of Computing for providing research funding.</font>
+- <font color="blue"> 2023-2024 awarded ANU domestic student: </font>
+  - <font color="blue"> Mr. Xiuyuan (Jack) Yuan (Bachelor of Advanced Computing). </font> <font color="red"> Thanks to the ANU School of Computing for providing research funding.</font>
 
 
 <!-- * Project 1: Video dynamics distillation -->
