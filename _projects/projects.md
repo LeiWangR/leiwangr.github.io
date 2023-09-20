@@ -61,7 +61,7 @@ For more information regarding the application and award process, please contact
 
 - <font color="green"> 2023-2024 awarded ANU international students are: Mr. Arjun Raj (Bachelor of Advanced Computing (Research and Development) (Honours)), Mr. Liyun Zhu (Master of Machine Learning and Computer Vision), Mr. Liwen Luo (Master of Machine Learning and Computer Vision), and Mr. Qixiang Chen (Bachelor of Advanced Computing (Honours)). </font>
 
-- <font color="green"> Visting student: Mr. Zerui Wang (The University of Western Australia, Bachelor of Science), 16/06/2023 - 19/07/2023.</font>
+- <font color="green"> Visiting student: Mr. Zerui Wang (The University of Western Australia, Bachelor of Science), 16/06/2023 - 19/07/2023.</font>
 
 
 <h2>Bachelor & Honours research project</h2>
