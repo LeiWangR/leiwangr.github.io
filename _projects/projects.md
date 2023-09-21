@@ -65,7 +65,7 @@ For more information regarding the application and award process, please contact
   - <font color="blue"> Mr. Arjun Raj (Bachelor of Advanced Computing (Research and Development) (Honours)),</font>
   - <font color="blue"> Mr. Liyun Zhu (Master of Machine Learning and Computer Vision),</font>
   - <font color="blue"> Mr. Liwen Luo (Master of Machine Learning and Computer Vision), and </font>
-  - <font color="blue"> Mr. Qixiang Chen (Bachelor of Advanced Computing (Honours)). </font>
+  - <font color="blue"> [Mr. Qixiang Chen](https://www.linkedin.com/in/qixiang-chen-23ab2826b/) (Bachelor of Advanced Computing (Honours)). </font>
 
 - <font color="blue"> Visiting student: </font>
   - <font color="blue"> Mr. Zerui Wang (The University of Western Australia, Bachelor of Science), 16/06/2023 - 19/07/2023.</font>
