@@ -133,7 +133,7 @@ You can find my published articles on my [Google Scholar](https://scholar.google
 				<div class="gs_gray"><strong>L Wang</strong></div>
 				<div class="gs_gray">Technical Report</div>
 			</td>
-			<td class="gsc_a_c">The author performed the work as a UWA master’s student (for CITS5502 Software Processes unit in 2017)</td>
+			<td class="gsc_a_c">The author conducted this work while enrolled as a master's student at UWA, specifically for the CITS5502 Software Processes unit in 2017.</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2023</span></td>
 		</tr>
 		<tr class="gsc_a_tr" style="background-color:#E0FFFF">
