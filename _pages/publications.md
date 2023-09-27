@@ -128,14 +128,6 @@ You can find my published articles on my [Google Scholar](https://scholar.google
 <h3>arXiv preprints</h3>
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
-		<tr class="gsc_a_tr">
-			<td class="gsc_a_t"><a href="https://www.researchgate.net/publication/374227586_AI_in_Software_Engineering_Case_Studies_and_Prospects"><strong><span class="gsc_a_at">AI in Software Engineering: Case Studies and Prospects</span></strong></a>
-				<div class="gs_gray"><strong>L Wang</strong></div>
-				<div class="gs_gray">Technical Report</div>
-			</td>
-			<td class="gsc_a_c">The author conducted this work while enrolled as a master's student at UWA, specifically for the CITS5502 Software Processes unit in 2017.</td>
-			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2023</span></td>
-		</tr>
 		<tr class="gsc_a_tr" style="background-color:#E0FFFF">
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2112.12668.pdf"><strong><span class="gsc_a_at">3D Skeleton-based Few-shot Action Recognition with JEANIE is not so Naïve</span></strong></a>
 				<div class="gs_gray"><strong>L Wang</strong>, J Liu, P Koniusz</div>
@@ -151,6 +143,14 @@ You can find my published articles on my [Google Scholar](https://scholar.google
 			</td>
 			<td class="gsc_a_c">(an extension of our TPAMI&#39;20)<br><a href="https://github.com/LeiWangR/HoTP" style="color:#000000;">Code (preprocessing)</a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2021</span></td>
+		</tr>
+		<tr class="gsc_a_tr">
+			<td class="gsc_a_t"><a href="https://www.researchgate.net/publication/374227586_AI_in_Software_Engineering_Case_Studies_and_Prospects"><strong><span class="gsc_a_at">AI in Software Engineering: Case Studies and Prospects</span></strong></a>
+				<div class="gs_gray"><strong>L Wang</strong></div>
+				<div class="gs_gray">Technical Report</div>
+			</td>
+			<td class="gsc_a_c">The author conducted this work while enrolled as a master's student at UWA, specifically for the CITS5502 Software Processes unit in 2017.</td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2017</span></td>
 		</tr>
 	</tbody>
 </table>
