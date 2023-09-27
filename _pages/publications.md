@@ -129,7 +129,7 @@ You can find my published articles on my [Google Scholar](https://scholar.google
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr">
-			<td class="gsc_a_t"><a href=""><strong><span class="gsc_a_at">AI in Software Engineering: Case Studies and Prospects</span></strong></a>
+			<td class="gsc_a_t"><a href="https://www.researchgate.net/publication/374227586_AI_in_Software_Engineering_Case_Studies_and_Prospects"><strong><span class="gsc_a_at">AI in Software Engineering: Case Studies and Prospects</span></strong></a>
 				<div class="gs_gray"><strong>L Wang</strong></div>
 				<div class="gs_gray">Technical Report</div>
 			</td>
