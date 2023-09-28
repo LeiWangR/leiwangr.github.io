@@ -147,7 +147,7 @@ You can find my published articles on my [Google Scholar](https://scholar.google
 		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://www.researchgate.net/publication/374227586_AI_in_Software_Engineering_Case_Studies_and_Prospects"><strong><span class="gsc_a_at">AI in Software Engineering: Case Studies and Prospects</span></strong></a>
 				<div class="gs_gray"><strong>L Wang</strong></div>
-				<div class="gs_gray">Technical Report</div>
+				<div class="gs_gray">Technical Report, arXiv preprint arXiv:2309.15768</div>
 			</td>
 			<td class="gsc_a_c">The author conducted this work while enrolled as a master's student at UWA, specifically for the CITS5502 Software Processes unit in 2017.</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2017</span></td>
