@@ -145,7 +145,7 @@ You can find my published articles on my [Google Scholar](https://scholar.google
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2021</span></td>
 		</tr>
 		<tr class="gsc_a_tr">
-			<td class="gsc_a_t"><a href="https://www.researchgate.net/publication/374227586_AI_in_Software_Engineering_Case_Studies_and_Prospects"><strong><span class="gsc_a_at">AI in Software Engineering: Case Studies and Prospects</span></strong></a>
+			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2309.15768.pdf"><strong><span class="gsc_a_at">AI in Software Engineering: Case Studies and Prospects</span></strong></a>
 				<div class="gs_gray"><strong>L Wang</strong></div>
 				<div class="gs_gray">Technical Report, arXiv preprint arXiv:2309.15768</div>
 			</td>
