@@ -159,7 +159,8 @@ You can find my published articles on my [Google Scholar](https://scholar.google
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr" style="background-color:#FFE4E1">
-			<td class="gsc_a_t"><a href="https://www.researchgate.net/profile/Lei_Wang51/publication/332369012_Analysis_and_Evaluation_of_Kinect-based_Action_Recognition_Algorithms/links/5cb001be4585156cd7916b18/Analysis-and-Evaluation-of-Kinect-based-Action-Recognition-Algorithms.pdf"><strong><span class="gsc_a_at">Analysis and Evaluation of Kinect-based Action Recognition Algorithms</span></strong></a><br />
+			<!-- https://www.researchgate.net/profile/Lei_Wang51/publication/332369012_Analysis_and_Evaluation_of_Kinect-based_Action_Recognition_Algorithms/links/5cb001be4585156cd7916b18/Analysis-and-Evaluation-of-Kinect-based-Action-Recognition-Algorithms.pdf -->
+			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2112.08626.pdf"><strong><span class="gsc_a_at">Analysis and Evaluation of Kinect-based Action Recognition Algorithms</span></strong></a><br />
 				<div class="gs_gray"><strong>L Wang</strong></div>
 				<div class="gs_gray">Master&rsquo;s thesis, School of the Computer Science and Software Engineering, The University of Western Australia</div>
 			</td>
