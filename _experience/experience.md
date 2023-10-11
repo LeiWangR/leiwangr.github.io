@@ -20,7 +20,7 @@ I am also working to bridge the gap between academic research and industry resea
 * *05/07/2021-<font color="blue">present</font>*: **Computer Scientist** (contract)
   * Active Intelligence Australia Pty Ltd, Perth, Western Australia (WA)
   * Country manager: [Mr. Francis Williams](https://www.linkedin.com/in/williamsfrancis/) <!--  CEO: [Mr. Kenneth LaMarca](https://www.linkedin.com/in/ken-lamarca-a021a2/) -->
-  * <font color="red">Filed a patent [US provisional patent, SN 63/326,525]</font>
+  * <font color="red">Filed a <strong>patent</strong> [US provisional patent, SN 63/326,525]</font>
   * <font color="red">Raised 1.2 million US dollars (~1.79 million Australian dollars)</font>
   * <font color="red">Granted <strong> the Incentive Unit Award </strong>(09/09/2022-08/09/2032)</font>
   * <font color="red">Francis and I established the Active Intelligence Research Challenge Award (Industry AIR Award, 01/08/2023-present)</font>
@@ -32,13 +32,13 @@ I am also working to bridge the gap between academic research and industry resea
 * *22/07/2019-28/09/2020*: **Machine Learning / Computer Vision Researcher** (Casual Appointment, 20%)
   * iCetana Pty Ltd, Perth, WA
   * Manager: [Mr. Graeme Woods](https://www.linkedin.com/in/graeme-woods-877608213/) (iCetana’s former Head of Product)
-  * <font color="red">Filed a provisional patent [AU Patent AU 2,019,903,775]</font>
+  * <font color="red">Filed a provisional <strong>patent</strong> [AU Patent AU 2,019,903,775]</font>
 
 * *02/07/2018-19/07/2019*: **Computer Vision Research Intern** (full-time)
   * iCetana Pty Ltd, Perth, WA
   * Supervisor: [Dr. Moussa Reda Mansour](https://scholar.google.com/citations?user=3WWA0FMAAAAJ&hl=en) (iCetana’s former Research & Development Lead) 
   * Manager: Mr. Graeme Woods (iCetana’s former Head of Product)
-  * <font color="red">Filed a provisional patent [AU Patent AU 2,019,900,316]</font>
+  * <font color="red">Filed a provisional <strong>patent</strong> [AU Patent AU 2,019,900,316]</font>
 
 <h2>Academic research</h2>
 
@@ -46,9 +46,10 @@ I am also working to bridge the gap between academic research and industry resea
   * School of Computing, ANU College of Engineering, Computing and Cybernetics
   * Postdoc advisor: [Dr. Liang Zheng](https://zheng-lab.cecs.anu.edu.au/) (ANU) and [Prof. Tom Gedeon](https://staffportal.curtin.edu.au/staff/profile/view/tom-gedeon-5e48a1fd/) (Curtin University)
   * <font color="red"><strong>Grant</strong>: I am a Co-Investigator (Co-I) on 'Sharing early insights for more resilient communities'</font>
-  * <font color="red"><strong>Grant / Project Award from Oracle (AU$48,000) </strong> for Research on 'Automatic, large-scale screening of failure cases in autonomous driving' </font>
+  * <font color="red"><strong>Grant / Project Award from Oracle</strong> (AU$48,000) for Research on 'Automatic, large-scale screening of failure cases in autonomous driving' </font>
   * <font color="red"><strong>Invited talk</strong> on 'Action Recognition: Past, Present and Future' hosted by Harbin Institute of Technology, Shenzhen, China </font>
-  * <font color="red"><strong>NCI Adaptater Scheme Q4 2023 (HPC funding scheme)</strong>: I am a Chief Investigator (CI) on 'Towards building general-purpose multimodal foundation models'</font>
+  * <font color="red">NCI Adaptater Scheme Q4 2023 (<strong>HPC funding scheme</strong>): I am a Chief Investigator (CI) on 'Towards building general-purpose multimodal foundation models'</font>
+  * <font color="red">I am serving as an <strong>Area Chair</strong> for ICPR 2024</font>
 
 * *30/06/2023-<font color="blue">present</font>*: **Visiting Scientist**
   * Machine Learning Research Group (MLRG), Data61/CSIRO (Black Mountain ACT)
