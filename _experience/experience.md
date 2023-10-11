@@ -23,7 +23,7 @@ I am also working to bridge the gap between academic research and industry resea
   * <font color="red">Filed a patent [US provisional patent, SN 63/326,525]</font>
   * <font color="red">Raised 1.2 million US dollars (~1.79 million Australian dollars)</font>
   * <font color="red">Granted <strong> the Incentive Unit Award </strong>(09/09/2022-08/09/2032)</font>
-  * <font color="red">Francis and I established the Active Intelligence Research Challenge Award (Industry AIR Award, 18/09/2023-present) </font>.
+  * <font color="red">Francis and I established the Active Intelligence Research Challenge Award (Industry AIR Award, 01/08/2023-present)</font>
 
 * *28/09/2020-28/01/2021*: **Machine Learning Researcher** (contract)
   * Ebenezer Technologies, Barranquilla, Colombia
