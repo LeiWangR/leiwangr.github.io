@@ -87,6 +87,8 @@ I regularly review technical papers for the following journals, conferences & wo
   * Vision Datasets Understanding (1st VDU at CVPR 2022, 2nd VDU at CVPR 2023),
   * The AI City Challenge Workshop at CVPR 2023
 
+I am an **Area Chair** for the 27th International Conference on Pattern Recognition (ICPR 2024).
+
 
 <h2>Teaching</h2>
 
