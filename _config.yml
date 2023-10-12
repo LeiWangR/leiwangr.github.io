@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Lei Wang"
-  avatar           : "lw.jpg" # "leiwang.jpg" # "lei-wang.jpg"
+  avatar           : "lei-small.png" # "leiwang.jpg" # "lei-wang.jpg"
   bio              : "Research Fellow at ANU, Visiting Scientist at Data61/CSIRO"
   location         : # "Room N218, CSIT Building" # "Canberra ACT 2601"
   employer         : "ANU & Data61/CSIRO" # "ANU" # "ANU, Canberra ACT 2601"  
