@@ -154,7 +154,7 @@ You can find my published articles on my [Google Scholar](https://scholar.google
 		</tr>
 		<tr class="gsc_a_tr" style="background-color:#E0FFFF">
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2110.05216v3.pdf"><strong><span class="gsc_a_at">High-order Tensor Pooling with Attention for Action Recognition</span></strong></a>
-				<div class="gs_gray">P Koniusz, <strong>L Wang</strong>, K Sun</div>
+				<div class="gs_gray"><strong>L Wang</strong>, P Koniusz, K Sun</div>
 				<div class="gs_gray">arXiv preprint arXiv:2110.05216</div>
 			</td>
 			<td class="gsc_a_c">(an extension of our TPAMI&#39;20)<br><a href="https://github.com/LeiWangR/HoTP" style="color:#000000;">Code (preprocessing)</a></td>
