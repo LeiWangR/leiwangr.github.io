@@ -62,6 +62,7 @@ He is an IEEE Student Member and an ACM Student Member. -->
 
 <ul>
 <!-- 	<li><a href="https://scholar.google.com/citations?user=VWCZLXgAAAAJ&amp;hl=en">Google Scholar</a></li> -->
+  <li><a href="../files/lei-cv.pdf">Lei's CV</a></li>
   <li><a href="https://cecc.anu.edu.au/people/lei-wang">Lei's ANU student profile</a></li> 
 	<li><a href="https://researchers.anu.edu.au/researchers/wang-lxxxxxxx">Lei's ANU researcher profile</a></li>
   <li><a href="https://people.csiro.au/W/L/lei-wang">Lei's CSIRO's Data61 profile</a></li>
