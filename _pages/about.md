@@ -29,7 +29,7 @@ a:active {
 
 <!-- style="color: blue" -->
 
-<a href="../files/lei-cv.pdf" style="color: blue">[CV]</a> <a href="https://scholar.google.com/citations?user=VWCZLXgAAAAJ&hl=en" style="color: blue">[Google Scholar]</a>
+<a href="../files/lei-cv.pdf" style="color: blue">[CV]</a> <a href="https://scholar.google.com/citations?user=VWCZLXgAAAAJ&hl=en" style="color: blue">[Google Scholar]</a> <a href="https://cecc.anu.edu.au/people/lei-wang" style="color: blue">[Student Profile]</a> <a href="https://researchers.anu.edu.au/researchers/wang-lxxxxxxx" style="color: blue"> [ANU Researcher Profile]</a> <a href="https://people.csiro.au/W/L/lei-wang" style="color: blue">[CSIRO's Data61 Profile]</a>
 
 Lei Wang serves as a Research Fellow at the School of Computing, within the ANU College of Engineering, Computing, and Cybernetics. He is under the guidance of [Dr. Liang Zheng](https://zheng-lab.cecs.anu.edu.au/) (ANU) and [Prof. Tom Gedeon](https://staffportal.curtin.edu.au/staff/profile/view/tom-gedeon-5e48a1fd/) (Curtin University).
 
@@ -81,15 +81,14 @@ He is an IEEE Student Member and an ACM Student Member. -->
 
 <!-- <p>&nbsp;</p> -->
 
-<h2>Related Links</h2>
+<!-- <h2>Related Links</h2> -->
 
-<ul>
+<!-- <ul> -->
 <!-- 	<li><a href="https://scholar.google.com/citations?user=VWCZLXgAAAAJ&amp;hl=en">Google Scholar</a></li> -->
-<!--   <li></li> -->
-  <li><a href="https://cecc.anu.edu.au/people/lei-wang">Lei's ANU student profile</a></li> 
-	<li><a href="https://researchers.anu.edu.au/researchers/wang-lxxxxxxx">Lei's ANU researcher profile</a></li>
-  <li><a href="https://people.csiro.au/W/L/lei-wang">Lei's CSIRO's Data61 profile</a></li>
-</ul>
+<!--  <li><a href="https://cecc.anu.edu.au/people/lei-wang">Lei's ANU student profile</a></li> -->
+<!--	<li><a href="https://researchers.anu.edu.au/researchers/wang-lxxxxxxx">Lei's ANU researcher profile</a></li> -->
+<!--  <li><a href="https://people.csiro.au/W/L/lei-wang">Lei's CSIRO's Data61 profile</a></li> -->
+<!-- </ul> -->
 
 <!--<p>&nbsp;</p>
 
