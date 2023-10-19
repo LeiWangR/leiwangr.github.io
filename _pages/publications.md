@@ -5,6 +5,24 @@ permalink: /publications/
 author_profile: true
 ---
 
+<style>
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: underline;
+}
+</style>
+
 <!-- {% if author.googlescholar %}
   You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=VWCZLXgAAAAJ&hl=en).
 {% endif %}
