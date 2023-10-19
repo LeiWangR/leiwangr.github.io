@@ -38,10 +38,10 @@ I am also working to bridge the gap between academic research and industry resea
 * *05/07/2021-<font color="blue">present</font>*: **Computer Scientist** (contract)
   * Active Intelligence Australia Pty Ltd, Perth, Western Australia (WA)
   * Country manager: [Mr. Francis Williams](https://www.linkedin.com/in/williamsfrancis/) <!--  CEO: [Mr. Kenneth LaMarca](https://www.linkedin.com/in/ken-lamarca-a021a2/) -->
-  * <font color="red">Filed a <strong>patent</strong> [US provisional patent, SN 63/326,525]</font>
-  * <font color="red">Raised 1.2 million US dollars (~1.79 million Australian dollars)</font>
-  * <font color="red">Granted <strong> the Incentive Unit Award </strong>(09/09/2022-08/09/2032)</font>
   * <font color="red">Francis and I established the Active Intelligence Research Challenge Award (Industry AIR Award, 01/08/2023-present)</font>
+  * <font color="red">Granted <strong> the Incentive Unit Award </strong>(09/09/2022-08/09/2032)</font>
+  * <font color="red">Raised 1.2 million US dollars (~1.79 million Australian dollars)</font>
+  * <font color="red">Filed a <strong>patent</strong> [US provisional patent, SN 63/326,525]</font>
 
 * *28/09/2020-28/01/2021*: **Machine Learning Researcher** (contract)
   * Ebenezer Technologies, Barranquilla, Colombia
@@ -63,11 +63,11 @@ I am also working to bridge the gap between academic research and industry resea
 * *20/02/2023-<font color="blue">present</font>*: **Research Fellow** (full-time)
   * School of Computing, ANU College of Engineering, Computing and Cybernetics
   * Postdoc advisor: [Dr. Liang Zheng](https://zheng-lab.cecs.anu.edu.au/) (ANU) and [Prof. Tom Gedeon](https://staffportal.curtin.edu.au/staff/profile/view/tom-gedeon-5e48a1fd/) (Curtin University)
-  * <font color="red"><strong>Grant</strong>: I am a Co-Investigator (Co-I) on 'Sharing early insights for more resilient communities'</font>
+  * <font color="red">I am serving as an <strong>Area Chair</strong> for ICPR 2024</font>
+  * <font color="red">NCI Adaptater Scheme Q4 2023 (<strong>HPC funding scheme</strong>): I am a Chief Investigator (CI) on 'Towards building general-purpose multimodal foundation models'</font>
   * <font color="red"><strong>Grant / Project Award from Oracle</strong> (AU$48,000) for Research on 'Automatic, large-scale screening of failure cases in autonomous driving' </font>
   * <font color="red"><strong>Invited talk</strong> on 'Action Recognition: Past, Present and Future' hosted by Harbin Institute of Technology, Shenzhen, China </font>
-  * <font color="red">NCI Adaptater Scheme Q4 2023 (<strong>HPC funding scheme</strong>): I am a Chief Investigator (CI) on 'Towards building general-purpose multimodal foundation models'</font>
-  * <font color="red">I am serving as an <strong>Area Chair</strong> for ICPR 2024</font>
+  * <font color="red"><strong>Grant</strong>: I am a Co-Investigator (Co-I) on 'Sharing early insights for more resilient communities'</font>
 
 * *30/06/2023-<font color="blue">present</font>*: **Visiting Scientist**
   * Machine Learning Research Group (MLRG), Data61/CSIRO (Black Mountain ACT)
@@ -78,8 +78,9 @@ I am also working to bridge the gap between academic research and industry resea
     * Chair of panel: [Prof. Stephen Gould](http://users.cecs.anu.edu.au/~sgould/) (ANU)
     * Primary supervisor: [Dr. Piotr Koniusz](http://users.cecs.anu.edu.au/~koniusz/) (Data61/CSIRO & ANU)
     * Associate supervisor: Dr. Liang Zheng (ANU)
-  * <font color="red">One paper each published at CVPR, ICCV, ECCV, ACM-MM, TPAMI & TIP</font>
   * <font color="red">Received <strong>the Sang Uk Lee Best Student Paper Award</strong> from ACCV’22</font>
+  * <font color="red">One paper each published at CVPR, ICCV, ECCV, ACM-MM, TPAMI & TIP</font>
+  
 
 * *10/10/2018-09/10/2019*: **Visiting Researcher**
   * Department of Computer Science and Software Engineering (CSSE), The University of Western Australia (UWA)
