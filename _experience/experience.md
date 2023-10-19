@@ -8,6 +8,24 @@ author_profile: true
 <!-- Research experience
 ====== -->
 
+<style>
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: underline;
+}
+</style>
+
 In academia, I focus on hypothesizing, conducting research, publishing papers, and teaching to advance the field of knowledge.
 
 In industry, I concentrate on developing new products and technologies, applying science to solve marketplace problems, and collaborating with team members to create innovative solutions that will benefit the company financially.
