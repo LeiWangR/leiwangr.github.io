@@ -8,9 +8,27 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+a:link {
+  text-decoration: none;
+}
 
+a:visited {
+  text-decoration: none;
+}
 
-<a href="../files/lei-cv.pdf" style="text-decoration:none" style="color: blue">[CV]</a> <a href="https://scholar.google.com/citations?user=VWCZLXgAAAAJ&hl=en" style="text-decoration:none" style="color: blue">[Google Scholar]</a>
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: underline;
+}
+</style>
+
+<!-- style="text-decoration:none, color: blue" -->
+
+<a href="../files/lei-cv.pdf">[CV]</a> <a href="https://scholar.google.com/citations?user=VWCZLXgAAAAJ&hl=en">[Google Scholar]</a>
 
 Lei Wang serves as a Research Fellow at the School of Computing, within the ANU College of Engineering, Computing, and Cybernetics. He is under the guidance of [Dr. Liang Zheng](https://zheng-lab.cecs.anu.edu.au/) (ANU) and [Prof. Tom Gedeon](https://staffportal.curtin.edu.au/staff/profile/view/tom-gedeon-5e48a1fd/) (Curtin University).
 
