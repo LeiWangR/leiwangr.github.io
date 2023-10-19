@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+<!DOCTYPE html>
+<html>
+<head>
+
 <style>
 a:link {
   text-decoration: none;
@@ -26,9 +30,9 @@ a:active {
 }
 </style>
 
-<!-- style="text-decoration:none, color: blue" -->
+<!-- style="color: blue" -->
 
-<a href="../files/lei-cv.pdf">[CV]</a> <a href="https://scholar.google.com/citations?user=VWCZLXgAAAAJ&hl=en">[Google Scholar]</a>
+<a href="../files/lei-cv.pdf" style="color: blue">[CV]</a> <a href="https://scholar.google.com/citations?user=VWCZLXgAAAAJ&hl=en" style="color: blue">[Google Scholar]</a>
 
 Lei Wang serves as a Research Fellow at the School of Computing, within the ANU College of Engineering, Computing, and Cybernetics. He is under the guidance of [Dr. Liang Zheng](https://zheng-lab.cecs.anu.edu.au/) (ANU) and [Prof. Tom Gedeon](https://staffportal.curtin.edu.au/staff/profile/view/tom-gedeon-5e48a1fd/) (Curtin University).
 
@@ -94,3 +98,6 @@ He is an IEEE Student Member and an ACM Student Member. -->
 
 <a name="myfootnote1">1</a>: <font size="3" color="blue">ANU is ranked 27th in the world & 1st in Australia by the 2023 QS World University Rankings.</font>
 <a name="myfootnote2">2</a>: <font size="3" color="blue">UWA is ranked 90th in the world & 7th in Australia by the 2023 QS World University Rankings.</font>-->
+
+</body>
+</html>
