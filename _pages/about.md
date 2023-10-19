@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<!DOCTYPE html>
-<html>
-<head>
 
 <style>
 a:link {
@@ -99,5 +96,3 @@ He is an IEEE Student Member and an ACM Student Member. -->
 <a name="myfootnote1">1</a>: <font size="3" color="blue">ANU is ranked 27th in the world & 1st in Australia by the 2023 QS World University Rankings.</font>
 <a name="myfootnote2">2</a>: <font size="3" color="blue">UWA is ranked 90th in the world & 7th in Australia by the 2023 QS World University Rankings.</font>-->
 
-</body>
-</html>
