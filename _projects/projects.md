@@ -159,7 +159,7 @@ general-purpose foundation model, we need a unified model architecture that can 
   * The project is to develop and test ‘early warning’ indicators for loss of resilience following challenging climate-related events. These indicators will be used to develop a resource that can be used to by the wide range of organisations and services to identify communities in the early stages of resilience loss and provide targeted support to agricultural communities.
   * Through understanding early warning signs that individuals and communities are at risk of resilience loss, we could inform policy and support service interventions earlier. This would provide communities with the necessary support to mitigate wider and longer lasting resilience loss related to the impacts of a climate events, which in turn, would reduce the overall harm to lives and livelihoods and facilitate resilience building across physical, psychological, social, economic, domains.
  
-* Industry research sponsorship
+* Industry research sponsorship: Detecting anomalies in video footage
   * Research funding (**AU$123,368**, 2021/07/01‐2022/06/30) from Active Intelligence Corp.
   * I am a **Principal Investigator** / **Project Lead**
   * Project: Human‐related anomaly detection in surveillance videos
