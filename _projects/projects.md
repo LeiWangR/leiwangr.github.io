@@ -163,7 +163,7 @@ general-purpose foundation model, we need a unified model architecture that can 
   * I am a **Principal Investigator** / **Project Lead** (**AU$123,368**, 2021/07/01‐2022/06/30)
   * Project: Human‐related anomaly detection in surveillance videos
   * Human-related anomaly detection in surveillance videos is a technology used to identify unusual or suspicious behavior involving people within a monitored environment. It is a subfield of video analytics and computer vision that aims to automatically detect deviations from normal human behavior in real-time or from recorded video footage. The primary goal of human-related anomaly detection is to enhance security, safety, and situational awareness in various applications, such as public safety, retail, transportation, and critical infrastructure protection.
-  * Key components of human-related anomaly detection in surveillance videos include: normal behavior modeling, anomaly detection algorithms, event Classification, real-time alerts, post-event analysis, adaptability, etc.
+  * Key components of human-related anomaly detection in surveillance videos include: normal behavior modeling, anomaly detection algorithms, event classification, real-time alerts, post-event analysis, adaptability, etc.
   * Human-related anomaly detection can be applied in various scenarios, such as identifying potential shoplifting in retail stores, spotting unauthorized personnel in secure areas, detecting accidents or falls in elderly care facilities, or monitoring crowded places for public safety. The technology relies on a combination of machine learning, computer vision, and sensor data to make these determinations, and it plays a vital role in enhancing security and safety in modern surveillance systems.
 
  
