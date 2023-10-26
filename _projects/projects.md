@@ -159,9 +159,8 @@ general-purpose foundation model, we need a unified model architecture that can 
   * The project is to develop and test ‘early warning’ indicators for loss of resilience following challenging climate-related events. These indicators will be used to develop a resource that can be used to by the wide range of organisations and services to identify communities in the early stages of resilience loss and provide targeted support to agricultural communities.
   * Through understanding early warning signs that individuals and communities are at risk of resilience loss, we could inform policy and support service interventions earlier. This would provide communities with the necessary support to mitigate wider and longer lasting resilience loss related to the impacts of a climate events, which in turn, would reduce the overall harm to lives and livelihoods and facilitate resilience building across physical, psychological, social, economic, domains.
  
-* Industry research sponsorship: Detecting anomalies in video footage
-  * Research funding (**AU$123,368**, 2021/07/01‐2022/06/30) from Active Intelligence Corp.
-  * I am a **Principal Investigator** / **Project Lead**
+* Industry research sponsorship (Active Intelligence Corp): Detecting anomalies in video footage
+  * I am a **Principal Investigator** / **Project Lead** (**AU$123,368**, 2021/07/01‐2022/06/30)
   * Project: Human‐related anomaly detection in surveillance videos
   * Human-related anomaly detection in surveillance videos is a technology used to identify unusual or suspicious behavior involving people within a monitored environment. It is a subfield of video analytics and computer vision that aims to automatically detect deviations from normal human behavior in real-time or from recorded video footage. The primary goal of human-related anomaly detection is to enhance security, safety, and situational awareness in various applications, such as public safety, retail, transportation, and critical infrastructure protection.
   * Key components of human-related anomaly detection in surveillance videos include: normal behavior modeling, anomaly detection algorithms, event Classification, real-time alerts, post-event analysis, adaptability, etc.
