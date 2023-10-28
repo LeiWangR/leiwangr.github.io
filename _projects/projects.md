@@ -125,7 +125,7 @@ Many video data optimisation methods have been proposed in the literature for tr
 In this research project, we aim to explore video data optimisation techniques that are able to improve the model performance for downstream video processing tasks such as human action recognition and anomaly detection. We also explore (i) the influence of training videos on the prediction of a test video (ii) how each individual training video affect the generalisation ability of a model and (iii) do we need all the video data in the training set or shall we drop unfavorable video samples and how. -->
 
 
-<h2>Bachelor & Honours research project</h2>
+<h2>Bachelor & Honours Research Project</h2>
 
 I am a [registered ANU Higher Degree Research (HDR) supervisor](https://services.anu.edu.au/research-support/hdr-supervision-development/hdr-supervision-registration-and-renewal/hdr-1).
 
