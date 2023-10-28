@@ -26,6 +26,32 @@ a:active {
 <!-- Paper Reviewing
 ====== -->
 
+<h2>Paper Reviewing</h2>
+
+I have the honor of serving as an **Area Chair** for the 27th International Conference on Pattern Recognition (ICPR 2024) by invitation from [Prof. Cheng-Lin Liu](http://www.nlpr.ia.ac.cn/liucl/) (CASIA).
+
+I regularly review technical papers for the following journals, conferences & workshops. 
+
+<!-- <font color="blue">I write high quality reviews for papers in my research interests, e.g., action recognition, anomaly detection, one- and few-shot learning, deep learning, tensor learning, domain adaptation, etc.</font> -->
+
+* **Journals**:
+  * IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), International Journal of Computer Vision (IJCV), 
+  * IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), IEEE Transactions on Multimedia (T-MM), Pattern Recognition (PR), Computer Vision and Image Understanding (CVIU),
+  * Neural Computing and Applications (NCAA), Journal of Visual Communication and Image Representation (JVCI), Signal, Image and Video Processing (SIVP),
+  * The Visual Computer (TVCJ), IET Computer Vision, Electronics Letters
+ 
+* **Conferences**:
+  * ICLR 2024, AAAI 2024, NeurIPS 2023, ICML 2023, ICLR 2023, AAAI 2023, NeurIPS 2022, AAAI 2022, ICML 2022, 
+  * ICCV 2023, CVPR 2023, CVPR 2022, ECCV 2022 (<strong><font color="red">outstanding reviewer</font></strong>),
+  * WACV 2024, BMVC 2023, BMVC 2022, BMVC 2021, BMVC 2020,
+  * IEEE Conference on Artificial Intelligence (IEEE CAI 2023)
+
+* **Workshops**:
+  * Deep Vision Workshop (CVPR 2020), 
+  * Vision Datasets Understanding (1st VDU at CVPR 2022, 2nd VDU at CVPR 2023),
+  * The AI City Challenge Workshop at CVPR 2023
+ 
+
 <h2>Invited Talk</h2>
 
 <!-- <font size="5"> -->
@@ -80,31 +106,6 @@ a:active {
     <td>Oct 2017</td>
   </tr>
 </table>
-
-<h2>Paper Reviewing</h2>
-
-I have the honor of serving as an **Area Chair** for the 27th International Conference on Pattern Recognition (ICPR 2024) by invitation from [Prof. Cheng-Lin Liu](http://www.nlpr.ia.ac.cn/liucl/) (CASIA).
-
-I regularly review technical papers for the following journals, conferences & workshops. 
-
-<!-- <font color="blue">I write high quality reviews for papers in my research interests, e.g., action recognition, anomaly detection, one- and few-shot learning, deep learning, tensor learning, domain adaptation, etc.</font> -->
-
-* **Journals**:
-  * IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), International Journal of Computer Vision (IJCV), 
-  * IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), IEEE Transactions on Multimedia (T-MM), Pattern Recognition (PR), Computer Vision and Image Understanding (CVIU),
-  * Neural Computing and Applications (NCAA), Journal of Visual Communication and Image Representation (JVCI), Signal, Image and Video Processing (SIVP),
-  * The Visual Computer (TVCJ), IET Computer Vision, Electronics Letters
- 
-* **Conferences**:
-  * ICLR 2024, AAAI 2024, NeurIPS 2023, ICML 2023, ICLR 2023, AAAI 2023, NeurIPS 2022, AAAI 2022, ICML 2022, 
-  * ICCV 2023, CVPR 2023, CVPR 2022, ECCV 2022 (<strong><font color="red">outstanding reviewer</font></strong>),
-  * WACV 2024, BMVC 2023, BMVC 2022, BMVC 2021, BMVC 2020,
-  * IEEE Conference on Artificial Intelligence (IEEE CAI 2023)
-
-* **Workshops**:
-  * Deep Vision Workshop (CVPR 2020), 
-  * Vision Datasets Understanding (1st VDU at CVPR 2022, 2nd VDU at CVPR 2023),
-  * The AI City Challenge Workshop at CVPR 2023
 
 
 <h2>Teaching</h2>
