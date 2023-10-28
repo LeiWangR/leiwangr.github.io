@@ -35,7 +35,7 @@ a:active {
 
 <!-- You can find my published articles on my [Google Scholar](https://scholar.google.com/citations?user=VWCZLXgAAAAJ&hl=en) profile. -->
 
-<h3>Conference/journal papers</h3>
+<h3>Conference/Journal Papers</h3>
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr" style="background-color:#E0FFFF">
@@ -142,6 +142,20 @@ a:active {
 		</tr>
 	</tbody>
 </table>
+<h3>Theses</h3>
+<table id="gsc_a_t">
+	<tbody id="gsc_a_b">
+		<tr class="gsc_a_tr" style="background-color:#FFE4E1">
+			<!-- https://www.researchgate.net/profile/Lei_Wang51/publication/332369012_Analysis_and_Evaluation_of_Kinect-based_Action_Recognition_Algorithms/links/5cb001be4585156cd7916b18/Analysis-and-Evaluation-of-Kinect-based-Action-Recognition-Algorithms.pdf -->
+			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2112.08626.pdf"><strong><span class="gsc_a_at">Analysis and Evaluation of Kinect-based Action Recognition Algorithms</span></strong></a><br />
+				<div class="gs_gray"><strong>L Wang</strong></div>
+				<div class="gs_gray">Master&rsquo;s thesis, School of the Computer Science and Software Engineering, The University of Western Australia</div>
+			</td>
+<!-- 			<td class="gsc_a_c">&nbsp;</td> -->
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2017</span></td>
+		</tr>
+	</tbody>
+</table>
 <!-- <p>&nbsp;</p> -->
 <h3>arXiv preprints</h3>
 <table id="gsc_a_t">
@@ -189,20 +203,6 @@ a:active {
 	</tbody>
 </table>
 <!-- <p>&nbsp;</p> -->
-<h3>Master&rsquo;s thesis</h3>
-<table id="gsc_a_t">
-	<tbody id="gsc_a_b">
-		<tr class="gsc_a_tr" style="background-color:#FFE4E1">
-			<!-- https://www.researchgate.net/profile/Lei_Wang51/publication/332369012_Analysis_and_Evaluation_of_Kinect-based_Action_Recognition_Algorithms/links/5cb001be4585156cd7916b18/Analysis-and-Evaluation-of-Kinect-based-Action-Recognition-Algorithms.pdf -->
-			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2112.08626.pdf"><strong><span class="gsc_a_at">Analysis and Evaluation of Kinect-based Action Recognition Algorithms</span></strong></a><br />
-				<div class="gs_gray"><strong>L Wang</strong></div>
-				<div class="gs_gray">Master&rsquo;s thesis, School of the Computer Science and Software Engineering, The University of Western Australia</div>
-			</td>
-<!-- 			<td class="gsc_a_c">&nbsp;</td> -->
-			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2017</span></td>
-		</tr>
-	</tbody>
-</table>
 <p>&nbsp;</p>
 
 <font size="3" color="blue">
