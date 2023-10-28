@@ -25,7 +25,7 @@ a:active {
 
 <!-- Paper Reviewing====== -->
 
-<h2>Paper Reviewing</h2>
+<h2>Professional Service</h2>
 
 I have the honor of serving as an **Area Chair** for the 27th International Conference on Pattern Recognition (ICPR 2024) by invitation from [Prof. Cheng-Lin Liu](http://www.nlpr.ia.ac.cn/liucl/) (CASIA).
 
