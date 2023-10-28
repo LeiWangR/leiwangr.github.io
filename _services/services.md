@@ -50,6 +50,18 @@ I regularly review technical papers for the following journals, conferences & wo
   * Vision Datasets Understanding (1st VDU at CVPR 2022, 2nd VDU at CVPR 2023),
   * The AI City Challenge Workshop at CVPR 2023
  
+<h2>Teaching</h2>
+
+* *March 2018 - July 2018*: **Teaching Assistant**
+  * Department of Computer Science and Software Engineering (CSSE), The University of Western Australia (UWA)
+  * [CITS5508 Machine Learning](https://handbooks.uwa.edu.au/unitdetails?code=CITS5508), Unit Coordinator(s): [A/Prof. Du Huynh](https://research-repository.uwa.edu.au/en/persons/du-huynh) & [Prof. Mark Reynolds](https://research-repository.uwa.edu.au/en/persons/mark-reynolds)
+  * Job Duties:
+    * Set assignment questions
+    * Supervise laboratory classes
+    * Help with assignment marking
+
+<!-- <font color="blue">I am currently a research-intensive staff working on academic and industrial research projects, and I am not engaged in any teaching at this time.</font> -->
+
 
 <h2>Invited Talk</h2>
 
@@ -106,15 +118,3 @@ I regularly review technical papers for the following journals, conferences & wo
   </tr>
 </table>
 
-
-<h2>Teaching</h2>
-
-* *March 2018 - July 2018*: **Teaching Assistant**
-  * Department of Computer Science and Software Engineering (CSSE), The University of Western Australia (UWA)
-  * [CITS5508 Machine Learning](https://handbooks.uwa.edu.au/unitdetails?code=CITS5508), Unit Coordinator(s): [A/Prof. Du Huynh](https://research-repository.uwa.edu.au/en/persons/du-huynh) & [Prof. Mark Reynolds](https://research-repository.uwa.edu.au/en/persons/mark-reynolds)
-  * Job Duties:
-    * Set assignment questions
-    * Supervise laboratory classes
-    * Help with assignment marking
-
-<!-- <font color="blue">I am currently a research-intensive staff working on academic and industrial research projects, and I am not engaged in any teaching at this time.</font> -->
