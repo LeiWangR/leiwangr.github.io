@@ -33,7 +33,7 @@ In industry, I concentrate on developing new products and technologies, applying
 I am also working to bridge the gap between academic research and industry research needs.
 
 
-<h2>Industry research</h2>
+<h2>Industry Research</h2>
 
 * *05/07/2021-<font color="blue">present</font>*: **Computer Scientist** (contract)
   * Active Intelligence Australia Pty Ltd, Perth, Western Australia (WA)
@@ -58,7 +58,7 @@ I am also working to bridge the gap between academic research and industry resea
   * Manager: Mr. Graeme Woods (iCetana’s former Head of Product)
   * <font color="red">Filed a provisional <strong>patent</strong> [AU Patent AU 2,019,900,316]</font>
 
-<h2>Academic research</h2>
+<h2>Academic Research</h2>
 
 * *20/02/2023-<font color="blue">present</font>*: **Research Fellow** (full-time)
   * School of Computing, ANU College of Engineering, Computing and Cybernetics
