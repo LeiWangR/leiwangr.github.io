@@ -134,7 +134,7 @@ If you are an ANU undergraduate seeking an Honors research project, please note 
 If you are an ANU master's student seeking individual projects, I require candidates to have a solid research background, a strong GPA, and proficient coding skills. Additionally, it is important that you have adequate time available for research.
 
 
-<h2>Research grant / award / funding</h2>
+<h2>Research Grant / Funding</h2>
 
 * NCI Adaptater Scheme Q4 2023 (HPC funding scheme)
   * I am a **Chief Investigator (CI)** / **Delegated lead CI** (2023/10/01‐2023/12/31). The Lead CI is Dr. Liang Zheng, and another CI is [Dr. Yunzhong Hou](https://hou-yz.github.io/).
