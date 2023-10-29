@@ -74,12 +74,25 @@ He is an IEEE Student Member and an ACM Student Member. -->
 * Tensor learning
 * Domain adaptation -->
 
+<p>&nbsp;</p>
+
+<h2>News</h2>
+
+- Congratulations to Xiuyuan (Jack) Yuan on joining *the Australian Government Digital Cadet Program*!
+- 19/09/2023: Congratulations to Arjun Raj, Liyun Zhu, Liwen Luo, and Qixiang Chen, who were awarded *the Industry AIR Award* as four master's/honors students!
+- 18/09/2023: Congratulations to Xiuyuan (Jack) Yuan for being awarded *the Summer Research Internship*!
+- 01/08/2023: The Active Intelligence Research Challenge Award (Industry AIR Award) was established.
+
+<!-- - 29/10/2023: I created the 'News' block on my personal website. -->
+
+<p>&nbsp;</p>
+
 <h2>Education</h2>
 
 * **Doctor of Philosophy** - PhD, Computer Science, The Australian National University (ANU)<!-- <sup>[1](#myfootnote1)</sup> -->, *22 July 2019 - present*
 * **Master of Professional Engineering** - MPE, Software Engineering, The University of Western Australia (UWA)<!-- <sup>[2](#myfootnote2)</sup> -->, *Feb 2016 - March 2018*
 
-<!-- <p>&nbsp;</p> -->
+
 
 <!-- <h2>Related Links</h2> -->
 
