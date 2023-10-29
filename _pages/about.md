@@ -93,7 +93,8 @@ He is an IEEE Student Member and an ACM Student Member. -->
 - 25/10/2023: Congratulations to Xiuyuan (Jack) Yuan on joining *the Australian Government Digital Cadet Program*!
 - 19/09/2023: Congratulations to Arjun Raj, Liyun Zhu, Liwen Luo, and Qixiang Chen, who were awarded *the Industry AIR Award* as four master's/honors students!
 - 18/09/2023: Congratulations to Xiuyuan (Jack) Yuan for being awarded *the Summer Research Internship*!
-- 01/08/2023: The Active Intelligence Research Challenge Award (Industry AIR Award) was established.
+
+<!-- - 01/08/2023: The Active Intelligence Research Challenge Award (Industry AIR Award) was established. -->
 
 <!-- - 29/10/2023: I created the 'News' block on my personal website. -->
 
