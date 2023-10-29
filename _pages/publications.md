@@ -35,7 +35,7 @@ a:active {
 
 <!-- You can find my published articles on my [Google Scholar](https://scholar.google.com/citations?user=VWCZLXgAAAAJ&hl=en) profile. -->
 
-<h3>Conference/Journal Papers</h3>
+<h2>Conference/Journal Papers</h2>
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr" style="background-color:#E0FFFF">
@@ -113,7 +113,7 @@ a:active {
 	</tbody>
 </table>
 <!-- <h3>&nbsp;</h3> -->
-<h3>Patents</h3>
+<h2>Patents</h2>
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr" style="background-color:#FFFFE0">
@@ -142,7 +142,7 @@ a:active {
 		</tr>
 	</tbody>
 </table>
-<h3>Theses</h3>
+<h2>Theses</h2>
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr" style="background-color:#FFE4E1">
@@ -157,7 +157,7 @@ a:active {
 	</tbody>
 </table>
 <!-- <p>&nbsp;</p> -->
-<h3>arXiv preprints</h3>
+<h2>arXiv preprints</h2>
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr"> <!--  style="background-color:#E0FFFF" -->
