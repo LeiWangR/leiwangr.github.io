@@ -92,4 +92,4 @@ I am also working to bridge the gap between academic research and industry resea
   * Supervisor: Dr. Piotr Koniusz (Data61/CSIRO & ANU)
 
 <p>&nbsp;</p>
-<font size="3" color="blue">I would like to express my deepest appreciation to A/Prof. Du Huynh (UWA), Mr. Graeme Woods (now at FinClear), Dr. Moussa Reda Mansour (now at Alcoa), Dr. Piotr Koniusz (Data61/CSIRO & ANU) and Dr. Liang Zheng (ANU). Last updated: 20/10/2023.</font>
+<font size="3" color="blue">I would like to express my deepest appreciation to A/Prof. Du Huynh (UWA), Mr. Graeme Woods (now at FinClear), Dr. Moussa Reda Mansour (now at Alcoa), Dr. Piotr Koniusz (Data61/CSIRO & ANU) and Dr. Liang Zheng (ANU). Last updated: 02/11/2023.</font>
