@@ -151,7 +151,7 @@ a:active {
 				<div class="gs_gray">PhD thesis, College of Engineering, Computing, and Cybernetics, The Australian National University</div>
 			</td>
 <!-- 			<td class="gsc_a_c">&nbsp;</td> -->
-			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2023</span></td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">02/11/2023</span></td>
 		</tr>
 		<tr class="gsc_a_tr" style="background-color:#FFE4E1">
 			<!-- https://www.researchgate.net/profile/Lei_Wang51/publication/332369012_Analysis_and_Evaluation_of_Kinect-based_Action_Recognition_Algorithms/links/5cb001be4585156cd7916b18/Analysis-and-Evaluation-of-Kinect-based-Action-Recognition-Algorithms.pdf -->
