@@ -138,6 +138,7 @@ If you are an ANU master's student seeking individual projects, I require candid
 
 * Research grant: Review of Xailient’s technical pipeline of facial recognition
   * I am a **Co-Investigator (Co-I)** (**AU$50,815**, 2023/10/30‐2023/12/22)
+  * Personnel: Dr. Liang Zheng and I are the main personnel for this project. Prof. Stephen Gould, a world-level expert in optimization and computer vision will provide additional advice.
   * Scope: The ANU team will review Xailient’s technical pipeline of facial recognition. There are many components in this pipeline, such as face detection, alignment, facial recognition, and matching score determination, model/architecture selection, loss function, hyperparameters, training data cleaning, learning strategies, and speed/accuracy optimization.
   * The ANU team will conduct an in-depth review of some of them (as mutually agreed between Xailient and ANU, also depending on how much time each will take), identify gaps, and provide technical advice and guidance to improve their real-world efficacy.
   * The advice given by the ANU team will be based on technologies available in public domains that can benefit and improve Xailient products.
