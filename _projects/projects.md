@@ -136,6 +136,13 @@ If you are an ANU master's student seeking individual projects, I require candid
 
 <h2>Research Grant / Funding</h2>
 
+* Research grant: Review of Xailient’s technical pipeline of facial recognition
+  * I am a **Co-Investigator (Co-I)** (**AU$50,815**, 2023/10/30‐2023/12/22)
+  * Scope: The ANU team will review Xailient’s technical pipeline of facial recognition. There are many components in this pipeline, such as face detection, alignment, facial recognition, and matching score determination, model/architecture selection, loss function, hyperparameters, training data cleaning, learning strategies, and speed/accuracy optimization.
+  * The ANU team will conduct an in-depth review of some of them (as mutually agreed between Xailient and ANU, also depending on how much time each will take), identify gaps, and provide technical advice and guidance to improve their real-world efficacy.
+  * The advice given by the ANU team will be based on technologies available in public domains that can benefit and improve Xailient products.
+ 
+  
 * NCI Adaptater Scheme Q4 2023 (HPC funding scheme)
   * I am a **Chief Investigator (CI)** / **Delegated lead CI** (2023/10/01‐2023/12/31). The Lead CI is Dr. Liang Zheng, and another CI is [Dr. Yunzhong Hou](https://hou-yz.github.io/).
   * Project Title: Towards building general-purpose multimodal foundation models
