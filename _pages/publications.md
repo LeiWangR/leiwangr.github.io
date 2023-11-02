@@ -160,7 +160,7 @@ a:active {
 				<div class="gs_gray">Master&rsquo;s thesis, School of the Computer Science and Software Engineering, The University of Western Australia</div>
 			</td>
 <!-- 			<td class="gsc_a_c">&nbsp;</td> -->
-			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">Oct 2017</span></td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">Nov 2017</span></td>
 		</tr>
 	</tbody>
 </table>
