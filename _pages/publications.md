@@ -146,6 +146,14 @@ a:active {
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr" style="background-color:#FFE4E1">
+			<td class="gsc_a_t"><a href="https://openresearch-repository.anu.edu.au/bitstream/1885/301236/1/ANU_PhD_Thesis_corrected.pdf"><strong><span class="gsc_a_at">Robust Human Action Modelling</span></strong></a><br />
+				<div class="gs_gray"><strong>L Wang</strong></div>
+				<div class="gs_gray">PhD thesis, College of Engineering, Computing, and Cybernetics, The Australian National University</div>
+			</td>
+<!-- 			<td class="gsc_a_c">&nbsp;</td> -->
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2023</span></td>
+		</tr>
+		<tr class="gsc_a_tr" style="background-color:#FFE4E1">
 			<!-- https://www.researchgate.net/profile/Lei_Wang51/publication/332369012_Analysis_and_Evaluation_of_Kinect-based_Action_Recognition_Algorithms/links/5cb001be4585156cd7916b18/Analysis-and-Evaluation-of-Kinect-based-Action-Recognition-Algorithms.pdf -->
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2112.08626.pdf"><strong><span class="gsc_a_at">Analysis and Evaluation of Kinect-based Action Recognition Algorithms</span></strong></a><br />
 				<div class="gs_gray"><strong>L Wang</strong></div>
