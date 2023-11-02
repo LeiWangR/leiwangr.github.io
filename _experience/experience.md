@@ -72,7 +72,7 @@ I am also working to bridge the gap between academic research and industry resea
 * *30/06/2023-<font color="blue">present</font>*: **Visiting Scientist**
   * Machine Learning Research Group (MLRG), Data61/CSIRO (Black Mountain ACT)
 
-* *22/07/2019-present*: **Postgraduate Research Student** (PhD student, full-time)
+* *22/07/2019-02/11/2023*: **Postgraduate Research Student** (PhD student, full-time)
   * [1] School of Computing, ANU College of Engineering, Computing and Cybernetics & [2] Machine Learning Research Group (MLRG), Data61/CSIRO (Acton & Black Mountain ACT)
   * Supervisory panel: 
     * Chair of panel: [Prof. Stephen Gould](http://users.cecs.anu.edu.au/~sgould/) (ANU)
