@@ -90,6 +90,8 @@ He is an IEEE Student Member and an ACM Student Member. -->
 
 <h2>News</h2>
 
+I personally do not have any news; the most exciting updates are coming from my talented students!
+
 - 25/10/2023: Congratulations to Xiuyuan (Jack) Yuan on joining *the Australian Government Digital Cadet Program*!
 - 19/09/2023: Congratulations to Arjun Raj, Liyun Zhu, Liwen Luo, and Qixiang Chen, who were awarded *the Industry AIR Award* as four master's/honors students! <font color="red">Thanks to the research sponsorship provided by Active Intelligence Corp.</font>
 - 18/09/2023: Congratulations to Xiuyuan (Jack) Yuan for being awarded *the Summer Research Internship*! <font color="red"> Thanks to the ANU School of Computing for providing research funding.</font>
