@@ -88,7 +88,7 @@ He is an IEEE Student Member and an ACM Student Member. -->
 
 <p>&nbsp;</p>
 
-<h2>News</h2>
+<h2>Recent News</h2>
 
 I personally do not have any news; the most exciting updates are coming from my talented students!
 
