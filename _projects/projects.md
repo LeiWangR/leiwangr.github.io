@@ -63,17 +63,17 @@ a:active {
 
 I always look for motivated and hardworking students who are interested in doing research with me. However, applicants must possess good mathematical and computational skills, preferably with prior experience in machine learning and/or computer vision. Strong programming skills in Python, Matlab, and/or TensorFlow are essential, and hands-on deep learning expertise is important as well. Additionally, integrity, honesty, the ability to work under pressure, and the capacity to explore while adhering to strict directions are all essential qualities.
 
-<h2>Industry AIR Awards for Students</h2>
+<h2>Industry Research Sponsorship for Students</h2>
 
 I annually organize multiple industry research awards to support promising research candidates (Bachelor's, Honours, and Master's Students) interested in my research areas. 
 
 Please note that only students from the Group of Eight (Go8) Australian universities are considered.
 
-The Active Intelligence Research Challenge Award (**Industry AIR Award**) was established by Mr. Lei Wang and Mr. Francis Williams to honor individuals who have demonstrated exceptional dedication, expertise, and a commitment to excellence in the field of Artificial Intelligence and Machine Learning. 
+The Active Intelligence Research Challenge Award was established by Mr. Lei Wang and Mr. Francis Williams to honor individuals who have demonstrated exceptional dedication, expertise, and a commitment to excellence in the field of Artificial Intelligence and Machine Learning. 
 
-The Industry AIR Award includes a cash prize (up to $5,000) along with a research internship (6-12 months full-time). These awards are provided by Active Intelligence Corporation LLC.
+The Award includes a cash prize (up to $5,000) along with a research internship (6-12 months full-time). These awards are provided by Active Intelligence Corporation LLC.
 
-Industry AIR Awards are granted solely on merit and are not subject to quotas. Typically, four candidates can receive awards from a pool of 20 candidates (with a minimum GPA of 6.75/7), resulting in an approximate acceptance rate of 20%, based on the 2023-2024 results.
+The Awards are granted solely on merit and are not subject to quotas. Typically, four candidates can receive awards from a pool of 20 candidates (with a minimum GPA of 6.75/7), resulting in an approximate acceptance rate of 20%, based on the 2023-2024 results.
 
 This year marks the 1st Annual Active Intelligence Research Challenge.
 
