@@ -69,7 +69,7 @@ I annually organize multiple industry research awards to support promising resea
 
 Please note that only students from the Group of Eight (Go8) Australian universities are considered.
 
-The Active Intelligence Research Challenge Award was established by Mr. Lei Wang and Mr. Francis Williams to honor individuals who have demonstrated exceptional dedication, expertise, and a commitment to excellence in the field of Artificial Intelligence and Machine Learning. 
+**The Active Intelligence Research Challenge Award** was established by Mr. Lei Wang and Mr. Francis Williams to honor individuals who have demonstrated exceptional dedication, expertise, and a commitment to excellence in the field of Artificial Intelligence and Machine Learning. 
 
 The Award includes a cash prize (up to $5,000) along with a research internship (6-12 months full-time). These awards are provided by Active Intelligence Corporation LLC.
 
