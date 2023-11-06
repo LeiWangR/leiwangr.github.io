@@ -148,7 +148,7 @@ a:active {
 		<tr class="gsc_a_tr" style="background-color:#FFE4E1">
 			<td class="gsc_a_t"><a href="https://openresearch-repository.anu.edu.au/bitstream/1885/301236/1/ANU_PhD_Thesis_corrected.pdf"><strong><span class="gsc_a_at">Robust Human Action Modelling</span></strong></a><br />
 				<div class="gs_gray"><strong>L Wang</strong></div>
-				<div class="gs_gray">PhD thesis[^fn1], College of Engineering, Computing, and Cybernetics, The Australian National University</div>
+				<div class="gs_gray">PhD thesis, College of Engineering, Computing, and Cybernetics, The Australian National University</div>
 			</td>
 <!-- 			<td class="gsc_a_c">&nbsp;</td> -->
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">Nov 2023</span></td>
@@ -165,7 +165,7 @@ a:active {
 	</tbody>
 </table>
 
-[^fn1]: I would like to extend my heartfelt gratitude to three esteemed PhD thesis examiners, namely [Dr. Lingqiao Liu](https://lingqiao-adelaide.github.io/lingqiaoliu.github.io/) (University of Adelaide) and [Dr. Peng Wang](https://wp8619.github.io/) (University of Electronic Science and Technology of China), as well as an anonymous examiner, for their invaluable insights, meticulous examination, and constructive feedback on my research work.
+I would like to extend my heartfelt gratitude to three esteemed PhD thesis examiners, namely [Dr. Lingqiao Liu](https://lingqiao-adelaide.github.io/lingqiaoliu.github.io/) (University of Adelaide) and [Dr. Peng Wang](https://wp8619.github.io/) (University of Electronic Science and Technology of China), as well as an anonymous examiner, for their invaluable insights, meticulous examination, and constructive feedback on my research work.
  
 <!-- <p>&nbsp;</p> -->
 <h2>arXiv preprints</h2>
