@@ -165,7 +165,7 @@ a:active {
 	</tbody>
 </table>
 
-*I would like to express my sincere gratitude to three esteemed PhD thesis examiners, including [Dr. Lingqiao Liu](https://lingqiao-adelaide.github.io/lingqiaoliu.github.io/) (University of Adelaide) and [Dr. Peng Wang](https://wp8619.github.io/) (University of Electronic Science and Technology of China), as well as an anonymous examiner, for their invaluable insights, thorough examination, and constructive feedback on my research work.
+*I would like to extend my heartfelt gratitude to three esteemed PhD thesis examiners, namely [Dr. Lingqiao Liu](https://lingqiao-adelaide.github.io/lingqiaoliu.github.io/) (University of Adelaide) and [Dr. Peng Wang](https://wp8619.github.io/) (University of Electronic Science and Technology of China), as well as an anonymous examiner, for their invaluable insights, meticulous examination, and constructive feedback on my research work.
  
 <!-- <p>&nbsp;</p> -->
 <h2>arXiv preprints</h2>
