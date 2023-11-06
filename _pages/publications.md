@@ -164,7 +164,7 @@ a:active {
 		</tr>
 	</tbody>
 </table>
-<p style="font-family:Arial; font-size: 12px">
+<p style="font-family:Arial; font-size: 12px; color: blue">
 I would like to extend my heartfelt gratitude to three esteemed PhD thesis examiners, namely [Dr. Lingqiao Liu](https://lingqiao-adelaide.github.io/lingqiaoliu.github.io/) (University of Adelaide) and [Dr. Peng Wang](https://wp8619.github.io/) (University of Electronic Science and Technology of China), as well as an anonymous examiner, for their invaluable insights, meticulous examination, and constructive feedback on my research work.
 </p>
  
