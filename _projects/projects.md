@@ -85,8 +85,8 @@ For more information regarding the application and award process, please contact
   -  [Mr. Liwen Luo](https://luoshanji99.github.io/) <font color="blue"> (Master of Machine Learning and Computer Vision), and </font>
   -  [Mr. Qixiang Chen](https://www.linkedin.com/in/qixiang-chen-23ab2826b/) <font color="blue"> (Bachelor of Advanced Computing (Honours)). </font>
 
-- <font color="blue"> Visiting student: </font>
-  - <font color="blue"> Mr. Zerui Wang (The University of Western Australia, Bachelor of Science), 16/06/2023 - 19/07/2023.</font>
+<!-- - <font color="blue"> Visiting student: </font>
+  - <font color="blue"> Mr. Zerui Wang (The University of Western Australia, Bachelor of Science), 16/06/2023 - 19/07/2023.</font> -->
 
 
 
