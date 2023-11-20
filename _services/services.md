@@ -50,6 +50,10 @@ I regularly review technical papers for the following journals, conferences & wo
   * Vision Datasets Understanding (1st VDU at CVPR 2022, 2nd VDU at CVPR 2023),
   * The AI City Challenge Workshop at CVPR 2023
  
+<!-- I also serve as a thesis examiner for master's and honors theses at the ANU College of Engineering, Computing & Cybernetics: S1 2023, S2 2023. -->
+I also serve as a **thesis examiner** for master's and honors theses at the ANU College of Engineering, Computing & Cybernetics for the academic terms S1 2023 and S2 2023.
+
+ 
 <h2>Teaching</h2>
 
 * *March 2018 - July 2018*: **Teaching Assistant**
