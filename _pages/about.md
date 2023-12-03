@@ -93,7 +93,7 @@ He is an IEEE Student Member and an ACM Student Member. -->
 I personally do not have any news; the most exciting updates are coming from my talented students!
 
 <!-- (Supervisor & Nominator: Mr. Lei Wang, approved by [Prof. Tony Hosking](https://researchers.anu.edu.au/researchers/hosking-a), School of Computing Director) -->
-- 20/11/2023: Welcome <font color="blue">Mr. Zhicheng Zhang</font> from the University of Queensland as a Campus Visitor at ANU College of Engineering, Computer Science & Cybernetics, from 20/11/2023 to 20/08/2024.
+<!-- - 20/11/2023: Welcome <font color="blue">Mr. Zhicheng Zhang</font> from the University of Queensland as a Campus Visitor at ANU College of Engineering, Computer Science & Cybernetics, from 20/11/2023 to 20/08/2024. -->
 - 25/10/2023: Congratulations to <font color="blue">Xiuyuan (Jack) Yuan</font> on joining **the Australian Government Digital Cadet Program**!
 - 19/09/2023: Congratulations to <font color="blue">Arjun Raj</font>, <font color="blue">Liyun Zhu</font>, <font color="blue">Liwen Luo</font>, and <font color="blue">Qixiang Chen</font>, who were awarded **the Active Intelligence Research Challenge Award** as four master's/honors students! <font color="red">Thanks to the research sponsorship provided by Active Intelligence Corp.</font>
 - 18/09/2023: Congratulations to <font color="blue">Xiuyuan (Jack) Yuan</font> for being awarded **the Summer Research Internship**! <font color="red"> Thanks to the ANU School of Computing for providing research funding.</font>
