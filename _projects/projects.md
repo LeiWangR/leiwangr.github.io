@@ -137,7 +137,7 @@ If you are an ANU master's student seeking individual projects, I require candid
 <h2>Research Grant / Funding</h2>
 
 * The NCI National AI Flagship Merit Allocation Scheme
-  * I am a **Lead Chief Investigator (CI)** (2024/01/01-2024/06/30).
+  * I am a **Lead Chief Investigator (Lead CI)** (2024/01/01-2024/06/30).
   * Project Title: Robust anomaly detection in human-centric videos
   * This project aims at developing advanced computer vision and deep learning techniques to identify and characterise anomalies in video data where humans are central. The project leverages cutting-edge technology to enhance security, safety, and surveillance systems, making them more effective in detecting unusual behaviours and events, which may range from security breaches and accidents to rare medical conditions in healthcare applications.
   * The significance of this project lies in its unique focus on human-centric videos. While anomaly detection in videos is an established field, the novelty emerges from its specialised applications in situations where human activity is central. The innovative aspects include (i) Robustness: The project seeks to develop highly reliable models capable of detecting anomalies in complex, real-world scenarios, where human interactions and activities can vary significantly. (ii) Real-time analysis: By applying these methods to real-time video streams, the project addresses the demand for timely responses to anomalies in security, industrial, and healthcare settings. (iii) Ethical considerations: The project incorporates ethical considerations, such as ensuring privacy and avoiding bias in the identification of anomalies, thereby making the technology responsible and trustworthy.
