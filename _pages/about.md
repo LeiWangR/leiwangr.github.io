@@ -31,7 +31,7 @@ a:active {
 
 <a href="../files/lei-cv.pdf" style="color: blue">[Lei's CV]</a> <a href="https://researchers.anu.edu.au/researchers/wang-lxxxxxxx" style="color: blue"> [ANU Researcher]</a> <a href="https://people.csiro.au/W/L/lei-wang" style="color: blue">[D61/CSIRO Profile]</a>
 
-Lei Wang serves as a Research Fellow at the School of Computing, within the ANU College of Engineering, Computing, and Cybernetics. He is under the guidance of [Dr. Liang Zheng](https://zheng-lab.cecs.anu.edu.au/) (ANU) and [Prof. Tom Gedeon](https://staffportal.curtin.edu.au/staff/profile/view/tom-gedeon-5e48a1fd/) (Curtin University).
+Lei Wang serves as a Research Fellow at the School of Computing, within the ANU College of Engineering, Computing, and Cybernetics. He is under the guidance of [Assoc. Prof. Liang Zheng](https://zheng-lab.cecs.anu.edu.au/) (ANU) and [Prof. Tom Gedeon](https://staffportal.curtin.edu.au/staff/profile/view/tom-gedeon-5e48a1fd/) (Curtin University).
 
 Currently, he also holds the position of Computer Scientist at Active Intelligence Australia Pty Ltd in Perth. In this role, he leads research and development efforts in the field of commercial anomaly detection solutions. His project has successfully raised 1.2 million US dollars, and as a result, he was awarded the Incentive Unit Award.
 
