@@ -62,7 +62,7 @@ I am also working to bridge the gap between academic research and industry resea
 
 * *20/02/2023-<font color="blue">present</font>*: **Research Fellow** (full-time)
   * School of Computing, ANU College of Engineering, Computing and Cybernetics
-  * Postdoc advisor: [Dr. Liang Zheng](https://zheng-lab.cecs.anu.edu.au/) (ANU) and [Prof. Tom Gedeon](https://staffportal.curtin.edu.au/staff/profile/view/tom-gedeon-5e48a1fd/) (Curtin University)
+  * Postdoc advisor: [Assoc. Prof. Liang Zheng](https://zheng-lab.cecs.anu.edu.au/) (ANU) and [Prof. Tom Gedeon](https://staffportal.curtin.edu.au/staff/profile/view/tom-gedeon-5e48a1fd/) (Curtin University)
   * <font color="red">The NCI <strong>National AI Flagship Merit Allocation Scheme</strong>: I am a Lead Chief Investigator (Lead CI) on 'Robust anomaly detection in human-centric videos'</font>
   * <font color="red">I am serving as an <strong>Area Chair</strong> for ACM Multimedia 2024</font>
   * <font color="red"><strong>Grant</strong>: I am a Co-Investigator (Co-I) on 'Review of Xailient’s technical pipeline of facial recognition'</font>
@@ -80,7 +80,7 @@ I am also working to bridge the gap between academic research and industry resea
   * Supervisory panel: 
     * Chair of panel: [Prof. Stephen Gould](http://users.cecs.anu.edu.au/~sgould/) (ANU)
     * Primary supervisor: [Dr. Piotr Koniusz](http://users.cecs.anu.edu.au/~koniusz/) (Data61/CSIRO & ANU)
-    * Associate supervisor: Dr. Liang Zheng (ANU)
+    * Associate supervisor: Assoc. Prof. Liang Zheng (ANU)
   * <font color="red">Granted the <strong>research award</strong> of Doctor of Philosophy (01/11/2023)</font>
   * <font color="red">Received <strong>the Sang Uk Lee Best Student Paper Award</strong> from ACCV’22</font>
   * <font color="red">One paper each published at CVPR, ICCV, ECCV, ACM-MM, TPAMI & TIP</font>
@@ -88,11 +88,11 @@ I am also working to bridge the gap between academic research and industry resea
 
 * *10/10/2018-09/10/2019*: **Visiting Researcher**
   * Department of Computer Science and Software Engineering (CSSE), The University of Western Australia (UWA)
-  * Supervisor: [A/Prof. Du Huynh](https://research-repository.uwa.edu.au/en/persons/du-huynh) (UWA)
+  * Supervisor: [Assoc. Prof. Du Huynh](https://research-repository.uwa.edu.au/en/persons/du-huynh) (UWA)
 
 * *21/09/2018-19/07/2019*: **Visiting Researcher**
   * MLRG, Data61/CSIRO (Floreat WA)
   * Supervisor: Dr. Piotr Koniusz (Data61/CSIRO & ANU)
 
 <p>&nbsp;</p>
-<font size="3" color="blue">I would like to express my deepest appreciation to A/Prof. Du Huynh (UWA), Mr. Graeme Woods (now at FinClear), Dr. Moussa Reda Mansour (now at Alcoa), Dr. Piotr Koniusz (Data61/CSIRO & ANU) and Dr. Liang Zheng (ANU). Last updated: 02/11/2023.</font>
+<font size="3" color="blue">I would like to express my deepest appreciation to Assoc. Prof. Du Huynh (UWA), Mr. Graeme Woods (now at FinClear), Dr. Moussa Reda Mansour (now at Alcoa), Dr. Piotr Koniusz (Data61/CSIRO & ANU) and Assoc. Prof. Liang Zheng (ANU). Last updated: 02/11/2023.</font>
