@@ -189,14 +189,6 @@ a:active {
 <h2>arXiv preprints</h2>
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
-		<!-- <tr class="gsc_a_tr">
-			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2310.10059.pdf"><strong><span class="gsc_a_at">Flow Dynamics Correction for Action Recognition</span></strong></a>
-				<div class="gs_gray"><strong>L Wang</strong>, P Koniusz</div>
-				<div class="gs_gray">arXiv preprint arXiv:2310.10059</div>
-			</td>
-			<td class="gsc_a_c">Technical report</td>
-			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2023</span></td>
-		</tr> -->
 		<tr class="gsc_a_tr"> <!--  style="background-color:#E0FFFF" -->
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2310.05615.pdf"><strong><span class="gsc_a_at">Adaptive Multi-head Contrastive Learning</span></strong></a>
 				<div class="gs_gray"><strong>L Wang</strong>, P Koniusz, T Gedeon, L Zheng</div>
@@ -213,14 +205,6 @@ a:active {
 			<td class="gsc_a_c">(an extended version has been <br>accepted by ACCV&#39;22 [oral])</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2021</span></td>
 		</tr>
-		<!-- <tr class="gsc_a_tr" style="background-color:#E0FFFF">
-			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2110.05216v3.pdf"><strong><span class="gsc_a_at">High-order Tensor Pooling with Attention for Action Recognition</span></strong></a>
-				<div class="gs_gray"><strong>L Wang</strong>, P Koniusz, K Sun</div>
-				<div class="gs_gray">arXiv preprint arXiv:2110.05216</div>
-			</td>
-			<td class="gsc_a_c">(an extension of our TPAMI&#39;20)<br><a href="https://github.com/LeiWangR/HoTP" style="color:#000000;">Code (preprocessing)</a></td>
-			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2021</span></td>
-		</tr> -->
 		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2309.15768.pdf"><strong><span class="gsc_a_at">AI in Software Engineering: Case Studies and Prospects</span></strong></a>
 				<div class="gs_gray"><strong>L Wang</strong></div>
