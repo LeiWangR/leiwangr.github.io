@@ -43,7 +43,7 @@ a:active {
 				<div class="gs_gray"><strong>L Wang</strong>, P Koniusz, K Sun</div>
 				<div class="gs_gray">IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</div>
 			</td>
-			<td class="gsc_a_c">(an extension of our TPAMI&#39;20)<br>[<strong><font color="red">B</font></strong>, accepted] <br><a href="https://github.com/LeiWangR/HoTP" style="color:#000000;"> Code (preprocessing)</a></td>
+			<td class="gsc_a_c">(an extension of our TPAMI&#39;20)<br>[<font color="red"><strong>B</strong>, accepted</font>] <br><a href="https://github.com/LeiWangR/HoTP" style="color:#000000;"> Code (preprocessing)</a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2021</span></td>
 		</tr>
 		<tr class="gsc_a_tr">
@@ -52,7 +52,7 @@ a:active {
 				<div class="gs_gray"><strong>L Wang</strong>, P Koniusz</div>
 				<div class="gs_gray">IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</div>
 			</td>
-			<td class="gsc_a_c">[<strong><font color="red">B</font></strong>, accepted]</td>
+			<td class="gsc_a_c">[<font color="red"><strong>B</strong>, accepted</font>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2023</span></td>
 		</tr>
 		<tr class="gsc_a_tr" style="background-color:#E0FFFF">
