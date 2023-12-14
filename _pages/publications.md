@@ -46,7 +46,6 @@ a:active {
 			<td class="gsc_a_c">(an extension of our TPAMI&#39;20)<br>[<font color="red"><strong>B</strong>, accepted</font>] <br><a href="https://github.com/LeiWangR/HoTP" style="color:#000000;"> Code (preprocessing)</a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2021</span></td>
 		</tr>
-		<tr class="gsc_a_tr">
 		<tr class="gsc_a_tr" style="background-color:#FFFFE0"> 
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2310.10059.pdf"><strong><span class="gsc_a_at">Flow Dynamics Correction for Action Recognition</span></strong></a>
 				<div class="gs_gray"><strong>L Wang</strong>, P Koniusz</div>
@@ -215,7 +214,6 @@ a:active {
 		</tr>
 	</tbody>
 </table>
-<!-- <p>&nbsp;</p> -->
 <p>&nbsp;</p>
 
 <font size="3" color="blue">
