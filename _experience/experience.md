@@ -74,6 +74,7 @@ I am also working to bridge the gap between academic research and industry resea
 
 * *30/06/2023-<font color="blue">present</font>*: **Visiting Scientist**
   * Machine Learning Research Group (MLRG), Data61/CSIRO (Black Mountain ACT)
+  * <font color="red"><strong>2</strong> papers have been accepted for <strong>IEEE ICASSP 2023</strong> (<strong>B</strong>) </font>
 
 * *22/07/2019-12/12/2023*: **Postgraduate Research Student** (PhD student, full-time)
   * [1] School of Computing, ANU College of Engineering, Computing and Cybernetics & [2] Machine Learning Research Group (MLRG), Data61/CSIRO (Acton & Black Mountain ACT)
