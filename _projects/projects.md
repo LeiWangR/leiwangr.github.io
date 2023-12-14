@@ -136,8 +136,8 @@ If you are an ANU master's student seeking individual projects, I require candid
 
 <h2>Research Grant / Funding</h2>
 
-* National Computational Merit Allocation Scheme 2024
-  * I am a **Chief Investigator (CI)** (2024/01/01-2024/12/31)
+* National Computational Merit Allocation Scheme 2024 (NCMAS 2024)
+  * I am a **Chief Investigator (CI)** / **Delegated lead CI** (2024/01/01-2024/12/31)
   * Project title: MotionNetLite: Video Dynamics Distillation for Scalable Models
   * In this research project, we aim to develop more lightweight video data formats which are able to efficiently distill the motions at different granular levels by removing redundant information while focusing on the core dynamics. We also explore the acceleration of training and testing while reducing the amount of video data for storage, and answer a scientific question ‘How much information is contained in the video data and in what format?’. Many downstream video processing tasks will benefit from our video dynamic distillation process, towards making video understanding much easier and more efficient. This also opens up a new research direction in exploring better video data representations for more lightweight cutting-edge video models.
   * This work has potential to impact Safety and Security, Future Cities, IoT, Agri-business, Defence via applications in Health and wellbeing, Safety, and Innovative industries. Our work focuses on researching advanced technologies from data that support all areas of science and society to provide national benefit. Video understanding, e.g., action recognition and anomaly detection, is needed in surveillance of airports, malls, etc. It has applications in monitoring health and well-being of elderly population, in farming, and analysis of crops. This project has also potential to 'Shape Societal Transformations'. For instance, action recognition is a necessary component in recognition from wearable clothing, monitoring health and exercise regimes in the gym, recommendation systems via wearables, recognition of fake videos on social media, etc.
