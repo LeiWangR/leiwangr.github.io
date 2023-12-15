@@ -75,7 +75,6 @@ I am also working to bridge the gap between academic research and industry resea
 
 * *30/06/2023-<font color="blue">present</font>*: **Visiting Scientist**
   * Machine Learning Research Group (MLRG), Data61/CSIRO (Black Mountain ACT)
-  * <font color="red"><strong>2</strong> papers have been accepted for <strong>IEEE ICASSP 2023</strong> (<strong>B</strong>) </font>
 
 * *22/07/2019-12/12/2023*: **Postgraduate Research Student** (PhD student, full-time)
   * [1] School of Computing, ANU College of Engineering, Computing and Cybernetics & [2] Machine Learning Research Group (MLRG), Data61/CSIRO (Acton & Black Mountain ACT)
@@ -83,6 +82,7 @@ I am also working to bridge the gap between academic research and industry resea
     * Chair of panel: [Prof. Stephen Gould](http://users.cecs.anu.edu.au/~sgould/) (ANU)
     * Primary supervisor: [Dr. Piotr Koniusz](http://users.cecs.anu.edu.au/~koniusz/) (Data61/CSIRO & ANU)
     * Associate supervisor: Assoc. Prof. Liang Zheng (ANU)
+  * <font color="red">2 papers have been accepted for ICASSP 2023</font>
   * <font color="red">Granted the <strong>research award</strong> of Doctor of Philosophy (01/11/2023)</font>
   * <font color="red">Received <strong>the Sang Uk Lee Best Student Paper Award</strong> from ACCV’22</font>
   * <font color="red">One paper each published at CVPR, ICCV, ECCV, ACM-MM, TPAMI & TIP</font>
