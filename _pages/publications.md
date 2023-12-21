@@ -39,7 +39,7 @@ a:active {
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr" style="background-color:#E0FFFF"> 
-			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2110.05216v3.pdf"><strong><span class="gsc_a_at">High-order Tensor Pooling with Attention for Action Recognition</span></strong></a>
+			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2110.05216.pdf"><strong><span class="gsc_a_at">High-order Tensor Pooling with Attention for Action Recognition</span></strong></a>
 				<div class="gs_gray"><strong>L Wang</strong>, K Sun, P Koniusz</div>
 				<div class="gs_gray">IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</div>
 			</td>
