@@ -39,6 +39,14 @@ a:active {
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr" style="background-color:#E0FFFF"> 
+			<td class="gsc_a_t"><a href=""><strong><span class="gsc_a_at">Meet JEANIE: a Similarity Measure for 3D Skeleton Sequences via Temporal‑Viewpoint Alignment</span></strong></a>
+				<div class="gs_gray"><strong>L Wang</strong>, J Liu, L Zheng, T Gedeon, and P Koniusz.</div>
+				<div class="gs_gray">International Journal of Computer Vision (IJCV)</div>
+			</td>
+			<td class="gsc_a_c">[<font color="red"><strong>IF: 19.5</strong>, minor revision</font>]</td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2023</span></td>
+		</tr>
+		<tr class="gsc_a_tr" style="background-color:#E0FFFF"> 
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2110.05216.pdf"><strong><span class="gsc_a_at">High-order Tensor Pooling with Attention for Action Recognition</span></strong></a>
 				<div class="gs_gray"><strong>L Wang</strong>, K Sun, P Koniusz</div>
 				<div class="gs_gray">IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</div>
