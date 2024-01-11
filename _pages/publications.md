@@ -227,5 +227,5 @@ a:active {
 <font size="3" color="blue">
 	Light cyan highlights the research works during my PhD candidature and light yellow highlights my industrial research works.
 	My theses are in misty rose color and other collaborative research works are in platinum color.
-	Last updated: 02/11/2023.	
+	Last updated: 12/01/2024.	
 </font>
