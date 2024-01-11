@@ -39,7 +39,7 @@ a:active {
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr" style="background-color:#E0FFFF"> 
-			<td class="gsc_a_t"><a href=""><strong><span class="gsc_a_at">Meet JEANIE: a Similarity Measure for 3D Skeleton Sequences via Temporal‑Viewpoint Alignment</span></strong></a>
+			<td class="gsc_a_t"><a href="https://leiwangr.github.io/files/ijcv-preprint.pdf"><strong><span class="gsc_a_at">Meet JEANIE: a Similarity Measure for 3D Skeleton Sequences via Temporal‑Viewpoint Alignment</span></strong></a>
 				<div class="gs_gray"><strong>L Wang</strong>, J Liu, L Zheng, T Gedeon, P Koniusz</div>
 				<div class="gs_gray">International Journal of Computer Vision (IJCV)</div>
 			</td>
