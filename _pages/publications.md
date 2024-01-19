@@ -196,6 +196,14 @@ a:active {
 <h2>arXiv preprints</h2>
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
+		<tr class="gsc_a_tr" style="background-color:#FFFFE0">
+			<td class="gsc_a_t"><a href="https://leiwangr.github.io/files/researchreport24.pdf"><strong><span class="gsc_a_at">Advancing Anomaly Detection: An Adaptation Model and a New Dataset</span></strong></a>
+				<div class="gs_gray">L Zhu, A Raj, <strong>L Wang</strong></strong></div>
+				<div class="gs_gray">Research report</div>
+			</td>
+			<td class="gsc_a_c">Research report</td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
+		</tr>
 		<tr class="gsc_a_tr"> <!--  style="background-color:#E0FFFF" -->
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2310.05615.pdf"><strong><span class="gsc_a_at">Adaptive Multi-head Contrastive Learning</span></strong></a>
 				<div class="gs_gray"><strong>L Wang</strong>, P Koniusz, T Gedeon, L Zheng</div>
