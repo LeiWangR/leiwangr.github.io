@@ -198,7 +198,7 @@ a:active {
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr" style="background-color:#FFFFE0">
 			<td class="gsc_a_t"><a href="https://leiwangr.github.io/files/researchreport24.pdf"><strong><span class="gsc_a_at">Advancing Anomaly Detection: An Adaptation Model and a New Dataset</span></strong></a>
-				<div class="gs_gray">L Zhu, A Raj, <strong>L Wang</strong></strong></div>
+				<div class="gs_gray">L Zhu, A Raj, <strong>L Wang</strong></div>
 				<div class="gs_gray">Research report</div>
 			</td>
 			<td class="gsc_a_c">Research report</td>
