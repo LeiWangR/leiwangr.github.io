@@ -33,7 +33,8 @@ My contact information is below.
   </tr>
   <tr>
     <th style="width:1px; white-space:nowrap; border: none;">Address/Office</th>
-    <td style="white-space:nowrap; border: none;">Room N218, CSIT Building <br> ANU Campus <br> Acton ACT 2601</td>
+<!--     <td style="white-space:nowrap; border: none;">Room N218, CSIT Building <br> ANU Campus <br> Acton ACT 2601</td> -->
+         <td style="white-space:nowrap; border: none;">B141 Desk 4, <br> Brian Anderson Building <br> ANU Campus <br> Acton ACT 2601</td>
   </tr>
   <tr>
     <th style="width:1px; white-space:nowrap; border: none;">Office hours</th>
