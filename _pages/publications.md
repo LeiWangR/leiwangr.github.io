@@ -29,7 +29,7 @@ a:active {
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
+{% for post in site.publications reversed %} 
   {% include archive-single.html %}
 {% endfor %} -->
 
@@ -39,7 +39,7 @@ a:active {
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr" style="background-color:#E0FFFF"> 
-			<td class="gsc_a_t"><a href="https://leiwangr.github.io/files/ijcv-preprint.pdf"><strong><span class="gsc_a_at">Meet JEANIE: a Similarity Measure for 3D Skeleton Sequences via Temporal‑Viewpoint Alignment</span></strong></a>
+			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2402.04599.pdf"><strong><span class="gsc_a_at">Meet JEANIE: a Similarity Measure for 3D Skeleton Sequences via Temporal‑Viewpoint Alignment</span></strong></a>
 				<div class="gs_gray"><strong>L Wang</strong>, J Liu, L Zheng, T Gedeon, P Koniusz</div>
 				<div class="gs_gray">International Journal of Computer Vision (IJCV)</div>
 			</td>
@@ -197,7 +197,7 @@ a:active {
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr">
-			<td class="gsc_a_t"><a href="https://leiwangr.github.io/files/taylor-videos.pdf"><strong><span class="gsc_a_at">Taylor Videos for Action Recognition</span></strong></a>
+			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2402.03019.pdf"><strong><span class="gsc_a_at">Taylor Videos for Action Recognition</span></strong></a>
 				<div class="gs_gray"><strong>L Wang</strong>, X Yuan, T Gedeon, L Zheng</div>
 				<div class="gs_gray">Research report</div>
 			</td>
@@ -205,7 +205,7 @@ a:active {
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
 		</tr>
 		<tr class="gsc_a_tr" style="background-color:#FFFFE0">
-			<td class="gsc_a_t"><a href="https://leiwangr.github.io/files/researchreport24.pdf"><strong><span class="gsc_a_at">Advancing Anomaly Detection: An Adaptation Model and a New Dataset</span></strong></a>
+			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2402.04857.pdf"><strong><span class="gsc_a_at">Advancing Anomaly Detection: An Adaptation Model and a New Dataset</span></strong></a>
 				<div class="gs_gray">L Zhu, A Raj, <strong>L Wang</strong></div>
 				<div class="gs_gray">Research report</div>
 			</td>
