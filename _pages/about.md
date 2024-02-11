@@ -96,11 +96,11 @@ I personally do not have any news; the most exciting updates are coming from my 
 - 19/09/2023: Congratulations to <font color="blue">Arjun Raj</font>, <font color="blue">Liyun Zhu</font>, <font color="blue">Liwen Luo</font>, and <font color="blue">Qixiang Chen</font>, who were awarded **the Active Intelligence Research Challenge Award** as four master's/honors students! <font color="red">Thanks to the research sponsorship provided by Active Intelligence Corp.</font>
 - 18/09/2023: Congratulations to <font color="blue">Xiuyuan (Jack) Yuan</font> for being awarded **the Summer Research Internship**! <font color="red"> Thanks to the ANU School of Computing for providing research funding.</font>
 
+<!-- - 25/10/2023: Congratulations to <font color="blue">Xiuyuan (Jack) Yuan</font> on joining **the Australian Government Digital Cadet Program**! -->
+
 <!-- - 01/08/2023: The Active Intelligence Research Challenge Award (Industry AIR Award) was established. -->
 
 <!-- - 29/10/2023: I created the 'News' block on my personal website. -->
-
-<!-- - 25/10/2023: Congratulations to <font color="blue">Xiuyuan (Jack) Yuan</font> on joining the Australian Government Digital Cadet Program! -->
 
 <!-- <h2>Related Links</h2> -->
 
