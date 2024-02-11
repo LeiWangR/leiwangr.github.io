@@ -100,7 +100,7 @@ I personally do not have any news; the most exciting updates are coming from my 
 
 <!-- - 29/10/2023: I created the 'News' block on my personal website. -->
 
-<!-- - 25/10/2023: Congratulations to <font color="blue">Xiuyuan (Jack) Yuan</font> on joining **the Australian Government Digital Cadet Program**! -->
+<!-- - 25/10/2023: Congratulations to <font color="blue">Xiuyuan (Jack) Yuan</font> on joining the Australian Government Digital Cadet Program! -->
 
 <!-- <h2>Related Links</h2> -->
 
