@@ -65,7 +65,7 @@ I always look for motivated and hardworking students who are interested in doing
 
 <h2>Student Research Project</h2>
 
-<h3>Project 1: ANU TechLauncher</h3>
+<h3>Project 1: ANU TechLauncher <font color="red">[Proposed]</font></h3>
 
 The [TechLauncher program](https://comp.anu.edu.au/TechLauncher/) is for team-based activities at ANU, where the project and/or group activity undertaken is real, not synthetic. In TechLauncher you will be a team member on a project, and shall be supported by a program of tutorials at which your peers, along with experienced professional tutors/mentors, facilitate your professional development and mediate your team processes and interactions.
 
@@ -137,7 +137,7 @@ Participation in the project will provide students with a holistic learning expe
 - Ethical Considerations: Awareness of ethical considerations related to privacy, data security, and responsible use of technology is necessary for ensuring the system aligns with ethical standards and regulations. -->
 
 
-<h3>Project 2: Industry Research Sponsorship for Students</h3>
+<h3>Project 2: Industry Research Sponsorship for Students <font color="red">[Ongoing]</font></h3>
 
 I annually organize multiple industry research awards to support promising research candidates (Bachelor's, Honours, and Master's Students) interested in my research areas. 
 
@@ -199,7 +199,7 @@ Many video data optimisation methods have been proposed in the literature for tr
 In this research project, we aim to explore video data optimisation techniques that are able to improve the model performance for downstream video processing tasks such as human action recognition and anomaly detection. We also explore (i) the influence of training videos on the prediction of a test video (ii) how each individual training video affect the generalisation ability of a model and (iii) do we need all the video data in the training set or shall we drop unfavorable video samples and how. -->
 
 
-<h3>Project 4: Bachelor & Honours Research Project</h3>
+<h3>Project 4: Bachelor & Honours Research Project <font color="red">[Ongoing]</font></h3>
 
 I am a [registered ANU Higher Degree Research (HDR) supervisor](https://services.anu.edu.au/research-support/hdr-supervision-development/hdr-supervision-registration-and-renewal/hdr-1).
 
