@@ -63,7 +63,7 @@ a:active {
 
 I always look for motivated and hardworking students who are interested in doing research with me. However, applicants must possess good mathematical and computational skills, preferably with prior experience in machine learning and/or computer vision. Strong programming skills in Python, Matlab, and/or TensorFlow are essential, and hands-on deep learning expertise is important as well. Additionally, integrity, honesty, the ability to work under pressure, and the capacity to explore while adhering to strict directions are all essential qualities.
 
-<h2>Available Research Project</h2>
+<h2>Student Research Project</h2>
 
 <h3>Project 1: ANU TechLauncher</h3>
 
