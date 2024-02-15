@@ -71,7 +71,7 @@ The [TechLauncher program](https://comp.anu.edu.au/TechLauncher/) is for team-ba
 
 If you would like to join a Techlauncher cohort, you can do so by enrolling in any on the following courses: COMP3500 - Software Engineering Project, COMP3550 - Advanced Computing R&D Project, COMP3710 - Topics in Computer Science, COMP4500 - Software Engineering Practice, and COMP8715 - Computing Project.
 
-In the 2024 Semester 1 and 2, my proposed project is '**ActiveIntelligence: CAM-FALL (Camera-based Fall Alert System)**'. This project marks the 2nd Annual Active Intelligence Research Challenge (refer to Industry Research Sponsorship below).
+In the 2024 Semester 1 and 2, my proposed project is '**ActiveIntelligence: CAM-FALL (Camera-based Fall Alert System)**'. This project marks the 2nd Annual Active Intelligence Research Challenge (refer to Industry Research Sponsorship below). Francis and I are the clients.
 
 Step into a safer future with ActiveIntelligence's CAM-FALL system. This innovative project offers a unique opportunity to address a pressing concern using cutting-edge technology. By harnessing the power of cameras, we aim to create a solution that not only identifies falls but also provides prompt assistance, ensuring the well-being of individuals within our community. Participation in the project will provide students with a holistic learning experience encompassing technical skills, problem-solving abilities, project management competencies, and ethical awareness, preparing them for future endeavors in the fields of computer vision, artificial intelligence, and software engineering.
 
