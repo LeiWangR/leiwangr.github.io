@@ -63,7 +63,84 @@ a:active {
 
 I always look for motivated and hardworking students who are interested in doing research with me. However, applicants must possess good mathematical and computational skills, preferably with prior experience in machine learning and/or computer vision. Strong programming skills in Python, Matlab, and/or TensorFlow are essential, and hands-on deep learning expertise is important as well. Additionally, integrity, honesty, the ability to work under pressure, and the capacity to explore while adhering to strict directions are all essential qualities.
 
-<h2>Industry Research Sponsorship for Students</h2>
+<h2>Available Research Project</h2>
+
+<h3>Project 1: ANU TechLauncher</h3>
+
+[Project title]: ActiveIntelligence: CAM-FALL (Camera-based Fall Alert System)
+
+[Clients]: Lei Wang (ANU), Francis Williams (Active Intelligence Corp.)
+
+[Introduction]
+
+Step into a safer future with ActiveIntelligence's CAM-FALL system. This innovative project offers a unique opportunity to address a pressing concern using cutting-edge technology. By using the power of cameras, we aim to create a solution that not only identifies falls but also provides prompt assistance, ensuring the well-being of individuals within our community.
+
+
+[Project Goals]
+
+1. Develop a robust fall detection algorithm using computer vision techniques for real-time analysis of camera footage.
+
+2. Implement audio localization capabilities to enhance fall detection accuracy and optimize camera positioning.
+
+3. Integrate pan-tilt-zoom (PTZ) functionality to dynamically adjust the camera's orientation towards the detected fall location.
+
+4. Design an alert system to promptly notify caregivers or emergency contacts upon fall detection, accompanied by video footage for further assessment.
+
+5. Ensure user-friendly adaptability to various home environments, considering factors such as lighting conditions and camera placement.
+
+[Technical Details]
+
+1. Primary programming languages include Python, with utilization of OpenCV libraries for computer vision tasks.
+
+2. Implementation of audio processing techniques to localize sound sources and aid in fall detection.
+
+3. Hardware components encompass IP cameras featuring PTZ capabilities and microphones for audio capture.
+
+4. The system architecture is designed to operate on either a local server or a cloud platform, contingent on scalability and resource demands.
+
+[Project Milestones]
+
+Week 3: Complete preliminary research, conduct feasibility study, define project requirements, and establish development environment.
+
+Week 6: Begin implementation of basic fall detection algorithm using computer vision techniques, and integrate audio localization capabilities.
+
+Week 10: Finalize system functionality with PTZ camera control, implement the alert system, and perform comprehensive testing and validation.
+
+[Expectations]
+
+- Proficiency in advanced computer vision and audio processing techniques is essential for project execution.
+
+- While ambitious, the project's scope aligns with available time and resources. However, achieving optimal performance may necessitate multiple semesters.
+
+- Potential costs encompass licensing fees for software libraries and procurement of hardware such as IP cameras and microphones.
+
+Participation in the project will provide students with a holistic learning experience encompassing technical skills, problem-solving abilities, project management competencies, and ethical awareness, preparing them for future endeavors in the fields of computer vision, artificial intelligence, and software engineering.
+
+
+<!-- - Computer Vision: Understanding of computer vision principles and techniques is essential for developing robust fall detection algorithms. Proficiency in libraries such as OpenCV for image processing and analysis is necessary.
+
+- Audio Processing: Knowledge of audio processing techniques will be required to implement sound localization capabilities for enhancing fall detection accuracy. Familiarity with signal processing algorithms and libraries may be necessary.
+
+- Programming: Strong programming skills, particularly in Python, are necessary for implementing the system's algorithms and functionalities. Knowledge of other relevant languages and frameworks may also be beneficial.
+
+- Machine Learning: Familiarity with machine learning techniques, such as supervised and unsupervised learning, may be beneficial for improving the accuracy of fall detection algorithms.
+
+- Hardware Integration: Understanding of hardware components, such as IP cameras with PTZ capabilities and microphones, is necessary for integrating these devices into the system effectively.
+
+- System Architecture: Knowledge of system architecture principles is required to design and implement a scalable and efficient system architecture. Understanding of cloud platforms and server-client architectures may be beneficial.
+
+- Software Development Lifecycle: Familiarity with software development lifecycle processes, including requirements analysis, design, implementation, testing, and deployment, is essential for managing the project effectively.
+
+- Problem-solving Skills: Ability to troubleshoot and solve complex technical problems that may arise during the development process is crucial for ensuring project success.
+
+- Communication: Strong communication skills are necessary for effectively collaborating with team members, stakeholders, and potential end-users throughout the project lifecycle.
+
+- Time Management: Effective time management skills are essential for meeting project milestones and deadlines within the allocated timeframe.
+
+- Ethical Considerations: Awareness of ethical considerations related to privacy, data security, and responsible use of technology is necessary for ensuring the system aligns with ethical standards and regulations. -->
+
+
+<h3>Project 2: Industry Research Sponsorship for Students</h3>
 
 I annually organize multiple industry research awards to support promising research candidates (Bachelor's, Honours, and Master's Students) interested in my research areas. 
 
@@ -90,7 +167,7 @@ For more information regarding the application and award process, please contact
 
 
 
-<h2>ANU Summer Research Scholars Program</h2>
+<h3>Project 3: ANU Summer Research Scholars Program <font color="red">[Completed]</font></h3>
 
 ANU offers Summer Research Scholarships (SRS) and Summer Research Internships (SRI). External (non-ANU) students from Australia and New Zealand are eligible to apply for a Summer Research Scholarship. Current ANU students are eligible to apply for a Summer Research Internship. 
 
@@ -125,7 +202,7 @@ Many video data optimisation methods have been proposed in the literature for tr
 In this research project, we aim to explore video data optimisation techniques that are able to improve the model performance for downstream video processing tasks such as human action recognition and anomaly detection. We also explore (i) the influence of training videos on the prediction of a test video (ii) how each individual training video affect the generalisation ability of a model and (iii) do we need all the video data in the training set or shall we drop unfavorable video samples and how. -->
 
 
-<h2>Bachelor & Honours Research Project</h2>
+<h3>Project 4: Bachelor & Honours Research Project</h3>
 
 I am a [registered ANU Higher Degree Research (HDR) supervisor](https://services.anu.edu.au/research-support/hdr-supervision-development/hdr-supervision-registration-and-renewal/hdr-1).
 
