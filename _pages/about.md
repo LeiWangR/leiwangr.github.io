@@ -92,8 +92,8 @@ He is an IEEE Student Member and an ACM Student Member. -->
 I personally do not have any news; the most exciting updates are coming from my talented students!
 - 02/02/2024: Congratulations to <font color="blue">Xiuyuan (Jack) Yuan</font> for successfully completing the 'Video Dynamics Distillation' project for the ANU Summer Scholars Program!
 - 04/01/2024: My research group is currently at full capacity, and I do not have openings for research interns and assistants. All available industry research sponsorships will be prioritized for my existing students until the end of 2024.
-- 19/09/2023: Congratulations to <font color="blue">Arjun Raj</font>, <font color="blue">Liyun Zhu</font>, <font color="blue">Liwen Luo</font>, and <font color="blue">Qixiang Chen</font>, who were awarded **the Active Intelligence Research Challenge Award** as four master's/honors students! <font color="red">Thanks to the research sponsorship provided by Active Intelligence Corp.</font>
-- 18/09/2023: Congratulations to <font color="blue">Xiuyuan (Jack) Yuan</font> for being awarded **the Summer Research Internship**! <font color="red"> Thanks to the ANU School of Computing for providing research funding.</font>
+- 19/09/2023: Congratulations to <font color="blue">Arjun Raj</font>, <font color="blue">Liyun Zhu</font>, <font color="blue">Liwen Luo</font>, and <font color="blue">Qixiang Chen</font>, who were awarded *the Active Intelligence Research Challenge Award* as four master's/honors students! Thanks to the research sponsorship provided by Active Intelligence Corp.
+- 18/09/2023: Congratulations to <font color="blue">Xiuyuan (Jack) Yuan</font> for being awarded *the Summer Research Internship*! Thanks to the ANU School of Computing for providing research funding.
 
 <!-- - 25/10/2023: Congratulations to Xiuyuan (Jack) Yuan on joining **the Australian Government Digital Cadet Program**! -->
 
