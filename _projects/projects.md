@@ -71,16 +71,9 @@ The [TechLauncher program](https://comp.anu.edu.au/TechLauncher/) is for team-ba
 
 If you would like to join a Techlauncher cohort, you can do so by enrolling in any on the following courses: COMP3500 - Software Engineering Project, COMP3550 - Advanced Computing R&D Project, COMP3710 - Topics in Computer Science, COMP4500 - Software Engineering Practice, and COMP8715 - Computing Project.
 
-[Project title]: ActiveIntelligence: CAM-FALL (Camera-based Fall Alert System)
+In the 2024 Semester 1 & 2, my proposed project is 'ActiveIntelligence: CAM-FALL (Camera-based Fall Alert System)'. Step into a safer future with ActiveIntelligence's CAM-FALL system. This innovative project offers a unique opportunity to address a pressing concern using cutting-edge technology. By harnessing the power of cameras, we aim to create a solution that not only identifies falls but also provides prompt assistance, ensuring the well-being of individuals within our community. Participation in the project will provide students with a holistic learning experience encompassing technical skills, problem-solving abilities, project management competencies, and ethical awareness, preparing them for future endeavors in the fields of computer vision, artificial intelligence, and software engineering.
 
-[Clients]: Lei Wang (ANU), Francis Williams (Active Intelligence Corp.)
-
-[Introduction]
-
-Step into a safer future with ActiveIntelligence's CAM-FALL system. This innovative project offers a unique opportunity to address a pressing concern using cutting-edge technology. By using the power of cameras, we aim to create a solution that not only identifies falls but also provides prompt assistance, ensuring the well-being of individuals within our community.
-
-
-[Project Goals]
+<!--[Project Goals]
 
 1. Develop a robust fall detection algorithm using computer vision techniques for real-time analysis of camera footage.
 
@@ -121,7 +114,7 @@ Week 10: Finalize system functionality with PTZ camera control, implement the al
 Participation in the project will provide students with a holistic learning experience encompassing technical skills, problem-solving abilities, project management competencies, and ethical awareness, preparing them for future endeavors in the fields of computer vision, artificial intelligence, and software engineering.
 
 
-<!-- - Computer Vision: Understanding of computer vision principles and techniques is essential for developing robust fall detection algorithms. Proficiency in libraries such as OpenCV for image processing and analysis is necessary.
+- Computer Vision: Understanding of computer vision principles and techniques is essential for developing robust fall detection algorithms. Proficiency in libraries such as OpenCV for image processing and analysis is necessary.
 
 - Audio Processing: Knowledge of audio processing techniques will be required to implement sound localization capabilities for enhancing fall detection accuracy. Familiarity with signal processing algorithms and libraries may be necessary.
 
