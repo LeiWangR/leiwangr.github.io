@@ -71,7 +71,9 @@ The [TechLauncher program](https://comp.anu.edu.au/TechLauncher/) is for team-ba
 
 If you would like to join a Techlauncher cohort, you can do so by enrolling in any on the following courses: COMP3500 - Software Engineering Project, COMP3550 - Advanced Computing R&D Project, COMP3710 - Topics in Computer Science, COMP4500 - Software Engineering Practice, and COMP8715 - Computing Project.
 
-In the 2024 Semester 1 & 2, my proposed project is '**ActiveIntelligence: CAM-FALL (Camera-based Fall Alert System)**'. Step into a safer future with ActiveIntelligence's CAM-FALL system. This innovative project offers a unique opportunity to address a pressing concern using cutting-edge technology. By harnessing the power of cameras, we aim to create a solution that not only identifies falls but also provides prompt assistance, ensuring the well-being of individuals within our community. Participation in the project will provide students with a holistic learning experience encompassing technical skills, problem-solving abilities, project management competencies, and ethical awareness, preparing them for future endeavors in the fields of computer vision, artificial intelligence, and software engineering.
+In the 2024 Semester 1 and 2, my proposed project is '**ActiveIntelligence: CAM-FALL (Camera-based Fall Alert System)**'. This project marks the 2nd Annual Active Intelligence Research Challenge (refer to Industry Research Sponsorship below).
+
+Step into a safer future with ActiveIntelligence's CAM-FALL system. This innovative project offers a unique opportunity to address a pressing concern using cutting-edge technology. By harnessing the power of cameras, we aim to create a solution that not only identifies falls but also provides prompt assistance, ensuring the well-being of individuals within our community. Participation in the project will provide students with a holistic learning experience encompassing technical skills, problem-solving abilities, project management competencies, and ethical awareness, preparing them for future endeavors in the fields of computer vision, artificial intelligence, and software engineering.
 
 <!--[Project Goals]
 
@@ -139,17 +141,11 @@ Participation in the project will provide students with a holistic learning expe
 
 <h3>Project 2: Industry Research Sponsorship for Students <font color="red">[Ongoing]</font></h3>
 
-I annually organize multiple industry research awards to support promising research candidates (Bachelor's, Honours, and Master's Students) interested in my research areas. 
+I annually organize multiple industry research awards to support promising research candidates (Bachelor's, Honours, and Master's Students) interested in my research areas. Please note that only students from the Group of Eight (Go8) Australian universities are considered.
 
-Please note that only students from the Group of Eight (Go8) Australian universities are considered.
+**The Active Intelligence Research Challenge Award** was established by Mr. Lei Wang and Mr. Francis Williams to honor individuals who have demonstrated exceptional dedication, expertise, and a commitment to excellence in the field of Artificial Intelligence and Machine Learning. The Award includes a cash prize (up to $5,000) along with a research internship (6-12 months full-time). These awards are provided by Active Intelligence Corporation LLC.
 
-**The Active Intelligence Research Challenge Award** was established by Mr. Lei Wang and Mr. Francis Williams to honor individuals who have demonstrated exceptional dedication, expertise, and a commitment to excellence in the field of Artificial Intelligence and Machine Learning. 
-
-The Award includes a cash prize (up to $5,000) along with a research internship (6-12 months full-time). These awards are provided by Active Intelligence Corporation LLC.
-
-The Awards are granted solely on merit and are not subject to quotas. Typically, four candidates can receive awards from a pool of 20 candidates (with a minimum GPA of 6.75/7), resulting in an approximate acceptance rate of 20%, based on the 2023-2024 results.
-
-This year marks the 1st Annual Active Intelligence Research Challenge.
+The Awards are granted solely on merit and are not subject to quotas. Typically, four candidates can receive awards from a pool of 20 candidates (with a minimum GPA of 6.75/7), resulting in an approximate acceptance rate of 20%, based on the 2023-2024 results. This year marks the 1st Annual Active Intelligence Research Challenge.
 
 For more information regarding the application and award process, please contact the awarded candidates before reaching out to me.
 
