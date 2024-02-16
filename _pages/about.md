@@ -117,4 +117,5 @@ I personally do not have any news; the most exciting updates are coming from my 
 
 
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=5EsRL6MQjsR_evSoZ3z7-Tw7-_sYG3pyD3o4PxFhHX4"></script>
+<!-- <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=5EsRL6MQjsR_evSoZ3z7-Tw7-_sYG3pyD3o4PxFhHX4"></script> -->
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=100&t=t&d=5EsRL6MQjsR_evSoZ3z7-Tw7-_sYG3pyD3o4PxFhHX4&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
