@@ -201,7 +201,7 @@ a:active {
 				<div class="gs_gray"><strong>L Wang</strong>, X Yuan, T Gedeon, L Zheng</div>
 				<div class="gs_gray">Research report</div>
 			</td>
-			<td class="gsc_a_c">Xiuyuan Yuan conducted the research under the supervision of Dr. Lei Wang in the ANU Summer Scholars Program and is supported by a Summer Research Internship provided by the ANU School of Computing.</td>
+			<td class="gsc_a_c">Xiuyuan Yuan conducted the research under the supervision of Dr. Lei Wang in the ANU Summer Scholars Program and is supported by a Summer Research Internship provided by the ANU School of Computing. Code is <a href="https://github.com/LeiWangR/video-ar" style="color:#000000;">here</a>.</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
 		</tr>
 		<tr class="gsc_a_tr" style="background-color:#FFFFE0">
