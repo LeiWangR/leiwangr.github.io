@@ -90,6 +90,8 @@ He is an IEEE Student Member and an ACM Student Member. -->
 <h2>Recent News</h2>
 
 I personally do not have any news; the most exciting updates are coming from my talented students!
+
+- 19/02/2024: I am the primary supervisor for six ANU students: <font color="blue">Dexuan Ding</font>, <font color="blue">Qixiang Chen</font>, <font color="blue">Huilin Chen</font>, <font color="blue">Liyun Zhu</font>, <font color="blue">Jushang Qiu</font>, and <font color="blue">Liwen Luo</font>.
 - 02/02/2024: Congratulations to <font color="blue">Xiuyuan (Jack) Yuan</font> for successfully completing the 'Video Dynamics Distillation' project for the ANU Summer Scholars Program!
 - 04/01/2024: My research group is currently at full capacity, and I do not have openings for research interns and assistants. All available industry research sponsorships will be prioritized for my existing students until the end of 2024.
 - 19/09/2023: Congratulations to <font color="blue">Arjun Raj</font>, <font color="blue">Liyun Zhu</font>, <font color="blue">Liwen Luo</font>, and <font color="blue">Qixiang Chen</font>, who were awarded *the Active Intelligence Research Challenge Award* as four master's/honors students! Thanks to the research sponsorship provided by Active Intelligence Corp.
