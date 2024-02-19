@@ -58,7 +58,7 @@ I also serve as a **thesis examiner** for master's and honors theses at the ANU 
  
 <h2>Teaching</h2>
 
-* *19 Feb 2024 - 24 May 2024*: **TechLauncher Examiner**
+* *19 Feb 2024 - <font color="blue">present</font>*: **TechLauncher Examiner**
   * School of Computing, The Australian National University (ANU)
   * [COMP3500 - Software Engineering Project](https://programsandcourses.anu.edu.au/course/comp3500) | [COMP4500 - Software Engineering Practice](https://programsandcourses.anu.edu.au/2023/course/COMP4500) | [COMP8715 - Computing Project](https://programsandcourses.anu.edu.au/course/comp8715), Course Convener: [A/Prof. Charles Gretton](https://researchers.anu.edu.au/researchers/gretton-co) & [A/Prof. Liang Zheng](https://zheng-lab.cecs.anu.edu.au/)
 
