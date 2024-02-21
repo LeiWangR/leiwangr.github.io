@@ -69,7 +69,7 @@ I always look for motivated and hardworking students who are interested in doing
 
 The [TechLauncher program](https://comp.anu.edu.au/TechLauncher/) is for team-based activities at ANU, where the project and/or group activity undertaken is real, not synthetic. In TechLauncher you will be a team member on a project, and shall be supported by a program of tutorials at which your peers, along with experienced professional tutors/mentors, facilitate your professional development and mediate your team processes and interactions.
 
-If you would like to join a Techlauncher cohort, you can do so by enrolling in any on the following courses: COMP3500 - Software Engineering Project, COMP3550 - Advanced Computing R&D Project, COMP3710 - Topics in Computer Science, COMP4500 - Software Engineering Practice, and COMP8715 - Computing Project.
+If you would like to join a Techlauncher cohort, you can do so by enrolling in any of the following courses: COMP3500 - Software Engineering Project, COMP3550 - Advanced Computing R&D Project, COMP3710 - Topics in Computer Science, COMP4500 - Software Engineering Practice, and COMP8715 - Computing Project.
 
 In the 2024 Semester 1 and 2, my proposed project is '*ActiveIntelligence: CAM-FALL (Camera-based Fall Alert System)*'. This project marks the 2nd Annual Active Intelligence Research Challenge (refer to Industry Research Sponsorship below). Francis and I are the clients.
 
