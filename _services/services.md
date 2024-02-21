@@ -83,9 +83,9 @@ I also serve as a **thesis examiner** for master's and honors theses at the ANU 
 I serve as the primary supervisor for six ANU students who are undertaking final year research projects, spanning 24 units over two consecutive semesters:
 
 * Dexuan Ding: Robust human-centric anomaly detection 
-* Qixiang Chen: A closer look at fine-grained motions 
+* Qixiang Chen: A closer look at fine-grained motions (co-supervised with [Prof. Chen Chen](https://www.crcv.ucf.edu/chenchen/) from the University of Central Florida)
 * Huilin Chen: Spatio-temporal video coding: an in-depth analysis and assessment  
-* Liyun Zhu: A comparative review of recent video-based anomaly detection algorithms 
+* Liyun Zhu: A comparative review of recent video-based anomaly detection algorithms (co-supervised with [Prof. Chen Chen](https://www.crcv.ucf.edu/chenchen/) from the University of Central Florida)
 * Jushang Qiu: Dynamics distillation for scalable models
 * Liwen Luo: Spatio-temporal motion prediction
 
