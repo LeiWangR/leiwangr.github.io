@@ -78,6 +78,17 @@ I also serve as a **thesis examiner** for master's and honors theses at the ANU 
 
 <!-- <font color="blue">I am currently a research-intensive staff working on academic and industrial research projects, and I am not engaged in any teaching at this time.</font> -->
 
+<h2>Supervision</h2>
+
+I serve as the primary supervisor for six ANU students who are undertaking final year research projects, spanning 24 units over two consecutive semesters:
+
+* Dexuan Ding: Robust human-centric anomaly detection 
+* Qixiang Chen: A closer look at fine-grained motions 
+* Huilin Chen: Spatio-temporal video coding: an in-depth analysis and assessment  
+* Liyun Zhu: A comparative review of recent video-based anomaly detection algorithms 
+* Jushang Qiu: Dynamics distillation for scalable models
+* Liwen Luo: Spatio-temporal motion prediction
+
 
 <h2>Invited Talk</h2>
 
