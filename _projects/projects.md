@@ -65,7 +65,7 @@ I always look for motivated and hardworking students who are interested in doing
 
 <h2>Student Research Project</h2>
 
-<h3>Project 1: ANU TechLauncher <font color="red">[Proposed]</font></h3>
+<h3>Project 1: ANU TechLauncher <font color="red">[Ongoing]</font></h3>
 
 The [TechLauncher program](https://comp.anu.edu.au/TechLauncher/) is for team-based activities at ANU, where the project and/or group activity undertaken is real, not synthetic. In TechLauncher you will be a team member on a project, and shall be supported by a program of tutorials at which your peers, along with experienced professional tutors/mentors, facilitate your professional development and mediate your team processes and interactions.
 
