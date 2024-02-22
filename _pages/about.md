@@ -91,6 +91,7 @@ He is an IEEE Student Member and an ACM Student Member. -->
 
 I personally do not have any news; the most exciting updates are coming from my talented students!
 
+- 22/02/2024: My proposed project, "ActiveIntelligence: CAM-FALL (Camera-based Fall Alert System)," has been officially included in the 2024 Techlauncher program. Mr. Francis Williams, representing Active Intelligence Corp., will be the client for this project.
 - 19/02/2024: I am the primary supervisor for six ANU students: <font color="blue">Dexuan Ding</font>, <font color="blue">Qixiang Chen</font>, <font color="blue">Huilin Chen</font>, <font color="blue">Liyun Zhu</font>, <font color="blue">Jushang Qiu</font>, and <font color="blue">Liwen Luo</font>. I am also supervising <font color="blue">Yifan Chen</font> and <font color="blue">Arjun Raj</font> on industry research projects.
 - 02/02/2024: Congratulations to <font color="blue">Xiuyuan (Jack) Yuan</font> for successfully completing the 'Video Dynamics Distillation' project for the ANU Summer Scholars Program!
 - 04/01/2024: My research group is currently at full capacity, and I do not have openings for research interns and assistants. All available industry research sponsorships will be prioritized for my existing students until the end of 2024.
