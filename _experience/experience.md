@@ -35,7 +35,7 @@ I am also working to bridge the gap between academic research and industry resea
 
 <h2>Industry Research</h2>
 
-* *05/07/2021-<font color="blue">present</font>*: **Computer Scientist** (contract)
+* *05/07/2021-01/03/2024*: **Computer Scientist** (contract)
   * Active Intelligence Australia Pty Ltd, Perth, Western Australia (WA)
   * Country manager: [Mr. Francis Williams](https://www.linkedin.com/in/williamsfrancis/) <!--  CEO: [Mr. Kenneth LaMarca](https://www.linkedin.com/in/ken-lamarca-a021a2/) -->
   * <font color="red">Francis and I established the Active Intelligence Research Challenge Award (01/08/2023-present)</font>
