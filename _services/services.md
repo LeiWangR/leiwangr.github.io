@@ -49,7 +49,7 @@ I regularly review technical papers for the following journals, conferences & wo
 
 * **Workshops**:
   * Deep Vision Workshop (CVPR 2020), 
-  * Vision Datasets Understanding (1st VDU at CVPR 2022, 2nd VDU at CVPR 2023),
+  * Vision Datasets Understanding (1st VDU at CVPR 2022, 2nd VDU at CVPR 2023, 3rd VDU at CVPR 2024),
   * The AI City Challenge Workshop at CVPR 2023
  
 <!-- I also serve as a thesis examiner for master's and honors theses at the ANU College of Engineering, Computing & Cybernetics: S1 2023, S2 2023. -->
