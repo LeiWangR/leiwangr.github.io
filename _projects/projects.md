@@ -249,6 +249,11 @@ general-purpose foundation model, we need a unified model architecture that can 
   * The project is being conducted by the University of Canberra, Australian National University, Charles Sturt University, and University of Wollongong.
   * The project is to develop and test ‘early warning’ indicators for loss of resilience following challenging climate-related events. These indicators will be used to develop a resource that can be used to by the wide range of organisations and services to identify communities in the early stages of resilience loss and provide targeted support to agricultural communities.
   * Through understanding early warning signs that individuals and communities are at risk of resilience loss, we could inform policy and support service interventions earlier. This would provide communities with the necessary support to mitigate wider and longer lasting resilience loss related to the impacts of a climate events, which in turn, would reduce the overall harm to lives and livelihoods and facilitate resilience building across physical, psychological, social, economic, domains.
+ 
+* Industry research sponsorship (Active Intelligence Corp.): Detecting anomalies in video footage (stage 3)
+  * I am a **Principal Investigator** / **Project Lead** (**AU$40,012.5**, 2023/07/01‐2024/03/01)
+  * Project: Human‐related anomaly detection in surveillance videos (stage 3)
+  * The objective of Stage 3 is to further enhance the capabilities of human-related anomaly detection in surveillance videos, building upon the progress achieved in Stages 1 and 2. This stage focuses on refining algorithms, improving system adaptability, and integrating advanced features for more robust anomaly detection and classification.
 
 * Industry research sponsorship (Active Intelligence Corp.): Detecting anomalies in video footage (stage 2)
   * I am a **Principal Investigator** / **Project Lead** (**AU$108,628**, 2022/07/01‐2023/06/30)
