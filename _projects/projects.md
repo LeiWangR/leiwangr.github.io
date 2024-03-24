@@ -139,7 +139,7 @@ Participation in the project will provide students with a holistic learning expe
 - Ethical Considerations: Awareness of ethical considerations related to privacy, data security, and responsible use of technology is necessary for ensuring the system aligns with ethical standards and regulations. -->
 
 
-<h3>Project 2: Industry Research Sponsorship for Students <font color="red">[Ongoing]</font></h3>
+<h3>Project 2: Industry Research Sponsorship for Students <font color="red">[Completed]</font></h3>
 
 I annually organize multiple industry research awards to support promising research candidates (Bachelor's, Honours, and Master's Students) interested in my research areas. Please note that only students from the Group of Eight (Go8) Australian universities are considered.
 
