@@ -253,7 +253,8 @@ general-purpose foundation model, we need a unified model architecture that can 
 * Industry research sponsorship (Active Intelligence Corp.): Detecting anomalies in video footage (stage 3)
   * I am a **Principal Investigator** / **Project Lead** (**AU$40,012.5**, 2023/07/01‐2024/03/01)
   * Project: Human‐related anomaly detection in surveillance videos (stage 3)
-  * The objective of Stage 3 is to further enhance the capabilities of human-related anomaly detection in surveillance videos, building upon the progress achieved in Stages 1 and 2. This stage focuses on refining algorithms, improving system adaptability, and integrating advanced features for more robust anomaly detection and classification.
+  * The objective of Stage 3 is to further enhance the capabilities of human-related anomaly detection in surveillance videos, building upon the progress achieved in Stages 1 and 2.
+  * This stage focuses on refining algorithms, improving system adaptability, and integrating advanced features for more robust anomaly detection and classification.
 
 * Industry research sponsorship (Active Intelligence Corp.): Detecting anomalies in video footage (stage 2)
   * I am a **Principal Investigator** / **Project Lead** (**AU$108,628**, 2022/07/01‐2023/06/30)
