@@ -40,7 +40,7 @@ Since 2018, Lei has been dedicated to his work as a full-time Computer Vision Re
 
 Prior to commencing his PhD at ANU and Data61/CSIRO, Lei received several competitive full PhD scholarships, including the ARC Industrial Transformation Training Centre Scholarship, UWA International Fee Scholarship, University Postgraduate Award, Data61 PhD Scholarship, Data61 Top-up Scholarship, and ANU HDR Fee Remission Merit Scholarship.
 
-Throughout his PhD candidature, Lei authored a significant number of first-author papers published in esteemed venues, such as CVPR, ICCV, ECCV, ACM MM, TPAMI, and TIP. His research, conducted under the guidance of [Dr. Piotr Koniusz](http://users.cecs.anu.edu.au/~koniusz/) (Data61/CSIRO & ANU), earned him the Sang Uk Lee Best Student Paper Award from ACCV'22.
+Throughout his PhD candidature, Lei authored a significant number of first-author papers published in esteemed venues, such as CVPR, ICCV, ECCV, ACM MM, TPAMI, IJCV, and TIP. His research, conducted under the guidance of [Dr. Piotr Koniusz](http://users.cecs.anu.edu.au/~koniusz/) (Data61/CSIRO & ANU), earned him the Sang Uk Lee Best Student Paper Award from ACCV'22.
 
 Lei's research interests encompass a wide range of topics, including action recognition in videos, anomaly detection, video image processing, one- and few-shot learning, deep learning, tensor learning, and domain adaptation.
 
