@@ -231,7 +231,7 @@ a:active {
 				<div class="gs_gray"><strong>L Wang</strong>, J Liu, P Koniusz</div>
 				<div class="gs_gray">arXiv preprint arXiv:2112.12668</div>
 			</td>
-			<td class="gsc_a_c">An extended version has been accepted by ACCV&#39;22 [oral] and has been awarded the Sang Uk Lee Best Student Paper Award.</td>
+			<td class="gsc_a_c">An extended version has been accepted by ACCV&#39;22 [oral] and has been awarded the Sang Uk Lee Best Student Paper Award. The further extension of ACCV'22 has been accepted for publication by the IJCV special issue.</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2021</span></td>
 		</tr>
 		<tr class="gsc_a_tr">
