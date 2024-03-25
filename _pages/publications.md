@@ -43,7 +43,7 @@ a:active {
 				<div class="gs_gray"><strong>L Wang</strong>, J Liu, L Zheng, T Gedeon, P Koniusz</div>
 				<div class="gs_gray">International Journal of Computer Vision (IJCV)</div>
 			</td>
-			<td class="gsc_a_c">(an extension of our ACCV&#39;22)<br>[<font color="red"><strong>IF: 19.5</strong>, coming soon</font>] <br><a href="https://github.com/LeiWangR/JEANIE" style="color:#000000;"> Code </a></td>
+			<td class="gsc_a_c">(an extension of our ACCV&#39;22, invited to IJCV special issue)<br>[<font color="red"><strong>IF: 19.5</strong></font>] <br><a href="https://github.com/LeiWangR/JEANIE" style="color:#000000;"> Code </a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2023</span></td>
 		</tr>
                 <tr class="gsc_a_tr" style="background-color:#E5E4E2">
