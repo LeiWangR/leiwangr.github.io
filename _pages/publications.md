@@ -81,7 +81,7 @@ a:active {
 				<div class="gs_gray"><strong>L Wang</strong>, K Sun, P Koniusz</div>
 				<div class="gs_gray">IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</div>
 			</td>
-			<td class="gsc_a_c">(an extension of our TPAMI&#39;20)<br>[<font color="red"><strong>B</strong>, oral</font>] <br><a href="https://github.com/LeiWangR/HoTP" style="color:#000000;"> Code (preprocessing)</a><br><a href="https://github.com/files/icassp24_hop_suppl.pdf" style="color:#000000;"> Supplementary material </a><br> <a href="https://github.com/files/icassp24_hot_lecture.pdf" style="color:#000000;">Presentation slides </a></td>
+			<td class="gsc_a_c">(an extension of our TPAMI&#39;20)<br>[<font color="red"><strong>B</strong>, oral</font>] <br><a href="https://github.com/LeiWangR/HoTP" style="color:#000000;"> Code (preprocessing)</a><br><a href="https://leiwangr.github.io/files/icassp24_hop_suppl.pdf" style="color:#000000;"> Supplementary material </a><br> <a href="https://leiwangr.github.io/files/icassp24_hot_lecture.pdf" style="color:#000000;">Presentation slides </a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2023</span></td>
 		</tr>
 		<tr class="gsc_a_tr" style="background-color:#E0FFFF"> 
