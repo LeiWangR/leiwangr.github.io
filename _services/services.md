@@ -31,6 +31,8 @@ I am serving as an **Area Chair** for ACM Multimedia 2024.
 
 I have the honor of serving as an **Area Chair** for the 27th International Conference on Pattern Recognition (ICPR 2024) by invitation from [Prof. Cheng-Lin Liu](http://www.nlpr.ia.ac.cn/liucl/) (CASIA).
 
+I serve as a **Guest Editor** for MDPI open access journal Electronics (Special Issue entitled "Action Recognition Based on Neural Network").
+
 I regularly review technical papers for the following journals, conferences & workshops. 
 
 <!-- <font color="blue">I write high quality reviews for papers in my research interests, e.g., action recognition, anomaly detection, one- and few-shot learning, deep learning, tensor learning, domain adaptation, etc.</font> -->
