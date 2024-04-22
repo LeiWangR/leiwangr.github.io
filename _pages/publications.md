@@ -203,6 +203,14 @@ a:active {
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr">
+			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2404.13016.pdf"><strong><span class="gsc_a_at">Optimizing Calibration by Gaining Aware of Prediction Correctness</span></strong></a>
+				<div class="gs_gray">Y Liu, <strong>L Wang</strong>, Y Zou, J Zou, L Zheng</div>
+				<div class="gs_gray">arXiv preprint arXiv:2404.13016</div>
+			</td>
+			<td class="gsc_a_c">Research report. Code is <a href="https://github.com/liuyvchi/Correctness-aware-calibration" style="color:#000000;">here</a>.</td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
+		</tr>
+		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2402.03019.pdf"><strong><span class="gsc_a_at">Taylor Videos for Action Recognition</span></strong></a>
 				<div class="gs_gray"><strong>L Wang</strong>, X Yuan, T Gedeon, L Zheng</div>
 				<div class="gs_gray">arXiv preprint arXiv:2402.03019</div>
