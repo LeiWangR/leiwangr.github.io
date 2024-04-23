@@ -58,7 +58,7 @@ I am also working to bridge the gap between academic research and industry resea
     * Primary supervisor: [Dr. Piotr Koniusz](http://users.cecs.anu.edu.au/~koniusz/) (Data61/CSIRO & ANU)
     * Associate supervisor: Assoc. Prof. Liang Zheng (ANU)
   * <font color="red">One paper has been accepted for the IJCV special issue</font>
-  * <font color="red">2 papers have been accepted for ICASSP 2024</font>
+  * <font color="red">2 papers (one oral) have been accepted for ICASSP 2024</font>
   * <font color="red">Granted the <strong>research award</strong> of Doctor of Philosophy (01/11/2023)</font>
   * <font color="red">Received <strong>the Sang Uk Lee Best Student Paper Award</strong> from ACCV’22</font>
   * <font color="red">One paper each published at CVPR, ICCV, ECCV, ACM-MM, TPAMI & TIP</font>
