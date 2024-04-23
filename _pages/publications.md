@@ -196,6 +196,8 @@ a:active {
 </table>
 <p style="font-family:Arial; font-size: 12px; color: blue">
 *: I would like to extend my heartfelt gratitude to three esteemed PhD thesis examiners, namely <a href="https://lingqiao-adelaide.github.io/lingqiaoliu.github.io/">Dr. Lingqiao Liu</a> (University of Adelaide) and <a href="https://wp8619.github.io/">Dr. Peng Wang</a> (University of Electronic Science and Technology of China), as well as an anonymous examiner, for their invaluable insights, meticulous examination, and constructive feedback on my research work.
+
+*: The 1st chapter of my thesis was invited by <a href="https://dl2link.com/">Prof. Haijun Zhang</a> to contribute to 'The Next Generation of International Chinese Young Students Face to Face,' featured in Issue 21 of the International Cooperation and Exchange Program Series Activities at Harbin Institute of Technology (Shenzhen). Chapters 2 through 8 comprise published works presented at TIP'20, ICCV'19, ACMMM'21, TPAMI'20, CVPR'23, ECCV'22 (oral), and ACCV'22 (oral, recipient of the Best Student Paper Award). Chapter 9 provides a summary and outlines future work. Other works completed during my PhD, such as contributions to the IJCV special issue on ACCV'22 and presentations at ICASSP (x2, 1 oral), are not included in this thesis.
 </p>
  
 <!-- <p>&nbsp;</p> -->
