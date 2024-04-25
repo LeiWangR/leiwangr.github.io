@@ -41,7 +41,7 @@ a:active {
 		<tr class="gsc_a_tr" style="background-color:#E0FFFF"> 
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2402.04599.pdf"><strong><span class="gsc_a_at">Meet JEANIE: a Similarity Measure for 3D Skeleton Sequences via Temporal‑Viewpoint Alignment</span></strong></a>
 				<div class="gs_gray"><strong>L Wang</strong>, J Liu, L Zheng, T Gedeon, P Koniusz</div>
-				<div class="gs_gray">International Journal of Computer Vision (IJCV)</div>
+				<div class="gs_gray">International Journal of Computer Vision (<strong>IJCV</strong>)</div>
 			</td>
 			<td class="gsc_a_c">(IJCV special issue on our ACCV'22)<br>[<font color="red"><strong>IF: 19.5</strong></font>] <br><a href="https://github.com/LeiWangR/JEANIE" style="color:#000000;"> Code </a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2023</span></td>
@@ -49,7 +49,7 @@ a:active {
                 <tr class="gsc_a_tr" style="background-color:#E5E4E2">
 			<td class="gsc_a_t"><a href="https://ieeexplore.ieee.org/document/9895208"><strong><span class="gsc_a_at">Fusing Higher-Order Features in Graph Neural Networks for Skeleton-Based Action Recognition</span></strong></a>
 				<div class="gs_gray">Z Qin, Y Liu, P Ji, D Kim, <strong>L Wang</strong>, B McKay, S Anwar, T Gedeon</div>
-				<div class="gs_gray">IEEE Transactions on Neural Networks and Learning Systems (TNNLS) 35 (4), 4783-4797</div>
+				<div class="gs_gray">IEEE Transactions on Neural Networks and Learning Systems (<strong>TNNLS</strong>), 4783-4797</div>
 			</td>
 			<td class="gsc_a_c">[<strong><font color="red">IF: 14.255</font></strong>]<br><a href="https://github.com/harutatsuakiyama/Angular-Skeleton-Encoding" style="color:#000000;">Code</a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2021</span></td>
@@ -57,7 +57,7 @@ a:active {
                 <tr class="gsc_a_tr" style="background-color:#E0FFFF">
 			<td class="gsc_a_t"><strong data-bind="text: title"><a href="https://ieeexplore.ieee.org/document/9521829">Tensor Representations for Action Recognition</a></strong>
 				<div class="gs_gray">P Koniusz,<strong> L Wang</strong>, A Cherian</div>
-				<div class="gs_gray">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 44 (2), 648-665</div>
+				<div class="gs_gray">IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</strong>) 44 (2), 648-665</div>
 			</td>
 			<td class="gsc_a_c">[<strong><font color="red">IF: 24.314</font></strong>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2020</span></td>
@@ -65,7 +65,7 @@ a:active {
                 <tr class="gsc_a_tr" style="background-color:#E0FFFF">
 			<td class="gsc_a_t"><a href="https://ieeexplore.ieee.org/document/8753686"><strong><span class="gsc_a_at">A Comparative Review of Recent Kinect-based Action Recognition Algorithms</span></strong></a>
 				<div class="gs_gray"><strong>L Wang</strong>, DQ Huynh, P Koniusz</div>
-				<div class="gs_gray">IEEE Transactions on Image Processing (TIP) 29 (1), 15-28</div>
+				<div class="gs_gray">IEEE Transactions on Image Processing (<strong>TIP</strong>) 29 (1), 15-28</div>
 			</td>
 			<td class="gsc_a_c">[<strong><font color="red">IF: 11.041</font></strong>]<br><a href="https://github.com/LeiWangR/HDG" style="color:#000000;">Dataset & Code</a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2020</span></td>
@@ -95,7 +95,7 @@ a:active {
 		<tr class="gsc_a_tr" style="background-color:#E0FFFF">
 			<td class="gsc_a_t"><a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_3Mformer_Multi-Order_Multi-Mode_Transformer_for_Skeletal_Action_Recognition_CVPR_2023_paper.pdf"><strong><span class="gsc_a_at">3Mformer: Multi-order Multi-mode Transformer for Skeletal Action Recognition</span></strong></a>
 				<div class="gs_gray"><strong>L Wang</strong>, P Koniusz</div>
-				<div class="gs_gray">Computer Vision and Pattern Recognition (CVPR), 5620-5631</div>
+				<div class="gs_gray">Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 5620-5631</div>
 			</td>
 			<td class="gsc_a_c">[<font color="red"><strong>A*</strong></font>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2023</span></td>
@@ -111,7 +111,7 @@ a:active {
 		<tr class="gsc_a_tr" style="background-color:#E0FFFF">
 			<td class="gsc_a_t"><a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136810174.pdf"><strong><span class="gsc_a_at">Uncertainty-DTW for Time Series and Sequences</span></strong></a>
 				<div class="gs_gray"><strong>L Wang</strong>, P Koniusz</div>
-				<div class="gs_gray">European Conference on Computer Vision (ECCV), 176-195</div>
+				<div class="gs_gray">European Conference on Computer Vision (<strong>ECCV</strong>), 176-195</div>
 			</td>
 			<td class="gsc_a_c">[<font color="red"><strong>A*</strong>, oral, 2.7% acceptance rate</font>]<br><a href="https://github.com/LeiWangR/uDTW" style="color:#000000;">Code</a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2022</span></td>
@@ -119,7 +119,7 @@ a:active {
 		<tr class="gsc_a_tr" style="background-color:#E0FFFF">
 			<td class="gsc_a_t"><a href="https://dl.acm.org/doi/10.1145/3474085.3475572"><strong><span class="gsc_a_at">Self-supervising Action Recognition by Statistical Moment and Subspace Descriptors</span></strong></a>
 				<div class="gs_gray"><strong>L Wang</strong>, P Koniusz</div>
-				<div class="gs_gray">ACM International Conference on Multimedia (ACM-MM), 4324-4333</div>
+				<div class="gs_gray">ACM International Conference on Multimedia (<strong>ACM-MM</strong>), 4324-4333</div>
 			</td>
 			<td class="gsc_a_c">[<strong><font color="red">A*</font></strong>]<br><a href="https://github.com/LeiWangR/ODFSDF" style="color:#000000;">Code</a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2021</span></td>
@@ -127,7 +127,7 @@ a:active {
 		<tr class="gsc_a_tr" style="background-color:#E0FFFF">
 			<td class="gsc_a_t"><a href="https://ieeexplore.ieee.org/document/9008573"><strong data-bind="text: title">Hallucinating IDT Descriptors and I3D Optical Flow Features for Action Recognition with CNNs</strong></a>
 				<div class="gs_gray"><strong>L Wang</strong>, P Koniusz, DQ Huynh</div>
-				<div class="gs_gray">IEEE International Conference on Computer Vision (ICCV), 8698-8708</div>
+				<div class="gs_gray">IEEE International Conference on Computer Vision (<strong>ICCV</strong>), 8698-8708</div>
 			</td>
 			<td class="gsc_a_c">[<strong><font color="red">A*</font></strong>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2019</span></td>
