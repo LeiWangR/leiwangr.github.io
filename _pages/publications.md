@@ -49,7 +49,7 @@ a:active {
                 <tr class="gsc_a_tr" style="background-color:#E5E4E2">
 			<td class="gsc_a_t"><a href="https://ieeexplore.ieee.org/document/9895208"><strong><span class="gsc_a_at">Fusing Higher-Order Features in Graph Neural Networks for Skeleton-Based Action Recognition</span></strong></a>
 				<div class="gs_gray">Z Qin, Y Liu, P Ji, D Kim, <strong>L Wang</strong>, B McKay, S Anwar, T Gedeon</div>
-				<div class="gs_gray">IEEE Transactions on Neural Networks and Learning Systems (TNNLS), (Early Access)</div>
+				<div class="gs_gray">IEEE Transactions on Neural Networks and Learning Systems (TNNLS) 35 (4), 4783-4797</div>
 			</td>
 			<td class="gsc_a_c">[<strong><font color="red">IF: 14.255</font></strong>]<br><a href="https://github.com/harutatsuakiyama/Angular-Skeleton-Encoding" style="color:#000000;">Code</a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2021</span></td>
@@ -79,7 +79,7 @@ a:active {
 		<tr class="gsc_a_tr" style="background-color:#E0FFFF"> 
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2110.05216.pdf"><strong><span class="gsc_a_at">High-order Tensor Pooling with Attention for Action Recognition</span></strong></a>
 				<div class="gs_gray"><strong>L Wang</strong>, K Sun, P Koniusz</div>
-				<div class="gs_gray">IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</div>
+				<div class="gs_gray">IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 3885-3889</div>
 			</td>
 			<td class="gsc_a_c">(an extension of our TPAMI&#39;20)<br>[<font color="red"><strong>B</strong>, oral</font>] <br><a href="https://github.com/LeiWangR/HoTP" style="color:#000000;"> Code (preprocessing)</a><br><a href="https://leiwangr.github.io/files/icassp24_hop_suppl.pdf" style="color:#000000;"> Supplementary material </a><br> <a href="https://leiwangr.github.io/files/icassp24_hot_lecture.pdf" style="color:#000000;">Presentation slides </a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2023</span></td>
@@ -87,7 +87,7 @@ a:active {
 		<tr class="gsc_a_tr" style="background-color:#E0FFFF"> 
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2310.10059.pdf"><strong><span class="gsc_a_at">Flow Dynamics Correction for Action Recognition</span></strong></a>
 				<div class="gs_gray"><strong>L Wang</strong>, P Koniusz</div>
-				<div class="gs_gray">IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</div>
+				<div class="gs_gray">IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 3795-3799</div>
 			</td>
 			<td class="gsc_a_c">[<font color="red"><strong>B</strong></font>]<br> <a href="https://leiwangr.github.io/files/icassp24_hal_poster.pdf" style="color:#000000;">Poster </a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2023</span></td>
