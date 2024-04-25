@@ -43,7 +43,7 @@ a:active {
 				<div class="gs_gray"><strong>L Wang</strong>, J Liu, L Zheng, T Gedeon, P Koniusz</div>
 				<div class="gs_gray">International Journal of Computer Vision (IJCV)</div>
 			</td>
-			<td class="gsc_a_c">(an extension of our ACCV'22, invited for the IJCV special issue)<br>[<font color="red"><strong>IF: 19.5</strong></font>] <br><a href="https://github.com/LeiWangR/JEANIE" style="color:#000000;"> Code </a></td>
+			<td class="gsc_a_c">(IJCV special issue on our ACCV'22)<br>[<font color="red"><strong>IF: 19.5</strong></font>] <br><a href="https://github.com/LeiWangR/JEANIE" style="color:#000000;"> Code </a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2023</span></td>
 		</tr>
                 <tr class="gsc_a_tr" style="background-color:#E5E4E2">
@@ -81,7 +81,7 @@ a:active {
 				<div class="gs_gray"><strong>L Wang</strong>, K Sun, P Koniusz</div>
 				<div class="gs_gray">IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 3885-3889</div>
 			</td>
-			<td class="gsc_a_c">(an extension of our TPAMI&#39;20)<br>[<font color="red"><strong>B</strong>, oral</font>] <br><a href="https://github.com/LeiWangR/HoTP" style="color:#000000;"> Code (preprocessing)</a><br><a href="https://leiwangr.github.io/files/icassp24_hop_suppl.pdf" style="color:#000000;">Appendix</a>, <a href="https://leiwangr.github.io/files/icassp24_hot_lecture.pdf" style="color:#000000;">Slides</a></td>
+			<td class="gsc_a_c">(An extension of our TPAMI&#39;20)<br>[<font color="red"><strong>B</strong>, oral</font>] <br><a href="https://github.com/LeiWangR/HoTP" style="color:#000000;"> Code (preprocessing)</a><br><a href="https://leiwangr.github.io/files/icassp24_hop_suppl.pdf" style="color:#000000;">Appendix</a>, <a href="https://leiwangr.github.io/files/icassp24_hot_lecture.pdf" style="color:#000000;">Slides</a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2023</span></td>
 		</tr>
 		<tr class="gsc_a_tr" style="background-color:#E0FFFF"> 
