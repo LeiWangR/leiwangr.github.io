@@ -31,7 +31,7 @@ I am serving as an **Area Chair** for ACM Multimedia 2024.
 
 I have the honor of serving as an **Area Chair** for the 27th International Conference on Pattern Recognition (ICPR 2024) by invitation from [Prof. Cheng-Lin Liu](http://www.nlpr.ia.ac.cn/liucl/) (CASIA).
 
-I am serving as a **Guest Editor** for the MDPI open-access journal Electronics, specifically for the [Special Issue](https://leiwangr.github.io/files/Special Issue - Electronics.pdf) titled 'Motion-centric Video Processing'.
+I am serving as a **Guest Editor** for the MDPI open-access journal Electronics, specifically for the [Special Issue](https://leiwangr.github.io/files/si-electronics.pdf) titled 'Motion-centric Video Processing'.
 
 I regularly review technical papers for the following journals, conferences & workshops. 
 
