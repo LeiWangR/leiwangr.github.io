@@ -209,7 +209,7 @@ a:active {
 				<div class="gs_gray">W Chen, H Xiao, E Zhang, L Hu, <strong>L Wang</strong>, M Liu, C Chen</div>
 				<div class="gs_gray">arXiv preprint</div>
 			</td>
-			<td class="gsc_a_c">Research report. Project page is <a href="https://github.com/sato-team/Stable-Text-to-motion-Framework" style="color:#000000;">here</a>.</td>
+			<td class="gsc_a_c">Research report. [<a href="https://github.com/sato-team/Stable-Text-to-motion-Framework" style="color:#000000;">Code</a>, <a href="https://sato-team.github.io/Stable-Text-to-Motion-Framework/" style="color:#000000;">Project website</a>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
 		</tr>
 		<tr class="gsc_a_tr">
