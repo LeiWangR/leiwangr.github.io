@@ -81,7 +81,7 @@ a:active {
 				<div class="gs_gray"><strong>L Wang</strong>, X Yuan, T Gedeon, L Zheng</div>
 				<div class="gs_gray">International Conference on Machine Learning (<strong>ICML</strong>)</div>
 			</td>
-			<td class="gsc_a_c">[<font color="red"><strong>A*</strong>, accepted</font>]<br>[<a href="https://github.com/LeiWangR/video-ar" style="color:#000000;">Code</a>]</td>
+			<td class="gsc_a_c">[<font color="red"><strong>A*</strong>, accepted</font>]<br><a href="https://github.com/LeiWangR/video-ar" style="color:#000000;">Code</a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
 		</tr>
 		<tr class="gsc_a_tr" style="background-color:#E0FFFF"> 
