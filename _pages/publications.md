@@ -79,7 +79,7 @@ a:active {
 		<tr class="gsc_a_tr"> 
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2402.03019.pdf"><strong><span class="gsc_a_at">Taylor Videos for Action Recognition</span></strong></a>
 				<div class="gs_gray"><strong>L Wang</strong>, X Yuan, T Gedeon, L Zheng</div>
-				<div class="gs_gray">International Conference on Machine Learning (ICML)</div>
+				<div class="gs_gray">International Conference on Machine Learning (<strong>ICML</strong>)</div>
 			</td>
 			<td class="gsc_a_c">[<font color="red"><strong>A*</strong>, accepted</font>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
