@@ -76,6 +76,14 @@ a:active {
 <h2>Conferences</h2>
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
+		<tr class="gsc_a_tr"> 
+			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2402.03019.pdf"><strong><span class="gsc_a_at">Taylor Videos for Action Recognition</span></strong></a>
+				<div class="gs_gray"><strong>L Wang</strong>, X Yuan, T Gedeon, L Zheng</div>
+				<div class="gs_gray">International Conference on Machine Learning (ICML)</div>
+			</td>
+			<td class="gsc_a_c">[<font color="red"><strong>A*</strong>, accepted</font>]</td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
+		</tr>
 		<tr class="gsc_a_tr" style="background-color:#E0FFFF"> 
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2110.05216.pdf"><strong><span class="gsc_a_at">High-order Tensor Pooling with Attention for Action Recognition</span></strong></a>
 				<div class="gs_gray"><strong>L Wang</strong>, K Sun, P Koniusz</div>
@@ -220,14 +228,14 @@ a:active {
 			<td class="gsc_a_c">Research report. [<a href="https://github.com/liuyvchi/Correctness-aware-calibration" style="color:#000000;">Code</a>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
 		</tr>
-		<tr class="gsc_a_tr">
+		<!-- <tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2402.03019.pdf"><strong><span class="gsc_a_at">Taylor Videos for Action Recognition</span></strong></a>
 				<div class="gs_gray"><strong>L Wang</strong>, X Yuan, T Gedeon, L Zheng</div>
 				<div class="gs_gray">arXiv preprint arXiv:2402.03019</div>
 			</td>
 			<td class="gsc_a_c">Xiuyuan Yuan conducted the research under the supervision of Dr. Lei Wang in the ANU Summer Scholars Program and is supported by a Summer Research Internship provided by the ANU School of Computing. [<a href="https://github.com/LeiWangR/video-ar" style="color:#000000;">Code</a>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
-		</tr>
+		</tr> -->
 		<tr class="gsc_a_tr" style="background-color:#FFFFE0">
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2402.04857.pdf"><strong><span class="gsc_a_at">Advancing Anomaly Detection: An Adaptation Model and a New Dataset</span></strong></a>
 				<div class="gs_gray">L Zhu, A Raj, <strong>L Wang</strong></div>
