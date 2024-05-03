@@ -90,6 +90,10 @@ I serve as the primary supervisor for six ANU students who are undertaking final
 * Jushang Qiu: Dynamics distillation for scalable models
 * Liwen Luo: Spatio-temporal motion prediction
 
+Formerstudent:
+
+* XiuyuanYuan (1x<font color="blue">ICML’24</font>), Videodynamicsdistillation, ANU Summer Research Scholars Program, 2023/11/20‑2024/02/02
+
 
 <h2>Invited Talk</h2>
 
