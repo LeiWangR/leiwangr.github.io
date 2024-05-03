@@ -92,7 +92,7 @@ I serve as the primary supervisor for six ANU students who are undertaking final
 
 Former student:
 
-* XiuyuanYuan (1 x <font color="blue"><strong>ICML’24</strong></font>): Video dynamics distillation, ANU Summer Research Scholars Program, 2023/11/20‑2024/02/02
+* XiuyuanYuan (1 x <font color="red"><strong>ICML’24</strong></font>): Video dynamics distillation, ANU Summer Research Scholars Program, 2023/11/20‑2024/02/02
 
 
 <h2>Invited Talk</h2>
