@@ -213,7 +213,7 @@ a:active {
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr" style="background-color:#E5E4E2">
-			<td class="gsc_a_t"><a href="https://leiwangr.github.io/files/text2motion.pdf"><strong><span class="gsc_a_at">SATO: Stable Text-to-Motion Framework</span></strong></a>
+			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2405.01461"><strong><span class="gsc_a_at">SATO: Stable Text-to-Motion Framework</span></strong></a>
 				<div class="gs_gray">W Chen, H Xiao, E Zhang, L Hu, <strong>L Wang</strong>, M Liu, C Chen</div>
 				<div class="gs_gray">arXiv preprint</div>
 			</td>
