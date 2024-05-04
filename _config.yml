@@ -193,6 +193,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
+  supervision:
+    output: true
+    permalink: /:collection/:path/
   services:
     output: true
     permalink: /:collection/:path/
@@ -277,6 +280,13 @@ defaults:
   - scope:
       path: ""
       type: projects
+    values:
+      layout: single
+      author_profile: true
+  # _supervision
+  - scope:
+      path: ""
+      type: supervision
     values:
       layout: single
       author_profile: true
