@@ -23,7 +23,7 @@ a:active {
 }
 </style>
 
-<h2>Supervision</h2>
+<h2>Mentoring</h2>
 
 I serve as the primary supervisor for six ANU students who are undertaking final year research projects, spanning 24 units over two consecutive semesters:
 
