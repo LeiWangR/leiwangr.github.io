@@ -1,7 +1,7 @@
 ---
 layout: archive
-  title: "Supervision"
-permalink: /supervision/
+title: "Publications"
+permalink: /publications/
 author_profile: true
 ---
 
@@ -22,5 +22,3 @@ a:active {
   text-decoration: underline;
 }
 </style>
-
-123
