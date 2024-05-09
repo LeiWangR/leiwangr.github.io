@@ -38,7 +38,7 @@ I regularly review technical papers for the following journals, conferences & wo
 <!-- <font color="blue">I write high quality reviews for papers in my research interests, e.g., action recognition, anomaly detection, one- and few-shot learning, deep learning, tensor learning, domain adaptation, etc.</font> -->
 
 * **Journals**:
-  * IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), International Journal of Computer Vision (IJCV), ACM Computing Surveys (ACM CSUR), 
+  * IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), International Journal of Computer Vision (IJCV), ACM Computing Surveys (ACM CSUR), Big Data Mining and Analytics (BDMA),
   * IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), IEEE Transactions on Multimedia (T-MM), Pattern Recognition (PR), Computer Vision and Image Understanding (CVIU), Neurocomputing,
   * Neural Computing and Applications (NCAA), Journal of Visual Communication and Image Representation (JVCI), Signal, Image and Video Processing (SIVP), The Visual Computer (TVCJ), Journal of Imaging, Future Internet, Information, IET Computer Vision, Electronics Letters
  
