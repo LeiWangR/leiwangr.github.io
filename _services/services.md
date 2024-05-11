@@ -86,7 +86,7 @@ I also serve as a **thesis examiner** for master's and honors theses at the ANU 
     <th>Description</th>
     <th>Date</th>
   </tr>
-  <tr>
+  <!-- <tr>
     <td>Modeling Videos: Language as a Key Driver <a href="../files/video_vision_group.pdf">[slides]</a></td>
     <td>Assoc. Prof. Liang Zheng's weekly paper reading session</td>
     <td>This seminar explores cutting-edge video-language models and their applications in downstream video processing tasks, including action recognition, action localization, and text-video retrieval. It spans closed-set, few-shot, and zero-shot scenarios.</td>
@@ -103,7 +103,7 @@ I also serve as a **thesis examiner** for master's and honors theses at the ANU 
     <td>[1] Assoc. Prof. Liang Zheng's weekly paper reading session <br> [2] Dr. Piotr Koniusz's research group (repeated paper reading session)</td>
     <td>This reading session covers a comparison between contrastive learning and masked image modeling with regard to model behavior, model architecture, self-attention, and representation.</td>
     <td>2 June 2023</td>
-  </tr>
+  </tr> -->
   <tr>
     <td>Robust Human Action Modelling <a href="../files/oral_presentation_slides.pdf">[slides]</a></td>
     <td>ANU College of Engineering, Computing and Cybernetics</td>
