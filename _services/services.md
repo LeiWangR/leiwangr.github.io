@@ -27,7 +27,7 @@ a:active {
 
 <h2>Review</h2>
 
-I am serving as a **Guest Editor** for the MDPI open-access journal Electronics, specifically for the Special Issue titled 'Motion-centric Video Processing'.
+I am serving as a **Guest Editor** for the MDPI open-access journal Electronics (Q2, h-index 83), specifically for the Special Issue titled 'Motion-centric Video Processing'.
 
 I am serving as an **Area Chair** for ACM Multimedia 2024.
 
