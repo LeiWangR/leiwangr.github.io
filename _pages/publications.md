@@ -113,7 +113,7 @@ a:active {
 				<div class="gs_gray"><strong>L Wang</strong>, P Koniusz</div>
 				<div class="gs_gray">Asian Conference on Computer Vision (ACCV), 307-326</div>
 			</td>
-			<td class="gsc_a_c">[<font color="red"><strong>B</strong>, oral, 4.9% acceptance rate, <br><strong><a href="../files/ACCV2022_Best Student Paper Award.pdf">Best Student Paper Award</a></strong></font>]<!-- <br><a href="" style="color:#008000;">Codes</a> --> </td>
+			<td class="gsc_a_c">[<font color="red"><strong>B</strong>, oral, 4.9% acceptance rate, <br><strong>Best Student Paper Award</strong></font>]<br><a href="../files/ACCV2022_Best Student Paper Award.pdf" style="color:#008000;">Award certificate</a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2022</span></td>
 		</tr>
 		<tr class="gsc_a_tr" style="background-color:#E0FFFF">
