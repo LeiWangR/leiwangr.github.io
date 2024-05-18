@@ -257,7 +257,7 @@ a:active {
 				<div class="gs_gray"><strong>L Wang</strong>, P Koniusz, T Gedeon, L Zheng</div>
 				<div class="gs_gray">arXiv preprint arXiv:2310.05615</div>
 			</td>
-			<td class="gsc_a_c">Technical report</td>
+			<td class="gsc_a_c">Research report.</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2023</span></td>
 		</tr>
 		<tr class="gsc_a_tr" style="background-color:#E0FFFF">
