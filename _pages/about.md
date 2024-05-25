@@ -91,6 +91,7 @@ He is an IEEE Student Member and an ACM Student Member. -->
 
 I personally do not have any news; the most exciting updates are coming from my talented students!
 
+- 27/05/2024: The MDPI open-access journal *Electronics* [Q2, h-index 83] has a special issue on ‘Motion-centric Video Processing’ (Guest Editors: Dr. Lei Wang, Prof. Tom Gedeon, Dr. Zhenyue Qin) now [open for submission](https://www.mdpi.com/journal/electronics/special_issues/OCT400DHJS). The deadline for manuscript submissions is 15 December, 2024. Interested authors are encouraged to contact me for more details.
 - 22/05/2024: As the ANU TechLauncher community, we are a finalist for *the 2024 iAwards*.
 - 02/05/2024: One paper has been accepted at *ICML 2024*. Congratulations to my Summer Scholar <font color="blue">Xiuyuan (Jack) Yuan</font>!
 - 22/02/2024: My proposed project, "ActiveIntelligence: CAM-FALL (Camera-based Fall Alert System)," has been officially included in the 2024 Techlauncher program. Mr. Francis Williams, representing Active Intelligence Corp., will be the client for this project. <font color="blue">Jushang Qiu</font> will act as the 'delegated client' at ANU on behalf of Lei Wang.
