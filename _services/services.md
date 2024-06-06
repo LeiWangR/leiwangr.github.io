@@ -40,7 +40,7 @@ I regularly review technical papers for the following journals, conferences & wo
 * **Journals**:
   * IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), International Journal of Computer Vision (IJCV), ACM Computing Surveys (ACM CSUR), Big Data Mining and Analytics (BDMA),
   * IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), IEEE Transactions on Multimedia (T-MM), Pattern Recognition (PR), Computer Vision and Image Understanding (CVIU), Neurocomputing,
-  * Neural Computing and Applications (NCAA), Journal of Visual Communication and Image Representation (JVCI), Signal, Image and Video Processing (SIVP), The Visual Computer (TVCJ), Journal of Imaging, Future Internet, Information, Healthcare, IET Computer Vision, Electronics Letters
+  * Neural Computing and Applications (NCAA), Journal of Visual Communication and Image Representation (JVCI), Signal, Image and Video Processing (SIVP), The Visual Computer (TVCJ), Multimedia Systems, Machine Learning and Knowledge Extraction, Electronics, Journal of Imaging, Future Internet, Information, Healthcare, IET Computer Vision, Electronics Letters, AI Communications
  
 * **Conferences**:
   * NeurIPS 2024, ICML 2024, ICLR 2024, AAAI 2024, NeurIPS 2023, ICML 2023, ICLR 2023, AAAI 2023, NeurIPS 2022, AAAI 2022, ICML 2022, 
