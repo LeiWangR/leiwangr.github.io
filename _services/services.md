@@ -54,7 +54,7 @@ I regularly review technical papers for the following journals, conferences & wo
   * The AI City Challenge Workshop at CVPR 2023, CVPR 2024
  
 <!-- I also serve as a thesis examiner for master's and honors theses at the ANU College of Engineering, Computing & Cybernetics: S1 2023, S2 2023. -->
-I also serve as a **thesis examiner** for master's and honors theses at the ANU College of Engineering, Computing & Cybernetics for the academic terms S1 2023 and S2 2023.
+I also serve as a **thesis examiner** for master's and honors theses at the ANU College of Engineering, Computing & Cybernetics for the academic terms S1 2023, S2 2023 and S1 2024.
 
 
 <h2>Invited Talk</h2>
