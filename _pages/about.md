@@ -91,6 +91,7 @@ He is an IEEE Student Member and an ACM Student Member. -->
 
 I personally do not have any news; the most exciting updates are coming from my talented students!
 
+- 12/06/2024: As the ANU TechLauncher community, we are a finalist in the Business & Industry category and an *ACT Merit recipient* in the Student & Education category for *the 2024 iAwards*.
 - 27/05/2024: The MDPI open-access journal *Electronics* [Q2, h-index 83] has a special issue on ‘Motion-centric Video Processing’ (Guest Editors: Dr. Lei Wang, Prof. Tom Gedeon, Dr. Zhenyue Qin) now [open for submission](https://www.mdpi.com/journal/electronics/special_issues/OCT400DHJS). The deadline for manuscript submissions is 15 December, 2024. Interested authors are encouraged to contact me for more details.
 - 22/05/2024: As the ANU TechLauncher community, we are a finalist for *the 2024 iAwards*.
 - 02/05/2024: One paper has been accepted at *ICML 2024*. Congratulations to my Summer Scholar <font color="blue">Xiuyuan (Jack) Yuan</font>!
