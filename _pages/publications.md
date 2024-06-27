@@ -212,6 +212,14 @@ a:active {
 <h2>arXiv preprints</h2>
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
+		<!-- <tr class="gsc_a_tr" style="background-color:#E5E4E2">
+			<td class="gsc_a_t"><a href=""><strong><span class="gsc_a_at">Feature Hallucination for Self-supervised Action Recognition</span></strong></a>
+				<div class="gs_gray"><strong>L Wang</strong>, P Koniusz</div>
+				<div class="gs_gray">NA</div>
+			</td>
+			<td class="gsc_a_c">Research report.</td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
+		</tr> -->
 		<tr class="gsc_a_tr" style="background-color:#E5E4E2">
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2405.01461"><strong><span class="gsc_a_at">SATO: Stable Text-to-Motion Framework</span></strong></a>
 				<div class="gs_gray">W Chen*, H Xiao*, E Zhang*, L Hu, <strong>L Wang</strong>, M Liu, C Chen</div>
