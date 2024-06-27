@@ -81,7 +81,7 @@ a:active {
 				<div class="gs_gray"><strong>L Wang</strong>, X Yuan, T Gedeon, L Zheng</div>
 				<div class="gs_gray">International Conference on Machine Learning (<strong>ICML</strong>)</div>
 			</td>
-			<td class="gsc_a_c">[<font color="red"><strong>A*</strong></font>]<br><a href="https://github.com/LeiWangR/video-ar" style="color:#000000;">Code</a></td>
+			<td class="gsc_a_c">[<font color="red"><strong>A*</strong></font>]<br><a href="https://github.com/LeiWangR/video-ar" style="color:#000000;">Code</a>, <a href="https://leiwangr.github.io/files/icml24-poster.pdf" style="color:#000000;">Poster </a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
 		</tr>
 		<tr class="gsc_a_tr" style="background-color:#E0FFFF"> 
@@ -105,7 +105,7 @@ a:active {
 				<div class="gs_gray"><strong>L Wang</strong>, P Koniusz</div>
 				<div class="gs_gray">Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 5620-5631</div>
 			</td>
-			<td class="gsc_a_c">[<font color="red"><strong>A*</strong></font>]</td>
+			<td class="gsc_a_c">[<font color="red"><strong>A*</strong></font>]<br> <a href="https://leiwangr.github.io/files/cvpr23-poster.pdf" style="color:#000000;">Poster </a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2023</span></td>
 		</tr>
 		<tr class="gsc_a_tr" style="background-color:#E0FFFF">
