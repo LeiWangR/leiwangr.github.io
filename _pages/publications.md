@@ -257,7 +257,7 @@ a:active {
 				<div class="gs_gray">L Zhu, <strong>L Wang</strong>, A Raj, T Gedeon, C Chen</div>
 				<div class="gs_gray">arXiv preprint arXiv:2402.04857</div>
 			</td>
-			<td class="gsc_a_c">Liyun Zhu conducted this research under the supervision of Lei Wang for master's final year research project at ANU. Liyun Zhu and Arjun Raj are recipients of research sponsorship from Active Intelligence Australia Pty Ltd in Perth, Western Australia, which includes The Active Intelligence Research Challenge Award.</td>
+			<td class="gsc_a_c">Liyun Zhu conducted this research under the supervision of Lei Wang for master's final year research project at ANU. Liyun Zhu and Arjun Raj are recipients of research sponsorship from Active Intelligence Australia Pty Ltd in Perth, Western Australia, which includes The Active Intelligence Research Challenge Award. [<a href="https://msad-dataset.github.io" style="color:#000000;">Project website</a>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
 		</tr>
 		<tr class="gsc_a_tr"> <!--  style="background-color:#E0FFFF" -->
