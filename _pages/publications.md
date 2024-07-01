@@ -76,6 +76,14 @@ a:active {
 <h2>Conferences</h2>
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
+		<tr class="gsc_a_tr"> <!--  style="background-color:#E0FFFF" -->
+			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2310.05615.pdf"><strong><span class="gsc_a_at">Adaptive Multi-head Contrastive Learning</span></strong></a>
+				<div class="gs_gray"><strong>L Wang</strong>, P Koniusz, T Gedeon, L Zheng</div>
+				<div class="gs_gray">European Conference on Computer Vision (<strong>ECCV</strong>)</div>
+			</td>
+			<td class="gsc_a_c">[<font color="red"><strong>A*</strong>, accepted</font>]</td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
+		</tr>
 		<tr class="gsc_a_tr"> 
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2402.03019.pdf"><strong><span class="gsc_a_at">Taylor Videos for Action Recognition</span></strong></a>
 				<div class="gs_gray"><strong>L Wang</strong>, X Yuan, T Gedeon, L Zheng</div>
@@ -260,14 +268,6 @@ a:active {
 			<td class="gsc_a_c">Xiuyuan Yuan conducted the research under the supervision of Dr. Lei Wang in the ANU Summer Scholars Program and is supported by a Summer Research Internship provided by the ANU School of Computing. [<a href="https://github.com/LeiWangR/video-ar" style="color:#000000;">Code</a>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
 		</tr> -->
-		<tr class="gsc_a_tr"> <!--  style="background-color:#E0FFFF" -->
-			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2310.05615.pdf"><strong><span class="gsc_a_at">Adaptive Multi-head Contrastive Learning</span></strong></a>
-				<div class="gs_gray"><strong>L Wang</strong>, P Koniusz, T Gedeon, L Zheng</div>
-				<div class="gs_gray">arXiv preprint arXiv:2310.05615</div>
-			</td>
-			<td class="gsc_a_c">Research report.</td>
-			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2023</span></td>
-		</tr>
 		<tr class="gsc_a_tr" style="background-color:#E0FFFF">
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2112.12668.pdf"><strong><span class="gsc_a_at">3D Skeleton-based Few-shot Action Recognition with JEANIE is not so Naïve</span></strong></a>
 				<div class="gs_gray"><strong>L Wang</strong>, J Liu, P Koniusz</div>
