@@ -53,7 +53,7 @@ I am also working to bridge the gap between academic research and industry resea
   * <font color="red"><strong>Invited talk</strong> on 'Action Recognition: Past, Present and Future' hosted by Harbin Institute of Technology, Shenzhen, China </font>
   * <font color="red"><strong>Grant</strong>: I am a Co-Investigator (Co-I) on 'Sharing early insights for more resilient communities'</font>
 
-* *30/06/2023-<font color="blue">present</font>*: **Visiting Scientist**
+* *30/06/2023-30/06/2024*: **Visiting Scientist**
   * Machine Learning Research Group (MLRG), Data61/CSIRO (Black Mountain ACT)
 
 * *22/07/2019-12/12/2023*: **Postgraduate Research Student** (PhD student, full-time)
