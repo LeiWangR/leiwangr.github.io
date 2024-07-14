@@ -225,7 +225,7 @@ a:active {
 				<div class="gs_gray">Q Chen, <strong>L Wang</strong>, P Koniusz, T Gedeon</div>
 				<div class="gs_gray">arXiv preprint arXiv:2407.03179</div>
 			</td>
-			<td class="gsc_a_c">Qixiang Chen conducted this research under the supervision of Lei Wang for his final year honors research project at ANU. He is a recipient of research sponsorship from Active Intelligence Australia Pty Ltd in Perth, Western Australia, including The Active Intelligence Research Challenge Award.</td>
+			<td class="gsc_a_c">Qixiang Chen conducted this research under the supervision of Lei Wang for his final year honors research project at ANU. He is a recipient of research sponsorship from Active Intelligence Australia Pty Ltd in Perth, Western Australia, including The Active Intelligence Research Challenge Award. [<a href="https://q1xiangchen.github.io/motion-prompts/" style="color:#000000;">Project website</a>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
 		</tr>
 		<!-- <tr class="gsc_a_tr" style="background-color:#E5E4E2">
