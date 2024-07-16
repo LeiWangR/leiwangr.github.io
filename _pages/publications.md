@@ -76,6 +76,14 @@ a:active {
 <h2>Conferences</h2>
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
+		<tr class="gsc_a_tr" style="background-color:#E5E4E2">
+			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2405.01461"><strong><span class="gsc_a_at">SATO: Stable Text-to-Motion Framework</span></strong></a>
+				<div class="gs_gray">W Chen*, H Xiao*, E Zhang*, L Hu, <strong>L Wang</strong>, M Liu, C Chen</div>
+				<div class="gs_gray">ACM Multimedia (<strong>ACM-MM</strong>)</div>
+			</td>
+			<td class="gsc_a_c">[<font color="red"><strong>A*</strong>, accepted</font>]<br>[<a href="https://github.com/sato-team/Stable-Text-to-motion-Framework" style="color:#000000;">Code</a>, <a href="https://sato-team.github.io/Stable-Text-to-Motion-Framework/" style="color:#000000;">Project website</a>]</td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
+		</tr>
 		<tr class="gsc_a_tr"> <!--  style="background-color:#E0FFFF" -->
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2310.05615.pdf"><strong><span class="gsc_a_at">Adaptive Multi-head Contrastive Learning</span></strong></a>
 				<div class="gs_gray"><strong>L Wang</strong>, P Koniusz, T Gedeon, L Zheng</div>
@@ -244,14 +252,14 @@ a:active {
 			<td class="gsc_a_c">Liyun Zhu conducted this research under the supervision of Lei Wang for master's final year research project at ANU. Liyun Zhu and Arjun Raj are recipients of research sponsorship from Active Intelligence Australia Pty Ltd in Perth, Western Australia, which includes The Active Intelligence Research Challenge Award. [<a href="https://msad-dataset.github.io" style="color:#000000;">Project website</a>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
 		</tr>
-		<tr class="gsc_a_tr" style="background-color:#E5E4E2">
+		<!-- <tr class="gsc_a_tr" style="background-color:#E5E4E2">
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2405.01461"><strong><span class="gsc_a_at">SATO: Stable Text-to-Motion Framework</span></strong></a>
 				<div class="gs_gray">W Chen*, H Xiao*, E Zhang*, L Hu, <strong>L Wang</strong>, M Liu, C Chen</div>
 				<div class="gs_gray">arXiv preprint arXiv:2405.01461</div>
 			</td>
 			<td class="gsc_a_c">*Equal contribution. Research report. [<a href="https://github.com/sato-team/Stable-Text-to-motion-Framework" style="color:#000000;">Code</a>, <a href="https://sato-team.github.io/Stable-Text-to-Motion-Framework/" style="color:#000000;">Project website</a>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
-		</tr>
+		</tr> -->
 		<tr class="gsc_a_tr" style="background-color:#E5E4E2">
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2405.10718"><strong><span class="gsc_a_at">SignLLM: Sign Languages Production Large Language Models</span></strong></a>
 				<div class="gs_gray">S Fang, <strong>L Wang</strong>, C Zheng, Y Tian, C Chen</div>
