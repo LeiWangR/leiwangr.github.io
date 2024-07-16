@@ -79,7 +79,7 @@ a:active {
 		<tr class="gsc_a_tr" style="background-color:#E5E4E2">
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2405.01461"><strong><span class="gsc_a_at">SATO: Stable Text-to-Motion Framework</span></strong></a>
 				<div class="gs_gray">W Chen*, H Xiao*, E Zhang*, L Hu, <strong>L Wang</strong>, M Liu, C Chen</div>
-				<div class="gs_gray">ACM Multimedia (<strong>ACM-MM</strong>)</div>
+				<div class="gs_gray">ACM Multimedia (<strong>ACM-MM</strong>) (* denotes equal contribution.)</div>
 			</td>
 			<td class="gsc_a_c">[<font color="red"><strong>A*</strong>, accepted</font>]<br>[<a href="https://github.com/sato-team/Stable-Text-to-motion-Framework" style="color:#000000;">Code</a>, <a href="https://sato-team.github.io/Stable-Text-to-Motion-Framework/" style="color:#000000;">Project website</a>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
