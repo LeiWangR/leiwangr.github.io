@@ -83,6 +83,14 @@ In the 2024 Semester 1 and 2, my proposed project is '*ActiveIntelligence: CAM-F
 
 Step into a safer future with ActiveIntelligence's CAM-FALL system. This innovative project offers a unique opportunity to address a pressing concern using cutting-edge technology. By harnessing the power of cameras, we aim to create a solution that not only identifies falls but also provides prompt assistance, ensuring the well-being of individuals within our community. Participation in the project will provide students with a holistic learning experience encompassing technical skills, problem-solving abilities, project management competencies, and ethical awareness, preparing them for future endeavors in the fields of computer vision, artificial intelligence, and software engineering.
 
+<h3>Project 3: Bachelor & Honours Research Project <font color="red">[Ongoing]</font></h3>
+
+I am a [registered ANU Higher Degree Research (HDR) supervisor](https://services.anu.edu.au/research-support/hdr-supervision-development/hdr-supervision-registration-and-renewal/hdr-1) (registration is valid until 31 December 2025).
+
+If you are an ANU undergraduate seeking an Honors research project, please note that I typically accept a maximum of two Honors students each year to ensure high-quality supervision, and I prefer 24-unit projects.
+
+If you are an ANU master's student seeking individual projects, I require candidates to have a solid research background, a strong GPA, and proficient coding skills. Additionally, it is important that you have adequate time available for research.
+
 <!--[Project Goals]
 
 1. Develop a robust fall detection algorithm using computer vision techniques for real-time analysis of camera footage.
@@ -147,7 +155,7 @@ Participation in the project will provide students with a holistic learning expe
 - Ethical Considerations: Awareness of ethical considerations related to privacy, data security, and responsible use of technology is necessary for ensuring the system aligns with ethical standards and regulations. -->
 
 
-<h3>Project 3: Industry Research Sponsorship for Students <font color="red">[Completed]</font></h3>
+<h3>Project 4: Industry Research Sponsorship for Students <font color="red">[Completed]</font></h3>
 
 I annually organize multiple industry research awards to support promising research candidates (Bachelor's, Honours, and Master's Students) interested in my research areas. Please note that only students from the Group of Eight (Go8) Australian universities are considered.
 
@@ -168,7 +176,7 @@ For more information regarding the application and award process, please contact
 
 
 
-<h3>Project 4: ANU Summer Research Scholars Program <font color="red">[Completed]</font></h3>
+<h3>Project 5: ANU Summer Research Scholars Program <font color="red">[Completed]</font></h3>
 
 ANU offers Summer Research Scholarships (SRS) and Summer Research Internships (SRI). External (non-ANU) students from Australia and New Zealand are eligible to apply for a Summer Research Scholarship. Current ANU students are eligible to apply for a Summer Research Internship. 
 
@@ -201,15 +209,6 @@ Moving cameras, challenging natural dynamics e.g., rainy, snowy, reflection, etc
 Further challenging issues including the label errors and noisy ground truths, and the labeling process for video contents is even more labor-intensive and tedious.
 Many video data optimisation methods have been proposed in the literature for training robust video models, for example, video data augmentation is widely used in video model training. Generic video augmentation uses some basic video transformations such as geometric, color space, temporal, erasing and mixing, e.g., video data augmentation via temporal cropping. However, these augmentation methods are still unable to address the video data quality issues as they simply create a large number of diverse video contents with different focuses which still highly rely on the quality of original video data.
 In this research project, we aim to explore video data optimisation techniques that are able to improve the model performance for downstream video processing tasks such as human action recognition and anomaly detection. We also explore (i) the influence of training videos on the prediction of a test video (ii) how each individual training video affect the generalisation ability of a model and (iii) do we need all the video data in the training set or shall we drop unfavorable video samples and how. -->
-
-
-<h3>Project 4: Bachelor & Honours Research Project <font color="red">[Ongoing]</font></h3>
-
-I am a [registered ANU Higher Degree Research (HDR) supervisor](https://services.anu.edu.au/research-support/hdr-supervision-development/hdr-supervision-registration-and-renewal/hdr-1) (registration is valid until 31 December 2025).
-
-If you are an ANU undergraduate seeking an Honors research project, please note that I typically accept a maximum of two Honors students each year to ensure high-quality supervision, and I prefer 24-unit projects.
-
-If you are an ANU master's student seeking individual projects, I require candidates to have a solid research background, a strong GPA, and proficient coding skills. Additionally, it is important that you have adequate time available for research.
 
 
 <h2>Research Grant / Funding</h2>
