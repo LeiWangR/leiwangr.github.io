@@ -65,7 +65,15 @@ I always look for motivated and hardworking students who are interested in doing
 
 <h2>Student Research Project</h2>
 
-<h3>Project 1: ANU TechLauncher <font color="red">[Ongoing]</font></h3>
+<h3>Project 1: ANU TechLauncher - Active Vision project <font color="red">[Ongoing]</font></h3>
+
+In the 2024 Semester 2 and 2025 Semester 1, my proposed project is '*Active Vision*'. Francis Williams and Arjun Raj (acting on behalf of Lei Wang) are the clients.
+
+The Active Vision project aims to develop an advanced computer vision system that analyzes the dynamics of tennis swings. Using cutting-edge machine learning techniques, this project focuses on capturing and analyzing motion data to provide players and coaches with detailed insights into swing mechanics. The system leverages high-speed cameras and advanced algorithms to track, interpret, and visualize the movements of a player's body and racket, enabling precise performance assessment and improvement.
+
+Objectives include: (i) Develop analytical algorithms: Create robust algorithms capable of analyzing the captured motion data to identify key performance indicators (KPIs) such as swing speed, angle, and impact accuracy. (ii) Real-time feedback: Implement a real-time feedback system that provides immediate insights and suggestions to players, enhancing their ability to correct and refine their techniques on the spot. (iii) User-friendly interface: Develop an intuitive interface that allows users to easily interact with the system, view their performance data, and track their progress over time.
+
+<h3>Project 2: ANU TechLauncher - CAM FALL project <font color="red">[Ongoing]</font></h3>
 
 The [TechLauncher program](https://comp.anu.edu.au/TechLauncher/) is for team-based activities at ANU, where the project and/or group activity undertaken is real, not synthetic. In TechLauncher you will be a team member on a project, and shall be supported by a program of tutorials at which your peers, along with experienced professional tutors/mentors, facilitate your professional development and mediate your team processes and interactions.
 
@@ -139,7 +147,7 @@ Participation in the project will provide students with a holistic learning expe
 - Ethical Considerations: Awareness of ethical considerations related to privacy, data security, and responsible use of technology is necessary for ensuring the system aligns with ethical standards and regulations. -->
 
 
-<h3>Project 2: Industry Research Sponsorship for Students <font color="red">[Completed]</font></h3>
+<h3>Project 3: Industry Research Sponsorship for Students <font color="red">[Completed]</font></h3>
 
 I annually organize multiple industry research awards to support promising research candidates (Bachelor's, Honours, and Master's Students) interested in my research areas. Please note that only students from the Group of Eight (Go8) Australian universities are considered.
 
@@ -160,7 +168,7 @@ For more information regarding the application and award process, please contact
 
 
 
-<h3>Project 3: ANU Summer Research Scholars Program <font color="red">[Completed]</font></h3>
+<h3>Project 4: ANU Summer Research Scholars Program <font color="red">[Completed]</font></h3>
 
 ANU offers Summer Research Scholarships (SRS) and Summer Research Internships (SRI). External (non-ANU) students from Australia and New Zealand are eligible to apply for a Summer Research Scholarship. Current ANU students are eligible to apply for a Summer Research Internship. 
 
