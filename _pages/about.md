@@ -91,6 +91,7 @@ He is an IEEE Student Member and an ACM Student Member. -->
 
 I personally do not have any news; the most exciting updates are coming from my talented students!
 
+- 29/07/2024: Welcome <font color="blue">Yifan Chen</font> and <font color="blue">Arjun Raj</font> to my research group for their final year project.
 - 22/07/2024: My proposed project, "Active Vision," has been officially included in the 2024 Techlauncher program. Mr. Francis Williams will be the client for this project. <font color="blue">Arjun Raj</font> will act as the 'delegated client' at ANU on behalf of Lei Wang.
 - 16/07/2024: One paper has been accepted at *ACM-MM 2024*. Congratulations to Wenshuo Chen, Hongru Xiao, and Erhang Zhang.
 - 12/06/2024: As the ANU TechLauncher community ([photo](https://leiwangr.github.io/files/1000007677.jpg)), we are a finalist in the Business & Industry category and an *ACT Merit recipient* in the Student & Education category for *the 2024 iAwards* ([award certificate](https://leiwangr.github.io/files/techlauncher_aiia_award_2024.png)).
