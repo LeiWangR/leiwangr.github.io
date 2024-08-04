@@ -34,7 +34,11 @@ I serve as the primary supervisor for eight ANU students who are undertaking fin
 * Huilin Chen: Spatio-temporal video coding: an in-depth analysis and assessment, 2024/02/19 ‑ <font color="blue">present</font> 
 * Liyun Zhu: A comparative review of recent video-based anomaly detection algorithms (co-supervised with [Prof. Chen Chen](https://www.crcv.ucf.edu/chenchen/) from the University of Central Florida), 2024/02/19 ‑ <font color="blue">present</font> 
 * Jushang Qiu: Dynamics distillation for scalable models, 2024/02/19 ‑ <font color="blue">present</font> 
-* Liwen Luo: Spatio-temporal motion prediction, 2024/02/19 ‑ <font color="blue">present</font> 
+* Liwen Luo: Spatio-temporal motion prediction, 2024/02/19 ‑ <font color="blue">present</font>
+
+I also supervise the following student for a 1-year, 12-unit research project:
+
+* Arjun Raj: Tracking high-speed and tiny objects in sports, 2024/07/22 ‑ <font color="blue">present</font> 
 
 Former student:
 
