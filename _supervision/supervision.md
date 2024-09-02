@@ -36,7 +36,7 @@ I serve as the **primary supervisor** for eight ANU students who are undertaking
 * Jushang Qiu: Dynamics distillation for scalable models, 2024/02/19 ‑ <font color="blue">present</font> 
 * Liwen Luo: Spatio-temporal motion prediction, 2024/02/19 ‑ <font color="blue">present</font>
 
-I am an **associate supervisor** for three ANU master’s students: Junliang Ye, Haodong Yang, and Meitong Liu, working on multi-modal learning and video language models.
+I am an **associate supervisor** for three ANU master’s students (2024/07/22 – present): Junliang Ye, Haodong Yang, and Meitong Liu, working on multi-modal learning and video language models.
 
 I also supervise the following student for a 1-year, 12-unit research project:
 
