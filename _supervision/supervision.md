@@ -25,7 +25,7 @@ a:active {
 
 <h2>Mentoring</h2>
 
-I serve as the primary supervisor for eight ANU students who are undertaking final year research projects, spanning 24 units over two consecutive semesters:
+I serve as the **primary supervisor** for eight ANU students who are undertaking final year research projects, spanning 24 units over two consecutive semesters:
 
 * Gennie Nguyen: Physiological signals and fake news and phishing (co-supervised with [Prof. Tom Gedeon](https://staffportal.curtin.edu.au/staff/profile/view/tom-gedeon-5e48a1fd/) from Curtin University), 2024/07/22 ‑ <font color="blue">present</font> 
 * Yifan Chen: Understanding the behaviors of modern video models through signal perception, 2024/07/22 ‑ <font color="blue">present</font> 
@@ -35,6 +35,8 @@ I serve as the primary supervisor for eight ANU students who are undertaking fin
 * Liyun Zhu: A comparative review of recent video-based anomaly detection algorithms (co-supervised with [Prof. Chen Chen](https://www.crcv.ucf.edu/chenchen/) from the University of Central Florida), 2024/02/19 ‑ <font color="blue">present</font> 
 * Jushang Qiu: Dynamics distillation for scalable models, 2024/02/19 ‑ <font color="blue">present</font> 
 * Liwen Luo: Spatio-temporal motion prediction, 2024/02/19 ‑ <font color="blue">present</font>
+
+I am an **associate supervisor** for three ANU master’s students: Junliang Ye, Haodong Yang, and Meitong Liu, working on multi-modal learning and video language models.
 
 I also supervise the following student for a 1-year, 12-unit research project:
 
