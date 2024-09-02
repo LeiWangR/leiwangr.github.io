@@ -91,6 +91,7 @@ He is an IEEE Student Member and an ACM Student Member. -->
 
 I personally do not have any news; the most exciting updates are coming from my talented students!
 
+- 02/09/2024: The [TIME Lab](https://time.anu.edu.au/) website has been officially launched. Thanks to <font color="blue">Arjun Raj</font>, <font color="blue">Qixiang Chen</font>, and <font color="blue">Liyun Zhu</font> for their work on creating and maintaining the site.
 - 16/08/2024: Congratulations to <font color="blue">Liyun Zhu</font> on having his research accepted for presentation at ANU's Student Research Conference (SRC)!
 - 02/08/2024: Welcome <font color="blue">Arjun Raj</font> to my research group for the academic research project. Many thanks to <font color="blue">Arjun Raj</font> and the [research team](https://time.anu.edu.au/team/) for establishing the Temporal Intelligence and Motion Extraction ([TIME](https://time.anu.edu.au)) Lab.
 - 29/07/2024: Welcome <font color="blue">Yifan Chen</font> and <font color="blue">Gennie Nguyen</font> to my research group for their final year research project.
