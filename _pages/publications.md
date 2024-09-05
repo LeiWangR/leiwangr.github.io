@@ -76,6 +76,14 @@ a:active {
 <h2>Conferences</h2>
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
+		<tr class="gsc_a_tr" style="background-color:#FFFFE0">
+			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2407.03179"><strong><span class="gsc_a_at">Motion meets Attention: Video Motion Prompts</span></strong></a>
+				<div class="gs_gray">Q Chen, <strong>L Wang</strong>, P Koniusz, T Gedeon</div>
+				<div class="gs_gray">Asian Conference on Machine Learning (<strong>ACML</strong>)</div>
+			</td>
+			<td class="gsc_a_c">[<font color="red">Accepted, acceptance rate: 26.1%</font>]<br><a href="https://q1xiangchen.github.io/motion-prompts/" style="color:#000000;">Project website</a></td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
+		</tr>
 		<tr class="gsc_a_tr" style="background-color:#E5E4E2">
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2405.01461"><strong><span class="gsc_a_at">SATO: Stable Text-to-Motion Framework</span></strong></a>
 				<div class="gs_gray">W Chen*, H Xiao*, E Zhang*, L Hu, <strong>L Wang</strong>, M Liu, C Chen</div>
@@ -228,14 +236,14 @@ a:active {
 <h2>arXiv preprints</h2>
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
-		<tr class="gsc_a_tr" style="background-color:#FFFFE0">
+		<!-- <tr class="gsc_a_tr" style="background-color:#FFFFE0">
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2407.03179"><strong><span class="gsc_a_at">Motion meets Attention: Video Motion Prompts</span></strong></a>
 				<div class="gs_gray">Q Chen, <strong>L Wang</strong>, P Koniusz, T Gedeon</div>
 				<div class="gs_gray">arXiv preprint arXiv:2407.03179</div>
 			</td>
 			<td class="gsc_a_c">Qixiang Chen conducted this research under the supervision of Lei Wang for his final year honors research project at ANU. He is a recipient of research sponsorship from Active Intelligence Australia Pty Ltd in Perth, Western Australia, including The Active Intelligence Research Challenge Award. [<a href="https://q1xiangchen.github.io/motion-prompts/" style="color:#000000;">Project website</a>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
-		</tr>
+		</tr> -->
 		<!-- <tr class="gsc_a_tr" style="background-color:#E5E4E2">
 			<td class="gsc_a_t"><a href=""><strong><span class="gsc_a_at">Feature Hallucination for Self-supervised Action Recognition</span></strong></a>
 				<div class="gs_gray"><strong>L Wang</strong>, P Koniusz</div>
