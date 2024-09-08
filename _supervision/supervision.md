@@ -25,7 +25,7 @@ a:active {
 
 <h2>Mentoring</h2>
 
-I serve as the **primary supervisor** for eight ANU students who are undertaking final year research projects, spanning 24 units over two consecutive semesters:
+I serve as the **primary supervisor** for eight ANU master’s and honors students who are undertaking final year research projects, spanning 24 units over two consecutive semesters:
 
 * Gennie Nguyen: Physiological signals and fake news and phishing (co-supervised with [Prof. Tom Gedeon](https://staffportal.curtin.edu.au/staff/profile/view/tom-gedeon-5e48a1fd/) from Curtin University), 2024/07/22 – <font color="blue">present</font> 
 * Yifan Chen: Understanding the behaviors of modern video models through signal perception, 2024/07/22 – <font color="blue">present</font> 
@@ -38,7 +38,7 @@ I serve as the **primary supervisor** for eight ANU students who are undertaking
 
 I am an **associate supervisor** for three ANU master’s students (2024/07/22 – <font color="blue">present</font>): Junliang Ye, Haodong Yang, and Meitong Liu, working on multi-modal learning and video language models.
 
-I also supervise the following student for a 1-year, 12-unit research project:
+I also supervise the following honors student for a 1-year, 12-unit research project:
 
 * Arjun Raj: Tracking high-speed and tiny objects in sports, 2024/07/22 – <font color="blue">present</font> 
 
