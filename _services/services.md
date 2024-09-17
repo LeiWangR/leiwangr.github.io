@@ -45,7 +45,7 @@ I regularly review technical papers for the following journals, conferences & wo
 * **Conferences**:
   * AAAI 2025, NeurIPS 2024, ICML 2024, ICLR 2024, AAAI 2024, NeurIPS 2023, ICML 2023, ICLR 2023, AAAI 2023, NeurIPS 2022, AAAI 2022, ICML 2022, 
   * ECCV 2024, CVPR 2024, ICCV 2023, CVPR 2023, CVPR 2022, ECCV 2022 (<strong><font color="red">outstanding reviewer</font></strong>),
-  * WACV 2025, WACV 2024, BMVC 2024, BMVC 2023, BMVC 2022, BMVC 2021, BMVC 2020, ACCV 2024, ICASSP 2025
+  * WACV 2025, WACV 2024, BMVC 2024, BMVC 2023, BMVC 2022, BMVC 2021, BMVC 2020, ACCV 2024, ICASSP 2025,
   * IEEE Conference on Artificial Intelligence (IEEE CAI 2023)
 
 * **Workshops**:
