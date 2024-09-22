@@ -91,7 +91,7 @@ He is an IEEE Student Member and an ACM Student Member. -->
 
 I personally do not have any news; the most exciting updates are coming from my talented students!
 
-- 19/09/2024: As the ANU TechLauncher community, we are proud to be a finalist in the inaugural Australian AI Awards 2024, shortlisted for AI Innovator - Information Technology.
+- 19/09/2024: As the ANU TechLauncher community, we are proud to be a finalist in the inaugural *Australian AI Awards 2024*, shortlisted for AI Innovator - Information Technology.
 - 05/09/2024: One paper has been accepted at **ACML 2024** (26% acceptance rate). Congratulations to <font color="blue">Qixiang Chen</font>.
 - 02/09/2024: The [TIME Lab](https://time.anu.edu.au/) website has been officially launched. Thanks to <font color="blue">Arjun Raj</font>, <font color="blue">Qixiang Chen</font>, and <font color="blue">Liyun Zhu</font> for their work on creating and maintaining the site.
 - 16/08/2024: Congratulations to <font color="blue">Liyun Zhu</font> on having his research accepted for presentation at ANU's Student Research Conference (SRC)!
