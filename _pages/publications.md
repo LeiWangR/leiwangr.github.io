@@ -237,7 +237,7 @@ a:active {
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr" style="background-color:#FFFFE0">
-			<td class="gsc_a_t"><a href="https://leiwangr.github.io/files/tracknetv4-compressed.pdf"><strong><span class="gsc_a_at">TrackNetV4: Enhancing Fast Sports Object Tracking with Motion Attention Maps</span></strong></a>
+			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2409.14543"><strong><span class="gsc_a_at">TrackNetV4: Enhancing Fast Sports Object Tracking with Motion Attention Maps</span></strong></a>
 				<div class="gs_gray">A Raj, <strong>L Wang</strong>, T Gedeon</div>
 				<div class="gs_gray">arXiv preprint arXiv:2409.14543</div>
 			</td>
