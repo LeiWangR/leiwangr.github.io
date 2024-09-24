@@ -239,7 +239,7 @@ a:active {
 		<tr class="gsc_a_tr" style="background-color:#FFFFE0">
 			<td class="gsc_a_t"><a href="https://leiwangr.github.io/files/tracknetv4-compressed.pdf"><strong><span class="gsc_a_at">TrackNetV4: Enhancing Fast Sports Object Tracking with Motion Attention Maps</span></strong></a>
 				<div class="gs_gray">A Raj, <strong>L Wang</strong>, T Gedeon</div>
-				<div class="gs_gray">arXiv preprint</div>
+				<div class="gs_gray">arXiv preprint arXiv:2409.14543</div>
 			</td>
 			<td class="gsc_a_c">Arjun Raj conducted this research under the supervision of Lei Wang for his COMP3770 Computing Research Project (R&D) at ANU. He is a recipient of research sponsorship from Active Intelligence Australia Pty Ltd in Perth, Western Australia, including The Active Intelligence Research Challenge Award. [<a href="https://time.anu.edu.au/paper-sites/tracknet-v4/" style="color:#000000;">Project website</a>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
