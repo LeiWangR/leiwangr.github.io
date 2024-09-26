@@ -35,12 +35,14 @@ a:active {
 
 <!-- You can find my published articles on my [Google Scholar](https://scholar.google.com/citations?user=VWCZLXgAAAAJ&hl=en) profile. -->
 
+$^\dagger$ denotes correspondence.
+
 <h2>Journals</h2>
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href=""><strong><span class="gsc_a_at">Feature Hallucination for Self-supervised Action Recognition</span></strong></a>
-				<div class="gs_gray"><strong>L Wang</strong>, P Koniusz</div>
+				<div class="gs_gray"><strong>L Wang</strong>$^\dagger$, P Koniusz</div>
 				<!-- <div class="gs_gray">NA</div> -->
 			</td>
 			<td class="gsc_a_c">Under revision</td>
@@ -48,7 +50,7 @@ a:active {
 		</tr>
 		<tr class="gsc_a_tr" style="background-color:#E0FFFF"> 
 			<td class="gsc_a_t"><a href="https://link.springer.com/article/10.1007/s11263-024-02070-2"><strong><span class="gsc_a_at">Meet JEANIE: a Similarity Measure for 3D Skeleton Sequences via Temporal‑Viewpoint Alignment</span></strong></a>
-				<div class="gs_gray"><strong>L Wang</strong>, J Liu, L Zheng, T Gedeon, P Koniusz</div>
+				<div class="gs_gray"><strong>L Wang</strong>$^\dagger$, J Liu, L Zheng, T Gedeon, P Koniusz</div>
 				<div class="gs_gray">International Journal of Computer Vision (<strong>IJCV</strong>), 1-32</div>
 			</td>
 			<td class="gsc_a_c">(IJCV special issue on our ACCV'22)<br>[<font color="red"><strong>IF: 19.5</strong></font>] <br><a href="https://github.com/LeiWangR/JEANIE" style="color:#000000;"> Code </a></td>
@@ -72,7 +74,7 @@ a:active {
 		</tr>
                 <tr class="gsc_a_tr" style="background-color:#E0FFFF">
 			<td class="gsc_a_t"><a href="https://ieeexplore.ieee.org/document/8753686"><strong><span class="gsc_a_at">A Comparative Review of Recent Kinect-based Action Recognition Algorithms</span></strong></a>
-				<div class="gs_gray"><strong>L Wang</strong>, DQ Huynh, P Koniusz</div>
+				<div class="gs_gray"><strong>L Wang</strong>$^\dagger$, DQ Huynh, P Koniusz</div>
 				<div class="gs_gray">IEEE Transactions on Image Processing (<strong>TIP</strong>) 29 (1), 15-28</div>
 			</td>
 			<td class="gsc_a_c">[<strong><font color="red">IF: 11.041</font></strong>]<br><a href="https://github.com/LeiWangR/HDG" style="color:#000000;">Dataset & Code</a></td>
@@ -86,7 +88,7 @@ a:active {
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr" style="background-color:#FFFFE0">
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2402.04857.pdf"><strong><span class="gsc_a_at">Advancing Video Anomaly Detection: A Concise Review and a New Dataset</span></strong></a>
-				<div class="gs_gray">L Zhu, <strong>L Wang</strong>, A Raj, T Gedeon, C Chen</div>
+				<div class="gs_gray">L Zhu, <strong>L Wang</strong>$^\dagger$, A Raj, T Gedeon, C Chen</div>
 				<div class="gs_gray">NeurIPS 2024 Datasets and Benchmarks Track (<strong>NeurIPS</strong> D&B Track)</div>
 			</td>
 			<td class="gsc_a_c">[<font color="red"><strong>A*</strong></font>]<br><a href="https://msad-dataset.github.io" style="color:#000000;">Project website</a></td>
@@ -94,7 +96,7 @@ a:active {
 		</tr>
 		<tr class="gsc_a_tr" style="background-color:#FFFFE0">
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2407.03179"><strong><span class="gsc_a_at">Motion meets Attention: Video Motion Prompts</span></strong></a>
-				<div class="gs_gray">Q Chen, <strong>L Wang</strong>, P Koniusz, T Gedeon</div>
+				<div class="gs_gray">Q Chen, <strong>L Wang</strong>$^\dagger$, P Koniusz, T Gedeon</div>
 				<div class="gs_gray">Asian Conference on Machine Learning (<strong>ACML</strong>)</div>
 			</td>
 			<td class="gsc_a_c">[<font color="red">26% acceptance rate</font>]<br><a href="https://q1xiangchen.github.io/motion-prompts/" style="color:#000000;">Project website</a></td>
@@ -110,7 +112,7 @@ a:active {
 		</tr>
 		<tr class="gsc_a_tr"> <!--  style="background-color:#E0FFFF" -->
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2310.05615.pdf"><strong><span class="gsc_a_at">Adaptive Multi-head Contrastive Learning</span></strong></a>
-				<div class="gs_gray"><strong>L Wang</strong>, P Koniusz, T Gedeon, L Zheng</div>
+				<div class="gs_gray"><strong>L Wang</strong>$^\dagger$, P Koniusz, T Gedeon, L Zheng</div>
 				<div class="gs_gray">European Conference on Computer Vision (<strong>ECCV</strong>)</div>
 			</td>
 			<td class="gsc_a_c">[<font color="red"><strong>A*</strong></font>]<br><a href="https://leiwangr.github.io/files/eccv24_poster.pdf" style="color:#000000;">Poster </a></td>
@@ -118,7 +120,7 @@ a:active {
 		</tr>
 		<tr class="gsc_a_tr"> 
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2402.03019.pdf"><strong><span class="gsc_a_at">Taylor Videos for Action Recognition</span></strong></a>
-				<div class="gs_gray"><strong>L Wang</strong>, X Yuan, T Gedeon, L Zheng</div>
+				<div class="gs_gray"><strong>L Wang</strong>$^\dagger$, X Yuan, T Gedeon, L Zheng</div>
 				<div class="gs_gray">International Conference on Machine Learning (<strong>ICML</strong>)</div>
 			</td>
 			<td class="gsc_a_c">[<font color="red"><strong>A*</strong></font>]<br><a href="https://github.com/LeiWangR/video-ar" style="color:#000000;">Code</a>, <a href="https://leiwangr.github.io/files/icml24-poster.pdf" style="color:#000000;">Poster </a></td>
@@ -126,7 +128,7 @@ a:active {
 		</tr>
 		<tr class="gsc_a_tr" style="background-color:#E0FFFF"> 
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2110.05216.pdf"><strong><span class="gsc_a_at">High-order Tensor Pooling with Attention for Action Recognition</span></strong></a>
-				<div class="gs_gray"><strong>L Wang</strong>, K Sun, P Koniusz</div>
+				<div class="gs_gray"><strong>L Wang</strong>$^\dagger$, K Sun, P Koniusz</div>
 				<div class="gs_gray">IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 3885-3889</div>
 			</td>
 			<td class="gsc_a_c">(An extension of our TPAMI&#39;20)<br>[<font color="red"><strong>B</strong>, oral</font>] <br><a href="https://github.com/LeiWangR/HoTP" style="color:#000000;"> Code (preprocessing)</a><br><a href="https://leiwangr.github.io/files/icassp24_hop_suppl.pdf" style="color:#000000;">Appendix</a>, <a href="https://leiwangr.github.io/files/icassp24_hot_lecture.pdf" style="color:#000000;">Slides</a></td>
@@ -134,7 +136,7 @@ a:active {
 		</tr>
 		<tr class="gsc_a_tr" style="background-color:#E0FFFF"> 
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2310.10059.pdf"><strong><span class="gsc_a_at">Flow Dynamics Correction for Action Recognition</span></strong></a>
-				<div class="gs_gray"><strong>L Wang</strong>, P Koniusz</div>
+				<div class="gs_gray"><strong>L Wang</strong>$^\dagger$, P Koniusz</div>
 				<div class="gs_gray">IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 3795-3799</div>
 			</td>
 			<td class="gsc_a_c">[<font color="red"><strong>B</strong></font>]<br> <a href="https://leiwangr.github.io/files/icassp24_hal_poster.pdf" style="color:#000000;">Poster </a></td>
@@ -254,7 +256,7 @@ a:active {
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr" style="background-color:#FFFFE0">
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2409.14543"><strong><span class="gsc_a_at">TrackNetV4: Enhancing Fast Sports Object Tracking with Motion Attention Maps</span></strong></a>
-				<div class="gs_gray">A Raj, <strong>L Wang</strong>, T Gedeon</div>
+				<div class="gs_gray">A Raj, <strong>L Wang</strong>$^\dagger$, T Gedeon</div>
 				<div class="gs_gray">arXiv preprint arXiv:2409.14543</div>
 			</td>
 			<td class="gsc_a_c">Arjun Raj conducted this research under the supervision of Lei Wang for his COMP3770 Computing Research Project (R&D) at ANU. He is a recipient of research sponsorship from Active Intelligence Australia Pty Ltd in Perth, Western Australia, including The Active Intelligence Research Challenge Award. [<a href="https://time.anu.edu.au/paper-sites/tracknet-v4/" style="color:#000000;">Project website</a>]</td>
