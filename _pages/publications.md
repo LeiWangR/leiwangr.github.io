@@ -77,6 +77,14 @@ a:active {
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr" style="background-color:#FFFFE0">
+			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2402.04857.pdf"><strong><span class="gsc_a_at">Advancing Video Anomaly Detection: A Concise Review and a New Dataset</span></strong></a>
+				<div class="gs_gray">L Zhu, <strong>L Wang</strong>, A Raj, T Gedeon, C Chen</div>
+				<div class="gs_gray">NeurIPS 2024 Datasets and Benchmarks Track (<strong>NeurIPS</strong> D&B Track)</div>
+			</td>
+			<td class="gsc_a_c">[<font color="red">25.3% acceptance rate</font>]<br><a href="https://msad-dataset.github.io" style="color:#000000;">Project website</a></td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
+		</tr>
+		<tr class="gsc_a_tr" style="background-color:#FFFFE0">
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2407.03179"><strong><span class="gsc_a_at">Motion meets Attention: Video Motion Prompts</span></strong></a>
 				<div class="gs_gray">Q Chen, <strong>L Wang</strong>, P Koniusz, T Gedeon</div>
 				<div class="gs_gray">Asian Conference on Machine Learning (<strong>ACML</strong>)</div>
@@ -260,14 +268,14 @@ a:active {
 			<td class="gsc_a_c">First-round journal review received, now in revision.</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
 		</tr>
-		<tr class="gsc_a_tr" style="background-color:#FFFFE0">
+		<!-- <tr class="gsc_a_tr" style="background-color:#FFFFE0">
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2402.04857.pdf"><strong><span class="gsc_a_at">Advancing Video Anomaly Detection: A Concise Review and a New Dataset</span></strong></a>
 				<div class="gs_gray">L Zhu, <strong>L Wang</strong>, A Raj, T Gedeon, C Chen</div>
 				<div class="gs_gray">arXiv preprint arXiv:2402.04857</div>
 			</td>
 			<td class="gsc_a_c">Liyun Zhu conducted this research under the supervision of Lei Wang for master's final year research project at ANU. Liyun Zhu and Arjun Raj are recipients of research sponsorship from Active Intelligence Australia Pty Ltd in Perth, Western Australia, which includes The Active Intelligence Research Challenge Award. [<a href="https://msad-dataset.github.io" style="color:#000000;">Project website</a>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
-		</tr>
+		</tr> -->
 		<!-- <tr class="gsc_a_tr" style="background-color:#E5E4E2">
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2405.01461"><strong><span class="gsc_a_at">SATO: Stable Text-to-Motion Framework</span></strong></a>
 				<div class="gs_gray">W Chen*, H Xiao*, E Zhang*, L Hu, <strong>L Wang</strong>, M Liu, C Chen</div>
