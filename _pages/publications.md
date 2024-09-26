@@ -128,7 +128,7 @@ $^\dagger$: Corresponding author.
 		</tr>
 		<tr class="gsc_a_tr" style="background-color:#E0FFFF"> 
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2110.05216.pdf"><strong><span class="gsc_a_at">High-order Tensor Pooling with Attention for Action Recognition</span></strong></a>
-				<div class="gs_gray"><strong>L Wang</strong>$^\dagger$, K Sun, P Koniusz</div>
+				<div class="gs_gray"><strong>L Wang</strong>, K Sun, P Koniusz</div>
 				<div class="gs_gray">IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 3885-3889</div>
 			</td>
 			<td class="gsc_a_c">(An extension of our TPAMI&#39;20)<br>[<font color="red"><strong>B</strong>, oral</font>] <br><a href="https://github.com/LeiWangR/HoTP" style="color:#000000;"> Code (preprocessing)</a><br><a href="https://leiwangr.github.io/files/icassp24_hop_suppl.pdf" style="color:#000000;">Appendix</a>, <a href="https://leiwangr.github.io/files/icassp24_hot_lecture.pdf" style="color:#000000;">Slides</a></td>
@@ -136,7 +136,7 @@ $^\dagger$: Corresponding author.
 		</tr>
 		<tr class="gsc_a_tr" style="background-color:#E0FFFF"> 
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2310.10059.pdf"><strong><span class="gsc_a_at">Flow Dynamics Correction for Action Recognition</span></strong></a>
-				<div class="gs_gray"><strong>L Wang</strong>$^\dagger$, P Koniusz</div>
+				<div class="gs_gray"><strong>L Wang</strong>, P Koniusz</div>
 				<div class="gs_gray">IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 3795-3799</div>
 			</td>
 			<td class="gsc_a_c">[<font color="red"><strong>B</strong></font>]<br> <a href="https://leiwangr.github.io/files/icassp24_hal_poster.pdf" style="color:#000000;">Poster </a></td>
