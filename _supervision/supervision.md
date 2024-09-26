@@ -32,7 +32,7 @@ I serve as the **primary supervisor** for eight ANU master’s and honors studen
 * Dexuan Ding: Robust human-centric anomaly detection, 2024/02/19 – <font color="blue">present</font> 
 * Qixiang Chen (1 x <font color="red"><strong>ACML’24</strong></font>): A closer look at fine-grained motions (co-supervised with [Prof. Chen Chen](https://www.crcv.ucf.edu/chenchen/) from the University of Central Florida), 2024/02/19 – <font color="blue">present</font> 
 * Huilin Chen: Spatio-temporal video coding: an in-depth analysis and assessment, 2024/02/19 – <font color="blue">present</font> 
-* Liyun Zhu (1 x <strong>arXiv preprint</strong>): A comparative review of recent video-based anomaly detection algorithms (co-supervised with [Prof. Chen Chen](https://www.crcv.ucf.edu/chenchen/) from the University of Central Florida), 2024/02/19 – <font color="blue">present</font> 
+* Liyun Zhu (1 x <font color="red"><strong>NeurIPS'24</strong></font>): A comparative review of recent video-based anomaly detection algorithms (co-supervised with [Prof. Chen Chen](https://www.crcv.ucf.edu/chenchen/) from the University of Central Florida), 2024/02/19 – <font color="blue">present</font> 
 * Jushang Qiu: Dynamics distillation for scalable models, 2024/02/19 - <font color="blue">present</font> 
 * Liwen Luo: Spatio-temporal motion prediction, 2024/02/19 – <font color="blue">present</font>
 
