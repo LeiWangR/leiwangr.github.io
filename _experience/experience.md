@@ -38,6 +38,7 @@ I am also working to bridge the gap between academic research and industry resea
 * *20/02/2023-<font color="blue">present</font>*: **Research Fellow** (full-time)
   * School of Computing, ANU College of Engineering, Computing and Cybernetics
   * Postdoc advisor: [Assoc. Prof. Liang Zheng](https://zheng-lab.cecs.anu.edu.au/) (ANU) and [Prof. Tom Gedeon](https://staffportal.curtin.edu.au/staff/profile/view/tom-gedeon-5e48a1fd/) (Curtin University)
+  * <font color="red">One paper has been accepted at <strong>NeurIPS</strong> D&B Track (25.3% acceptance rate). <font color="red">
   * <font color="red">As the ANU TechLauncher community, we are proud to be a finalist in the inaugural <strong>Australian AI Awards 2024</strong><font color="red">
   * <font color="red">One paper has been accepted at <strong>ACML 2024</strong> (26% acceptance rate)<font color="red">
   * <font color="red">I lead a dynamic research team of ANU master's and honours students at the <strong>Temporal Intelligence and Motion Extraction (TIME) Lab</strong><font color="red">
