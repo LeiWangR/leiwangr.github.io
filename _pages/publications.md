@@ -91,7 +91,7 @@ $^\dagger$: Corresponding author.
 				<div class="gs_gray">L Zhu, <strong>L Wang</strong>$^\dagger$, A Raj, T Gedeon, C Chen</div>
 				<div class="gs_gray">NeurIPS 2024 Datasets and Benchmarks Track (<strong>NeurIPS</strong> D&B Track)</div>
 			</td>
-			<td class="gsc_a_c">[<font color="red"><strong>A*</strong></font>]<br><a href="https://msad-dataset.github.io" style="color:#000000;">Project website</a></td>
+			<td class="gsc_a_c">[<font color="red"><strong>A*</strong></font>]<br><a href="https://time.anu.edu.au/paper-sites/msad/" style="color:#000000;">Project website</a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
 		</tr>
 		<tr class="gsc_a_tr" style="background-color:#FFFFE0">
@@ -99,7 +99,7 @@ $^\dagger$: Corresponding author.
 				<div class="gs_gray">Q Chen, <strong>L Wang</strong>$^\dagger$, P Koniusz, T Gedeon</div>
 				<div class="gs_gray">Asian Conference on Machine Learning (<strong>ACML</strong>)</div>
 			</td>
-			<td class="gsc_a_c">[<font color="red">26% acceptance rate</font>]<br><a href="https://q1xiangchen.github.io/motion-prompts/" style="color:#000000;">Project website</a></td>
+			<td class="gsc_a_c">[<font color="red">26% acceptance rate</font>]<br><a href="https://time.anu.edu.au/paper-sites/motion-prompts/" style="color:#000000;">Project website</a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
 		</tr>
 		<tr class="gsc_a_tr" style="background-color:#E5E4E2">
