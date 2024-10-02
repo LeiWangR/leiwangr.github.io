@@ -259,7 +259,7 @@ $^\dagger$: Corresponding author.
 				<div class="gs_gray">D Ding, <strong>L Wang</strong>$^\dagger$, L Zhu, T Gedeon, P Koniusz</div>
 				<div class="gs_gray">arXiv preprint</div>
 			</td>
-			<td class="gsc_a_c">Dexuan Ding conducted this research under the supervision of Lei Wang as part of his final year honors project at ANU. We extend our gratitude to Qixiang Chen for reviewing the model code and producing excellent plots. This work was also supported by the NCI National AI Flagship Merit Al- location Scheme, and the National Computational Merit Allocation Scheme 2024 (NCMAS 2024), with computational resources provided by NCI Australia, an NCRIS-enabled capability supported by the Australian Government.</td>
+			<td class="gsc_a_c">Dexuan Ding conducted this research under the supervision of Lei Wang as part of his final year honors project at ANU. We extend our gratitude to Qixiang Chen for reviewing the model code and producing excellent plots. This work was also supported by the NCI National AI Flagship Merit Allocation Scheme, and the National Computational Merit Allocation Scheme 2024 (NCMAS 2024), with computational resources provided by NCI Australia, an NCRIS-enabled capability supported by the Australian Government.</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
 		</tr>
 		<tr class="gsc_a_tr" style="background-color:#FFFFE0">
