@@ -40,7 +40,7 @@ I am an **associate supervisor** for three ANU master’s students (2024/07/22 �
 
 I also supervise the following honors student for a 1-year, 12-unit research project:
 
-* Arjun Raj (2 x <strong>arXiv preprint</strong>): Tracking high-speed and tiny objects in sports, 2024/07/22 – <font color="blue">present</font> 
+* Arjun Raj (1 x <strong>arXiv preprint</strong>): Tracking high-speed and tiny objects in sports, 2024/07/22 – <font color="blue">present</font> 
 
 Former student:
 
