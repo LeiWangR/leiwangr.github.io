@@ -254,6 +254,14 @@ $^\dagger$: Corresponding author.
 <h2>arXiv preprints</h2>
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
+		<tr class="gsc_a_tr">
+			<td class="gsc_a_t"><a href="https://leiwangr.github.io/files/dx.pdf"><strong><span class="gsc_a_at">LEGO: Learnable Expansion of Graph Operators for Multi-Modal Feature Fusion</span></strong></a>
+				<div class="gs_gray">D Ding, <strong>L Wang</strong>, L Zhu, T Gedeon, P Koniusz</div>
+				<div class="gs_gray">arXiv preprint</div>
+			</td>
+			<td class="gsc_a_c">Dexuan Ding conducted this research under the supervision of Lei Wang as part of his final year honors project at ANU. We extend our gratitude to Qixiang Chen for reviewing the model code and producing excellent plots. This work was also supported by the NCI National AI Flagship Merit Al- location Scheme, and the National Computational Merit Allocation Scheme 2024 (NCMAS 2024), with computational resources provided by NCI Australia, an NCRIS-enabled capability supported by the Australian Government.</td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
+		</tr>
 		<tr class="gsc_a_tr" style="background-color:#FFFFE0">
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2409.14543"><strong><span class="gsc_a_at">TrackNetV4: Enhancing Fast Sports Object Tracking with Motion Attention Maps</span></strong></a>
 				<div class="gs_gray">A Raj, <strong>L Wang</strong>$^\dagger$, T Gedeon</div>
