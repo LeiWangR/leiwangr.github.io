@@ -44,7 +44,7 @@ I also supervise the following honors student for a 1-year, 12-unit research pro
 
 Former student:
 
-* Xiuyuan Yuan (1 x <font color="red"><strong>ICML’24</strong></font>): Video dynamics distillation, ANU Summer Research Scholars Program, 2023/11/20 – 2024/02/02
+* Xiuyuan Yuan (1 x <font color="red"><strong>ICML'24</strong></font>): Video dynamics distillation, ANU Summer Research Scholars Program, 2023/11/20 – 2024/02/02
 
 <h2>Teaching</h2>
 
