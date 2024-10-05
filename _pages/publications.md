@@ -255,7 +255,7 @@ $^\dagger$: Corresponding author.
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr">
-			<td class="gsc_a_t"><a href="https://leiwangr.github.io/files/dx.pdf"><strong><span class="gsc_a_at">LEGO: Learnable Expansion of Graph Operators for Multi-Modal Feature Fusion</span></strong></a>
+			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2410.01506"><strong><span class="gsc_a_at">LEGO: Learnable Expansion of Graph Operators for Multi-Modal Feature Fusion</span></strong></a>
 				<div class="gs_gray">D Ding, <strong>L Wang</strong>$^\dagger$, L Zhu, T Gedeon, P Koniusz</div>
 				<div class="gs_gray">arXiv preprint arXiv:2410.01506</div>
 			</td>
