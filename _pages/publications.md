@@ -43,7 +43,7 @@ $^\dagger$: Corresponding author.
 		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href=""><strong><span class="gsc_a_at">Feature Hallucination for Self-supervised Action Recognition</span></strong></a>
 				<div class="gs_gray"><strong>L Wang</strong>$^\dagger$, P Koniusz</div>
-				<!-- <div class="gs_gray">NA</div> -->
+				<div class="gs_gray">NA</div>
 			</td>
 			<td class="gsc_a_c">Under revision</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
