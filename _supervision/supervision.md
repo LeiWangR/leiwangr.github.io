@@ -62,7 +62,7 @@ Former student:
   * [ANU TechLauncher](https://comp.anu.edu.au/TechLauncher/), co-taught courses: [COMP3500 - Software Engineering Project](https://programsandcourses.anu.edu.au/course/comp3500), [COMP4500 - Software Engineering Practice](https://programsandcourses.anu.edu.au/2023/course/COMP4500), [COMP8715 - Computing Project](https://programsandcourses.anu.edu.au/course/comp8715)
   * Course Convener: [A/Prof. Charles Gretton](https://researchers.anu.edu.au/researchers/gretton-co) & [A/Prof. Liang Zheng](https://zheng-lab.cecs.anu.edu.au/)
 
-* *March 2018 - July 2018*: **Teaching Assistant**
+* *26 Feb 2018 - 1 June 2018*: **Teaching Assistant**
   * Department of Computer Science and Software Engineering (CSSE), The University of Western Australia (UWA)
   * [CITS5508 Machine Learning](https://handbooks.uwa.edu.au/unitdetails?code=CITS5508)
   * Unit Coordinator(s): [Assoc. Prof. Du Huynh](https://research-repository.uwa.edu.au/en/persons/du-huynh) & [Prof. Mark Reynolds](https://research-repository.uwa.edu.au/en/persons/mark-reynolds)
