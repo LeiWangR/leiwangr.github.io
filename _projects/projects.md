@@ -61,7 +61,7 @@ a:active {
 <!--   * Human-related anomaly detection in surveillance videos -->
 <!--   * Research student: [Supasun Khumpraphan](https://micsupasun.github.io/) -->
 
-I always look for motivated and hardworking students who are interested in doing research with me. However, applicants must possess good mathematical and computational skills, preferably with prior experience in machine learning and/or computer vision. Strong programming skills in Python, Matlab, and/or TensorFlow are essential, and hands-on deep learning expertise is important as well. Additionally, integrity, honesty, the ability to work under pressure, and the capacity to explore while adhering to strict directions are all essential qualities.
+<!-- I always look for motivated and hardworking students who are interested in doing research with me. However, applicants must possess good mathematical and computational skills, preferably with prior experience in machine learning and/or computer vision. Strong programming skills in Python, Matlab, and/or TensorFlow are essential, and hands-on deep learning expertise is important as well. Additionally, integrity, honesty, the ability to work under pressure, and the capacity to explore while adhering to strict directions are all essential qualities. -->
 
 Please visit my [TIME Lab project page](https://time.anu.edu.au/about/) for more details.
 
