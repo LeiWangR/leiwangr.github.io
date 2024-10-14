@@ -33,7 +33,9 @@ I am serving as a **Guest Editor** ([service certificate](../files/Editor-Certif
 
 I am serving as an **Area Chair** for ACM Multimedia 2024.
 
-I have the honor of serving as an **Area Chair** for the 27th International Conference on Pattern Recognition (ICPR 2024) by invitation from [Prof. Cheng-Lin Liu](http://www.nlpr.ia.ac.cn/liucl/) (CASIA).
+I am serving as an **Area Chair** for the 27th International Conference on Pattern Recognition (ICPR 2024).
+
+<!-- I have the honor of serving as an **Area Chair** for the 27th International Conference on Pattern Recognition (ICPR 2024) by invitation from [Prof. Cheng-Lin Liu](http://www.nlpr.ia.ac.cn/liucl/) (CASIA). -->
 
 I regularly review technical papers for the following journals, conferences & workshops. 
 
