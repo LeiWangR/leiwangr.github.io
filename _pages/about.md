@@ -91,6 +91,7 @@ He is an IEEE Student Member and an ACM Student Member. -->
 
 I personally do not have any news; the most exciting updates are coming from my talented students!
 
+- 16/10/2024: TIME Lab has officially approved a new logo design created by one of its own members, talented young designer and ANU master’s student, <font color="blue">Gennie Nguyen</font>.
 - 15/10/2024: The TIME Lab is currently operating at full capacity and is not accepting new final-year research students at this time. The lab is actively supporting six students who are completing their final-year research projects. As such, we kindly request that no further inquiries regarding final-year research opportunities be made.
 - 26/09/2024: One paper has been accepted at **NeurIPS** D&B Track (25.3% acceptance rate). Congratulations to <font color="blue">Liyun Zhu</font> and <font color="blue">Arjun Raj</font>.
 - 19/09/2024: As the ANU TechLauncher community, we are proud to be a finalist in the inaugural *Australian AI Awards 2024*([award seal](https://leiwangr.github.io/files/aaia24_award_seal.png)), shortlisted for AI Innovator - Information Technology.
