@@ -91,6 +91,7 @@ He is an IEEE Student Member and an ACM Student Member. -->
 
 I personally do not have any news; the most exciting updates are coming from my talented students!
 
+- 15/10/2024: TIME Lab is currently at full capacity and is not accepting new final-year research students. All available industry research sponsorships will be reserved for my current students until the end of 2025.
 - 26/09/2024: One paper has been accepted at **NeurIPS** D&B Track (25.3% acceptance rate). Congratulations to <font color="blue">Liyun Zhu</font> and <font color="blue">Arjun Raj</font>.
 - 19/09/2024: As the ANU TechLauncher community, we are proud to be a finalist in the inaugural *Australian AI Awards 2024*([award seal](https://leiwangr.github.io/files/aaia24_award_seal.png)), shortlisted for AI Innovator - Information Technology.
 - 05/09/2024: One paper has been accepted at **ACML 2024** (26% acceptance rate). Congratulations to <font color="blue">Qixiang Chen</font>.
