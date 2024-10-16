@@ -71,14 +71,14 @@ Please visit my [TIME Lab project page](https://time.anu.edu.au/about/) for more
 
 The TIME Lab has officially revealed the selection criteria for its prestigious inaugural medal, which will recognize exceptional honours and master's students from ANU. Six students, currently completing their final-year, 24-unit research projects under TIME Lab supervision, are in contention. This highly coveted award will be presented to the top-ranking student who demonstrates an outstanding balance between life, study, work, and research. 
 
-TIME Lab 2024 Medal Criteria:
+TIME Lab 2024 medal criteria:
 
 - Research (40% total):
   - Examiner reports highlight significant contributions and commend the work (20%)
   - Skills developed throughout the research process (15%)
   - Publication output (a minor focus in this first year, 5%)
 
-- Life Balance and Personal Growth (40% total):
+- Life balance and personal growth (40% total):
   - Achieving a well-balanced life between work, study, and personal pursuits (20%)
   - Lessons learned, with deep insights into all aspects of life (15%)
   - Displaying positivity, hope, courage, and thoughtfulness (5%)
@@ -86,7 +86,7 @@ TIME Lab 2024 Medal Criteria:
 - Contributions to TIME Lab (10%):
   - Service to the lab, including responsibilities such as planning, designing, delivering, and negotiating
 
-- Contributions to the Broader Community (10%):
+- Contributions to the broader community (10%):
   - Impact on the ANU or wider community, including addressing industry challenges or offering real-world solutions.
 
 
