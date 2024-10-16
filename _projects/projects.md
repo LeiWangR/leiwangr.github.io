@@ -83,7 +83,7 @@ TIME Lab 2024 medal criteria:
   - Lessons learned, with deep insights into all aspects of life (15%)
   - Displaying positivity, hope, courage, and thoughtfulness (5%)
 
-- Contributions (20%):
+- Contributions (20% total):
   - To TIME Lab (10%): Service to the lab, including responsibilities such as planning, designing, delivering, and negotiating
   - To the broader community (10%): Impact on the ANU or wider community, including addressing industry challenges or offering real-world solutions.
 
