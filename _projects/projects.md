@@ -65,7 +65,7 @@ a:active {
 
 Please visit my [TIME Lab project page](https://time.anu.edu.au/about/) for more details.
 
-<font color="red">The TIME Lab has announced that it will not be accepting new final-year research projects for the upcoming semester. Students are encouraged to explore alternative opportunities for their projects. Special consideration requests must first be approved by Professor Liang Zheng and Professor Michael Norrish, with final registration contingent upon approval from Lei Wang. When submitting requests, students are asked to ensure all relevant parties are CC'd in the email correspondence.</font>
+<!-- <font color="red">The TIME Lab has announced that it will not be accepting new final-year research projects for the upcoming semester. Students are encouraged to explore alternative opportunities for their projects. Special consideration requests must first be approved by Professor Liang Zheng and Professor Michael Norrish, with final registration contingent upon approval from Lei Wang. When submitting requests, students are asked to ensure all relevant parties are CC'd in the email correspondence.</font> -->
 
 <h2>TIME Lab announces criteria for inaugural medal</h2>
 
