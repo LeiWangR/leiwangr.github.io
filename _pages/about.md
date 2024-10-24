@@ -91,6 +91,7 @@ He is an IEEE Student Member and an ACM Student Member. -->
 
 I personally do not have any news; the most exciting updates are coming from my talented students!
 
+- 24/10/2024: Four research students from TIME Lab, <font color="blue">Dexuan Ding</font>, <font color="blue">Huilin Chen</font>, <font color="blue">Qixiang Chen</font>, and <font color="blue">Yifan Chen</font>, have been recognized as Outstanding Reviewers, and Lab Lead Dr. Lei Wang has been named an Outstanding Area Chair at [ACM Multimedia 2024](https://2024.acmmm.org/outstanding-ac-reviewer).
 - 16/10/2024: TIME Lab has announced the selection criteria for its inaugural medal, which will honor the top ANU honours or master's student completing their final-year research project under the lab’s supervision.
 - 16/10/2024: TIME Lab has officially approved a new logo design created by one of its own members, talented young designer and ANU master’s student, <font color="blue">Gennie Nguyen</font>.
 - 15/10/2024: The TIME Lab is currently operating at full capacity and is not accepting new final-year research students at this time. The lab is actively supporting six students who are completing their final-year research projects. As such, we kindly request that no further inquiries regarding final-year research opportunities be made.
