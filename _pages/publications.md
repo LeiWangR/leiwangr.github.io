@@ -115,7 +115,7 @@ $^\dagger$: Corresponding author.
 				<div class="gs_gray"><strong>L Wang</strong>$^\dagger$, P Koniusz, T Gedeon, L Zheng</div>
 				<div class="gs_gray">European Conference on Computer Vision (<strong>ECCV</strong>)</div>
 			</td>
-			<td class="gsc_a_c">[<font color="red"><strong>A*</strong></font>]<br><a href="https://leiwangr.github.io/files/eccv24_poster.pdf" style="color:#000000;">Poster </a></td>
+			<td class="gsc_a_c">[<font color="red"><strong>A*</strong></font>]<br><a href="https://github.com/LeiWangR/cl" style="color:#000000;">Code</a>, <a href="https://leiwangr.github.io/files/eccv24_poster.pdf" style="color:#000000;">Poster </a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
 		</tr>
 		<tr class="gsc_a_tr"> 
