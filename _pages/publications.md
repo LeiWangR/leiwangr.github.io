@@ -35,7 +35,7 @@ a:active {
 
 <!-- You can find my published articles on my [Google Scholar](https://scholar.google.com/citations?user=VWCZLXgAAAAJ&hl=en) profile. -->
 
-<font color="red">$^\dagger$</font>: Corresponding author.
+$^\dagger$: Corresponding author.
 
 <h2>Journals</h2>
 <table id="gsc_a_t">
