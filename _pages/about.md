@@ -94,7 +94,6 @@ I personally do not have any news; the most exciting updates are coming from my 
 - 24/10/2024: Four research students from TIME Lab, <font color="blue">Dexuan Ding</font>, <font color="blue">Huilin Chen</font>, <font color="blue">Qixiang Chen</font>, and <font color="blue">Yifan Chen</font>, have been recognized as **Outstanding Reviewers**, and Lab Lead Dr. Lei Wang has been named an **Outstanding Area Chair** at [ACM Multimedia 2024](https://2024.acmmm.org/outstanding-ac-reviewer).
 - 16/10/2024: TIME Lab has announced the selection criteria for its inaugural medal, which will honor the top ANU honours or master's student completing their final-year research project under the lab’s supervision.
 - 16/10/2024: TIME Lab has officially approved a new logo design created by one of its own members, talented young designer and ANU master’s student, <font color="blue">Gennie Nguyen</font>.
-- 15/10/2024: The TIME Lab is currently operating at full capacity and is not accepting new final-year research students at this time. The lab is actively supporting six students who are completing their final-year research projects. As such, we kindly request that no further inquiries regarding final-year research opportunities be made.
 - 26/09/2024: One paper has been accepted at **NeurIPS** D&B Track (25.3% acceptance rate). Congratulations to <font color="blue">Liyun Zhu</font> and <font color="blue">Arjun Raj</font>.
 - 19/09/2024: As the ANU TechLauncher community, we are proud to be a finalist in the inaugural *Australian AI Awards 2024*([award seal](https://leiwangr.github.io/files/aaia24_award_seal.png)), shortlisted for AI Innovator - Information Technology.
 - 05/09/2024: One paper has been accepted at **ACML 2024** (26% acceptance rate). Congratulations to <font color="blue">Qixiang Chen</font>.
@@ -115,6 +114,8 @@ I personally do not have any news; the most exciting updates are coming from my 
 - 04/01/2024: My research group is currently at full capacity, and I do not have openings for research interns and assistants. All available industry research sponsorships will be prioritized for my existing students until the end of 2024.
 - 19/09/2023: Congratulations to <font color="blue">Arjun Raj</font>, <font color="blue">Liyun Zhu</font>, <font color="blue">Liwen Luo</font>, and <font color="blue">Qixiang Chen</font>, who were awarded *the Active Intelligence Research Challenge Award* as four master's/honors students! Thanks to the research sponsorship provided by Active Intelligence Corp.
 - 18/09/2023: Congratulations to <font color="blue">Xiuyuan (Jack) Yuan</font> for being awarded *the Summer Research Internship*! Thanks to the ANU School of Computing for providing research funding.
+
+<!-- - 15/10/2024: The TIME Lab is currently operating at full capacity and is not accepting new final-year research students at this time. The lab is actively supporting six students who are completing their final-year research projects. As such, we kindly request that no further inquiries regarding final-year research opportunities be made. -->
 
 <!-- - 25/10/2023: Congratulations to Xiuyuan (Jack) Yuan on joining **the Australian Government Digital Cadet Program**! -->
 
