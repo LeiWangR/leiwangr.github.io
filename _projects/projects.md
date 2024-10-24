@@ -67,7 +67,7 @@ Please visit my [TIME Lab project page](https://time.anu.edu.au/about/) for more
 
 <!-- <font color="red">The TIME Lab has announced that it will not be accepting new final-year research projects for the upcoming semester. Students are encouraged to explore alternative opportunities for their projects. Special consideration requests must first be approved by Professor Liang Zheng and Professor Michael Norrish, with final registration contingent upon approval from Lei Wang. When submitting requests, students are asked to ensure all relevant parties are CC'd in the email correspondence.</font> -->
 
-<h2>TIME Lab announces criteria for inaugural medal</h2>
+<!-- <h2>TIME Lab announces criteria for inaugural medal</h2>
 
 The TIME Lab has officially revealed the selection criteria for its prestigious inaugural medal, which will recognize exceptional honours and master's students from ANU. Six students, currently completing their final-year, 24-unit research projects under TIME Lab supervision, are in contention. This highly coveted award will be presented to the top-ranking student who demonstrates an outstanding balance between life, study, work, and research. 
 
@@ -85,7 +85,7 @@ TIME Lab 2024 medal criteria:
 
 - Contributions (20% total):
   - To TIME Lab (10%): Service to the lab, including responsibilities such as planning, designing, delivering, and negotiating
-  - To the broader community (10%): Impact on the ANU or wider community, including addressing industry challenges or offering real-world solutions.
+  - To the broader community (10%): Impact on the ANU or wider community, including addressing industry challenges or offering real-world solutions. -->
 
 
 <h2>Student Project</h2>
