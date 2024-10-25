@@ -37,12 +37,12 @@ I also supervise the following honors student for a 1-year, 12-unit research pro
 * Arjun Raj (1 x <strong>arXiv preprint</strong>): Tracking high-speed and tiny objects in sports, 2024/07/22 – <font color="blue">present</font> 
 
 Former students:
-* Dexuan Ding (1 x <strong>arXiv preprint</strong>): Robust human-centric anomaly detection, *Honours Student*, 2024/02/19 – 2024/10/25 
-* [Qixiang Chen](https://q1xiangchen.github.io/) (1 x <font color="red"><strong>ACML'24</strong></font>): A closer look at fine-grained motions, *Honours Student*, 2024/02/19 – 2024/10/25 
-* Huilin Chen: Spatio-temporal video coding: an in-depth analysis and assessment, *Honours Student*, 2024/02/19 – 2024/10/25 
-* [Liyun Zhu](https://tom-roujiang.github.io/liyun_zhu/) (1 x <font color="red"><strong>NeurIPS'24</strong></font>): A comparative review of recent video-based anomaly detection algorithms (co-supervised with [Prof. Chen Chen](https://www.crcv.ucf.edu/chenchen/) from the University of Central Florida), *Master's Student*, 2024/02/19 – 2024/10/25 
-* Jushang Qiu: Dynamics distillation for scalable models, *Master's Student*, 2024/02/19 - 2024/10/25 
-* Liwen Luo: Spatio-temporal motion prediction, *Master's Student*, 2024/02/19 – 2024/10/25
+* Dexuan Ding (1 x <strong>arXiv preprint</strong>): LEGO Fusion: Robust Video Anomaly Detection, *Honours Student*, 2024/02/19 – 2024/10/25 
+* [Qixiang Chen](https://q1xiangchen.github.io/) (1 x <font color="red"><strong>ACML'24</strong></font>): A Closer Look at Motions, *Honours Student*, 2024/02/19 – 2024/10/25 
+* Huilin Chen: When Spatial meets Temporal in Action Recognition, *Honours Student*, 2024/02/19 – 2024/10/25 
+* [Liyun Zhu](https://tom-roujiang.github.io/liyun_zhu/) (1 x <font color="red"><strong>NeurIPS'24</strong></font>): Advancing Video Anomaly Detection, *Master's Student*, 2024/02/19 – 2024/10/25 
+* Jushang Qiu: A Practical Guide to Skeletons and Taylor-transformed Skeletons in Action Recognition, *Master's Student*, 2024/02/19 - 2024/10/25 
+* Liwen Luo: Human Motion Prediction via Spatio-temporal Correspondence Learning, *Master's Student*, 2024/02/19 – 2024/10/25
 * Xiuyuan Yuan (1 x <font color="red"><strong>ICML'24</strong></font>): Video dynamics distillation, ANU Summer Research Scholars Program, *Summer Research Internship*, 2023/11/20 – 2024/02/02
 
 <h2>Teaching</h2>
