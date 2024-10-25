@@ -191,8 +191,8 @@ The Awards are granted solely on merit and are not subject to quotas. Typically,
 For more information regarding the application and award process, please contact the awarded candidates before reaching out to me.
 
 - <font color="blue"> 2023-2024 awarded ANU international students are:</font>
-  -  [Mr. Arjun Raj](https://arjunraj.com) <font color="blue"> (Bachelor of Advanced Computing (Research and Development) (Honours)),</font>
-  -  [Mr. Liyun Zhu](https://www.linkedin.com/in/liyun-zhu-b8755328b/) <font color="blue"> (Master of Machine Learning and Computer Vision),</font>
+  -  [Mr. Arjun Raj](https://arjunraj.com/) <font color="blue"> (Bachelor of Advanced Computing (Research and Development) (Honours)),</font>
+  -  [Mr. Liyun Zhu](https://tom-roujiang.github.io/liyun_zhu/) <font color="blue"> (Master of Machine Learning and Computer Vision),</font>
   -  [Mr. Liwen Luo](https://luoshanji99.github.io/) <font color="blue"> (Master of Machine Learning and Computer Vision), and </font>
   -  [Mr. Qixiang Chen](https://q1xiangchen.github.io/) <font color="blue"> (Bachelor of Advanced Computing (Honours)). </font>
 
