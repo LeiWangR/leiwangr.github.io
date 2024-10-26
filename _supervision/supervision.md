@@ -23,9 +23,9 @@ a:active {
 }
 </style>
 
-<h2>Mentoring</h2>
-
 Please visit my [TIME Lab team page](https://time.anu.edu.au/team/) for more details.
+
+<h2>Mentoring</h2>
 
 I am the **primary supervisor** for two ANU master’s students for their final year research projects (24-unit):
 
