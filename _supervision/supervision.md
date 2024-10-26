@@ -25,6 +25,8 @@ a:active {
 
 <h2>Mentoring</h2>
 
+Please visit my [TIME Lab team page](https://time.anu.edu.au/team/) for more details.
+
 I am the **primary supervisor** for two ANU master’s students for their final year research projects (24-unit):
 
 * [Gennie Nguyen](https://www.gennienguyen.com/): Physiological signals and fake news and phishing (co-supervised with [Prof. Tom Gedeon](https://staffportal.curtin.edu.au/staff/profile/view/tom-gedeon-5e48a1fd/) from Curtin University), 2024/07/22 – <font color="blue">present</font> 
