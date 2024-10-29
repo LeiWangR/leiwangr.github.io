@@ -87,7 +87,7 @@ $^\dagger$: Corresponding author.
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr" style="background-color:#FFFFE0"> 
-			<td class="gsc_a_t"><a href="https://leiwangr.github.io/files/research-report.pdf"><strong><span class="gsc_a_at">Advancing Video Anomaly Detection: A Concise Review and a New Dataset</span></strong></a>
+			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2402.04857"><strong><span class="gsc_a_at">Advancing Video Anomaly Detection: A Concise Review and a New Dataset</span></strong></a>
 				<div class="gs_gray">L Zhu, <strong>L Wang</strong>$^\dagger$, A Raj, T Gedeon, C Chen</div>
 				<div class="gs_gray">NeurIPS 2024 Datasets and Benchmarks Track (<strong>NeurIPS</strong> D&B Track)</div>
 			</td>
