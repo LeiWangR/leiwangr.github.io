@@ -108,6 +108,10 @@ In the 2024 Semester 1 and 2, my proposed project is '*ActiveIntelligence: CAM-F
 
 Step into a safer future with ActiveIntelligence's CAM-FALL system. This innovative project offers a unique opportunity to address a pressing concern using cutting-edge technology. By harnessing the power of cameras, we aim to create a solution that not only identifies falls but also provides prompt assistance, ensuring the well-being of individuals within our community. Participation in the project will provide students with a holistic learning experience encompassing technical skills, problem-solving abilities, project management competencies, and ethical awareness, preparing them for future endeavors in the fields of computer vision, artificial intelligence, and software engineering.
 
+<a href="https://leiwangr.github.io/files/24-S1-2-C-CAMFALL.png" style="color: blue">[2024 S1 Poster]</a>
+
+<a href="https://leiwangr.github.io/files/24-S2-2-C-CAMFALL.png" style="color: blue">[2024 S2 Poster]</a>
+
 <h3>Project 3: Bachelor & Honours Research Project <font color="red">[Ongoing]</font></h3>
 
 I am a [registered ANU Higher Degree Research (HDR) supervisor](https://services.anu.edu.au/research-support/hdr-supervision-development/hdr-supervision-registration-and-renewal/hdr-1) (registration is valid until 31 December 2025).
