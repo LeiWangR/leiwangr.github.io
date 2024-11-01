@@ -102,6 +102,8 @@ The Active Vision project aims to develop an advanced computer vision system tha
 
 Objectives include: (i) Develop analytical algorithms: Create robust algorithms capable of analyzing the captured motion data to identify key performance indicators (KPIs) such as swing speed, angle, and impact accuracy. (ii) Real-time feedback: Implement a real-time feedback system that provides immediate insights and suggestions to players, enhancing their ability to correct and refine their techniques on the spot. (iii) User-friendly interface: Develop an intuitive interface that allows users to easily interact with the system, view their performance data, and track their progress over time.
 
+<a href="https://leiwangr.github.io/files/24-S2-2-Active-Vision.png" style="color: blue">[2024 S2 Poster]</a>
+
 <h3>Project 2: ANU TechLauncher - CAM FALL project <font color="red">[Ongoing]</font></h3>
 
 In the 2024 Semester 1 and 2, my proposed project is '*ActiveIntelligence: CAM-FALL (Camera-based Fall Alert System)*'. This project marks the 2nd Annual Active Intelligence Research Challenge (refer to Industry Research Sponsorship below). Francis and I are the clients.
