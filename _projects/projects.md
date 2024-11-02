@@ -264,7 +264,7 @@ In this research project, we aim to explore video data optimisation techniques t
   * The advice given by the ANU team will be based on technologies available in public domains that can benefit and improve Xailient products.
  
   
-* NCI Adaptater Scheme Q4 2023 (HPC funding scheme)
+* NCI Adapter Scheme Q4 2023 (HPC funding scheme)
   * I am a **Chief Investigator (CI)** / **Delegated lead CI** (2023/10/01‐2023/12/31) <!-- The Lead CI is Assoc. Prof. Liang Zheng, and another CI is [Dr. Yunzhong Hou](https://hou-yz.github.io/). -->
   * Project Title: Towards building general-purpose multimodal foundation models
   * Scope: Vision-language pre-training (VLP) has attracted rapidly growing attention in both computer vision and NLP communities due to the emergence of large-scale multimodal foundation models like Contrastive Language-Image Pre-training (CLIP). It is very encouraging to see that many Vision-Language (VL) systems have been deployed in industry. For example, iPhone can generate image captions read by VoiceOver for vision-impaired users. Although multimodal intelligence has been applied in many areas including image-text, core computer vision and video-text tasks, there are still many factors to be considered including robustness to new domains, fairness and responsible AI issues.
