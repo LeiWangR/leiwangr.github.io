@@ -90,29 +90,7 @@ TIME Lab 2024 medal criteria:
 
 <h2>Student Project</h2>
 
-<h3>Project 1: ANU TechLauncher - Active Vision project <font color="red">[Ongoing]</font></h3>
-
-The [TechLauncher program](https://comp.anu.edu.au/TechLauncher/) is for team-based activities at ANU, where the project and/or group activity undertaken is real, not synthetic. In TechLauncher you will be a team member on a project, and shall be supported by a program of tutorials at which your peers, along with experienced professional tutors/mentors, facilitate your professional development and mediate your team processes and interactions.
-
-If you would like to join a Techlauncher cohort, you can do so by enrolling in any of the following courses: COMP3500 - Software Engineering Project, COMP3550 - Advanced Computing R&D Project, COMP3710 - Topics in Computer Science, COMP4500 - Software Engineering Practice, and COMP8715 - Computing Project.
-
-In the 2024 Semester 2 and 2025 Semester 1, my proposed project is '*Active Vision*'. Francis Williams and Arjun Raj (acting on behalf of Lei Wang) are the clients.
-
-The Active Vision project aims to develop an advanced computer vision system that analyzes the dynamics of tennis swings. Using cutting-edge machine learning techniques, this project focuses on capturing and analyzing motion data to provide players and coaches with detailed insights into swing mechanics. The system leverages high-speed cameras and advanced algorithms to track, interpret, and visualize the movements of a player's body and racket, enabling precise performance assessment and improvement.
-
-Objectives include: (i) Develop analytical algorithms: Create robust algorithms capable of analyzing the captured motion data to identify key performance indicators (KPIs) such as swing speed, angle, and impact accuracy. (ii) Real-time feedback: Implement a real-time feedback system that provides immediate insights and suggestions to players, enhancing their ability to correct and refine their techniques on the spot. (iii) User-friendly interface: Develop an intuitive interface that allows users to easily interact with the system, view their performance data, and track their progress over time.
-
-<a href="https://leiwangr.github.io/files/24-S2-2-Active-Vision.png" style="color: blue">[2024 S2 Poster]</a>
-
-<h3>Project 2: ANU TechLauncher - CAM FALL project <font color="red">[Ongoing]</font></h3>
-
-In the 2024 Semester 1 and 2, my proposed project is '*ActiveIntelligence: CAM-FALL (Camera-based Fall Alert System)*'. This project marks the 2nd Annual Active Intelligence Research Challenge (refer to Industry Research Sponsorship below). Francis and I are the clients.
-
-Step into a safer future with ActiveIntelligence's CAM-FALL system. This innovative project offers a unique opportunity to address a pressing concern using cutting-edge technology. By harnessing the power of cameras, we aim to create a solution that not only identifies falls but also provides prompt assistance, ensuring the well-being of individuals within our community. Participation in the project will provide students with a holistic learning experience encompassing technical skills, problem-solving abilities, project management competencies, and ethical awareness, preparing them for future endeavors in the fields of computer vision, artificial intelligence, and software engineering.
-
-<a href="https://leiwangr.github.io/files/24-S1-2-C-CAMFALL.png" style="color: blue">[2024 S1 Poster]</a> <a href="https://leiwangr.github.io/files/24-S2-2-C-CAMFALL.png" style="color: blue">[2024 S2 Poster]</a>
-
-<h3>Project 3: Bachelor & Honours Research Project <font color="red">[Ongoing]</font></h3>
+<h3>Project 1: Bachelor & Honours Research Project <font color="red">[Ongoing]</font></h3>
 
 I am a [registered ANU Higher Degree Research (HDR) supervisor](https://services.anu.edu.au/research-support/hdr-supervision-development/hdr-supervision-registration-and-renewal/hdr-1) (registration is valid until 31 December 2025).
 
@@ -127,6 +105,28 @@ Selected posters from former master’s, honours, and internship students (**pri
 * Huilin Chen ([Poster](https://leiwangr.github.io/files/u7326198_poster.png)), *Honours Student*, 2024/02/19 – 2024/10/25 
 * [Liyun Zhu](https://tom-roujiang.github.io/liyun_zhu/) (1 x <font color="red"><strong>NeurIPS'24</strong></font>, [Poster](https://leiwangr.github.io/files/u7778917_poster.png)), *Master's Student*, 2024/02/19 – 2024/10/25 
 * [Xiuyuan Yuan](https://jackyuanx.github.io/) (1 x <font color="red"><strong>ICML'24</strong></font>, [Poster](https://leiwangr.github.io/files/icml24-poster.pdf)), *Summer Research Internship*, 2023/11/20 – 2024/02/02
+
+<h3>Project 2: ANU TechLauncher - Active Vision project <font color="red">[Ongoing]</font></h3>
+
+The [TechLauncher program](https://comp.anu.edu.au/TechLauncher/) is for team-based activities at ANU, where the project and/or group activity undertaken is real, not synthetic. In TechLauncher you will be a team member on a project, and shall be supported by a program of tutorials at which your peers, along with experienced professional tutors/mentors, facilitate your professional development and mediate your team processes and interactions.
+
+If you would like to join a Techlauncher cohort, you can do so by enrolling in any of the following courses: COMP3500 - Software Engineering Project, COMP3550 - Advanced Computing R&D Project, COMP3710 - Topics in Computer Science, COMP4500 - Software Engineering Practice, and COMP8715 - Computing Project.
+
+In the 2024 Semester 2 and 2025 Semester 1, my proposed project is '*Active Vision*'. Francis Williams and Arjun Raj (acting on behalf of Lei Wang) are the clients.
+
+The Active Vision project aims to develop an advanced computer vision system that analyzes the dynamics of tennis swings. Using cutting-edge machine learning techniques, this project focuses on capturing and analyzing motion data to provide players and coaches with detailed insights into swing mechanics. The system leverages high-speed cameras and advanced algorithms to track, interpret, and visualize the movements of a player's body and racket, enabling precise performance assessment and improvement.
+
+Objectives include: (i) Develop analytical algorithms: Create robust algorithms capable of analyzing the captured motion data to identify key performance indicators (KPIs) such as swing speed, angle, and impact accuracy. (ii) Real-time feedback: Implement a real-time feedback system that provides immediate insights and suggestions to players, enhancing their ability to correct and refine their techniques on the spot. (iii) User-friendly interface: Develop an intuitive interface that allows users to easily interact with the system, view their performance data, and track their progress over time.
+
+<a href="https://leiwangr.github.io/files/24-S2-2-Active-Vision.png" style="color: blue">[2024 S2 Poster]</a>
+
+<h3>Project 3: ANU TechLauncher - CAM FALL project <font color="red">[Ongoing]</font></h3>
+
+In the 2024 Semester 1 and 2, my proposed project is '*ActiveIntelligence: CAM-FALL (Camera-based Fall Alert System)*'. This project marks the 2nd Annual Active Intelligence Research Challenge (refer to Industry Research Sponsorship below). Francis and I are the clients.
+
+Step into a safer future with ActiveIntelligence's CAM-FALL system. This innovative project offers a unique opportunity to address a pressing concern using cutting-edge technology. By harnessing the power of cameras, we aim to create a solution that not only identifies falls but also provides prompt assistance, ensuring the well-being of individuals within our community. Participation in the project will provide students with a holistic learning experience encompassing technical skills, problem-solving abilities, project management competencies, and ethical awareness, preparing them for future endeavors in the fields of computer vision, artificial intelligence, and software engineering.
+
+<a href="https://leiwangr.github.io/files/24-S1-2-C-CAMFALL.png" style="color: blue">[2024 S1 Poster]</a> <a href="https://leiwangr.github.io/files/24-S2-2-C-CAMFALL.png" style="color: blue">[2024 S2 Poster]</a>
 
 <!--[Project Goals]
 
