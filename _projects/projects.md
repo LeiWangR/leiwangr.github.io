@@ -128,8 +128,6 @@ Selected posters from former master’s, honours, and internship students (**pri
 * [Liyun Zhu](https://tom-roujiang.github.io/liyun_zhu/) (1 x <font color="red"><strong>NeurIPS'24</strong></font>, [Poster](https://leiwangr.github.io/files/u7778917_poster.png)), *Master's Student*, 2024/02/19 – 2024/10/25 
 * [Xiuyuan Yuan](https://jackyuanx.github.io/) (1 x <font color="red"><strong>ICML'24</strong></font>, [Poster](https://leiwangr.github.io/files/icml24-poster.pdf)), *Summer Research Internship*, 2023/11/20 – 2024/02/02
 
-<h2>Teaching</h2>
-
 <!--[Project Goals]
 
 1. Develop a robust fall detection algorithm using computer vision techniques for real-time analysis of camera footage.
