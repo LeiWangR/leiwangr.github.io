@@ -40,17 +40,17 @@ I am also working to bridge the gap between academic research and industry resea
   * Postdoc advisor: [Assoc. Prof. Liang Zheng](https://zheng-lab.cecs.anu.edu.au/) (ANU) and [Prof. Tom Gedeon](https://staffportal.curtin.edu.au/staff/profile/view/tom-gedeon-5e48a1fd/) (Curtin University)
   * <font color="red">I am an <strong>Outstanding Area Chair</strong> for ACM Multimedia 2024</font>
   * <font color="red">I am serving as an <strong>Area Chair</strong> for ICASSP 2025</font>
-  * <font color="red">One paper has been accepted at <strong>NeurIPS</strong> D&B Track (25.3% acceptance rate)<font color="red">
-  * <font color="red">As the ANU TechLauncher community, we are proud to be a finalist in the inaugural <strong>Australian AI Awards 2024</strong><font color="red">
-  * <font color="red">One paper has been accepted at <strong>ACML 2024</strong> (26% acceptance rate)<font color="red">
-  * <font color="red">I lead a dynamic research team of ANU master's and honours students at the <strong>Temporal Intelligence and Motion Extraction (TIME) Lab</strong><font color="red">
-  * <font color="red">One paper has been accepted at <strong>ACM-MM 2024</strong><font color="red">
-  * <font color="red">One paper has been accepted at <strong>ECCV 2024</strong><font color="red">
-  * <font color="red">As the ANU TechLauncher community, we are an <strong>ACT Merit recipient</strong> in the Student & Education category for the <strong>iAwards 2024</strong><font color="red">
-  * <font color="red">As the ANU TechLauncher community, we are a <strong>finalist</strong> in the Business & Industry category for the <strong>iAwards 2024</strong><font color="red">
-  * <font color="red">One paper has been accepted at <strong>ICML 2024</strong><font color="red">
-  * <font color="red">I am serving as a <strong>Guest Editor</strong> for the MDPI open-access journal Electronics special issue on ‘Motion-centric Video Processing’<font color="red">
-  * <font color="red">National Computational Merit Allocation Scheme (<strong>NCMAS 2024</strong>): I am a Chief Investigator (CI) / Delegated lead CI on 'MotionNetLite: Video Dynamics Distillation for Scalable Models'<font color="red">
+  * <font color="red">One paper has been accepted at <strong>NeurIPS</strong> D&B Track (25.3% acceptance rate)</font>
+  * <font color="red">As the ANU TechLauncher community, we are proud to be a finalist in the inaugural <strong>Australian AI Awards 2024</strong></font>
+  * <font color="red">One paper has been accepted at <strong>ACML 2024</strong> as a long presentation (26% overall acceptance rate, 5.67% for long presentations)</font>
+  * <font color="red">I lead a dynamic research team of ANU master's and honours students at the <strong>Temporal Intelligence and Motion Extraction (TIME) Lab</strong></font>
+  * <font color="red">One paper has been accepted at <strong>ACM-MM 2024</strong></font>
+  * <font color="red">One paper has been accepted at <strong>ECCV 2024</strong></font>
+  * <font color="red">As the ANU TechLauncher community, we are an <strong>ACT Merit recipient</strong> in the Student & Education category for the <strong>iAwards 2024</strong></font>
+  * <font color="red">As the ANU TechLauncher community, we are a <strong>finalist</strong> in the Business & Industry category for the <strong>iAwards 2024</strong></font>
+  * <font color="red">One paper has been accepted at <strong>ICML 2024</strong></font>
+  * <font color="red">I am serving as a <strong>Guest Editor</strong> for the MDPI open-access journal Electronics special issue on ‘Motion-centric Video Processing’</font>
+  * <font color="red">National Computational Merit Allocation Scheme (<strong>NCMAS 2024</strong>): I am a Chief Investigator (CI) / Delegated lead CI on 'MotionNetLite: Video Dynamics Distillation for Scalable Models'</font>
   * <font color="red">The NCI <strong>National AI Flagship Merit Allocation Scheme</strong>: I am a Lead Chief Investigator (Lead CI) on 'Robust anomaly detection in human-centric videos'</font>
   * <font color="red">I am serving as an <strong>Area Chair</strong> for ACM Multimedia 2024</font>
   * <font color="red"><strong>Grant</strong>: I am a Co-Investigator (Co-I) on 'Review of Xailient’s technical pipeline of facial recognition'</font>
