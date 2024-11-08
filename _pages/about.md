@@ -91,6 +91,7 @@ He is an IEEE Student Member and an ACM Student Member. -->
 
 I personally do not have any news; the most exciting updates are coming from my talented students!
 
+- 08/11/2024:  Congratulations to <font color="blue">Qixiang Chen</font>. His ACML 2024 paper has been selected for a long presentation with a 5.67% acceptance rate.
 - 24/10/2024: Four research students from TIME Lab, <font color="blue">Dexuan Ding</font>, <font color="blue">Huilin Chen</font>, <font color="blue">Qixiang Chen</font>, and <font color="blue">Yifan Chen</font>, have been recognized as **Outstanding Reviewers**, and Lab Lead Dr. Lei Wang has been named an **Outstanding Area Chair** at [ACM Multimedia 2024](https://2024.acmmm.org/outstanding-ac-reviewer).
 - 16/10/2024: TIME Lab has officially approved a new logo design created by one of its own members, talented young designer and ANU master’s student, <font color="blue">Gennie Nguyen</font>.
 - 26/09/2024: One paper has been accepted at **NeurIPS** D&B Track (25.3% acceptance rate). Congratulations to <font color="blue">Liyun Zhu</font> and <font color="blue">Arjun Raj</font>.
