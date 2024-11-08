@@ -40,7 +40,7 @@ I am an **associate supervisor** for three ANU master’s students (2024/07/22 �
 
 Former master's, honours, and internship students (**primary supervision**):
 * Dexuan Ding (1 x <strong>arXiv preprint</strong>): LEGO Fusion: Robust Video Anomaly Detection, *Honours Student*, 2024/02/19 – 2024/10/25 
-* [Qixiang Chen](https://q1xiangchen.github.io/) (1 x <font color="red"><strong>ACML'24</strong></font> (<font color="red">long presentation</font>)): A Closer Look at Motions, *Honours Student*, 2024/02/19 – 2024/10/25 
+* [Qixiang Chen](https://q1xiangchen.github.io/) (1 x <font color="red"><strong>ACML'24</strong></font> <font color="red">oral</font>): A Closer Look at Motions, *Honours Student*, 2024/02/19 – 2024/10/25 
 * Huilin Chen: When Spatial meets Temporal in Action Recognition, *Honours Student*, 2024/02/19 – 2024/10/25 
 * [Liyun Zhu](https://tom-roujiang.github.io/liyun_zhu/) (1 x <font color="red"><strong>NeurIPS'24</strong></font>): Advancing Video Anomaly Detection, *Master's Student*, 2024/02/19 – 2024/10/25 
 * Jushang Qiu: A Practical Guide to Skeletons and Taylor-transformed Skeletons in Action Recognition, *Master's Student*, 2024/02/19 - 2024/10/25 
