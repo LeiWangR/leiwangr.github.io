@@ -91,7 +91,7 @@ $^\dagger$: Corresponding author.
 				<div class="gs_gray">L Zhu, <strong>L Wang</strong>$^\dagger$, A Raj, T Gedeon, C Chen</div>
 				<div class="gs_gray">NeurIPS 2024 Datasets and Benchmarks Track (<strong>NeurIPS</strong> D&B Track)</div>
 			</td>
-			<td class="gsc_a_c">[<font color="red"><strong>A*</strong></font>]<br><a href="https://github.com/Tom-roujiang/MSAD" style="color:#000000;">Code</a>, <a href="https://time.anu.edu.au/paper-sites/msad/" style="color:#000000;">Project website</a>, <a href="https://leiwangr.github.io/files/97585.png" style="color:#000000;">Poster </a></td>
+			<td class="gsc_a_c">[<font color="red"><strong>A*</strong></font>]<br><a href="https://github.com/Tom-roujiang/MSAD" style="color:#000000;">Code</a>, <a href="https://time.anu.edu.au/paper-sites/msad/" style="color:#000000;">Project website</a>, <a href="https://leiwangr.github.io/files/97585.png" style="color:#000000;">Poster</a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
 		</tr>
 		<tr class="gsc_a_tr" style="background-color:#FFFFE0">
@@ -99,7 +99,7 @@ $^\dagger$: Corresponding author.
 				<div class="gs_gray">Q Chen, <strong>L Wang</strong>$^\dagger$, P Koniusz, T Gedeon</div>
 				<div class="gs_gray">Asian Conference on Machine Learning (<strong>ACML</strong>)</div>
 			</td>
-			<td class="gsc_a_c">[<font color="red"><strong>Long presentation</strong>, <br>26% overall acceptance rate, <br>5.67% for long presentations</font>]<br><a href="https://github.com/q1xiangchen/VMPs" style="color:#000000;">Code</a>, <a href="https://time.anu.edu.au/paper-sites/motion-prompts/" style="color:#000000;">Project website</a></td>
+			<td class="gsc_a_c">[<font color="red"><strong>Long presentation</strong>, <br>26% overall acceptance rate, <br>5.67% for long presentations</font>]<br><a href="https://github.com/q1xiangchen/VMPs" style="color:#000000;">Code</a>, <a href="https://time.anu.edu.au/paper-sites/motion-prompts/" style="color:#000000;">Project website</a>, <a href="https://leiwangr.github.io/files/u7227010_poster.png" style="color:#000000;">Poster</a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
 		</tr>
 		<tr class="gsc_a_tr" style="background-color:#E5E4E2">
