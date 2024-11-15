@@ -255,6 +255,14 @@ $^\dagger$: Corresponding author.
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr">
+			<td class="gsc_a_t"><a href="https://leiwangr.github.io/files/huilin-researchreport.pdf"><strong><span class="gsc_a_at">When Spatial meets Temporal in Action Recognition</span></strong></a>
+				<div class="gs_gray">H Chen, <strong>L Wang</strong>$^\dagger$, Y Chen, T Gedeon, P Koniusz</div>
+				<div class="gs_gray">arXiv preprint</div>
+			</td>
+			<td class="gsc_a_c">Huilin Chen conducted this research under the supervision of Lei Wang for her final year honors research project at ANU. This work was supported by the National Computational Merit Allocation Scheme 2024 (NCMAS 2024), with computational resources provided by NCI Australia, an NCRIS-enabled capability supported by the Australian Government.</td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
+		</tr>
+		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2410.01506"><strong><span class="gsc_a_at">LEGO: Learnable Expansion of Graph Operators for Multi-Modal Feature Fusion</span></strong></a>
 				<div class="gs_gray">D Ding, <strong>L Wang</strong>$^\dagger$, L Zhu, T Gedeon, P Koniusz</div>
 				<div class="gs_gray">arXiv preprint arXiv:2410.01506</div>
