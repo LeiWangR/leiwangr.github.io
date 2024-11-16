@@ -37,7 +37,7 @@ I am also working to bridge the gap between academic research and industry resea
 
 * *20/02/2023-<font color="blue">present</font>*: **Research Fellow** (full-time)
   * School of Computing, ANU College of Engineering, Computing and Cybernetics
-  * Postdoc advisor: [Assoc. Prof. Liang Zheng](https://zheng-lab.cecs.anu.edu.au/) (ANU) and [Prof. Tom Gedeon](https://staffportal.curtin.edu.au/staff/profile/view/tom-gedeon-5e48a1fd/) (Curtin University)
+  * Postdoc advisor: [Assoc. Prof. Liang Zheng](https://zheng-lab-anu.github.io/) (ANU) and [Prof. Tom Gedeon](https://staffportal.curtin.edu.au/staff/profile/view/tom-gedeon-5e48a1fd/) (Curtin University)
   * <font color="red">I am an <strong>Outstanding Area Chair</strong> for ACM Multimedia 2024</font>
   * <font color="red">I am serving as an <strong>Area Chair</strong> for ICASSP 2025</font>
   * <font color="red">One paper has been accepted at <strong>NeurIPS</strong> D&B Track (25.3% acceptance rate)</font>
@@ -67,7 +67,7 @@ I am also working to bridge the gap between academic research and industry resea
   * [1] School of Computing, ANU College of Engineering, Computing and Cybernetics & [2] Machine Learning Research Group (MLRG), Data61/CSIRO (Acton & Black Mountain ACT)
   * Supervisory panel: 
     * Chair of panel: [Prof. Stephen Gould](http://users.cecs.anu.edu.au/~sgould/) (ANU)
-    * Primary supervisor: [Dr. Piotr Koniusz](http://users.cecs.anu.edu.au/~koniusz/) (Data61/CSIRO & ANU)
+    * Primary supervisor: [Dr. Piotr Koniusz](https://www.koniusz.com) (Data61/CSIRO & ANU)
     * Associate supervisor: Assoc. Prof. Liang Zheng (ANU)
   * <font color="red">One paper has been accepted for the IJCV special issue</font>
   * <font color="red">2 papers (one oral) have been accepted for ICASSP 2024</font>
