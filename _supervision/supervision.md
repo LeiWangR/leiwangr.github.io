@@ -52,7 +52,7 @@ Former master's, honours, and internship students (**primary supervision**):
 * *22 July 2024 - <font color="blue">present</font>*: **TechLauncher Examiner**
   * School of Computing, The Australian National University (ANU)
   * [ANU TechLauncher](https://comp.anu.edu.au/TechLauncher/), co-taught courses: [COMP3500 - Software Engineering Project](https://programsandcourses.anu.edu.au/course/comp3500), [COMP4500 - Software Engineering Practice](https://programsandcourses.anu.edu.au/2023/course/COMP4500), [COMP8715 - Computing Project](https://programsandcourses.anu.edu.au/course/comp8715)
-  * Course Convener: [A/Prof. Charles Gretton](https://researchers.anu.edu.au/researchers/gretton-co) & [A/Prof. Liang Zheng](https://zheng-lab.cecs.anu.edu.au/)
+  * Course Convener: [A/Prof. Charles Gretton](https://researchers.anu.edu.au/researchers/gretton-co) & [A/Prof. Liang Zheng](https://zheng-lab-anu.github.io/)
   * Duties:
     * Assess submissions from students, provide feedback, and contribute to determining final grades based on specified criteria and standards
     * Participate in quality control processes, ensuring consistency across evaluations, investigating deviations in assessments, and considering inputs from various sources to ensure fairness
@@ -61,7 +61,7 @@ Former master's, honours, and internship students (**primary supervision**):
 * *19 Feb 2024 - 24 May 2024*: **TechLauncher Examiner**
   * School of Computing, The Australian National University (ANU)
   * [ANU TechLauncher](https://comp.anu.edu.au/TechLauncher/), co-taught courses: [COMP3500 - Software Engineering Project](https://programsandcourses.anu.edu.au/course/comp3500), [COMP4500 - Software Engineering Practice](https://programsandcourses.anu.edu.au/2023/course/COMP4500), [COMP8715 - Computing Project](https://programsandcourses.anu.edu.au/course/comp8715)
-  * Course Convener: [A/Prof. Charles Gretton](https://researchers.anu.edu.au/researchers/gretton-co) & [A/Prof. Liang Zheng](https://zheng-lab.cecs.anu.edu.au/)
+  * Course Convener: [A/Prof. Charles Gretton](https://researchers.anu.edu.au/researchers/gretton-co) & [A/Prof. Liang Zheng](https://zheng-lab-anu.github.io/)
 
 * *26 Feb 2018 - 1 June 2018*: **Teaching Assistant**
   * Department of Computer Science and Software Engineering (CSSE), The University of Western Australia (UWA)
