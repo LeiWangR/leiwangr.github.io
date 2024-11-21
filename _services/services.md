@@ -27,14 +27,14 @@ a:active {
 
 <table style="width:100%" border="1px solid black;">
   <tr>
-    <th>Topic</th>
-    <th>Organisers</th>
-    <th>Description</th>
-    <th>Date</th>
+    <th>Workshop title</th>
+    <th>Organizing committee</th>
+    <th>Workshop overview</th>
+    <th>Conference details</th>
   </tr>
   <tr>
     <td>TIME 2025: 1st International Workshop on Transformative Insights in Multi-faceted Evaluation<a href=""></a></td>
-    <td>Lei Wang, Md Zakir Hossain, Syed Islam, Tom Gedeon, Sharifa Alghowinem, Isabella Yu, Serena Bono, Xuanying Zhu, Gennie Nguyen, Nur Haldar, Abdur Razzaque, Imran Razzak, Rafiqul Islam, Shahadat Uddin, Naeem Janjua and Aneesh Krishna</td>
+    <td>Dr Lei Wang, Dr Md Zakir Hossain, Dr Syed Islam, Prof Tom Gedeon, Dr Sharifa Alghowinem, Ms Isabella Yu, Ms Serena Bono, Dr Xuanying Zhu, Ms Gennie Nguyen, Dr Nur Haldar, Prof Abdur Razzaque, Dr Imran Razzak, Prof Rafiqul Islam, Dr Shahadat Uddin, Dr Naeem Janjua and A/Prof Aneesh Krishna</td>
     <td>This new workshop focuses on cross-domain knowledge exchange and adaptation, aiming to bridge successful methodologies across diverse fields. Additionally, it seeks to close the gap between academic research and industry needs. Our discussions will cover the past, present, and future directions of research in web technologies.</td>
     <td>The Web Conference 2025<br>
 Sydney, Australia<br>
