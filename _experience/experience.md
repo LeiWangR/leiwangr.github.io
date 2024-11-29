@@ -38,7 +38,7 @@ I am also working to bridge the gap between academic research and industry resea
 * *20/02/2023-<font color="blue">present</font>*: **Research Fellow** (full-time)
   * School of Computing, ANU College of Engineering, Computing and Cybernetics
   * Postdoc advisor: [Assoc. Prof. Liang Zheng](https://zheng-lab-anu.github.io/) (ANU) and [Prof. Tom Gedeon](https://staffportal.curtin.edu.au/staff/profile/view/tom-gedeon-5e48a1fd/) (Curtin University)
-  * <font color="red">Primarily supervised 3 Honours and 3 Master’s students to successfully complete their final-year research projects, resulting in 3 High Distinctions (HD) and 3 Distinctions (D) theses</font>
+  * <font color="red">Primarily supervised 3 Honours and 3 Master’s students in their final-year research projects, resulting in 3 HD and 3 D theses</font>
   * <font color="red">One workshop proposal entitled "TIME 2025: 1st International Workshop on Transformative Insights in Multi-faceted Evaluation" has been accepted at <strong>TheWebConf 2025</strong> as a half-day workshop</font>
   * <font color="red">I am an <strong>Outstanding Area Chair</strong> for ACM Multimedia 2024</font>
   * <font color="red">I am serving as an <strong>Area Chair</strong> for ICASSP 2025</font>
