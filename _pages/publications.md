@@ -312,7 +312,7 @@ $^\dagger$: Corresponding author.
 		</tr> -->
 		<tr class="gsc_a_tr" style="background-color:#E5E4E2">
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2405.10718"><strong><span class="gsc_a_at">SignLLM: Sign Languages Production Large Language Models</span></strong></a>
-				<div class="gs_gray">S Fang, <strong>L Wang</strong>, C Zheng, Y Tian, C Chen</div>
+				<div class="gs_gray">S Fang, <strong>L Wang</strong>, C Zheng, C Sui, M Zhao, Y Tian, C Chen</div>
 				<div class="gs_gray">arXiv preprint arxiv:2405.10718</div>
 			</td>
 			<td class="gsc_a_c">Research report. [<a href="https://signllm.github.io" style="color:#000000;">Project website</a>]</td>
