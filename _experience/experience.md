@@ -38,7 +38,7 @@ I am also working to bridge the gap between academic research and industry resea
 * *20/02/2023-<font color="blue">present</font>*: **Research Fellow** (full-time)
   * School of Computing, ANU College of Engineering, Computing and Cybernetics
   * Postdoc advisor: [Assoc. Prof. Liang Zheng](https://zheng-lab-anu.github.io/) (ANU) and [Prof. Tom Gedeon](https://staffportal.curtin.edu.au/staff/profile/view/tom-gedeon-5e48a1fd/) (Curtin University)
-  * <font color="red">My Student Experience of Learning and Teaching (SELT) teacher survey results for ANU TechLauncher, Second Semester 2024: $4.11\pm0.80$ (413 enrollments)</font>
+  * <font color="red">My Student Experience of Learning and Teaching (<strong>SELT</strong>) teacher survey results for ANU TechLauncher, Second Semester 2024: $4.11\pm0.80$ (413 enrollments)</font>
   * <font color="red">Primarily supervised 3 Honours and 3 Master’s students in their final-year research projects, resulting in 3 HD and 3 D theses</font>
   * <font color="red">One workshop proposal entitled "TIME 2025: 1st International Workshop on Transformative Insights in Multi-faceted Evaluation" has been accepted at <strong>TheWebConf 2025</strong> as a half-day workshop</font>
   * <font color="red">I am an <strong>Outstanding Area Chair</strong> for ACM Multimedia 2024</font>
@@ -51,6 +51,7 @@ I am also working to bridge the gap between academic research and industry resea
   * <font color="red">One paper has been accepted at <strong>ECCV 2024</strong></font>
   * <font color="red">As the ANU TechLauncher community, we are an <strong>ACT Merit recipient</strong> in the Student & Education category for the <strong>iAwards 2024</strong></font>
   * <font color="red">As the ANU TechLauncher community, we are a <strong>finalist</strong> in the Business & Industry category for the <strong>iAwards 2024</strong></font>
+  * <font color="red">My Student Experience of Learning and Teaching (<strong>SELT</strong>) teacher survey results for ANU TechLauncher, First Semester 2024: $4.60\pm0.80$ (313 enrollments)</font>
   * <font color="red">One paper has been accepted at <strong>ICML 2024</strong></font>
   * <font color="red">I am serving as a <strong>Guest Editor</strong> for the MDPI open-access journal Electronics special issue on ‘Motion-centric Video Processing’</font>
   * <font color="red">National Computational Merit Allocation Scheme (<strong>NCMAS 2024</strong>): I am a Chief Investigator (CI) / Delegated lead CI on 'MotionNetLite: Video Dynamics Distillation for Scalable Models'</font>
