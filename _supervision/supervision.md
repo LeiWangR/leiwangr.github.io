@@ -53,6 +53,7 @@ Former master's, honours, and internship students (**primary supervision**):
   * School of Computing, The Australian National University (ANU)
   * [ANU TechLauncher](https://comp.anu.edu.au/TechLauncher/), co-taught courses: [COMP3500 - Software Engineering Project](https://programsandcourses.anu.edu.au/course/comp3500), [COMP4500 - Software Engineering Practice](https://programsandcourses.anu.edu.au/2023/course/COMP4500), [COMP8715 - Computing Project](https://programsandcourses.anu.edu.au/course/comp8715)
   * Course Convener: [A/Prof. Charles Gretton](https://researchers.anu.edu.au/researchers/gretton-co) & [A/Prof. Liang Zheng](https://zheng-lab-anu.github.io/)
+  * <font color="red">My Student Experience of Learning and Teaching (<strong>SELT</strong>) teacher survey results: $4.11\pm0.80$ (413 enrollments)</font>
   * Duties:
     * Assess submissions from students, provide feedback, and contribute to determining final grades based on specified criteria and standards
     * Participate in quality control processes, ensuring consistency across evaluations, investigating deviations in assessments, and considering inputs from various sources to ensure fairness
@@ -62,6 +63,7 @@ Former master's, honours, and internship students (**primary supervision**):
   * School of Computing, The Australian National University (ANU)
   * [ANU TechLauncher](https://comp.anu.edu.au/TechLauncher/), co-taught courses: [COMP3500 - Software Engineering Project](https://programsandcourses.anu.edu.au/course/comp3500), [COMP4500 - Software Engineering Practice](https://programsandcourses.anu.edu.au/2023/course/COMP4500), [COMP8715 - Computing Project](https://programsandcourses.anu.edu.au/course/comp8715)
   * Course Convener: [A/Prof. Charles Gretton](https://researchers.anu.edu.au/researchers/gretton-co) & [A/Prof. Liang Zheng](https://zheng-lab-anu.github.io/)
+  * <font color="red">My Student Experience of Learning and Teaching (<strong>SELT</strong>) teacher survey results: $4.60\pm0.80$ (313 enrollments)</font>
 
 * *26 Feb 2018 - 1 June 2018*: **Teaching Assistant**
   * Department of Computer Science and Software Engineering (CSSE), The University of Western Australia (UWA)
