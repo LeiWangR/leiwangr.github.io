@@ -90,7 +90,7 @@ TIME Lab 2024 medal criteria:
 
 <h2>Student Project</h2>
 
-<h3>Project 1: Bachelor & Honours Research Project <font color="red">[Ongoing]</font></h3>
+<h3>Project 1: Bachelor & Honours Research Project <font color="red">[Completed]</font></h3>
 
 I am a [registered ANU Higher Degree Research (HDR) supervisor](https://services.anu.edu.au/research-support/hdr-supervision-development/hdr-supervision-registration-and-renewal/hdr-1) (registration is valid until 31 December 2025).
 
@@ -105,7 +105,18 @@ If you are an ANU master's student seeking individual projects, I require candid
   * [Liyun Zhu](https://tom-roujiang.github.io/liyun_zhu/) (1 x <font color="red"><strong>NeurIPS'24</strong></font>, [Poster](https://leiwangr.github.io/files/u7778917_poster.png)), *Master's Student*, 2024/02/19 – 2024/10/25 
   * [Xiuyuan Yuan](https://jackyuanx.github.io/) (1 x <font color="red"><strong>ICML'24</strong></font>, [Poster](https://leiwangr.github.io/files/icml24-poster.pdf)), *Summer Research Internship*, 2023/11/20 – 2024/02/02
 
-<h3>Project 2: ANU TechLauncher - Active Vision project <font color="red">[Ongoing]</font></h3>
+
+<h3>Project 2: ANU TechLauncher - TIME Lab’s TIME Space <font color="red">[Proposed for 2025 S1 & S2]</font></h3>
+
+TIME Lab is a dynamic team of honours and master's students working on final-year research projects under the supervision of Lei Wang. Over the past year, the team has made significant strides, not only in research but also in achieving a healthy work-life balance. To celebrate this progress, TIME Lab aims to design a website, TIME Space, to showcase the memorable moments of the past year. TIME Space will be a fully interactive platform where photos loop endlessly, following the dynamic motion of the TIME Lab logo. Users will be able to engage with the space by selecting specific time frames, locations, or individuals involved in the memories, creating a personalized experience that brings the past year to life.
+
+By undertaking this project, students will gain hands-on experience in full-stack development, designing and deploying a dynamic web application with advanced UX/UI features. They will enhance their skills in frontend and backend development, database management, and cloud deployment, while applying machine learning techniques for smart tagging and image processing. The project challenges students to solve real-world problems creatively, preparing them for professional environments and adding a portfolio-ready achievement to showcase their technical expertise.
+
+This project combines cutting-edge technologies with a meaningful goal: bringing memories to life through an innovative, interactive platform. Students will work in a collaborative, supportive environment, tackling challenges across web development, data visualization, and user interaction. With immediate application in the TIME Lab, the project provides a visible, impactful outcome, offering both personal and professional fulfillment while building critical, in-demand skills.
+
+Students undertaking this project will receive mentorship TIME Lab researchers, along with support from the ANU TechLauncher program, including access to workshops, industry connections, and project management tools. They will work in a collaborative environment, benefiting from feedback from peers and stakeholders. Key resources like cloud services, development platforms, and software tools for web development, machine learning, and UX/UI design will be provided. Regular technical guidance, testing support, and workshops on essential technologies will ensure students have everything needed to succeed.
+
+<h3>Project 3: ANU TechLauncher - Active Vision project <font color="red">[Ongoing]</font></h3>
 
 The [TechLauncher program](https://comp.anu.edu.au/TechLauncher/) is for team-based activities at ANU, where the project and/or group activity undertaken is real, not synthetic. In TechLauncher you will be a team member on a project, and shall be supported by a program of tutorials at which your peers, along with experienced professional tutors/mentors, facilitate your professional development and mediate your team processes and interactions.
 
@@ -119,7 +130,7 @@ Objectives include: (i) Develop analytical algorithms: Create robust algorithms 
 
 <a href="https://leiwangr.github.io/files/24-S2-2-Active-Vision.png" style="color: blue">[2024 S2 Poster]</a>
 
-<h3>Project 3: ANU TechLauncher - CAM FALL project <font color="red">[Ongoing]</font></h3>
+<h3>Project 4: ANU TechLauncher - CAM FALL project <font color="red">[Ongoing]</font></h3>
 
 In the 2024 Semester 1 and 2, my proposed project is '*ActiveIntelligence: CAM-FALL (Camera-based Fall Alert System)*'. This project marks the 2nd Annual Active Intelligence Research Challenge (refer to Industry Research Sponsorship below). Francis and I are the clients.
 
@@ -191,7 +202,7 @@ Participation in the project will provide students with a holistic learning expe
 - Ethical Considerations: Awareness of ethical considerations related to privacy, data security, and responsible use of technology is necessary for ensuring the system aligns with ethical standards and regulations. -->
 
 
-<h3>Project 4: Industry Research Sponsorship for Students <font color="red">[Completed]</font></h3>
+<h3>Project 5: Industry Research Sponsorship for Students <font color="red">[Completed]</font></h3>
 
 I annually organize multiple industry research awards to support promising research candidates (Bachelor's, Honours, and Master's Students) interested in my research areas. Please note that only students from the Group of Eight (Go8) Australian universities are considered.
 
