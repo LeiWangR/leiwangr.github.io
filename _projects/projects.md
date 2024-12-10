@@ -90,7 +90,7 @@ TIME Lab 2024 medal criteria:
 
 <h2>Student Project</h2>
 
-<h3>Project 1: Bachelor & Honours Research Project <font color="red">[Ongoing]</font></h3>
+<h3>Project 1: Bachelor & Honours Research Project <font color="red">[Completed]</font></h3>
 
 I am a [registered ANU Higher Degree Research (HDR) supervisor](https://services.anu.edu.au/research-support/hdr-supervision-development/hdr-supervision-registration-and-renewal/hdr-1) (registration is valid until 31 December 2025).
 
