@@ -132,7 +132,7 @@ Objectives include: (i) Develop analytical algorithms: Create robust algorithms 
 
 <a href="https://leiwangr.github.io/files/24-S2-2-Active-Vision.png" style="color: blue">[2024 S2 Poster]</a>
 
-<h3>Project 4: ANU TechLauncher - CAM FALL project <font color="red">[Ongoing]</font></h3>
+<h3>Project 4: ANU TechLauncher - CAM FALL project <font color="red">[Completed]</font></h3>
 
 In the 2024 Semester 1 and 2, my proposed project is '*ActiveIntelligence: CAM-FALL (Camera-based Fall Alert System)*'. This project marks the 2nd Annual Active Intelligence Research Challenge (refer to Industry Research Sponsorship below). Francis and I are the clients.
 
