@@ -90,7 +90,9 @@ TIME Lab 2024 medal criteria:
 
 <h2>Student Project</h2>
 
-<h3>Project 1: Bachelor & Honours Research Project <font color="red">[Completed]</font></h3>
+<h3>Project 1: ANU Bachelor & Honours Research Project <font color="red">[Completing]</font></h3>
+
+ <font color="red"><strong> Kindly note that I will not be serving as the primary supervisor for any new ANU bachelor, honours, or master's research students in 2025. </strong></font>
 
 I am a [registered ANU Higher Degree Research (HDR) supervisor](https://services.anu.edu.au/research-support/hdr-supervision-development/hdr-supervision-registration-and-renewal/hdr-1) (registration is valid until 31 December 2025).
 
@@ -105,7 +107,6 @@ If you are an ANU master's student seeking individual projects, I require candid
   * [Liyun Zhu](https://tom-roujiang.github.io/liyun_zhu/) (1 x <font color="red"><strong>NeurIPS'24</strong></font>, [Poster](https://leiwangr.github.io/files/u7778917_poster.png)), *Master's Student*, 2024/02/19 – 2024/10/25 
   * [Xiuyuan Yuan](https://jackyuanx.github.io/) (1 x <font color="red"><strong>ICML'24</strong></font>, [Poster](https://leiwangr.github.io/files/icml24-poster.pdf)), *Summer Research Internship*, 2023/11/20 – 2024/02/02
 
- <font color="red"><strong> Kindly note that I will not be serving as the primary supervisor for any new ANU bachelor, honours, or master's research students in 2025. </strong></font>
 
 <h3>Project 2: ANU TechLauncher - TIME Lab’s TIME Space <font color="red">[Proposed for 2025 S1 & S2]</font></h3>
 
