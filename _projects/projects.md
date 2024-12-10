@@ -225,7 +225,7 @@ For more information regarding the application and award process, please contact
 
 
 
-<h3>Project 5: ANU Summer Research Scholars Program <font color="red">[Completed]</font></h3>
+<h3>Project 6: ANU Summer Research Scholars Program <font color="red">[Completed]</font></h3>
 
 ANU offers Summer Research Scholarships (SRS) and Summer Research Internships (SRI). External (non-ANU) students from Australia and New Zealand are eligible to apply for a Summer Research Scholarship. Current ANU students are eligible to apply for a Summer Research Internship. 
 
