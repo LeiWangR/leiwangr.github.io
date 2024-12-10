@@ -105,6 +105,7 @@ If you are an ANU master's student seeking individual projects, I require candid
   * [Liyun Zhu](https://tom-roujiang.github.io/liyun_zhu/) (1 x <font color="red"><strong>NeurIPS'24</strong></font>, [Poster](https://leiwangr.github.io/files/u7778917_poster.png)), *Master's Student*, 2024/02/19 – 2024/10/25 
   * [Xiuyuan Yuan](https://jackyuanx.github.io/) (1 x <font color="red"><strong>ICML'24</strong></font>, [Poster](https://leiwangr.github.io/files/icml24-poster.pdf)), *Summer Research Internship*, 2023/11/20 – 2024/02/02
 
+ <font color="red"><strong> Kindly note that I will not be serving as the primary supervisor for any new ANU bachelor, honours, or master's research students in 2025. </strong></font>
 
 <h3>Project 2: ANU TechLauncher - TIME Lab’s TIME Space <font color="red">[Proposed for 2025 S1 & S2]</font></h3>
 
