@@ -91,7 +91,7 @@ $^\dagger$: Corresponding author.
 				<div class="gs_gray">A Raj, <strong>L Wang</strong>$^\dagger$, T Gedeon</div>
 				<div class="gs_gray">IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</div>
 			</td>
-			<td class="gsc_a_c">[<font color="red"><strong>B</strong></font>] <br><font color="red">Final decision </font></td>
+			<td class="gsc_a_c">[<font color="red"><strong>B</strong></font>] <br><font color="red">Under review</font></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
 		</tr>
 		<tr class="gsc_a_tr" style="background-color:#FFFFE0"> 
