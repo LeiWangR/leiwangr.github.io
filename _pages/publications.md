@@ -87,6 +87,14 @@ $^\dagger$: Corresponding author.
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr" style="background-color:#FFFFE0"> 
+			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2409.14543"><strong><span class="gsc_a_at">TrackNetV4: Enhancing Fast Sports Object Tracking with Motion Attention Maps</span></strong></a>
+				<div class="gs_gray">A Raj, <strong>L Wang</strong>$^\dagger$, T Gedeon</div>
+				<div class="gs_gray">IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</div>
+			</td>
+			<td class="gsc_a_c">[<font color="red"><strong>B</strong></font>] <br><font color="red">Final decision </font></td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
+		</tr>
+		<tr class="gsc_a_tr" style="background-color:#FFFFE0"> 
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2402.04857"><strong><span class="gsc_a_at">Advancing Video Anomaly Detection: A Concise Review and a New Dataset</span></strong></a>
 				<div class="gs_gray">L Zhu, <strong>L Wang</strong>$^\dagger$, A Raj, T Gedeon, C Chen</div>
 				<div class="gs_gray">NeurIPS 2024 Datasets and Benchmarks Track (<strong>NeurIPS</strong> D&B Track)</div>
@@ -270,14 +278,14 @@ $^\dagger$: Corresponding author.
 			<td class="gsc_a_c">Dexuan Ding conducted this research under the supervision of Lei Wang as part of his final year honors project at ANU. We extend our gratitude to Qixiang Chen for reviewing the model code and producing excellent plots. This work was also supported by the NCI National AI Flagship Merit Allocation Scheme, and the National Computational Merit Allocation Scheme 2024 (NCMAS 2024), with computational resources provided by NCI Australia, an NCRIS-enabled capability supported by the Australian Government.</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
 		</tr>
-		<tr class="gsc_a_tr" style="background-color:#FFFFE0">
+		<!-- <tr class="gsc_a_tr" style="background-color:#FFFFE0">
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2409.14543"><strong><span class="gsc_a_at">TrackNetV4: Enhancing Fast Sports Object Tracking with Motion Attention Maps</span></strong></a>
 				<div class="gs_gray">A Raj, <strong>L Wang</strong>$^\dagger$, T Gedeon</div>
 				<div class="gs_gray">arXiv preprint arXiv:2409.14543</div>
 			</td>
 			<td class="gsc_a_c">Arjun Raj conducted this research under the supervision of Lei Wang for his COMP3770 Computing Research Project (R&D) at ANU. He is a recipient of research sponsorship from Active Intelligence Australia Pty Ltd in Perth, Western Australia, including The Active Intelligence Research Challenge Award. [<a href="https://time.anu.edu.au/paper-sites/tracknet-v4/" style="color:#000000;">Project website</a>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
-		</tr>
+		</tr> -->
 		<!-- <tr class="gsc_a_tr" style="background-color:#FFFFE0">
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2407.03179"><strong><span class="gsc_a_at">Motion meets Attention: Video Motion Prompts</span></strong></a>
 				<div class="gs_gray">Q Chen, <strong>L Wang</strong>, P Koniusz, T Gedeon</div>
