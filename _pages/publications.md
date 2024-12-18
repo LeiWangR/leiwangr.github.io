@@ -263,6 +263,14 @@ $^\dagger$: Corresponding author.
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr">
+			<td class="gsc_a_t"><a href="https://leiwangr.github.io/files/xi-ding.pdf"><strong><span class="gsc_a_at">Do Language Models Understand Time?</span></strong></a>
+				<div class="gs_gray">X Ding, <strong>L Wang</strong>$^\dagger$</div>
+				<div class="gs_gray">arXiv preprint</div>
+			</td>
+			<td class="gsc_a_c">Xi Ding, a Research Assistant with the Temporal Intelligence and Motion Extraction (TIME) Lab at ANU, contributed to this work. TIME Lab is a dynamic research team comprising master’s and honours students focused on advancing video processing and motion analysis. This research was conducted under the supervision of Lei Wang.</td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
+		</tr>
+		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2411.15284"><strong><span class="gsc_a_at">When Spatial meets Temporal in Action Recognition</span></strong></a>
 				<div class="gs_gray">H Chen, <strong>L Wang</strong>$^\dagger$, Y Chen, T Gedeon, P Koniusz</div>
 				<div class="gs_gray">arXiv preprint arXiv:2411.15284</div>
