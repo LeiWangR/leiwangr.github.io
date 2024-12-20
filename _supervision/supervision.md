@@ -36,7 +36,7 @@ I am the **primary supervisor** for two ANU master’s students for their final 
 
 I also serve as the **primary supervisor** for the following honours student on a 1-year, 12-unit research project:
 
-* [Arjun Raj](https://arjunraj.com/) (1 x <strong>arXiv preprint</strong>): Tracking high-speed and tiny objects in sports, 2024/07/22 – <font color="blue">present</font> 
+* [Arjun Raj](https://arjunraj.com/) (1 x <font color="red"><strong>ICASSP'25</strong></font>): Tracking high-speed and tiny objects in sports, 2024/07/22 – <font color="blue">present</font> 
 
 I am an **associate supervisor** for three ANU master’s students (2024/07/22 – <font color="blue">present</font>): Junliang Ye, Haodong Yang, and Meitong Liu, working on multi-modal learning and video language models.
 
