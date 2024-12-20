@@ -91,6 +91,7 @@ He is an IEEE Student Member and an ACM Student Member. -->
 
 I personally do not have any news; the most exciting updates are coming from my talented students!
 
+- 21/12/2024: One paper has been accepted at **ICASSP 2025**. Congratulations to <font color="blue">Arjun Raj</font>.
 - 10/12/2024: <font color="red">Kindly note that I will not be serving as the primary supervisor for any new ANU bachelor, honours, or master's research students in 2025.</font>
 - 28/11/2024: **Primarily supervised** 3 Honours and 3 Master’s students to successfully complete their final-year research projects, resulting in **3 High Distinctions (HD) and 3 Distinctions (D) theses**.
 - 26/11/2024: Our workshop, “*TIME 2025: 1st International Workshop on Transformative Insights in Multi-faceted Evaluation*”, held at The Web Conference (WWW 2025, A*), is now open for [paper submissions](https://openreview.net/group?id=ACM.org/TheWebConf/2025/Workshop/TIME#tab-recent-activity). More details are available on our [TIME 2025 workshop page](https://time.anu.edu.au/workshop/time2025/).
