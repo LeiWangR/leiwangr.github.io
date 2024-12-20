@@ -38,6 +38,7 @@ I am also working to bridge the gap between academic research and industry resea
 * *20/02/2023-<font color="blue">present</font>*: **Research Fellow** (full-time)
   * School of Computing, ANU College of Engineering, Computing and Cybernetics
   * Postdoc advisor: [Assoc. Prof. Liang Zheng](https://zheng-lab-anu.github.io/) (ANU) and [Prof. Tom Gedeon](https://staffportal.curtin.edu.au/staff/profile/view/tom-gedeon-5e48a1fd/) (Curtin University)
+  * <font color="red">One paper has been accepted at <strong>ICASSP 2025</strong></font>
   * <font color="red">My Student Experience of Learning and Teaching (<strong>SELT</strong>) teacher survey results for ANU TechLauncher, Second Semester 2024: $4.11\pm0.80$ (on a 5-point scale, 413 enrollments)</font>
   * <font color="red"><strong>Primarily supervised</strong> 3 Honours and 3 Master’s students in their final-year research projects, resulting in <strong>3 HD and 3 D theses</strong></font>
   * <font color="red">One workshop proposal entitled "TIME 2025: 1st International Workshop on Transformative Insights in Multi-faceted Evaluation" has been accepted at <strong>TheWebConf 2025</strong> as a half-day workshop</font>
