@@ -40,6 +40,10 @@ I also serve as the **primary supervisor** for the following honours student on 
 
 I am an **associate supervisor** for three ANU master’s students (2024/07/22 – <font color="blue">present</font>): Junliang Ye, Haodong Yang, and Meitong Liu, working on multi-modal learning and video language models.
 
+Research Assistant:
+
+* [Xi Ding](https://darcyddx.github.io) (1 x <strong>arXiv preprint</strong>): Do Language Models Understand Time?, *Master's Student*, 2024/11/13 – <font color="blue">present</font>
+
 Former master's, honours, and internship students (**primary supervision**):
 * Dexuan Ding (1 x <strong>arXiv preprint</strong>): LEGO Fusion: Robust Video Anomaly Detection, *Honours Student*, 2024/02/19 – 2024/10/25 
 * [Qixiang Chen](https://q1xiangchen.github.io/) (1 x <font color="red"><strong>ACML'24</strong></font> <font color="red">oral</font>): A Closer Look at Motions, *Honours Student*, 2024/02/19 – 2024/10/25 
