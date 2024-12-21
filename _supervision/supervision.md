@@ -29,29 +29,29 @@ Please visit my [TIME Lab team page](https://time.anu.edu.au/team/) for more det
 
 <font color="red"><strong> Kindly note that I will not be serving as the primary supervisor for any new ANU bachelor, honours, or master's research students in 2025. </strong></font>
 
-I am the **primary supervisor** for two ANU master’s students for their final year research projects (24-unit):
+* I am the **primary supervisor** for two ANU master’s students for their final year research projects (24-unit):
 
-* [Gennie Nguyen](https://www.gennienguyen.com/): Physiological signals and fake news and phishing (co-supervised with [Prof. Tom Gedeon](https://staffportal.curtin.edu.au/staff/profile/view/tom-gedeon-5e48a1fd/) from Curtin University), 2024/07/22 – <font color="blue">present</font> 
-* Yifan Chen: Understanding the behaviors of modern video models through signal perception, 2024/07/22 – <font color="blue">present</font>
+  * [Gennie Nguyen](https://www.gennienguyen.com/): Physiological signals and fake news and phishing (co-supervised with [Prof. Tom Gedeon](https://staffportal.curtin.edu.au/staff/profile/view/tom-gedeon-5e48a1fd/) from Curtin University), 2024/07/22 – <font color="blue">present</font> 
+  * Yifan Chen: Understanding the behaviors of modern video models through signal perception, 2024/07/22 – <font color="blue">present</font>
 
-I also serve as the **primary supervisor** for the following honours student on a 1-year, 12-unit research project:
+* I also serve as the **primary supervisor** for the following honours student on a 1-year, 12-unit research project:
 
-* [Arjun Raj](https://arjunraj.com/) (1 x <font color="red"><strong>ICASSP'25</strong></font>): Tracking high-speed and tiny objects in sports, 2024/07/22 – <font color="blue">present</font> 
+  * [Arjun Raj](https://arjunraj.com/) (1 x <font color="red"><strong>ICASSP'25</strong></font>): Tracking high-speed and tiny objects in sports, 2024/07/22 – <font color="blue">present</font> 
 
-I am an **associate supervisor** for three ANU master’s students (2024/07/22 – <font color="blue">present</font>): Junliang Ye, Haodong Yang, and Meitong Liu, working on multi-modal learning and video language models.
+* I am an **associate supervisor** for three ANU master’s students (2024/07/22 – <font color="blue">present</font>): Junliang Ye, Haodong Yang, and Meitong Liu, working on multi-modal learning and video language models.
 
-Research Assistant:
+* Research Assistant:
 
-* [Xi Ding](https://darcyddx.github.io) (1 x <strong>arXiv preprint</strong>): Do Language Models Understand Time?, *Master's Student*, 2024/11/13 – <font color="blue">present</font>
+  * [Xi Ding](https://darcyddx.github.io) (1 x <strong>arXiv preprint</strong>): Do Language Models Understand Time?, *Master's Student*, 2024/11/13 – <font color="blue">present</font>
 
-Former master's, honours, and internship students (**primary supervision**):
-* Dexuan Ding (1 x <strong>arXiv preprint</strong>): LEGO Fusion: Robust Video Anomaly Detection, *Honours Student*, 2024/02/19 – 2024/10/25 
-* [Qixiang Chen](https://q1xiangchen.github.io/) (1 x <font color="red"><strong>ACML'24</strong></font> <font color="red">oral</font>): A Closer Look at Motions, *Honours Student*, 2024/02/19 – 2024/10/25 
-* Huilin Chen (1 x <strong>arXiv preprint</strong>): When Spatial meets Temporal in Action Recognition, *Honours Student*, 2024/02/19 – 2024/10/25 
-* [Liyun Zhu](https://tom-roujiang.github.io/liyun_zhu/) (1 x <font color="red"><strong>NeurIPS'24</strong></font>): Advancing Video Anomaly Detection, *Master's Student*, 2024/02/19 – 2024/10/25 
-* Jushang Qiu: A Practical Guide to Skeletons and Taylor-transformed Skeletons in Action Recognition, *Master's Student*, 2024/02/19 - 2024/10/25 
-* Liwen Luo: Human Motion Prediction via Spatio-temporal Correspondence Learning, *Master's Student*, 2024/02/19 – 2024/10/25
-* [Xiuyuan Yuan](https://jackyuanx.github.io/) (1 x <font color="red"><strong>ICML'24</strong></font>): Video dynamics distillation, ANU Summer Research Scholars Program, *Summer Research Internship*, 2023/11/20 – 2024/02/02
+* Former master's, honours, and internship students (**primary supervision**):
+  * Dexuan Ding (1 x <strong>arXiv preprint</strong>): LEGO Fusion: Robust Video Anomaly Detection, *Honours Student*, 2024/02/19 – 2024/10/25 
+  * [Qixiang Chen](https://q1xiangchen.github.io/) (1 x <font color="red"><strong>ACML'24</strong></font> <font color="red">oral</font>): A Closer Look at Motions, *Honours Student*, 2024/02/19 – 2024/10/25 
+  * Huilin Chen (1 x <strong>arXiv preprint</strong>): When Spatial meets Temporal in Action Recognition, *Honours Student*, 2024/02/19 – 2024/10/25 
+  * [Liyun Zhu](https://tom-roujiang.github.io/liyun_zhu/) (1 x <font color="red"><strong>NeurIPS'24</strong></font>): Advancing Video Anomaly Detection, *Master's Student*, 2024/02/19 – 2024/10/25 
+  * Jushang Qiu: A Practical Guide to Skeletons and Taylor-transformed Skeletons in Action Recognition, *Master's Student*, 2024/02/19 - 2024/10/25 
+  * Liwen Luo: Human Motion Prediction via Spatio-temporal Correspondence Learning, *Master's Student*, 2024/02/19 – 2024/10/25
+  * [Xiuyuan Yuan](https://jackyuanx.github.io/) (1 x <font color="red"><strong>ICML'24</strong></font>): Video dynamics distillation, ANU Summer Research Scholars Program, *Summer Research Internship*, 2023/11/20 – 2024/02/02
 
 <h2>Teaching</h2>
 
