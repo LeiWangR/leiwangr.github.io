@@ -263,6 +263,14 @@ $^\dagger$: Corresponding author.
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr">
+			<td class="gsc_a_t"><a href="https://leiwangr.github.io/files/xi-ad.pdf"><strong><span class="gsc_a_at">Quo Vadis, Anomaly Detection? LLMs and VLMs in the Spotlight</span></strong></a>
+				<div class="gs_gray">X Ding, <strong>L Wang</strong>$^\dagger$</div>
+				<div class="gs_gray">arXiv preprint</div>
+			</td>
+			<td class="gsc_a_c">Xi Ding, a Research Assistant with the Temporal Intelligence and Motion Extraction (TIME) Lab at ANU, contributed to this work. TIME Lab is a dynamic research team comprising master’s and honours students focused on advancing video processing and motion analysis. This research was conducted under the supervision of Lei Wang.</td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
+		</tr>
+		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2412.13845"><strong><span class="gsc_a_at">Do Language Models Understand Time?</span></strong></a>
 				<div class="gs_gray">X Ding, <strong>L Wang</strong>$^\dagger$</div>
 				<div class="gs_gray">arXiv preprint arXiv:2412.13845</div>
