@@ -42,7 +42,7 @@ Please visit my [TIME Lab team page](https://time.anu.edu.au/team/) for more det
 
 * Research Assistant:
 
-  * [Xi Ding](https://darcyddx.github.io) (1 x <strong>arXiv preprint</strong>): Do Language Models Understand Time?, *Master's Student*, 2024/11/13 – <font color="blue">present</font>
+  * [Xi Ding](https://darcyddx.github.io) (2 x <strong>arXiv preprint</strong>): Do Language Models Understand Time?, *Master's Student*, 2024/11/13 – <font color="blue">present</font>
 
 * Former master's, honours, and internship students (**primary supervision**):
   * Dexuan Ding (1 x <strong>arXiv preprint</strong>): LEGO Fusion: Robust Video Anomaly Detection, *Honours Student*, 2024/02/19 – 2024/10/25 
