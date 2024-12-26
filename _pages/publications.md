@@ -267,7 +267,7 @@ $^\dagger$: Corresponding author.
 				<div class="gs_gray">X Ding, <strong>L Wang</strong>$^\dagger$</div>
 				<div class="gs_gray">arXiv preprint arXiv:2412.18298</div>
 			</td>
-			<td class="gsc_a_c">Xi Ding, a Research Assistant with the Temporal Intelligence and Motion Extraction (TIME) Lab at ANU, contributed to this work. TIME Lab is a dynamic research team comprising master’s and honours students focused on advancing video processing and motion analysis. This research was conducted under the supervision of Lei Wang.</td>
+			<td class="gsc_a_c">Xi Ding, a Research Assistant with the Temporal Intelligence and Motion Extraction (TIME) Lab at ANU, contributed to this work. TIME Lab is a dynamic research team comprising master’s and honours students focused on advancing video processing and motion analysis. This research was conducted under the supervision of Lei Wang. [<a href="https://github.com/Darcyddx/VAD-LLM" style="color:#000000;">Code</a>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
 		</tr>
 		<tr class="gsc_a_tr">
@@ -275,7 +275,7 @@ $^\dagger$: Corresponding author.
 				<div class="gs_gray">X Ding, <strong>L Wang</strong>$^\dagger$</div>
 				<div class="gs_gray">arXiv preprint arXiv:2412.13845</div>
 			</td>
-			<td class="gsc_a_c">Xi Ding, a Research Assistant with the Temporal Intelligence and Motion Extraction (TIME) Lab at ANU, contributed to this work. TIME Lab is a dynamic research team comprising master’s and honours students focused on advancing video processing and motion analysis. This research was conducted under the supervision of Lei Wang.</td>
+			<td class="gsc_a_c">Xi Ding, a Research Assistant with the Temporal Intelligence and Motion Extraction (TIME) Lab at ANU, contributed to this work. TIME Lab is a dynamic research team comprising master’s and honours students focused on advancing video processing and motion analysis. This research was conducted under the supervision of Lei Wang. [<a href="https://github.com/Darcyddx/Video-LLM" style="color:#000000;">Code</a>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
 		</tr>
 		<tr class="gsc_a_tr">
