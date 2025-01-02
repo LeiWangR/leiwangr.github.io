@@ -91,6 +91,7 @@ He is an IEEE Student Member and an ACM Student Member. -->
 
 I personally do not have any news; the most exciting updates are coming from my talented students!
 
+- 02/01/2025: I am a Chief Investigator (CI) / Delegated lead CI for the project "MotionNetLite: Video Dynamics Distillation for Scalable Models", under the National Computational Merit Allocation Scheme (**NCMAS 2025**). 
 - 02/01/2025: I am the Lead Chief Investigator (Lead CI) for the project "Efficient Video Models through Compression and Data Optimization", under the ANU Merit Allocation Scheme (**ANUMAS 2025**).
 - 21/12/2024: One paper has been accepted at **ICASSP 2025**. Congratulations to <font color="blue">Arjun Raj</font>.
 - 10/12/2024: <font color="red">Kindly note that I will not be serving as the primary supervisor for any new ANU bachelor, honours, or master's research students in 2025.</font>
