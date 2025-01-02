@@ -262,6 +262,10 @@ In this research project, we aim to explore video data optimisation techniques t
 
 <h2>Research Grant / Funding</h2>
 
+* National Computational Merit Allocation Scheme 2026 (NCMAS 2025)
+  * I am a **Chief Investigator (CI)** / **Delegated lead CI** (2025/01/01-2025/12/31)
+  * Project title: MotionNetLite: Video Dynamics Distillation for Scalable Models
+
 * ANU Merit Allocation Scheme 2025 (ANUMAS 2025)
   * I am a **Lead Chief Investigator (Lead CI)** (2025/01/01-2025/12/31)
   * Project Title: Efficient Video Models through Compression and Data Optimization
