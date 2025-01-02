@@ -262,6 +262,13 @@ In this research project, we aim to explore video data optimisation techniques t
 
 <h2>Research Grant / Funding</h2>
 
+* ANU Merit Allocation Scheme 2025 (ANUMAS 2025)
+  * I am a **Lead Chief Investigator (Lead CI)** (2025/01/01-2025/12/31)
+  * Project Title: Efficient Video Models through Compression and Data Optimization
+  * This research project tackles two major challenges in the field of video processing: developing lightweight video models that are efficient and scalable, and improving the quality of training data for large-scale pretraining. While large-scale video foundation models have achieved impressive success in tasks like action recognition, anomaly detection, and video understanding, they remain computationally expensive due to their enormous size and training data requirements. With the growing need for video models that can run on resource-constrained devices such as smartphones and IoT systems, the project explores alternative lightweight architectures and efficient training techniques.
+  * Existing lightweight models for image processing, like MobileNet and ShuffleNet, have shown promise but have not been fully adapted to the complexities of video data. Recent efforts in optimizing video models have laid the groundwork, but the challenge remains in scaling these models to meet the demands of advanced video tasks. Additionally, the pretraining datasets used for these models often contain biases and noise, limiting their effectiveness in video tasks that require temporal reasoning.
+  * This research aims to address these limitations by designing more efficient, portable video models and selecting high-quality, representative video datasets for training. The goal is to enable better performance on video tasks while reducing the computational burden, thus making these models more accessible for deployment across a wide range of devices and applications.
+
 * National Computational Merit Allocation Scheme 2024 (NCMAS 2024)
   * I am a **Chief Investigator (CI)** / **Delegated lead CI** (2024/01/01-2024/12/31)
   * Project title: MotionNetLite: Video Dynamics Distillation for Scalable Models
