@@ -49,7 +49,7 @@ Please visit my [TIME Lab team page](https://time.anu.edu.au/team/) for more det
   * [Qixiang Chen](https://q1xiangchen.github.io/) (1 x <font color="red"><strong>ACML'24</strong></font> <font color="red">oral</font>): A Closer Look at Motions, *Honours Student*, 2024/02/19 – 2024/10/25 
   * Huilin Chen (1 x <strong>arXiv preprint</strong>): When Spatial meets Temporal in Action Recognition, *Honours Student*, 2024/02/19 – 2024/10/25 
   * [Liyun Zhu](https://tom-roujiang.github.io/liyun_zhu/) (1 x <font color="red"><strong>NeurIPS'24</strong></font>): Advancing Video Anomaly Detection, *Master's Student*, 2024/02/19 – 2024/10/25 
-  * Jushang Qiu: A Practical Guide to Skeletons and Taylor-transformed Skeletons in Action Recognition, *Master's Student*, 2024/02/19 - 2024/10/25 
+  * Jushang Qiu (1 x <strong>arXiv preprint</strong>): A Practical Guide to Skeletons and Taylor-transformed Skeletons in Action Recognition, *Master's Student*, 2024/02/19 - 2024/10/25 
   * Liwen Luo: Human Motion Prediction via Spatio-temporal Correspondence Learning, *Master's Student*, 2024/02/19 – 2024/10/25
   * [Xiuyuan Yuan](https://jackyuanx.github.io/) (1 x <font color="red"><strong>ICML'24</strong></font>): Video dynamics distillation, ANU Summer Research Scholars Program, *Summer Research Internship*, 2023/11/20 – 2024/02/02
 
