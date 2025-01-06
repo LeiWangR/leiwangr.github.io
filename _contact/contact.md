@@ -23,6 +23,8 @@ a:active {
 }
 </style>
 
+<font color="red"><strong> I am on annual leave until February 19, 2025. During this period, please direct all inquiries to the TIME Lab at timelab.cecc@anu.edu.au. </strong></font>
+
 My contact information is below.
 
 <div>
