@@ -28,7 +28,9 @@ a:active {
 
 <!-- style="color: blue" -->
 
-<a href="https://leiwangr.github.io/files/lei-cv.pdf" style="color: blue">[Lei's CV]</a> <a href="https://researchportalplus.anu.edu.au/en/persons/lei-wang" style="color: blue"> [ANU Researcher]</a> <a href="https://people.csiro.au/W/L/lei-wang" style="color: blue">[D61/CSIRO Profile]</a>
+<a href="https://leiwangr.github.io/files/lei-cv.pdf" style="color: blue">[Lei's CV]</a> <a href="https://researchportalplus.anu.edu.au/en/persons/lei-wang" style="color: blue"> [ANU Researcher]</a> 
+
+<!-- <a href="https://people.csiro.au/W/L/lei-wang" style="color: blue">[D61/CSIRO Profile]</a>  -->
 
 Lei Wang serves as a Research Fellow at the School of Computing, within the ANU College of Engineering, Computing, and Cybernetics. He is under the guidance of [Assoc. Prof. Liang Zheng](https://zheng-lab-anu.github.io) (ANU) and [Prof. Tom Gedeon](https://staffportal.curtin.edu.au/staff/profile/view/tom-gedeon-5e48a1fd/) (Curtin University). Lei also leads a dynamic research team of ANU master’s and honours students at the [TIME Lab](https://time.anu.edu.au/).
 
