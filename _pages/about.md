@@ -93,7 +93,7 @@ He is an IEEE Student Member and an ACM Student Member. -->
 
 I personally do not have any news; the most exciting updates are coming from my talented students!
 
-- 23/01/2025: The TIME Lab, composed exclusively of ANU honors and master's students, achieved three top-tier Machine Learning and AI publications (NeurIPS'24, ICLR'25, ICML'24) under my primary supervision from November 2023 to October 2024.
+- 23/01/2025: The TIME Lab, composed exclusively of honors and master's students, has achieved an impressive milestone under my primary supervision. This includes three top-tier publications in Machine Learning and Artificial Intelligence (NeurIPS'24, ICLR'25, and ICML'24), one oral presentation at ACML'24, a respected conference in the Asia-Pacific region for emerging machine learning research, and one paper at ICASSP'25, a prestigious venue in signal processing and its applications. These accomplishments occurred during the period from November 20, 2023, to October 25, 2024.
 - 23/01/2025: One paper has been accepted at **ICLR 2025**. Congratulations to <font color="blue">Dexuan Ding</font>.
 - 06/01/2025: <font color="red">I am on annual leave until February 19, 2025. During this period, please direct all inquiries to the TIME Lab at timelab.cecc@anu.edu.au.</font>
 - 02/01/2025: I am a Chief Investigator (CI) / Delegated lead CI for the project "MotionNetLite: Video Dynamics Distillation for Scalable Models", under the National Computational Merit Allocation Scheme (**NCMAS 2025**). 
