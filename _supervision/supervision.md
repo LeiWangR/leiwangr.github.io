@@ -45,7 +45,7 @@ Please visit my [TIME Lab team page](https://time.anu.edu.au/team/) for more det
   * [Xi Ding](https://darcyddx.github.io) (3 x <strong>arXiv preprint</strong>): Do Language Models Understand Time?, *Master's Student*, 2024/11/13 – <font color="blue">present</font>
 
 * Former master's, honours, and internship students (**primary supervision**):
-  * Dexuan Ding (1 x <strong>arXiv preprint</strong>): LEGO Fusion: Robust Video Anomaly Detection, *Bachelor of Advanced Computing (Honours)*, 2024/02/19 – 2024/10/25 
+  * Dexuan Ding (1 x <font color="red"><strong>ICLR'25</strong></font>): LEGO Fusion: Robust Video Anomaly Detection, *Bachelor of Advanced Computing (Honours)*, 2024/02/19 – 2024/10/25 
   * [Qixiang Chen](https://q1xiangchen.github.io/) (1 x <font color="red"><strong>ACML'24</strong></font> <font color="red">oral</font>): A Closer Look at Motions, *Bachelor of Advanced Computing (Honours)*, 2024/02/19 – 2024/10/25 
   * Huilin Chen (1 x <strong>arXiv preprint</strong>): When Spatial meets Temporal in Action Recognition, *Bachelor of Advanced Computing (Honours)*, 2024/02/19 – 2024/10/25 
   * [Liyun Zhu](https://tom-roujiang.github.io/liyun_zhu/) (1 x <font color="red"><strong>NeurIPS'24</strong></font>): Advancing Video Anomaly Detection, *Master of Machine Learning and Computer Vision*, 2024/02/19 – 2024/10/25 
