@@ -38,6 +38,7 @@ I am also working to bridge the gap between academic research and industry resea
 * *20/02/2023-<font color="blue">present</font>*: **Research Fellow** (full-time)
   * School of Computing, ANU College of Engineering, Computing and Cybernetics
   * Postdoc advisor: [Assoc. Prof. Liang Zheng](https://zheng-lab-anu.github.io/) (ANU) and [Prof. Tom Gedeon](https://staffportal.curtin.edu.au/staff/profile/view/tom-gedeon-5e48a1fd/) (Curtin University)
+  * <font color="red">One paper has been accepted at <strong>ICLR 2025</strong></font>
   * <font color="red">National Computational Merit Allocation Scheme (<strong>NCMAS 2025</strong>): I am a Chief Investigator (CI) / Delegated lead CI on 'MotionNetLite: Video Dynamics Distillation for Scalable Models'</font>
   * <font color="red">ANU Merit Allocation Scheme  (<strong>ANUMAS 2025</strong>): I am a Lead Chief Investigator (Lead CI) on 'Efficient Video Models through Compression and Data Optimization'</font>
   * <font color="red">One paper has been accepted at <strong>ICASSP 2025</strong></font>
