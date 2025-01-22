@@ -89,9 +89,9 @@ $^\dagger$: Corresponding author.
 		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2410.01506"><strong><span class="gsc_a_at">LEGO: Learnable Expansion of Graph Operators for Multi-Modal Feature Fusion</span></strong></a>
 				<div class="gs_gray">D Ding, <strong>L Wang</strong>$^\dagger$, L Zhu, T Gedeon, P Koniusz</div>
-				<div class="gs_gray">NA</div>
+				<div class="gs_gray">International Conference on Learning Representations (<strong>ICLR</strong>)</div>
 			</td>
-			<td class="gsc_a_c">Under review</td>
+			<td class="gsc_a_c">[<font color="red"><strong>A*</strong></font>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
 		</tr>
 		<tr class="gsc_a_tr" style="background-color:#FFFFE0"> 
