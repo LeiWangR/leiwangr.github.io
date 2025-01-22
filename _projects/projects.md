@@ -101,7 +101,7 @@ If you are an ANU undergraduate seeking an Honors research project, please note 
 If you are an ANU master's student seeking individual projects, I require candidates to have a solid research background, a strong GPA, and proficient coding skills. Additionally, it is important that you have adequate time available for research.
 
 * Selected posters from former master’s, honours, and internship students (**primary supervision**):
-  * Dexuan Ding (1 x <strong>arXiv preprint</strong>, [Poster](https://leiwangr.github.io/files/u7321641_poster.png)), *Honours Student*, 2024/02/19 – 2024/10/25 
+  * Dexuan Ding (1 x <font color="red"><strong>ICLR'25</strong></font>, [Poster](https://leiwangr.github.io/files/u7321641_poster.png)), *Honours Student*, 2024/02/19 – 2024/10/25 
   * [Qixiang Chen](https://q1xiangchen.github.io/) (1 x <font color="red"><strong>ACML'24</strong> oral</font>, [Poster](https://leiwangr.github.io/files/u7227010_poster.png)), *Honours Student*, 2024/02/19 – 2024/10/25 
   * Huilin Chen (1 x <strong>arXiv preprint</strong>, [Poster](https://leiwangr.github.io/files/u7326198_poster.png)), *Honours Student*, 2024/02/19 – 2024/10/25 
   * [Liyun Zhu](https://tom-roujiang.github.io/liyun_zhu/) (1 x <font color="red"><strong>NeurIPS'24</strong></font>, [Poster](https://leiwangr.github.io/files/u7778917_poster.png)), *Master's Student*, 2024/02/19 – 2024/10/25 
