@@ -208,6 +208,38 @@ $^\dagger$: Corresponding author.
 		</tr>
 	</tbody>
 </table>
+
+<h2>Workshops</h2>
+
+<table id="gsc_a_t">
+	<tbody id="gsc_a_b">
+		<tr class="gsc_a_tr">
+			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2501.02593"><strong><span class="gsc_a_at">Evolving Skeletons: Motion Dynamics in Action Recognition</span></strong></a>
+				<div class="gs_gray">J Qiu, <strong>L Wang</strong>$^\dagger$</div>
+				<div class="gs_gray">ACM TheWebConf 2025 Workshop TIME</div>
+			</td>
+			<td class="gsc_a_c">Accepted for poster presentation</td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
+		</tr>
+		<tr class="gsc_a_tr">
+			<td class="gsc_a_t"><a href="https://leiwangr.github.io/files/xi-ar.pdf"><strong><span class="gsc_a_at">The Journey of Action Recognition</span></strong></a>
+				<div class="gs_gray">X Ding, <strong>L Wang</strong>$^\dagger$</div>
+				<div class="gs_gray">ACM TheWebConf 2025 Workshop TIME</div>
+			</td>
+			<td class="gsc_a_c">Accepted for oral presentation</td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
+		</tr>
+		<tr class="gsc_a_tr">
+			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2412.13845"><strong><span class="gsc_a_at">Do Language Models Understand Time?</span></strong></a>
+				<div class="gs_gray">X Ding, <strong>L Wang</strong>$^\dagger$</div>
+				<div class="gs_gray">ACM TheWebConf 2025 Workshop TIME</div>
+			</td>
+			<td class="gsc_a_c">Accepted for oral presentation<br> [<a href="https://github.com/Darcyddx/Video-LLM" style="color:#000000;">Code</a>]</td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
+		</tr>
+	</tbody>
+</table>
+
 <!-- <h3>&nbsp;</h3> -->
 <h2>Patents</h2>
 <table id="gsc_a_t">
@@ -270,22 +302,22 @@ $^\dagger$: Corresponding author.
 <h2>arXiv preprints</h2>
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
-		<tr class="gsc_a_tr">
+		<!-- <tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2501.02593"><strong><span class="gsc_a_at">Evolving Skeletons: Motion Dynamics in Action Recognition</span></strong></a>
 				<div class="gs_gray">J Qiu, <strong>L Wang</strong>$^\dagger$</div>
 				<div class="gs_gray">arXiv preprint arXiv:2501.02593</div>
 			</td>
 			<td class="gsc_a_c">Jushang Qiu conducted this research under the supervision of Lei Wang as part of his final year master's research project at ANU. This work was supported by the National Computational Merit Allocation Scheme 2024 (NCMAS 2024), with computational resources provided by NCI Australia, an NCRIS-enabled capability supported by the Australian Government.</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
-		</tr>
-		<tr class="gsc_a_tr">
+		</tr> -->
+		<!-- <tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://leiwangr.github.io/files/xi-ar.pdf"><strong><span class="gsc_a_at">The Journey of Action Recognition</span></strong></a>
 				<div class="gs_gray">X Ding, <strong>L Wang</strong>$^\dagger$</div>
 				<div class="gs_gray">arXiv preprint</div>
 			</td>
 			<td class="gsc_a_c">Xi Ding, a Research Assistant with the Temporal Intelligence and Motion Extraction (TIME) Lab at ANU, contributed to this work. TIME Lab is a dynamic research team comprising master’s and honours students focused on advancing video processing and motion analysis. This research was conducted under the supervision of Lei Wang.</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
-		</tr>
+		</tr> -->
 		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2412.18298"><strong><span class="gsc_a_at">Quo Vadis, Anomaly Detection? LLMs and VLMs in the Spotlight</span></strong></a>
 				<div class="gs_gray">X Ding, <strong>L Wang</strong>$^\dagger$</div>
@@ -294,14 +326,14 @@ $^\dagger$: Corresponding author.
 			<td class="gsc_a_c">Xi Ding, a Research Assistant with the Temporal Intelligence and Motion Extraction (TIME) Lab at ANU, contributed to this work. TIME Lab is a dynamic research team comprising master’s and honours students focused on advancing video processing and motion analysis. This research was conducted under the supervision of Lei Wang. [<a href="https://github.com/Darcyddx/VAD-LLM" style="color:#000000;">Code</a>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
 		</tr>
-		<tr class="gsc_a_tr">
+		<!-- <tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2412.13845"><strong><span class="gsc_a_at">Do Language Models Understand Time?</span></strong></a>
 				<div class="gs_gray">X Ding, <strong>L Wang</strong>$^\dagger$</div>
 				<div class="gs_gray">arXiv preprint arXiv:2412.13845</div>
 			</td>
 			<td class="gsc_a_c">Xi Ding, a Research Assistant with the Temporal Intelligence and Motion Extraction (TIME) Lab at ANU, contributed to this work. TIME Lab is a dynamic research team comprising master’s and honours students focused on advancing video processing and motion analysis. This research was conducted under the supervision of Lei Wang. [<a href="https://github.com/Darcyddx/Video-LLM" style="color:#000000;">Code</a>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
-		</tr>
+		</tr> -->
 		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2411.15284"><strong><span class="gsc_a_at">When Spatial meets Temporal in Action Recognition</span></strong></a>
 				<div class="gs_gray">H Chen, <strong>L Wang</strong>$^\dagger$, Y Chen, T Gedeon, P Koniusz</div>
