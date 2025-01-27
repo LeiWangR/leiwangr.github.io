@@ -214,27 +214,27 @@ $^\dagger$: Corresponding author.
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr">
-			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2501.02593"><strong><span class="gsc_a_at">Evolving Skeletons: Motion Dynamics in Action Recognition</span></strong></a>
-				<div class="gs_gray">J Qiu, <strong>L Wang</strong>$^\dagger$</div>
-				<div class="gs_gray">ACM TheWebConf 2025 Workshop TIME</div>
-			</td>
-			<td class="gsc_a_c">Accepted for poster presentation</td>
-			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
-		</tr>
-		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://leiwangr.github.io/files/xi-ar.pdf"><strong><span class="gsc_a_at">The Journey of Action Recognition</span></strong></a>
 				<div class="gs_gray">X Ding, <strong>L Wang</strong>$^\dagger$</div>
-				<div class="gs_gray">ACM TheWebConf 2025 Workshop TIME</div>
+				<div class="gs_gray">The First International Workshop on Transformative Insights in Multifaceted Evaluation at The Web Conference 2025</div>
 			</td>
-			<td class="gsc_a_c">Accepted for oral presentation</td>
+			<td class="gsc_a_c">Oral</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
 		</tr>
 		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2412.13845"><strong><span class="gsc_a_at">Do Language Models Understand Time?</span></strong></a>
 				<div class="gs_gray">X Ding, <strong>L Wang</strong>$^\dagger$</div>
-				<div class="gs_gray">ACM TheWebConf 2025 Workshop TIME</div>
+				<div class="gs_gray">The First International Workshop on Transformative Insights in Multifaceted Evaluation at The Web Conference 2025</div>
 			</td>
-			<td class="gsc_a_c">Accepted for oral presentation<br> [<a href="https://github.com/Darcyddx/Video-LLM" style="color:#000000;">Code</a>]</td>
+			<td class="gsc_a_c">Oral <br> <a href="https://github.com/Darcyddx/Video-LLM" style="color:#000000;">Code</a></td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
+		</tr>
+		<tr class="gsc_a_tr">
+			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2501.02593"><strong><span class="gsc_a_at">Evolving Skeletons: Motion Dynamics in Action Recognition</span></strong></a>
+				<div class="gs_gray">J Qiu, <strong>L Wang</strong>$^\dagger$</div>
+				<div class="gs_gray">The First International Workshop on Transformative Insights in Multifaceted Evaluation at The Web Conference 2025</div>
+			</td>
+			<td class="gsc_a_c">Poster</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
 		</tr>
 	</tbody>
