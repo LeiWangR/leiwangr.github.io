@@ -42,14 +42,14 @@ Please visit my [TIME Lab team page](https://time.anu.edu.au/team/) for more det
 
 * Research Assistant:
 
-  * [Xi Ding](https://darcyddx.github.io) (3 x <strong>arXiv preprint</strong>): Do Language Models Understand Time?, *Master's Student*, 2024/11/13 – <font color="blue">present</font>
+  * [Xi Ding](https://darcyddx.github.io) (2 x <font color="red">WWW'25 workshop</font>, 1 x <strong>arXiv preprint</strong>): Do Language Models Understand Time?, *Master's Student*, 2024/11/13 – <font color="blue">present</font>
 
 * Former master's, honours, and internship students (**primary supervision**):
   * Dexuan Ding (1 x <font color="red"><strong>ICLR'25</strong></font>): LEGO Fusion: Robust Video Anomaly Detection, *Bachelor of Advanced Computing (Honours)*, 2024/02/19 – 2024/10/25 
   * [Qixiang Chen](https://q1xiangchen.github.io/) (1 x <font color="red"><strong>ACML'24</strong></font> <font color="red">oral</font>): A Closer Look at Motions, *Bachelor of Advanced Computing (Honours)*, 2024/02/19 – 2024/10/25 
   * Huilin Chen (1 x <strong>arXiv preprint</strong>): When Spatial meets Temporal in Action Recognition, *Bachelor of Advanced Computing (Honours)*, 2024/02/19 – 2024/10/25 
   * [Liyun Zhu](https://tom-roujiang.github.io/liyun_zhu/) (1 x <font color="red"><strong>NeurIPS'24</strong></font>): Advancing Video Anomaly Detection, *Master of Machine Learning and Computer Vision*, 2024/02/19 – 2024/10/25 
-  * Jushang Qiu (1 x <strong>arXiv preprint</strong>): A Practical Guide to Skeletons and Taylor-transformed Skeletons in Action Recognition, *Master of Machine Learning and Computer Vision*, 2024/02/19 - 2024/10/25 
+  * Jushang Qiu (1 x <font color="red">WWW'25 workshop</font>): A Practical Guide to Skeletons and Taylor-transformed Skeletons in Action Recognition, *Master of Machine Learning and Computer Vision*, 2024/02/19 - 2024/10/25 
   * Liwen Luo: Human Motion Prediction via Spatio-temporal Correspondence Learning, *Master of Machine Learning and Computer Vision*, 2024/02/19 – 2024/10/25
   * [Xiuyuan Yuan](https://jackyuanx.github.io/) (1 x <font color="red"><strong>ICML'24</strong></font>): Video dynamics distillation, Summer Research Internship (ANU Summer Research Scholars Program), *Bachelor of Advanced Computing (Honours)*, 2023/11/20 – 2024/02/02
 
