@@ -91,7 +91,7 @@ $^\dagger$: Corresponding author.
 				<div class="gs_gray">D Ding, <strong>L Wang</strong>$^\dagger$, L Zhu, T Gedeon, P Koniusz</div>
 				<div class="gs_gray">International Conference on Learning Representations (<strong>ICLR</strong>)</div>
 			</td>
-			<td class="gsc_a_c">[<font color="red"><strong>A*</strong>, accepted</font>]</td>
+			<td class="gsc_a_c">[<font color="red"><strong>A*</strong></font>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
 		</tr>
 		<tr class="gsc_a_tr" style="background-color:#FFFFE0"> 
