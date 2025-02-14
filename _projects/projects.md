@@ -92,8 +92,6 @@ TIME Lab 2024 medal criteria:
 
 <h3>Project 1: ANU Bachelor & Honours Research Project <font color="red">[Completing]</font></h3>
 
- <font color="red"><strong> Kindly note that I will not be serving as the primary supervisor for any new ANU bachelor, honours, or master's research students in 2025. </strong></font>
-
 I am a [registered ANU Higher Degree Research (HDR) supervisor](https://services.anu.edu.au/research-support/hdr-supervision-development/hdr-supervision-registration-and-renewal/hdr-1) (registration is valid until 31 December 2025).
 
 If you are an ANU undergraduate seeking an Honors research project, please note that I typically accept a maximum of two Honors students each year to ensure high-quality supervision, and I prefer 24-unit projects.
