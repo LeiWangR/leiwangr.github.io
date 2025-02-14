@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Lei Wang"
   avatar           : "lw.jpg" # "leiwang.jpg" # "lei-wang.jpg"
-  bio              : "Research Fellow at ANU, Visiting Scientist at Data61/CSIRO"
+  bio              : "Research Fellow at Griffith University"
   location         : # "Room N218, CSIT Building" # "Canberra ACT 2601"
-  employer         : "ANU & Data61/CSIRO" # "ANU" # "ANU, Canberra ACT 2601"  
+  employer         : ARC Research Hub at Griffith University # "ANU & Data61/CSIRO" # "ANU" # "ANU, Canberra ACT 2601"  
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=VWCZLXgAAAAJ&hl=en"
-  email            : "lei.w@anu.edu.au"
+  email            : "l.wang4@griffith.edu.au" # "lei.w@anu.edu.au"
   researchgate     : "https://www.researchgate.net/profile/Lei-Wang-358"
   uri              :
   bitbucket        :
