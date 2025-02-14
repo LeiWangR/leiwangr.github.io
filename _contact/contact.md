@@ -23,7 +23,6 @@ a:active {
 }
 </style>
 
-<font color="red"><strong> I am on annual leave until February 19, 2025. During this period, please direct all inquiries to the TIME Lab at timelab.cecc@anu.edu.au. </strong></font>
 
 My contact information is below.
 
@@ -31,12 +30,11 @@ My contact information is below.
 <table style="white-space:nowrap; width:100%; border: none;">
   <tr>
     <th style="width:1px; white-space:nowrap; border: none;">Email address</th>
-    <td style="white-space:nowrap; border: none;">lei.w@anu.edu.au</td>
+    <td style="white-space:nowrap; border: none;">l.wang4@griffith.edu.au</td>
   </tr>
   <tr>
     <th style="width:1px; white-space:nowrap; border: none;">Address/Office</th>
-<!--     <td style="white-space:nowrap; border: none;">Room N218, CSIT Building <br> ANU Campus <br> Acton ACT 2601</td> -->
-         <td style="white-space:nowrap; border: none;">B141 Desk 4, <br> Brian Anderson Building <br> ANU Campus <br> Acton ACT 2601</td>
+         <td style="white-space:nowrap; border: none;">ARC Research Hub<br> Griffith University <br> Nathan QLD 4111 </td>
   </tr>
   <tr>
     <th style="width:1px; white-space:nowrap; border: none;">Office hours</th>
@@ -63,9 +61,5 @@ My contact information is below.
 <!-- <h2>Email Me</h2> -->
 
 
-If I can be of assistance, please contact me [via email](mailto:lei.w@anu.edu.au).
-
-<!-- Please note that I only reply to emails from known senders (**or** emails with full name, institution/university name, and the purposes of emailing clearly stated).
-
-Please **do not use an anonymous email address** as it will never get replied. -->
+If I can be of assistance, please contact me [via email](mailto:l.wang4@griffith.edu.au).
 
