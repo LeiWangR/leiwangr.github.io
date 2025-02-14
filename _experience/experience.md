@@ -35,7 +35,11 @@ I am also working to bridge the gap between academic research and industry resea
 
 <h2>Academic Research</h2>
 
-* *20/02/2023-<font color="blue">present</font>*: **Research Fellow** (full-time)
+* *17/02/2025-<font color="blue">present</font>*: **Research Fellow** (Grade 2)
+  * ARC Industrial Transformation Research Hub (School of Engineering and Built Environment—Electrical and Electronic Engineering at Griffith University)
+  * Postdoc advisor: [Prof. Yongsheng Gao](https://experts.griffith.edu.au/19112-yongsheng-gao) (Griffith University)
+
+* *20/02/2023-19/02/2025*: **Research Fellow** (Level B)
   * School of Computing, ANU College of Engineering, Computing and Cybernetics
   * Postdoc advisor: [Assoc. Prof. Liang Zheng](https://zheng-lab-anu.github.io/) (ANU) and [Prof. Tom Gedeon](https://staffportal.curtin.edu.au/staff/profile/view/tom-gedeon-5e48a1fd/) (Curtin University)
   * <font color="red">One paper has been accepted at <strong>ICLR 2025</strong></font>
