@@ -34,7 +34,7 @@ My contact information is below.
   </tr>
   <tr>
     <th style="width:1px; white-space:nowrap; border: none;">Address/Office</th>
-         <td style="white-space:nowrap; border: none;">ARC Research Hub<br> Griffith University <br> Nathan QLD 4111 </td>
+         <td style="white-space:nowrap; border: none;">N66 1.30A <br> Nathan Campus <br> Griffith University <br> Nathan QLD 4111</td>
   </tr>
   <tr>
     <th style="width:1px; white-space:nowrap; border: none;">Office hours</th>
