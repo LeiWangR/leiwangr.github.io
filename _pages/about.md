@@ -88,6 +88,7 @@ He is an IEEE Student Member and an ACM Student Member. -->
 
 I personally do not have any news; the most exciting updates are coming from my talented students!
 
+- 14/02/2025: TIME Lab has relocated to Griffith University and joined the ARC Research Hub, strengthening its engagement in industry-aligned research and ARC-supported initiatives within the broader Griffith community.
 - 23/01/2025: The TIME Lab, composed of honors and master's students, achieved significant milestones under my primary supervision, including three top-tier publications (NeurIPS'24, ICLR'25, ICML'24), an oral presentation at ACML'24 (a respected ML conference in Asia-Pacific), and a paper at ICASSP'25 (a prestigious signal processing venue) from November 20, 2023, to October 25, 2024.
 - 23/01/2025: One paper has been accepted at **ICLR 2025**. Congratulations to <font color="blue">Dexuan Ding</font>.
 - 02/01/2025: I am a Chief Investigator (CI) / Delegated lead CI for the project "MotionNetLite: Video Dynamics Distillation for Scalable Models", under the National Computational Merit Allocation Scheme (**NCMAS 2025**). 
