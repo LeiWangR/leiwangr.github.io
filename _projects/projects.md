@@ -276,32 +276,32 @@ In this research project, we aim to explore video data optimisation techniques t
 
 <h2>Research Grant / Funding</h2>
 
-* National Computational Merit Allocation Scheme 2025 (NCMAS 2025)
+* [11] National Computational Merit Allocation Scheme 2025 (NCMAS 2025)
   * I am a **Chief Investigator (CI)** / **Delegated lead CI** (2025/01/01-2025/12/31)
   * Project title: MotionNetLite: Video Dynamics Distillation for Scalable Models
 
-* ANU Merit Allocation Scheme 2025 (ANUMAS 2025)
+* [10] ANU Merit Allocation Scheme 2025 (ANUMAS 2025)
   * I am a **Lead Chief Investigator (Lead CI)** (2025/01/01-2025/12/31)
   * Project Title: Efficient Video Models through Compression and Data Optimization
   * This research project tackles two major challenges in the field of video processing: developing lightweight video models that are efficient and scalable, and improving the quality of training data for large-scale pretraining. While large-scale video foundation models have achieved impressive success in tasks like action recognition, anomaly detection, and video understanding, they remain computationally expensive due to their enormous size and training data requirements. With the growing need for video models that can run on resource-constrained devices such as smartphones and IoT systems, the project explores alternative lightweight architectures and efficient training techniques.
   * Existing lightweight models for image processing, like MobileNet and ShuffleNet, have shown promise but have not been fully adapted to the complexities of video data. Recent efforts in optimizing video models have laid the groundwork, but the challenge remains in scaling these models to meet the demands of advanced video tasks. Additionally, the pretraining datasets used for these models often contain biases and noise, limiting their effectiveness in video tasks that require temporal reasoning.
   * This research aims to address these limitations by designing more efficient, portable video models and selecting high-quality, representative video datasets for training. The goal is to enable better performance on video tasks while reducing the computational burden, thus making these models more accessible for deployment across a wide range of devices and applications.
 
-* National Computational Merit Allocation Scheme 2024 (NCMAS 2024)
+* [9] National Computational Merit Allocation Scheme 2024 (NCMAS 2024)
   * I am a **Chief Investigator (CI)** / **Delegated lead CI** (2024/01/01-2024/12/31)
   * Project title: MotionNetLite: Video Dynamics Distillation for Scalable Models
   * In this research project, we aim to develop more lightweight video data formats which are able to efficiently distill the motions at different granular levels by removing redundant information while focusing on the core dynamics. We also explore the acceleration of training and testing while reducing the amount of video data for storage, and answer a scientific question ‘How much information is contained in the video data and in what format?’. Many downstream video processing tasks will benefit from our video dynamic distillation process, towards making video understanding much easier and more efficient. This also opens up a new research direction in exploring better video data representations for more lightweight cutting-edge video models.
   * This work has potential to impact Safety and Security, Future Cities, IoT, Agri-business, Defence via applications in Health and wellbeing, Safety, and Innovative industries. Our work focuses on researching advanced technologies from data that support all areas of science and society to provide national benefit. Video understanding, e.g., action recognition and anomaly detection, is needed in surveillance of airports, malls, etc. It has applications in monitoring health and well-being of elderly population, in farming, and analysis of crops. This project has also potential to 'Shape Societal Transformations'. For instance, action recognition is a necessary component in recognition from wearable clothing, monitoring health and exercise regimes in the gym, recommendation systems via wearables, recognition of fake videos on social media, etc.
   * This project focuses on 'Analysing, Representing and Modelling data', as video processing models require spatio-temporal modeling of time series, video frames, sequences, etc. My proposal aims at overcoming  'Fundamental limits of data', e.g. by learning in-the-wild and reinforcement learning to explore natural sources of information (e.g. predicting future evolution of video frames learns intrinsic manifold of video/motion data). I hope to bring my ideas to the social media, wearable devices, and recommender systems thus shaping 'data-driven society'. 
 
-* The NCI National AI Flagship Merit Allocation Scheme
+* [8] The NCI National AI Flagship Merit Allocation Scheme
   * I am a **Lead Chief Investigator (Lead CI)** (2024/01/01-2024/06/30)
   * Project Title: Robust anomaly detection in human-centric videos
   * This project aims at developing advanced computer vision and deep learning techniques to identify and characterise anomalies in video data where humans are central. The project leverages cutting-edge technology to enhance security, safety, and surveillance systems, making them more effective in detecting unusual behaviours and events, which may range from security breaches and accidents to rare medical conditions in healthcare applications.
   * The significance of this project lies in its unique focus on human-centric videos. While anomaly detection in videos is an established field, the novelty emerges from its specialised applications in situations where human activity is central. The innovative aspects include (i) Robustness: The project seeks to develop highly reliable models capable of detecting anomalies in complex, real-world scenarios, where human interactions and activities can vary significantly. (ii) Real-time analysis: By applying these methods to real-time video streams, the project addresses the demand for timely responses to anomalies in security, industrial, and healthcare settings. (iii) Ethical considerations: The project incorporates ethical considerations, such as ensuring privacy and avoiding bias in the identification of anomalies, thereby making the technology responsible and trustworthy.
   * Beyond its academic contributions, this project has the potential to make significant contributions to the economy, society, environment, and culture.
 
-* Research grant: Review of Xailient’s technical pipeline of facial recognition
+* [7] Research grant: Review of Xailient’s technical pipeline of facial recognition
   * I am a **Co-Investigator (Co-I)** (**AU$50,815**, 2023/10/30‐2023/12/22)
   * Personnel: Assoc. Prof. Liang Zheng and I are the main personnel for this project. Prof. Stephen Gould, a world-level expert in optimization and computer vision will provide additional advice.
   * Scope: The ANU team will review Xailient’s technical pipeline of facial recognition. There are many components in this pipeline, such as face detection, alignment, facial recognition, and matching score determination, model/architecture selection, loss function, hyperparameters, training data cleaning, learning strategies, and speed/accuracy optimization.
@@ -309,21 +309,21 @@ In this research project, we aim to explore video data optimisation techniques t
   * The advice given by the ANU team will be based on technologies available in public domains that can benefit and improve Xailient products.
  
   
-* NCI Adapter Scheme Q4 2023 (HPC funding scheme)
+* [6] NCI Adapter Scheme Q4 2023 (HPC funding scheme)
   * I am a **Chief Investigator (CI)** / **Delegated lead CI** (2023/10/01‐2023/12/31) <!-- The Lead CI is Assoc. Prof. Liang Zheng, and another CI is [Dr. Yunzhong Hou](https://hou-yz.github.io/). -->
   * Project Title: Towards building general-purpose multimodal foundation models
   * Scope: Vision-language pre-training (VLP) has attracted rapidly growing attention in both computer vision and NLP communities due to the emergence of large-scale multimodal foundation models like Contrastive Language-Image Pre-training (CLIP). It is very encouraging to see that many Vision-Language (VL) systems have been deployed in industry. For example, iPhone can generate image captions read by VoiceOver for vision-impaired users. Although multimodal intelligence has been applied in many areas including image-text, core computer vision and video-text tasks, there are still many factors to be considered including robustness to new domains, fairness and responsible AI issues.
   * Aim: One common theme stands out is how to build a general-purpose multi-modal foundation model. We aim to build a foundation model that is stable and generalisable, and can be readily adopted to various downstream tasks, ranging from image-level vision tasks (e.g., image classification, retrieval, and captioning), region-level vision tasks (e.g., object detection and phrase grounding), to pixel-level vision tasks (e.g., segmentation and image generation). In order to build a
 general-purpose foundation model, we need a unified model architecture that can be readily scaled up; and when being pre-trained at scale, it can be readily adopted to various downstream computer vision and VL tasks. 
 
-* Grant / Project Award from Oracle for Research
+* [5] Grant / Project Award from Oracle for Research
   * **Oracle Cloud credits award** (**AU$48,000**, 2023/07/26‐2024/07/25) <!-- for 366 days -->
   * Research project: Automatic, large-scale screening of failure cases in autonomous driving
   <!-- * Computer perception techniques have been widely used in real-world applications such as autonomous vehicles. While the state-of-the-art methods achieve impressive system accuracy, their real-world robustness is often hindered by corner cases, e.g., a pedestrian partially occluded by an umbrella on a dark day.Instead of letting such cases happen during deployment, in this project, we aim to develop a protocol which can detect potential failure cases through screening millions of different test scenarios via simulation. The identified corner cases are then used to understand system vulnerability and improve accuracy and safety in the end. -->
   * Automotive AI is rapidly replacing human drivers by enabling autonomous vehicles that use sensors to gather data about their surroundings. State-of-the-art methods achieve impressive system accuracy; however, technology is not always perfect, and this imperfection might be magnified  when it comes to safety-critical applications like autonomous driving. Potential failure cases include severe occlusions, extreme weather, low lighting conditions, strange human appearances and poses, which will compromise system performance and even lead to undesirable consequences.
   * In this research project, we aim to build a scalable simulator and diffusion models to generate millions of different test scenarios from which we detect potential failure cases of existing pedestrian and vehicle detection systems. This is to understand the vulnerability of driverless systems, and finally to improve its accuracy and safety through another round of training with these corner cases. The test scenarios cover all possible potential failure cases by varying scene and/or street layout, weather and lighting conditions, human body sizes, visual appearances of human subjects, different levels of occlusions, different levels of sensor noise, etc. More complicated test scenarios are produced by a mixture of several aforementioned individual test scenarios. These different test scenarios are able to reflect the real and sometimes unpredictable driving scenarios on the road. After being identified by running our pedestrian and/or vehicle detectors, failure cases are then summarised and analysed, and the possible reasons why the model is vulnerable to them are identified. Similar failure environments are further explored to find more closely related failure cases. Finally, we fine-tune our pedestrian and vehicle detectors to improve their robustness against difficult test scenarios.
 
-* Research grant: Sharing early insights for more resilient communities
+* [4] Research grant: Sharing early insights for more resilient communities
   * I am a **Co-Investigator (Co-I)** (**AU$71,089**, 2023/04/19‐2023/10/31)
   * Research Assistant: [Saswat Panda](https://biology.anu.edu.au/people/professional-staff/saswat-panda) (ANU)
   * This project is a joint initiative with the Southern NSW Drought Resilience Adoption and Innovation Hub and forms part of the Australian Government’s Agricultural Innovation Hubs Program.
@@ -331,20 +331,20 @@ general-purpose foundation model, we need a unified model architecture that can 
   * The project is to develop and test ‘early warning’ indicators for loss of resilience following challenging climate-related events. These indicators will be used to develop a resource that can be used to by the wide range of organisations and services to identify communities in the early stages of resilience loss and provide targeted support to agricultural communities.
   * Through understanding early warning signs that individuals and communities are at risk of resilience loss, we could inform policy and support service interventions earlier. This would provide communities with the necessary support to mitigate wider and longer lasting resilience loss related to the impacts of a climate events, which in turn, would reduce the overall harm to lives and livelihoods and facilitate resilience building across physical, psychological, social, economic, domains.
  
-* Industry research sponsorship (Active Intelligence Corp.): Detecting anomalies in video footage (stage 3)
+* [3] Industry research sponsorship (Active Intelligence Corp.): Detecting anomalies in video footage (stage 3)
   * I am a **Principal Investigator** / **Project Lead** (**AU$40,013**, 2023/07/01‐2024/03/01)
   * Project: Human‐related anomaly detection in surveillance videos (stage 3)
   * The objective of Stage 3 is to further enhance the capabilities of human-related anomaly detection in surveillance videos, building upon the progress achieved in Stages 1 and 2.
   * This stage focuses on refining algorithms, improving system adaptability, and integrating advanced features for more robust anomaly detection and classification.
 
-* Industry research sponsorship (Active Intelligence Corp.): Detecting anomalies in video footage (stage 2)
+* [2] Industry research sponsorship (Active Intelligence Corp.): Detecting anomalies in video footage (stage 2)
   * I am a **Principal Investigator** / **Project Lead** (**AU$108,628**, 2022/07/01‐2023/06/30)
   * Project: Human‐related anomaly detection in surveillance videos (stage 2)
   * In the second stage of our project on human-related anomaly detection in surveillance videos, we aim to enhance the technology's capabilities. This involves refining normal behavior modeling for adaptability across diverse environments and incorporating feedback from the first stage. We will implement state-of-the-art anomaly detection algorithms, leveraging machine learning for continuous improvement and heightened sensitivity.
   * The project also includes the development of robust event classification mechanisms, real-time alert systems, and features for in-depth post-event analysis and reporting. Special attention will be given to tailoring the technology for specific scenarios, such as shoplifting detection in retail, identification of unauthorized personnel, and improved fall detection in elderly care facilities.
   * Additionally, we will explore the integration of sensor data, including audio and environmental inputs, to augment video-based anomaly detection and provide a more comprehensive understanding of complex situations. These enhancements aim to further advance the technology's applications in retail security, secure areas monitoring, elderly care facilities, and public safety in crowded places. Rigorous testing and validation will ensure the reliability and robustness of the system, reinforcing its role in enhancing security, safety, and situational awareness in modern surveillance systems.
  
-* Industry research sponsorship (Active Intelligence Corp.): Detecting anomalies in video footage
+* [1] Industry research sponsorship (Active Intelligence Corp.): Detecting anomalies in video footage
   * I am a **Principal Investigator** / **Project Lead** (**AU$135,706**, 2021/07/01‐2022/06/30)
   * Project: Human‐related anomaly detection in surveillance videos
   * Human-related anomaly detection in surveillance videos is a technology used to identify unusual or suspicious behavior involving people within a monitored environment. It is a subfield of video analytics and computer vision that aims to automatically detect deviations from normal human behavior in real-time or from recorded video footage. The primary goal of human-related anomaly detection is to enhance security, safety, and situational awareness in various applications, such as public safety, retail, transportation, and critical infrastructure protection.
