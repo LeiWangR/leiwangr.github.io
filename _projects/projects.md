@@ -90,7 +90,7 @@ TIME Lab 2024 medal criteria:
 
 <h2>Student Project</h2>
 
-<h3>Project 7: TIME Lab Summer Scholars at Griffith</h3>
+<h3>Project 7: TIME Lab Summer Scholars at Griffith<font color="red"> [Proposed for 2025]</font></h3>
 
 We are offering an on-site research opportunity during the summer break at TIME Lab, Griffith University.
 
