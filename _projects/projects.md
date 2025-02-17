@@ -95,7 +95,9 @@ TIME Lab 2024 medal criteria:
 We are offering an on-site research internship at TIME Lab, Griffith University.
 
 ✅ Four research projects available (one student per project)
+
 📍 Location: Griffith University (on-site)
+
 📅 Duration: Flexible, based on student ability and availability
 
 How to Apply:
