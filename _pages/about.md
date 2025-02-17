@@ -28,7 +28,7 @@ a:active {
 
 <!-- style="color: blue" -->
 
-<a href="https://leiwangr.github.io/files/lei-cv.pdf" style="color: blue">[Lei's CV]</a> <a href="https://researchportalplus.anu.edu.au/en/persons/lei-wang" style="color: blue"> [ANU Researcher]</a> 
+<a href="https://leiwangr.github.io/files/lei-cv.pdf" style="color: blue">[Lei's CV]</a> <a href="https://experts.griffith.edu.au/50888-lei-wang" style="color: blue"> [Griffith Researcher]</a> <a href="https://researchportalplus.anu.edu.au/en/persons/lei-wang" style="color: blue"> [ANU Researcher]</a> 
 
 <!-- <a href="https://people.csiro.au/W/L/lei-wang" style="color: blue">[D61/CSIRO Profile]</a>  -->
 
