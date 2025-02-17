@@ -90,15 +90,15 @@ TIME Lab 2024 medal criteria:
 
 <h2>Student Project</h2>
 
-<h3>Project 7: TIME Lab Summer Scholars at Griffith<font color="red"> [Proposed for 2025]</font></h3>
+<h3>Project 7: TIME Lab Student Researchers at Griffith<font color="red"> [Proposed for 2025]</font></h3>
 
-We are offering an on-site research opportunity during the summer break at TIME Lab, Griffith University.
+We are offering an on-site research opportunity at TIME Lab, Griffith University.
 
 ✅ Four research projects available
 
 📍 Location: Griffith University (on-site)
 
-📅 Duration: Summer break
+📅 Duration: Flexible, based on student ability and availability
 
 How to Apply:
 Interested students should email their CV and academic transcript to l.wang4@griffith.edu.au
