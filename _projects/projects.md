@@ -103,6 +103,7 @@ We are offering an on-site research opportunity during the summer break at TIME 
 How to Apply:
 Interested students should email their CV and academic transcript to l.wang4@griffith.edu.au
 
+For more information, feel free to reach out.
 
 
 <h3>Project 6: ANU Bachelor & Honours Research Project <font color="red">[Completing]</font></h3>
