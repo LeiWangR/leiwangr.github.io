@@ -38,7 +38,7 @@ My contact information is below.
   </tr>
   <tr>
     <th style="width:1px; white-space:nowrap; border: none;">Office hours</th>
-    <td style="white-space:nowrap; border: none;"> 9:00am-5:00pm (AEST) or <br> 10:00am-6:00pm (AEDT) <br> From Monday to Friday <br> <font color="blue">(subject to change)</font> </td>
+    <td style="white-space:nowrap; border: none;"> 10:00am-6:00pm (AEST) <br> From Monday to Friday <br> <font color="blue"></font> </td>
   </tr>
 </table>
 </div>
