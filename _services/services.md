@@ -92,6 +92,12 @@ I also serve as a **thesis examiner** for master's and honors theses at the ANU 
     <th>Date</th>
   </tr>
   <tr>
+    <td>Enhancing Video Understanding with New Representation & Fusion <a href="../files/Griffith_lei_video.pdf">[slides]</a></td>
+    <td><a href="https://experts.griffith.edu.au/7205-jun-zhou">Prof. Jun Zhou</a>, <br> School of Information and Communication Technology, <br> Griffith University (Nathan Campus), <br> Brisbane, Australia</td>
+    <td>Hyperspectral Video Tracking Research Group</td>
+    <td>25 Feb 2025</td>
+  </tr>
+  <tr>
     <td>Action Recognition: Past, Present and Future <a href="../files/AR_PPF_Lei.pdf">[slides]</a></td>
     <td><a href="https://dl2link.com">Prof. Haijun Zhang</a>, <br> Department of Computer Science, <br> Harbin Institute of Technology, <br> Shenzhen, China</td>
     <td>"The next generation of international Chinese young students face to face" Issue 21 <br> International Cooperation and Exchange Program Series Activities of Harbin Institute of Technology (Shenzhen) </td>
