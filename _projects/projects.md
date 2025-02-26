@@ -101,7 +101,7 @@ We are offering an on-site research internship at TIME Lab, Griffith University.
 📅 Duration: Flexible, based on student ability and availability
 
 How to Apply:
-Interested students should email their CV and academic transcript to me (contact details available on my website).
+Interested students should submit their CV and academic transcript to TIME Lab via email at [time.lab@griffith.edu.au](mailto:time.lab@griffith.edu.au).
 
 For more information, feel free to reach out.
 
