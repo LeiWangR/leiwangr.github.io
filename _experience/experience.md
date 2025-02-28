@@ -38,6 +38,9 @@ I am also working to bridge the gap between academic research and industry resea
 * *17/02/2025-<font color="blue">present</font>*: **Research Fellow** (Grade 2)
   * ARC Industrial Transformation Research Hub (School of Engineering and Built Environment—Electrical and Electronic Engineering at Griffith University)
   * Postdoc advisor: [Prof. Yongsheng Gao](https://experts.griffith.edu.au/19112-yongsheng-gao) (Griffith University)
+ 
+* *03/03/2025-<font color="blue">present</font>*: **Visiting Scientist**
+  * Machine Learning Research Group (MLRG), Data61/CSIRO (Black Mountain ACT)
 
 * *20/02/2023-19/02/2025*: **Research Fellow** (Level B)
   * School of Computing, ANU College of Engineering, Computing and Cybernetics
