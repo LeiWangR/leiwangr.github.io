@@ -122,7 +122,7 @@ If you are an ANU master's student seeking individual projects, I require candid
   * [Xiuyuan Yuan](https://jackyuanx.github.io/) (1 x <font color="red"><strong>ICML'24</strong></font>, [Poster](https://leiwangr.github.io/files/icml24-poster.pdf)), *Honours Student* (Summer Research Internship), 2023/11/20 – 2024/02/02
 
 
-<h3>Project 5: ANU TechLauncher - TIME Lab’s TIME Space <font color="red">[Proposed for 2025 S1 & S2]</font></h3>
+<h3>Project 5: ANU TechLauncher - TIME Lab’s TIME Space <font color="red">[Approved]</font></h3>
 
 [TIME Lab](https://time.anu.edu.au/) is a dynamic team of honours and master's students working on final-year research projects under the supervision of Lei Wang. Over the past year, the team has made significant strides, not only in research but also in achieving a healthy work-life balance. To celebrate this progress, TIME Lab aims to design a website, TIME Space, to showcase the memorable moments of the past year. TIME Space will be a fully interactive platform where photos loop endlessly, following the dynamic motion of the TIME Lab logo. Users will be able to engage with the space by selecting specific time frames, locations, or individuals involved in the memories, creating a personalized experience that brings the past year to life.
 
