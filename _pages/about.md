@@ -28,9 +28,7 @@ a:active {
 
 <!-- style="color: blue" -->
 
-<a href="https://leiwangr.github.io/files/lei-cv.pdf" style="color: blue">[Lei's CV]</a> <a href="https://experts.griffith.edu.au/50888-lei-wang" style="color: blue"> [Griffith Researcher]</a>
-
-<!-- <a href="https://people.csiro.au/W/L/lei-wang" style="color: blue">[D61/CSIRO Profile]</a>  -->
+<a href="https://leiwangr.github.io/files/lei-cv.pdf" style="color: blue">[Lei's CV]</a> <a href="https://experts.griffith.edu.au/50888-lei-wang" style="color: blue"> [Griffith Researcher]</a> <a href="https://people.csiro.au/W/L/lei-wang" style="color: blue">[D61/CSIRO Researcher]</a>
 
 Lei Wang is an [ARC Hub](https://science.desi.qld.gov.au/research/capability-directory/research-hub-driving-farming-productivity-disease-prevention) Research Fellow (Grade 2) in the School of Engineering and Built Environment — Electrical and Electronic Engineering at Griffith University, working under the guidance of [Prof. Yongsheng Gao](https://experts.griffith.edu.au/19112-yongsheng-gao) (Griffith University). He is also a Visiting Scientist at Data61/CSIRO. He originally founded the Temporal Intelligence and Motion Extraction ([TIME](https://time.anu.edu.au/)) Lab at ANU, leading a dynamic team of master’s and honours students in machine learning and computer vision research. The lab has since transitioned to the [ARC Research Hub](https://www.griffith.edu.au/griffith-sciences/farming-productivity) at Griffith University, where it is now an integral part of the Hub and the broader Griffith research community.
 
