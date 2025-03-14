@@ -90,7 +90,26 @@ TIME Lab 2024 medal criteria:
 
 <h2>Student Project</h2>
 
-<h3>Project 7: TIME Lab Research Internship at Griffith<font color="red"> [Proposed for 2025]</font></h3>
+<h3>Project 8: ARC Research Hub Visiting Scholar (TIME@ARC Hub & Griffith)<font color="red"> [Proposed]</font></h3>
+
+We are offering an on-site research internship at TIME Lab, Griffith University.
+
+Research Areas:
+
+✅ Project 1: Computer vision and machine learning for object detection and recognition in cluttered environments
+
+✅ Project 2: Big data analytics techniques for video processing and time series analysis
+
+📍 Location: ARC Research Hub for Driving Farming Productivity and Disease Prevention (on-site)
+
+📅 Duration: 4 to 52 weeks
+
+How to Apply:
+Interested students should submit their CV and academic transcript via email to TIME Lab at [time.lab@griffith.edu.au](mailto:time.lab@griffith.edu.au).
+
+For more details, feel free to reach out.
+
+<h3>Project 7: TIME Lab Research Internship at Griffith<font color="red"> [Ongoing]</font></h3>
 
 We are offering an on-site research internship at TIME Lab, Griffith University.
 
@@ -122,7 +141,7 @@ If you are an ANU master's student seeking individual projects, I require candid
   * [Xiuyuan Yuan](https://jackyuanx.github.io/) (1 x <font color="red"><strong>ICML'24</strong></font>, [Poster](https://leiwangr.github.io/files/icml24-poster.pdf)), *Honours Student* (Summer Research Internship), 2023/11/20 – 2024/02/02
 
 
-<h3>Project 5: ANU TechLauncher - TIME Lab’s TIME Space <font color="red">[Approved]</font></h3>
+<h3>Project 5: ANU TechLauncher - TIME Lab’s TIME Space <font color="red">[Ongoing]</font></h3>
 
 [TIME Lab](https://time.anu.edu.au/) is a dynamic team of honours and master's students working on final-year research projects under the supervision of Lei Wang. Over the past year, the team has made significant strides, not only in research but also in achieving a healthy work-life balance. To celebrate this progress, TIME Lab aims to design a website, TIME Space, to showcase the memorable moments of the past year. TIME Space will be a fully interactive platform where photos loop endlessly, following the dynamic motion of the TIME Lab logo. Users will be able to engage with the space by selecting specific time frames, locations, or individuals involved in the memories, creating a personalized experience that brings the past year to life.
 
