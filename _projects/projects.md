@@ -92,8 +92,6 @@ TIME Lab 2024 medal criteria:
 
 <h3>Project 8: ARC Research Hub Visiting Scholar (TIME@ARC Hub & Griffith)<font color="red"> [Proposed]</font></h3>
 
-We are offering an on-site research internship at TIME Lab, Griffith University.
-
 Research Areas:
 
 ✅ Project 1: Computer vision and machine learning for object detection and recognition in cluttered environments
@@ -113,17 +111,14 @@ For more details, feel free to reach out.
 
 We are offering an on-site research internship at TIME Lab, Griffith University.
 
-✅ Four research projects available (one student per project)
-
 📍 Location: Griffith University (on-site)
 
-📅 Duration: Flexible, based on student ability and availability
+📅 Duration: 26 to 52 weeks
 
 How to Apply:
 Interested students should submit their CV and academic transcript to TIME Lab via email at [time.lab@griffith.edu.au](mailto:time.lab@griffith.edu.au).
 
 For more information, feel free to reach out.
-
 
 <h3>Project 6: ANU Bachelor & Honours Research Project <font color="red">[Completing]</font></h3>
 
