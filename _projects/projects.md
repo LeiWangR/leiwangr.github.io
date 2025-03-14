@@ -92,11 +92,17 @@ TIME Lab 2024 medal criteria:
 
 <h3>Project 8: ARC Research Hub Visiting Scholar (TIME@ARC Hub & Griffith)<font color="red"> [Proposed]</font></h3>
 
+Nature of the Research:
+
+Participants can choose whether their research involvement falls under:
+
+- A genuine unpaid arrangement primarily for learning and academic development.
+- A productive work arrangement that benefits the university, which may require compliance with Fair Work entitlements.
+
 Research Areas:
 
-✅ Project 1: Computer vision and machine learning for object detection and recognition in cluttered environments
-
-✅ Project 2: Big data analytics techniques for video processing and time series analysis
+- Project 1: Computer vision and machine learning for object detection and recognition in cluttered environments
+- Project 2: Big data analytics techniques for video processing and time series analysis
 
 📍 Location: ARC Research Hub for Driving Farming Productivity and Disease Prevention (on-site)
 
