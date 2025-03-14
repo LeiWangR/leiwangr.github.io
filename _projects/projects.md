@@ -92,21 +92,20 @@ TIME Lab 2024 medal criteria:
 
 <h3>Project 8: ARC Research Hub Visiting Scholar (TIME@ARC Hub & Griffith)<font color="red"> [Proposed]</font></h3>
 
-Nature of the Research:
+TIME Lab at Griffith University invites applications for an on-site research experience.
 
-Participants can choose whether their research involvement falls under:
+✅ Project 1: Computer vision and machine learning for object detection and recognition in cluttered environments
 
-- A genuine unpaid arrangement primarily for learning and academic development.
-- A productive work arrangement that benefits the university, which may require compliance with Fair Work entitlements.
-
-Research Areas:
-
-- Project 1: Computer vision and machine learning for object detection and recognition in cluttered environments
-- Project 2: Big data analytics techniques for video processing and time series analysis
+✅ Project 2: Big data analytics techniques for video processing and time series analysis
 
 📍 Location: ARC Research Hub for Driving Farming Productivity and Disease Prevention (on-site)
 
 📅 Duration: 4 to 52 weeks
+
+Participants should determine whether their research involvement falls under:
+
+- A learning-focused experience, undertaken primarily for skill development and academic enrichment, which is typically unpaid.
+- A contributory research role, where the work provides direct benefits to the university and may require compliance with Fair Work regulations.
 
 How to Apply:
 Interested students should submit their CV and academic transcript via email to TIME Lab at [time.lab@griffith.edu.au](mailto:time.lab@griffith.edu.au).
