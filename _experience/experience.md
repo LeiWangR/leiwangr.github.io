@@ -38,6 +38,7 @@ I am also working to bridge the gap between academic research and industry resea
 * *17/02/2025-<font color="blue">present</font>*: **Research Fellow** (Grade 2)
   * ARC Industrial Transformation Research Hub (School of Engineering and Built Environment—Electrical and Electronic Engineering at Griffith University)
   * Postdoc advisor: [Prof. Yongsheng Gao](https://experts.griffith.edu.au/19112-yongsheng-gao) (Griffith University) and [Prof. Piotr Koniusz](https://www.koniusz.com) (Data61/CSIRO & ANU & UNSW)
+  * <font color="red">I am serving as an <strong>Area Chair</strong> for ACM Multimedia 2025</font>
  
 * *05/03/2025-<font color="blue">present</font>*: **Visiting Scientist**
   * Machine Learning Research Group (MLRG), Data61/CSIRO (Black Mountain ACT)
