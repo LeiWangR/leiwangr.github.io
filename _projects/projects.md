@@ -90,7 +90,7 @@ TIME Lab 2024 medal criteria:
 
 <h2>Student Project</h2>
 
-<h3>Project 8: ARC Research Hub Visiting Scholar (TIME@ARC Hub & Griffith)<font color="red"> [Proposed]</font></h3>
+<h3>Project 8: ARC Research Hub Visiting Scholar (TIME@ARC Hub & Griffith)<font color="red"> [Ongoing]</font></h3>
 
 TIME Lab at Griffith University invites applications for an on-site research experience.
 
