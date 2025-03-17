@@ -112,6 +112,10 @@ Interested students should submit their CV and academic transcript via email to 
 
 For more details, feel free to reach out.
 
+- <font color="blue"> Invited research student:</font>
+  -  [Mr. Xi Ding](https://arjunraj.com/) <font color="blue"> (Master of Computing, ANU)</font>
+
+
 <h3>Project 7: TIME Lab Research Internship at Griffith<font color="red"> [Ongoing]</font></h3>
 
 We are offering an on-site research internship at TIME Lab, Griffith University.
