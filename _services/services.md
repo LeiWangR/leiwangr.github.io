@@ -74,7 +74,7 @@ I regularly review technical papers for the following journals, conferences & wo
   * IEEE Conference on Artificial Intelligence (IEEE CAI 2023)
 
 * **Workshops**:
-  * 3rd Computer Vision for Metaverse Workshop (CV4Metaverse at ECCV 2024),
+  * Computer Vision for Metaverse Workshop (CV4Metaverse at ECCV 2024, CVPR 2025), 
   * Deep Vision Workshop (CVPR 2020), 
   * Vision Datasets Understanding (1st VDU at CVPR 2022, 2nd VDU at CVPR 2023, 3rd VDU at CVPR 2024),
   * The AI City Challenge Workshop at CVPR 2023, CVPR 2024
