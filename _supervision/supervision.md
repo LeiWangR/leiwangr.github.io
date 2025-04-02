@@ -23,7 +23,7 @@ a:active {
 }
 </style>
 
-Please visit my [TIME Lab team page](https://time.anu.edu.au/team/) for more details.
+Please visit my [TIME Lab team page](https://time.griffith.edu.au/team/) for more details.
 
 <h2>Mentoring</h2>
 
