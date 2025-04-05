@@ -29,27 +29,27 @@ Please visit my [TIME Lab team page](https://time.griffith.edu.au/team/) for mor
 
 * I am the **primary supervisor** for two ANU master’s students for their final year research projects (24-unit):
 
-  * [Gennie Nguyen](https://www.gennienguyen.com/), Thesis title: Detecting Fake News Belief via Skin and Blood Flow Signals (co-supervised with [Prof. Tom Gedeon](https://staffportal.curtin.edu.au/staff/profile/view/tom-gedeon-5e48a1fd/) from Curtin University), *Master of Computing (Advanced)*, 2024/07/22 – <font color="blue">present</font> 
-  * Yifan Chen, Thesis title: Understanding the behaviors of modern video models through signal perception, *Master of Machine Learning and Computer Vision*, 2024/07/22 – <font color="blue">present</font>
+  * [Gennie Nguyen](https://www.gennienguyen.com/), Thesis title: *Detecting Fake News Belief via Skin and Blood Flow Signals* (co-supervised with [Prof. Tom Gedeon](https://staffportal.curtin.edu.au/staff/profile/view/tom-gedeon-5e48a1fd/) from Curtin University), *Master of Computing (Advanced)*, 2024/07/22 – <font color="blue">present</font> 
+  * Yifan Chen, Thesis title: *Understanding the behaviors of modern video models through signal perception*, *Master of Machine Learning and Computer Vision*, 2024/07/22 – <font color="blue">present</font>
 
 * I also serve as the **primary supervisor** for the following honours student on a 1-year, 12-unit research project:
 
-  * [Arjun Raj](https://arjunraj.com/) (1 x <font color="red"><strong>ICASSP'25</strong></font>), Thesis title: Tracking high-speed and tiny objects in sports, *Bachelor of Advanced Computing (R&D) (Honours)*, 2024/07/22 – <font color="blue">present</font> 
+  * [Arjun Raj](https://arjunraj.com/) (1 x <font color="red"><strong>ICASSP'25</strong></font>), Thesis title: *Tracking high-speed and tiny objects in sports*, *Bachelor of Advanced Computing (R&D) (Honours)*, 2024/07/22 – <font color="blue">present</font> 
 
 * I am an **associate supervisor** for three ANU master’s students (2024/07/22 – <font color="blue">present</font>): Junliang Ye, Haodong Yang, and Meitong Liu, working on multi-modal learning and video language models.
 
 * Research Assistant:
 
-  * [Xi Ding](https://darcyddx.github.io) (2 x <font color="red">WWW Companion '25</font>, 1 x <strong>arXiv preprint</strong>), Project title: Do Language Models Understand Time?, *Master's Student*, 2024/11/13 – <font color="blue">present</font>
+  * [Xi Ding](https://darcyddx.github.io) (2 x <font color="red">WWW Companion '25</font>, 1 x <strong>arXiv preprint</strong>), Project title: *Do Language Models Understand Time?*, *Master's Student*, 2024/11/13 – <font color="blue">present</font>
 
 * Former master's, honours, and internship students (**primary supervision**):
-  * Dexuan Ding (1 x <font color="red"><strong>ICLR'25</strong></font>), Thesis title: LEGO Fusion: Robust Video Anomaly Detection, *Bachelor of Advanced Computing (Honours)*, 2024/02/19 – 2024/10/25 
-  * [Qixiang Chen](https://q1xiangchen.github.io/) (1 x <font color="red"><strong>ACML'24</strong></font> <font color="red">oral</font>), Thesis title: A Closer Look at Motions, *Bachelor of Advanced Computing (Honours)*, 2024/02/19 – 2024/10/25 
-  * Huilin Chen (1 x <strong>arXiv preprint</strong>), Thesis title: When Spatial meets Temporal in Action Recognition, *Bachelor of Advanced Computing (Honours)*, 2024/02/19 – 2024/10/25 
-  * [Liyun Zhu](https://tom-roujiang.github.io/liyun_zhu/) (1 x <font color="red"><strong>NeurIPS'24</strong></font>), Thesis title: Advancing Video Anomaly Detection, *Master of Machine Learning and Computer Vision*, 2024/02/19 – 2024/10/25 
-  * Jushang Qiu (1 x <font color="red">WWW Companion '25</font>), Thesis title: A Practical Guide to Skeletons and Taylor-transformed Skeletons in Action Recognition, *Master of Machine Learning and Computer Vision*, 2024/02/19 - 2024/10/25 
-  * Liwen Luo, Thesis title: Human Motion Prediction via Spatio-temporal Correspondence Learning, *Master of Machine Learning and Computer Vision*, 2024/02/19 – 2024/10/25
-  * [Xiuyuan Yuan](https://jackyuanx.github.io/) (1 x <font color="red"><strong>ICML'24</strong></font>), Project title: Video dynamics distillation, Summer Research Internship (ANU Summer Research Scholars Program), *Bachelor of Advanced Computing (Honours)*, 2023/11/20 – 2024/02/02
+  * Dexuan Ding (1 x <font color="red"><strong>ICLR'25</strong></font>), Thesis title: *LEGO Fusion: Robust Video Anomaly Detection*, *Bachelor of Advanced Computing (Honours)*, 2024/02/19 – 2024/10/25 
+  * [Qixiang Chen](https://q1xiangchen.github.io/) (1 x <font color="red"><strong>ACML'24</strong></font> <font color="red">oral</font>), Thesis title: *A Closer Look at Motions*, *Bachelor of Advanced Computing (Honours)*, 2024/02/19 – 2024/10/25 
+  * Huilin Chen (1 x <strong>arXiv preprint</strong>), Thesis title: *When Spatial meets Temporal in Action Recognition*, *Bachelor of Advanced Computing (Honours)*, 2024/02/19 – 2024/10/25 
+  * [Liyun Zhu](https://tom-roujiang.github.io/liyun_zhu/) (1 x <font color="red"><strong>NeurIPS'24</strong></font>), Thesis title: *Advancing Video Anomaly Detection*, *Master of Machine Learning and Computer Vision*, 2024/02/19 – 2024/10/25 
+  * Jushang Qiu (1 x <font color="red">WWW Companion '25</font>), Thesis title: *A Practical Guide to Skeletons and Taylor-transformed Skeletons in Action Recognition*, *Master of Machine Learning and Computer Vision*, 2024/02/19 - 2024/10/25 
+  * Liwen Luo, Thesis title: *Human Motion Prediction via Spatio-temporal Correspondence Learning*, *Master of Machine Learning and Computer Vision*, 2024/02/19 – 2024/10/25
+  * [Xiuyuan Yuan](https://jackyuanx.github.io/) (1 x <font color="red"><strong>ICML'24</strong></font>), Project title: *Video dynamics distillation*, Summer Research Internship (ANU Summer Research Scholars Program), *Bachelor of Advanced Computing (Honours)*, 2023/11/20 – 2024/02/02
 
 <h2>Teaching</h2>
 
