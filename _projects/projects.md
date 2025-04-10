@@ -113,6 +113,7 @@ Interested students should submit their CV and academic transcript via email to 
 For more details, feel free to reach out.
 
 - <font color="blue"> Invited research student:</font>
+  - [Mr. Zixuan Liu](https://www.linkedin.com/in/zixuanliu787/) <font color="blue"> (Bachelor of Information Technology, Queensland University of Technology)</font>
   - [Mr. Xi Ding](https://darcyddx.github.io) <font color="blue"> (Master of Computing, ANU)</font>
   - [Mr. Arjun Raj](https://arjunraj.com/) <font color="blue"> (Bachelor of Advanced Computing (R&D) (Honours), ANU)</font>
 
