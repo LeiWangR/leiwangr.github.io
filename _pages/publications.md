@@ -107,7 +107,7 @@ $^\dagger$: Corresponding author.
 				<div class="gs_gray">L Zhu, <strong>L Wang</strong>$^\dagger$, A Raj, T Gedeon, C Chen</div>
 				<div class="gs_gray">NeurIPS 2024 Datasets and Benchmarks Track (<strong>NeurIPS</strong> D&B Track)</div>
 			</td>
-			<td class="gsc_a_c">[<font color="red"><strong>A*</strong></font>]<br><a href="https://github.com/Tom-roujiang/MSAD" style="color:#000000;">Code</a>, <a href="https://time.griffith.edu.au/paper-sites/msad/" style="color:#000000;">Project website</a>, <a href="https://leiwangr.github.io/files/97585.png" style="color:#000000;">Poster</a></td>
+			<td class="gsc_a_c">[<font color="red"><strong>A*</strong></font>]<br><a href="https://github.com/Tom-roujiang/MSAD" style="color:#000000;">Code</a>, <a href="https://time.griffith.edu.au/paper-sites/msad/" style="color:#000000;">Project website</a>, <a href="https://leiwangr.github.io/files/97585.png" style="color:#000000;">Poster</a><br><font color="red">Please note that this dataset request form was completed by Liyun Zhu. Any issues arising from data leakage, ethical concerns, NeurIPS paper retraction, or thesis retraction are solely the responsibility of Liyun Zhu. Lei Wang and Arjun Raj are not involved and bear no responsibility for any such matters.</font></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
 		</tr>
 		<tr class="gsc_a_tr" style="background-color:#FFFFE0">
