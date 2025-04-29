@@ -218,7 +218,7 @@ $^\dagger$: Corresponding author.
 				<div class="gs_gray">X Ding, <strong>L Wang</strong>$^\dagger$</div>
 				<div class="gs_gray">Companion Proceedings of the ACM Web Conference 2025 (WWW Companion '25)</div>
 			</td>
-			<td class="gsc_a_c"><font color="red">Oral</font><br> <a href="https://github.com/Darcyddx/Video-Action-Recognition" style="color:#000000;">Code</a></td>
+			<td class="gsc_a_c"><font color="red">Oral</font><br> <a href="https://github.com/Darcyddx/Video-Action-Recognition" style="color:#000000;">Code</a><br><strong>Best Paper Award</strong></font>]<br><a href="https://leiwangr.github.io/files/Transformative Insight Award.pdf" style="color:#000000;">Award certificate</a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
 		</tr>
 		<tr class="gsc_a_tr">
