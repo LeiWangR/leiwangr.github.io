@@ -300,7 +300,7 @@ $^\dagger$: Corresponding author.
  
 <!-- <p>&nbsp;</p> -->
 <h2>arXiv preprints</h2>
-Below is a list of the <strong>currently available</strong> arXiv preprints.
+Below is a list of the <em>currently available</em> arXiv preprints.
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr">
