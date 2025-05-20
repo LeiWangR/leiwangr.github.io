@@ -27,6 +27,12 @@ Please visit my [TIME Lab team page](https://time.griffith.edu.au/team/) for mor
 
 <h2>Mentoring</h2>
 
+* Incoming Research Intern:
+  * Mr Wenxiang Diao, Project title: *TBD*
+
+* Research Assistant:
+  * [Xi Ding](https://darcyddx.github.io) (2 x <font color="red">WWW Companion '25</font>, 1 x <strong>arXiv preprint</strong>), Project title: *Do Language Models Understand Time?*, *Master's Student*, 2024/11/13 – <font color="blue">present</font>
+
 * I am the **primary supervisor** for two ANU master’s students for their final year research projects (24-unit):
 
   * [Gennie Nguyen](https://www.gennienguyen.com/), Thesis title: *Detecting Fake News Belief via Skin and Blood Flow Signals* (co-supervised with [Prof. Tom Gedeon](https://staffportal.curtin.edu.au/staff/profile/view/tom-gedeon-5e48a1fd/) from Curtin University), *Master of Computing (Advanced)*, 2024/07/22 – <font color="blue">present</font> 
@@ -40,10 +46,6 @@ Please visit my [TIME Lab team page](https://time.griffith.edu.au/team/) for mor
   * Junliang Ye (1 x <strong>arXiv preprint</strong>), Thesis title: *TBD*, *Master of Computing (Advanced)*, 2024/07/22 – <font color="blue">present</font>
   * Haodong Yang (1 x <strong>arXiv preprint</strong>), Thesis title: *TBD*, *Master of Machine Learning and Computer Vision*, 2024/07/22 – <font color="blue">present</font> 
   * Meitong Liu, Thesis title: *TBD*, *Master of Computing (Advanced)*, 2024/07/22 – <font color="blue">present</font> 
-
-* Research Assistant:
-
-  * [Xi Ding](https://darcyddx.github.io) (2 x <font color="red">WWW Companion '25</font>, 1 x <strong>arXiv preprint</strong>), Project title: *Do Language Models Understand Time?*, *Master's Student*, 2024/11/13 – <font color="blue">present</font>
 
 * Former master's, honours, and internship students (**primary supervision**):
   * Dexuan Ding (1 x <font color="red"><strong>ICLR'25</strong></font>), Thesis title: *LEGO Fusion: Robust Video Anomaly Detection*, *Bachelor of Advanced Computing (Honours)*, 2024/02/19 – 2024/10/25 
