@@ -131,7 +131,7 @@ Interested students should submit their CV and academic transcript to TIME Lab v
 For more information, feel free to reach out.
 
 - <font color="blue"> Research Intern (TIME@ARC Hub & Griffith):</font>
-  - Wenxiang Diao <font color="blue"> (Master of Information Technology, UNSW Sydney)</font>
+  - Mr Wenxiang Diao <font color="blue"> (Master of Information Technology, UNSW Sydney)</font>
 
 <h3>Project 6: ANU Bachelor & Honours Research Project <font color="red">[Completing]</font></h3>
 
