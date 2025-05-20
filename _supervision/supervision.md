@@ -36,7 +36,7 @@ Please visit my [TIME Lab team page](https://time.griffith.edu.au/team/) for mor
 
   * [Arjun Raj](https://arjunraj.com/) (1 x <font color="red"><strong>ICASSP'25</strong></font>), Thesis title: *Tracking high-speed and tiny objects in sports*, *Bachelor of Advanced Computing (R&D) (Honours)*, 2024/07/22 – <font color="blue">present</font> 
 
-* I am an **associate supervisor** for three ANU master’s students (2024/07/22 – <font color="blue">present</font>): Junliang Ye, Haodong Yang, and Meitong Liu, working on multi-modal learning and video language models.
+* I am an **associate supervisor** for three ANU master’s students (2024/07/22 – <font color="blue">present</font>): Junliang Ye (1 x <strong>arXiv preprint</strong>), Haodong Yang (1 x <strong>arXiv preprint</strong>), and Meitong Liu, working on multi-modal learning and video language models.
 
 * Research Assistant:
 
