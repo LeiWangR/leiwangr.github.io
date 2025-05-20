@@ -130,6 +130,9 @@ Interested students should submit their CV and academic transcript to TIME Lab v
 
 For more information, feel free to reach out.
 
+- <font color="blue"> Research Intern:</font>
+  - Wenxiang Diao <font color="blue"> (Master of Information Technology, UNSW Sydney)</font>
+
 <h3>Project 6: ANU Bachelor & Honours Research Project <font color="red">[Completing]</font></h3>
 
 I am a [registered ANU Higher Degree Research (HDR) supervisor](https://services.anu.edu.au/research-support/hdr-supervision-development/hdr-supervision-registration-and-renewal/hdr-1) (registration is valid until 31 December 2025).
