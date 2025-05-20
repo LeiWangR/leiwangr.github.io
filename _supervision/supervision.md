@@ -37,9 +37,9 @@ Please visit my [TIME Lab team page](https://time.griffith.edu.au/team/) for mor
   * [Arjun Raj](https://arjunraj.com/) (1 x <font color="red"><strong>ICASSP'25</strong></font>), Thesis title: *Tracking high-speed and tiny objects in sports*, *Bachelor of Advanced Computing (R&D) (Honours)*, 2024/07/22 – <font color="blue">present</font> 
 
 * I am an **associate supervisor** for three ANU master’s students:
-  * Junliang Ye (1 x <strong>arXiv preprint</strong>), Thesis title: *TBD*, *TBD*, 2024/07/22 – <font color="blue">present</font>
-  * Haodong Yang (1 x <strong>arXiv preprint</strong>), Thesis title: *TBD*, *TBD*, 2024/07/22 – <font color="blue">present</font> 
-  * Meitong Liu, Thesis title: *TBD*, *TBD*, 2024/07/22 – <font color="blue">present</font> 
+  * Junliang Ye (1 x <strong>arXiv preprint</strong>), Thesis title: *TBD*, *Master of Computing (Advanced)*, 2024/07/22 – <font color="blue">present</font>
+  * Haodong Yang (1 x <strong>arXiv preprint</strong>), Thesis title: *TBD*, *Master of Machine Learning and Computer Vision*, 2024/07/22 – <font color="blue">present</font> 
+  * Meitong Liu, Thesis title: *TBD*, *Master of Computing (Advanced)*, 2024/07/22 – <font color="blue">present</font> 
 
 * Research Assistant:
 
