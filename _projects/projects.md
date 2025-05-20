@@ -96,6 +96,13 @@ How to Apply:
 - Applications will be reviewed on a rolling basis. Early enquiries are encouraged.
 - For further details or to schedule an informal discussion, please don’t hesitate to get in touch.
 
+Application Review Process:
+
+- All applications will be assessed by a selection committee based on academic qualifications, research experience, and the quality of the submitted documents.
+- Shortlisted candidates may be invited for an interview or a further discussion to evaluate their fit for the project.
+- Successful applicants will be notified via email with details about the next steps.
+- The review process aims to be thorough and fair, with decisions typically communicated within 4–6 weeks after the application deadline.
+
 <h3>Project 8: ARC Research Hub Visiting Scholar (TIME@ARC Hub & Griffith)<font color="red"> [Ongoing]</font></h3>
 
 TIME Lab at Griffith University invites applications for an on-site research experience.
