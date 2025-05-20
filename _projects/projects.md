@@ -51,15 +51,6 @@ a:active {
 <!-- <p>&nbsp;</p> -->
 <!-- <h2>Research project</h2> -->
 
-<!-- I am working on the following projects: -->
-
-<!-- * Automatic Training Data Search and Model Evaluation by Measuring Domain Gap -->
-
-<!-- * Human action recognition in videos -->
-
-<!-- * Industrial research project -->
-<!--   * Human-related anomaly detection in surveillance videos -->
-<!--   * Research student: [Supasun Khumpraphan](https://micsupasun.github.io/) -->
 
 <!-- I always look for motivated and hardworking students who are interested in doing research with me. However, applicants must possess good mathematical and computational skills, preferably with prior experience in machine learning and/or computer vision. Strong programming skills in Python, Matlab, and/or TensorFlow are essential, and hands-on deep learning expertise is important as well. Additionally, integrity, honesty, the ability to work under pressure, and the capacity to explore while adhering to strict directions are all essential qualities. -->
 
@@ -89,6 +80,21 @@ TIME Lab 2024 medal criteria:
 
 
 <h2>Student Project</h2>
+
+<h3>Project 9: PhD + MPhil 2026 Cohort</h3>
+
+Two fully funded PhD projects and one MPhil project will be available starting February 2026.
+
+How to Enquire:
+
+- To express your interest or request more information, please email ARC Hub Director Professor Yongsheng Gao and me.
+- Interested candidates are encouraged to email a CV and a brief statement of research interests.
+
+How to Apply:
+
+- Please submit your academic transcripts, CV, and a cover letter outlining your motivation and relevant experience.
+- Applications will be reviewed on a rolling basis. Early enquiries are encouraged.
+- For further details or to schedule an informal discussion, please don’t hesitate to get in touch.
 
 <h3>Project 8: ARC Research Hub Visiting Scholar (TIME@ARC Hub & Griffith)<font color="red"> [Ongoing]</font></h3>
 
