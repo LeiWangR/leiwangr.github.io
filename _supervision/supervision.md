@@ -28,7 +28,7 @@ Please visit my [TIME Lab team page](https://time.griffith.edu.au/team/) for mor
 <h2>Mentoring</h2>
 
 * Incoming Research Intern:
-  * Mr Wenxiang Diao, Project title: *TBD*
+  * Wenxiang Diao, Project title: *TBD*
 
 * Research Assistant:
   * [Xi Ding](https://darcyddx.github.io) (2 x <font color="red">WWW Companion '25</font>, 1 x <strong>arXiv preprint</strong>), Project title: *Do Language Models Understand Time?*, *Master's Student*, 2024/11/13 – <font color="blue">present</font>
