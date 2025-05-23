@@ -172,7 +172,7 @@ This project combines cutting-edge technologies with a meaningful goal: bringing
 
 Students undertaking this project will receive mentorship TIME Lab researchers, along with support from the ANU TechLauncher program, including access to workshops, industry connections, and project management tools. They will work in a collaborative environment, benefiting from feedback from peers and stakeholders. Key resources like cloud services, development platforms, and software tools for web development, machine learning, and UX/UI design will be provided. Regular technical guidance, testing support, and workshops on essential technologies will ensure students have everything needed to succeed.
 
-<h3>Project 4: ANU TechLauncher - Active Vision project <font color="red">[Ongoing]</font></h3>
+<h3>Project 4: ANU TechLauncher - Active Vision project <font color="red">[Completed]</font></h3>
 
 The [TechLauncher program](https://comp.anu.edu.au/TechLauncher/) is for team-based activities at ANU, where the project and/or group activity undertaken is real, not synthetic. In TechLauncher you will be a team member on a project, and shall be supported by a program of tutorials at which your peers, along with experienced professional tutors/mentors, facilitate your professional development and mediate your team processes and interactions.
 
@@ -184,7 +184,7 @@ The Active Vision project aims to develop an advanced computer vision system tha
 
 Objectives include: (i) Develop analytical algorithms: Create robust algorithms capable of analyzing the captured motion data to identify key performance indicators (KPIs) such as swing speed, angle, and impact accuracy. (ii) Real-time feedback: Implement a real-time feedback system that provides immediate insights and suggestions to players, enhancing their ability to correct and refine their techniques on the spot. (iii) User-friendly interface: Develop an intuitive interface that allows users to easily interact with the system, view their performance data, and track their progress over time.
 
-<a href="https://leiwangr.github.io/files/24-S2-2-Active-Vision.png" style="color: blue">[2024 S2 Poster]</a>
+<a href="https://leiwangr.github.io/files/24-S2-2-Active-Vision.png" style="color: blue">[2024 S2 Poster]</a> <a href="https://leiwangr.github.io/files/25-S1-2-Active-Vision.pdf" style="color: blue">[2025 S1 Poster]</a>
 
 <h3>Project 3: ANU TechLauncher - CAM FALL project <font color="red">[Completed]</font></h3>
 
