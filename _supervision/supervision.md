@@ -49,6 +49,8 @@ Please visit my [TIME Lab team page](https://time.griffith.edu.au/team/) for mor
 
 <h2>Completed Supervision</h2>
 
+I have successfully supervised more than ten final-year research students, including master’s, honours, and interns, most of whom have produced arXiv preprints or publications in leading conferences such as ICLR, NeurIPS, and ICML. Their research spans video understanding, temporal modeling, and trustworthy AI.
+
 * Former master's and honours students (**primary supervision**, TIME@ARC Hub&Griffith):
   * [Gennie Nguyen](https://www.gennienguyen.com/) (2 x <strong>arXiv preprint</strong>), Thesis title: *Physiological Signals for Detecting Belief and Truth in Fake News* (co-supervised with [Prof. Tom Gedeon](https://staffportal.curtin.edu.au/staff/profile/view/tom-gedeon-5e48a1fd/) from Curtin University), *Master of Computing (Advanced)*, 2024/07/22 – 2025/05/23 
   * Yifan Chen, Thesis title: *Understanding the behaviors of modern video models through signal perception*, *Master of Machine Learning and Computer Vision*, 2024/07/22 – 2025/05/23
