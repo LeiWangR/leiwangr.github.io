@@ -304,6 +304,22 @@ Below is a list of the <em>currently available</em> arXiv preprints.
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr">
+			<td class="gsc_a_t"><a href="https://arxiv.org/abs/2505.16702"><strong><span class="gsc_a_at">Truth and Trust: Fake News Detection via Biosignals</span></strong></a>
+				<div class="gs_gray">G Nguyen, <strong>L Wang</strong>, Y Jiang, T Gedeon</div>
+				<div class="gs_gray">arXiv preprint arXiv:2505.16702</div>
+			</td>
+			<td class="gsc_a_c">Gennie Nguyen conducted this research under the supervision of Lei Wang and Tom Gedeon as part of her final year master's research project at ANU. </td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
+		</tr>
+		<tr class="gsc_a_tr">
+			<td class="gsc_a_t"><a href="https://arxiv.org/abs/2505.16730"><strong><span class="gsc_a_at">Detecting Fake News Belief via Skin and Blood Flow Signals</span></strong></a>
+				<div class="gs_gray">G Nguyen, <strong>L Wang</strong>, Y Jiang, T Gedeon</div>
+				<div class="gs_gray">arXiv preprint arXiv:2505.16730</div>
+			</td>
+			<td class="gsc_a_c">Gennie Nguyen conducted this research under the supervision of Lei Wang and Tom Gedeon as part of her final year master's research project at ANU. </td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
+		</tr>
+		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://arxiv.org/abs/2505.12433"><strong><span class="gsc_a_at">SRLoRA: Subspace Recomposition in Low-Rank Adaptation via Importance-Based Fusion and Reinitialization</span></strong></a>
 				<div class="gs_gray">H Yang, <strong>L Wang</strong>$^\dagger$, MZ Hossain</div>
 				<div class="gs_gray">arXiv preprint arXiv:2505.12433</div>
