@@ -167,6 +167,7 @@ If you are an ANU master's student seeking individual projects, I require candid
 
 * Selected posters from former master’s, honours, and internship students:
   * [Gennie Nguyen](https://www.gennienguyen.com/) (2 x <strong>arXiv preprint</strong>, [Poster](https://leiwangr.github.io/files/gennie-poster.png)), *Master's Student*, 2024/07/22 – 2025/05/23
+  * Yifan Chen ([Poster](https://leiwangr.github.io/files/yifan-poster.pdf)), *Master's Student*, 2024/07/22 – 2025/05/23
   * Junliang Ye (1 x <strong>arXiv preprint</strong>, [Poster](https://leiwangr.github.io/files/freqselect.pdf)), *Master's Student*, 2024/07/22 – 2025/05/23
   * Haodong Yang (1 x <strong>arXiv preprint</strong>, [Poster](https://leiwangr.github.io/files/SRLoRA.pdf)), *Master's Student*, 2024/07/22 – 2025/05/23
   * Dexuan Ding (1 x <font color="red"><strong>ICLR'25</strong></font>, [Poster](https://leiwangr.github.io/files/u7321641_poster.png)), *Honours Student*, 2024/02/19 – 2024/10/25 
