@@ -81,7 +81,7 @@ TIME Lab 2024 medal criteria:
 
 <h2>Student Project</h2>
 
-<h3>Project 9: PhD + MPhil 2026 Cohort</h3>
+<h3>Project 9: PhD + MPhil 2026 Cohort <font color="red">[Ongoing]</font></h3>
 
 Two fully funded PhD projects and one MPhil project will be available starting February 2026.
 
