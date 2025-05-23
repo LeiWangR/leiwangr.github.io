@@ -35,7 +35,7 @@ Please visit my [TIME Lab team page](https://time.griffith.edu.au/team/) for mor
 
 * I am the **primary supervisor** for two ANU master’s students for their final year research projects (24-unit):
 
-  * [Gennie Nguyen](https://www.gennienguyen.com/), Thesis title: *Detecting Fake News Belief via Skin and Blood Flow Signals* (co-supervised with [Prof. Tom Gedeon](https://staffportal.curtin.edu.au/staff/profile/view/tom-gedeon-5e48a1fd/) from Curtin University), *Master of Computing (Advanced)*, 2024/07/22 – <font color="blue">present</font> 
+  * [Gennie Nguyen](https://www.gennienguyen.com/) (2 x <strong>arXiv preprint</strong>), Thesis title: *Detecting Fake News Belief via Skin and Blood Flow Signals* (co-supervised with [Prof. Tom Gedeon](https://staffportal.curtin.edu.au/staff/profile/view/tom-gedeon-5e48a1fd/) from Curtin University), *Master of Computing (Advanced)*, 2024/07/22 – <font color="blue">present</font> 
   * Yifan Chen, Thesis title: *Understanding the behaviors of modern video models through signal perception*, *Master of Machine Learning and Computer Vision*, 2024/07/22 – <font color="blue">present</font>
 
 * I also serve as the **primary supervisor** for the following honours student on a 1-year, 12-unit research project:
