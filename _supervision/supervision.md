@@ -27,10 +27,12 @@ Please visit my [TIME Lab team page](https://time.griffith.edu.au/team/) for mor
 
 <h2>Ongoing Supervision</h2>
 
-* Research Intern (TIME@ARC Hub&Griffith):
+I have commenced the supervision of research assistants, research interns, Master of Philosophy (MPhil) students, and Doctoral (PhD) candidates as part of my role at Griffith University (TIME@ARC Hub & Griffith).
+
+* Research Interns:
   * Wenxiang Diao, Project title: *Ultra‑Fine‑Grained Visual Categorization*, *Master's Student*, 2025/05/26 – <font color="blue">present</font>
 
-* Research Assistant (TIME@ARC Hub&Griffith):
+* Research Assistants:
   * [Zixuan Liu](https://www.linkedin.com/in/zixuanliu787/), Project title: *Video Genes*, *Bachelor Student*, 2025/05/12 – <font color="blue">present</font>
   * [Xi Ding](https://darcyddx.github.io) (2 x <font color="red">WWW Companion '25</font>, 1 x <strong>arXiv preprint</strong>), Project title: *Echoes in the Model: When Features Reflect Predictions*, *Master's Student*, 2024/11/13 – <font color="blue">present</font>
 
