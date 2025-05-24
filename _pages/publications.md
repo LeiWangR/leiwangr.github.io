@@ -214,7 +214,7 @@ $^\dagger$: Corresponding author.
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr">
-			<td class="gsc_a_t"><a href="https://leiwangr.github.io/files/xi-ar.pdf"><strong><span class="gsc_a_at">The Journey of Action Recognition</span></strong></a>
+			<td class="gsc_a_t"><a href="https://dl.acm.org/doi/pdf/10.1145/3701716.3717746"><strong><span class="gsc_a_at">The Journey of Action Recognition</span></strong></a>
 				<div class="gs_gray">X Ding, <strong>L Wang</strong>$^\dagger$</div>
 				<div class="gs_gray">Companion Proceedings of the ACM Web Conference 2025 (WWW Companion '25)</div>
 			</td>
@@ -222,7 +222,7 @@ $^\dagger$: Corresponding author.
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
 		</tr>
 		<tr class="gsc_a_tr">
-			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2412.13845"><strong><span class="gsc_a_at">Do Language Models Understand Time?</span></strong></a>
+			<td class="gsc_a_t"><a href="https://dl.acm.org/doi/pdf/10.1145/3701716.3717744"><strong><span class="gsc_a_at">Do Language Models Understand Time?</span></strong></a>
 				<div class="gs_gray">X Ding, <strong>L Wang</strong>$^\dagger$</div>
 				<div class="gs_gray">Companion Proceedings of the ACM Web Conference 2025 (WWW Companion '25)</div>
 			</td>
@@ -230,7 +230,7 @@ $^\dagger$: Corresponding author.
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
 		</tr>
 		<tr class="gsc_a_tr">
-			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2501.02593"><strong><span class="gsc_a_at">Evolving Skeletons: Motion Dynamics in Action Recognition</span></strong></a>
+			<td class="gsc_a_t"><a href="https://dl.acm.org/doi/pdf/10.1145/3701716.3717739"><strong><span class="gsc_a_at">Evolving Skeletons: Motion Dynamics in Action Recognition</span></strong></a>
 				<div class="gs_gray">J Qiu, <strong>L Wang</strong>$^\dagger$</div>
 				<div class="gs_gray">Companion Proceedings of the ACM Web Conference 2025 (WWW Companion '25)</div>
 			</td>
