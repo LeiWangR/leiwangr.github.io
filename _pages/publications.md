@@ -356,7 +356,7 @@ $^\dagger$: Corresponding author.
 				<div class="gs_gray">X Ding, <strong>L Wang</strong>$^\dagger$, P Koniusz, Y Gao</div>
 				<div class="gs_gray">NA</div>
 			</td>
-			<td class="gsc_a_c">Xi Ding conducted this work under the supervision of Lei Wang, as part of his role as an ARC Hub Research Scholar at Griffith University (TIME@ARC Hub & Griffith). The research was supported by computational resources provided by the Australian Government through the National Computational Infrastructure (NCI) under the ANU Merit Allocation Scheme. Additional support was provided through the NCI CSIRO Allocation Scheme. <font color="blue">This paper is currently not publicly available.</font></td>
+			<td class="gsc_a_c">Xi Ding conducted this work under the supervision of Lei Wang, as part of his role as an ARC Hub Research Scholar at Griffith University (TIME@ARC Hub & Griffith). This work was supported by computational resources provided by the Australian Government through the National Computational Infrastructure (NCI) under the ANU Merit Allocation Scheme. Additional support was provided through the NCI CSIRO Allocation Scheme. <font color="blue">This paper is currently not publicly available.</font></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
 		</tr>
 		<tr class="gsc_a_tr">
@@ -364,7 +364,7 @@ $^\dagger$: Corresponding author.
 				<div class="gs_gray">X Ding, <strong>L Wang</strong>$^\dagger$, Y Gao, P Koniusz</div>
 				<div class="gs_gray">NA</div>
 			</td>
-			<td class="gsc_a_c">Xi Ding conducted this work under the supervision of Lei Wang, as part of his role as an ARC Hub Research Scholar at Griffith University (TIME@ARC Hub & Griffith). The research was supported by computational resources provided by the Australian Government through the National Computational Infrastructure (NCI) under the ANU Merit Allocation Scheme. Additional support was provided through the NCI CSIRO Allocation Scheme. <font color="blue">This paper is currently not publicly available.</font></td>
+			<td class="gsc_a_c">Xi Ding conducted this work under the supervision of Lei Wang, as part of his role as an ARC Hub Research Scholar at Griffith University (TIME@ARC Hub & Griffith). This work was supported by computational resources provided by the Australian Government through the National Computational Infrastructure (NCI) under the ANU Merit Allocation Scheme. Additional support was provided through the NCI CSIRO Allocation Scheme. <font color="blue">This paper is currently not publicly available.</font></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
 		</tr>
 		<tr class="gsc_a_tr">
