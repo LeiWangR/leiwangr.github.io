@@ -166,7 +166,7 @@ If you are an ANU undergraduate seeking an Honors research project, please note 
 If you are an ANU master's student seeking individual projects, I require candidates to have a solid research background, a strong GPA, and proficient coding skills. Additionally, it is important that you have adequate time available for research.
 
 * Selected posters from former master’s, honours, and internship students:
-  * [Gennie Nguyen](https://www.gennienguyen.com/) (2 x <strong>arXiv preprint</strong>, [Poster](https://leiwangr.github.io/files/gennie-poster.png)), *Master's Student*, 2024/07/22 – 2025/05/23
+  * [Gennie Nguyen](https://www.gennienguyen.com/) (2 x <strong>arXiv preprint</strong>, [Poster](https://leiwangr.github.io/files/gennie-poster.pdf)), *Master's Student*, 2024/07/22 – 2025/05/23
   * Yifan Chen ([Poster](https://leiwangr.github.io/files/yifan-poster.pdf)), *Master's Student*, 2024/07/22 – 2025/05/23
   * Junliang Ye (1 x <strong>arXiv preprint</strong>, [Poster](https://leiwangr.github.io/files/freqselect.pdf)), *Master's Student*, 2024/07/22 – 2025/05/23
   * Haodong Yang (1 x <strong>arXiv preprint</strong>, [Poster](https://leiwangr.github.io/files/SRLoRA.pdf)), *Master's Student*, 2024/07/22 – 2025/05/23
