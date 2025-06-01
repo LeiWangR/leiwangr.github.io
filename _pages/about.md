@@ -90,7 +90,7 @@ I personally do not have any news; the most exciting updates are coming from my 
 - 26/05/2025: Welcome <font color="blue">Wenxiang Diao</font> (UNSW Sydney) to the ARC Research Hub at Griffith University as a TIME Lab Research Intern!
 - 12/05/2025: Welcome <font color="blue">Zixuan Liu</font> (QUT) to the ARC Research Hub at Griffith University as an ARC Hub Scholar in TIME Lab!
 - 29/04/2025: Congratulations to <font color="blue">Xi Ding</font> on winning the **Best Paper Award** at TheWebConf'25 workshop!
-- 19/03/2025: Welcome <font color="blue">Arjun Raj</font> (ANU) to the ARC Research Hub at Griffith University as an ARC Hub Visitor (non-research service) in TIME Lab!
+- 19/03/2025: Welcome <font color="blue">Arjun Raj</font> (ANU) to the ARC Research Hub at Griffith University as a remote Visiting Scholar in TIME Lab, contributing in a non-research service role!
 - 17/03/2025: Welcome <font color="blue">Xi Ding</font> (ANU) to the ARC Research Hub at Griffith University as an ARC Hub Scholar in TIME Lab!
 - 02/03/2025: My proposed project, "TIME Space", has been officially included in the 2025 TechLauncher program. <font color="blue">Xi Ding</font> and <font color="blue">Xiuyuan (Jack) Yuan</font> will serve as the delegated clients at TIME Lab on behalf of Lei Wang.
 - 14/02/2025: TIME Lab has moved to Griffith University and joined the ARC Research Hub, enhancing its industry-focused research and collaboration within the broader Griffith community.
