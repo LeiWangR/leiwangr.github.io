@@ -39,7 +39,7 @@ I have commenced the supervision of research assistants, research interns, Maste
 * On-site PhD candidates:
   * [Edwin Kwadwo Tenagyei](https://scholar.google.de/citations?user=VoIFrp7h-tIC&hl=en), TIME Lab internal research project, *Doctoral candidate*@Griffith&ARC Hub, 2025/05/30 – <font color="blue">present</font>
 
-* Remote ARC Hub Visitor:
+* Visiting Scholar (non-research service):
   * [Arjun Raj](https://arjunraj.com/) (1 x <font color="red"><strong>ICASSP'25</strong></font>), Non-research service, *Bachelor of Advanced Computing (R&D) (Honours)*@ANU, 2025/03/19 – <font color="blue">present</font>
 
 <!-- * I am the **primary supervisor** for two ANU master’s students for their final year research projects (24-unit):
