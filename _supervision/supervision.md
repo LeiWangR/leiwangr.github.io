@@ -36,6 +36,9 @@ I have commenced the supervision of research assistants, research interns, Maste
   * [Zixuan Liu](https://www.linkedin.com/in/zixuanliu787/), Project title: *Video Genes*, *Bachelor Student*, 2025/05/12 – <font color="blue">present</font>
   * [Xi Ding](https://darcyddx.github.io) (2 x <font color="red">WWW Companion '25</font>, 1 x <strong>arXiv preprint</strong>), Project title: *Echoes in the Model: When Features Reflect Predictions*, *Master's Student*, 2024/11/13 – <font color="blue">present</font>
 
+* PhD candidates:
+  * [Edwin Kwadwo Tenagyei](https://scholar.google.de/citations?user=VoIFrp7h-tIC&hl=en), *Research Trainee*@TIME Lab, 2025/05/30 – <font color="blue">present</font>
+
 <!-- * I am the **primary supervisor** for two ANU master’s students for their final year research projects (24-unit):
 
   * [Gennie Nguyen](https://www.gennienguyen.com/) (2 x <strong>arXiv preprint</strong>), Thesis title: *Physiological Signals for Detecting Belief and Truth in Fake News* (co-supervised with [Prof. Tom Gedeon](https://staffportal.curtin.edu.au/staff/profile/view/tom-gedeon-5e48a1fd/) from Curtin University), *Master of Computing (Advanced)*, 2024/07/22 – 2025/05/23 
