@@ -37,7 +37,7 @@ I have commenced the supervision of research assistants, research interns, Maste
   * [Xi Ding](https://darcyddx.github.io) (2 x <font color="red">WWW Companion '25</font>, 1 x <strong>arXiv preprint</strong>), Project title: *Echoes in the Model: When Features Reflect Predictions*, *Master's Student*@ANU, 2024/11/13 – <font color="blue">present</font>
 
 * PhD candidates:
-  * [Edwin Kwadwo Tenagyei](https://scholar.google.de/citations?user=VoIFrp7h-tIC&hl=en), *Doctoral candidate*@Griffith&ARC Hub, 2025/05/30 – <font color="blue">present</font>
+  * [Edwin Kwadwo Tenagyei](https://scholar.google.de/citations?user=VoIFrp7h-tIC&hl=en), TIME Lab internal research project, *Doctoral candidate*@Griffith&ARC Hub, 2025/05/30 – <font color="blue">present</font>
 
 <!-- * I am the **primary supervisor** for two ANU master’s students for their final year research projects (24-unit):
 
