@@ -86,7 +86,7 @@ He is an IEEE Student Member and an ACM Student Member. -->
 
 I personally do not have any news; the most exciting updates are coming from my talented students!
 
-- 30/05/2025: Welcome <font color="blue">Edwin Kwadwo Tenagyei</font> to my research group as a PhD Research Trainee!
+- 30/05/2025: Welcome <font color="blue">Edwin Kwadwo Tenagyei</font> (Griffith & ARC Hub) to my research group as a PhD Research Trainee!
 - 26/05/2025: Welcome <font color="blue">Wenxiang Diao</font> (UNSW Sydney) to the ARC Research Hub at Griffith University as a TIME Lab Research Intern!
 - 29/04/2025: Congratulations to <font color="blue">Xi Ding</font> on winning the **Best Paper Award** at TheWebConf'25 workshop.
 - 19/03/2025: Welcome <font color="blue">Arjun Raj</font> to the ARC Research Hub at Griffith University as an ARC Hub Scholar in TIME Lab!
