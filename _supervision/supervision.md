@@ -66,9 +66,9 @@ I have successfully supervised more than ten final-year research students, inclu
   * [Arjun Raj](https://arjunraj.com/) (1 x <font color="red"><strong>ICASSP'25</strong></font>), Thesis title: *Tracking high-speed and tiny objects in sports*, *Bachelor of Advanced Computing (R&D) (Honours)*, 2024/07/22 – 2025/05/23
  
 * Former master's students (**secondary supervision**, TIME@ARC Hub&Griffith):
-  * Junliang Ye (1 x <strong>arXiv preprint</strong>), Thesis title: *FreqSelect: Frequency-Aware Adaptive Filtering*, *Master of Computing (Advanced)*, 2024/07/22 – 2025/05/23
-  * Haodong Yang (1 x <strong>arXiv preprint</strong>), Thesis title: *SRLoRA: Subspace Recomposition in Low-Rank Adaptation via Importance-Based Fusion and Reinitialization*, *Master of Machine Learning and Computer Vision*, 2024/07/22 – 2025/05/23
-  * Meitong Liu, Thesis title: *Improving Video‑to‑Audio Generation via Object‑Level Event Detection*, *Master of Computing (Advanced)*, 2024/07/22 – 2025/05/23
+  * Junliang Ye (1 x <strong>arXiv preprint</strong>), Thesis title: *FreqSelect: Frequency-Aware Adaptive Filtering* (co-supervised with [Dr. Md Zakir Hossain](https://staffportal.curtin.edu.au/staff/profile/view/md-zakir-hossain-4fd95ece/) from Curtin University), *Master of Computing (Advanced)*, 2024/07/22 – 2025/05/23
+  * Haodong Yang (1 x <strong>arXiv preprint</strong>), Thesis title: *SRLoRA: Subspace Recomposition in Low-Rank Adaptation via Importance-Based Fusion and Reinitialization* (co-supervised with [Dr. Md Zakir Hossain](https://staffportal.curtin.edu.au/staff/profile/view/md-zakir-hossain-4fd95ece/) from Curtin University), *Master of Machine Learning and Computer Vision*, 2024/07/22 – 2025/05/23
+  * Meitong Liu, Thesis title: *Improving Video‑to‑Audio Generation via Object‑Level Event Detection* (co-supervised with [Dr. Md Zakir Hossain](https://staffportal.curtin.edu.au/staff/profile/view/md-zakir-hossain-4fd95ece/) from Curtin University), *Master of Computing (Advanced)*, 2024/07/22 – 2025/05/23
  
 * Former master's, honours, and internship students (**primary supervision**, TIME@ANU):
   * Dexuan Ding (1 x <font color="red"><strong>ICLR'25</strong></font>), Thesis title: *LEGO Fusion: Robust Video Anomaly Detection*, *Bachelor of Advanced Computing (Honours)*, 2024/02/19 – 2024/10/25 
