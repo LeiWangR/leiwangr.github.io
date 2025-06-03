@@ -364,7 +364,7 @@ $^\dagger$: Corresponding author.
 				<div class="gs_gray">J Ma, <strong>L Wang</strong>, M Liu, D Ahmedt-Aristizaba, C Nguyen</div>
 				<div class="gs_gray">NA</div>
 			</td>
-			<td class="gsc_a_c">Jiahao Ma is a PhD candidate at the Australian National University (ANU) and Data61/CSIRO, formally supervised by Miaomiao Liu, David Ahmedt Aristizabal, and Chuong Nguyen. Lei Wang provides informal co-supervision, offering ongoing academic guidance and support throughout the project. <font color="blue">This paper is currently not publicly available.</font></td>
+			<td class="gsc_a_c">Jiahao Ma is a PhD candidate at the Australian National University (ANU) and Data61/CSIRO, formally supervised by Miaomiao Liu, David Ahmedt Aristizabal, and Chuong Nguyen. Lei Wang provides informal co-supervision, offering ongoing academic guidance and support throughout the project. <font color="blue">This paper is currently not publicly available.</font> [<a href="https://github.com/Jiahao-Ma/puzzles-code" style="color:#000000;">Code</a>, <a href="https://jiahao-ma.github.io/puzzles/" style="color:#000000;">Project website</a>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
 		</tr>
 		<tr class="gsc_a_tr">
