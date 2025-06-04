@@ -308,7 +308,7 @@ $^\dagger$: Corresponding author.
 				<div class="gs_gray">W Chen*, K Yu*, H Jia*, K Yuan, B Tian, S Lai, H Xiao, E Zhang, <strong>L Wang</strong>, Y Yue</div>
 				<div class="gs_gray">arXiv preprint arXiv:2506.02452</div>
 			</td>
-			<td class="gsc_a_c">*Equal contribution. Research report. [<a href="https://github.com/CCSCovenant/ANT" style="color:#000000;">Code</a>]</td>
+			<td class="gsc_a_c">*Equal contribution. Research report. Wenshuo Chen will begin his PhD studies in Fall 2025 at the Hong Kong University of Science and Technology (HKUST Guangzhou), under the supervision of Associate Professor Yutao Yue. [<a href="https://github.com/CCSCovenant/ANT" style="color:#000000;">Code</a>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
 		</tr>
 		<tr class="gsc_a_tr">
