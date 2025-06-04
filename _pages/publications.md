@@ -304,6 +304,14 @@ $^\dagger$: Corresponding author.
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr" style="background-color:#E5E4E2">
+			<td class="gsc_a_t"><a href=""><strong><span class="gsc_a_at">NA</span></strong></a>
+				<div class="gs_gray">H Jia, W Chen, Z Huang, <strong>L Wang</strong>, H Xiao, N Jia, K Wu, S Lai, B Tian, Y Yue</div>
+				<div class="gs_gray">NA</div>
+			</td>
+			<td class="gsc_a_c">Wenshuo Chen will begin his PhD studies in Fall 2025 at the Hong Kong University of Science and Technology (HKUST Guangzhou), under the supervision of Associate Professor Yutao Yue. <font color="blue">This paper is currently not publicly available.</font> </td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
+		</tr>
+		<tr class="gsc_a_tr" style="background-color:#E5E4E2">
 			<td class="gsc_a_t"><a href="https://www.arxiv.org/abs/2506.02452"><strong><span class="gsc_a_at">ANT: Adaptive Neural Temporal-Aware Text-to-Motion Model</span></strong></a>
 				<div class="gs_gray">W Chen*, K Yu*, H Jia*, K Yuan, B Tian, S Lai, H Xiao, E Zhang, <strong>L Wang</strong>, Y Yue</div>
 				<div class="gs_gray">arXiv preprint arXiv:2506.02452</div>
