@@ -34,7 +34,7 @@ I have commenced the supervision of research assistants, research interns, Maste
 
 * On-site Research Assistants:
   * [Zixuan Liu](https://www.linkedin.com/in/zixuanliu787/), Project title: *Video Genes*, *Bachelor Student*@QUT, 2025/05/12 – <font color="blue">present</font>
-  * [Xi Ding](https://darcyddx.github.io) (2 x <font color="red">WWW Companion '25</font>, 1 x <strong>arXiv preprint</strong>), Project title: *Echoes in the Model: When Features Reflect Predictions*, *Master's Student*@ANU, 2024/11/13 – <font color="blue">present</font>
+  * [Xi Ding](https://darcyddx.github.io), Project title: *When Features Reflect Predictions*, *Master's Student*@ANU, 2025/03/17 – <font color="blue">present</font>
 
 * On-site PhD candidates:
   * [Edwin Kwadwo Tenagyei](https://scholar.google.de/citations?user=VoIFrp7h-tIC&hl=en), TIME Lab internal research project, *Doctoral candidate*@Griffith&ARC Hub, 2025/05/30 – <font color="blue">present</font>
@@ -64,6 +64,7 @@ I have commenced the supervision of research assistants, research interns, Maste
 I have successfully supervised more than ten final-year research students, including master’s, honours, and interns, most of whom have produced arXiv preprints or publications in leading conferences such as ICLR, NeurIPS, and ICML. Their research spans video understanding, temporal modeling, and trustworthy AI.
 
 * Former master's and honours students (**primary supervision**, TIME@ARC Hub&Griffith):
+  * [Xi Ding](https://darcyddx.github.io) (2 x <font color="red">WWW Companion '25</font>, 1 x <strong>arXiv preprint</strong>), Project title: *Do Language Models Understand Time?*, *Master's Student*@ANU, 2024/11/13 – 2025/03/17
   * [Gennie Nguyen](https://www.gennienguyen.com/) (2 x <strong>arXiv preprint</strong>), Thesis title: *Physiological Signals for Detecting Belief and Truth in Fake News* (co-supervised with [Prof. Tom Gedeon](https://staffportal.curtin.edu.au/staff/profile/view/tom-gedeon-5e48a1fd/) from Curtin University), *Master of Computing (Advanced)*, 2024/07/22 – 2025/05/23 
   * Yifan Chen, Thesis title: *Understanding the behaviors of modern video models through signal perception*, *Master of Machine Learning and Computer Vision*, 2024/07/22 – 2025/05/23
   * [Arjun Raj](https://arjunraj.com/) (1 x <font color="red"><strong>ICASSP'25</strong></font>), Thesis title: *Tracking high-speed and tiny objects in sports*, *Bachelor of Advanced Computing (R&D) (Honours)*, 2024/07/22 – 2025/05/23
