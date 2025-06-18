@@ -27,7 +27,9 @@ Please visit my [TIME Lab team page](https://time.griffith.edu.au/team/) for mor
 
 <h2>Ongoing Supervision</h2>
 
-I have commenced the supervision of research assistants, research interns, Master of Philosophy (MPhil) students, and Doctoral (PhD) candidates as part of my role at Griffith University (**co-principal / principal supervision**, TIME@ARC Hub & Griffith).
+I am currently a registered Higher Degree by Research (HDR) supervisor at Griffith University, holding transitional status.
+
+As part of my role at Griffith University, specifically through the TIME@ARC Hub&Griffith, I have begun supervising research assistants, research interns, Master of Philosophy (MPhil) students, and Doctoral (PhD) candidates in both **co-principal and principal supervision** capacities.
 
 * On-site Research Interns:
   * Wenxiang Diao, Project title: *Ultra‑Fine‑Grained Visual Categorization*, *Master's Student*@UNSW Sydney, 2025/05/26 – <font color="blue">present</font>
