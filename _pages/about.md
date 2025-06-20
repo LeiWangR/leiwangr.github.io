@@ -86,6 +86,7 @@ He is an IEEE Student Member and an ACM Student Member. -->
 
 I personally do not have any news; the most exciting updates are coming from my talented students!
 
+- **TIME Lab joins ARC Research Hub and Griffith University**: TIME Lab has been successfully reallocated to the ARC Research Hub and Griffith University. With this exciting transition, our research environment has been enriched by strong institutional support, new facilities, and a vibrant cohort of research students. Our team is thriving in a culture that values innovation, collaboration, and a healthy work–life balance. In line with this new chapter, we are currently renewing the TIME Lab website to reflect our refreshed vision and direction. The new site is expected to launch on December 1, 2025.
 - 30/05/2025: Welcome <font color="blue">Edwin Kwadwo Tenagyei</font> (Griffith & ARC Hub) to my research group as a PhD Research Trainee!
 - 26/05/2025: Welcome <font color="blue">Wenxiang Diao</font> (UNSW Sydney) to the ARC Research Hub at Griffith University as a TIME Lab Research Intern!
 - 12/05/2025: Welcome <font color="blue">Zixuan Liu</font> (QUT) to the ARC Research Hub at Griffith University as an ARC Hub Scholar in TIME Lab!
@@ -93,7 +94,6 @@ I personally do not have any news; the most exciting updates are coming from my 
 - 19/03/2025: Welcome <font color="blue">Arjun Raj</font> (ANU) to the ARC Research Hub at Griffith University as a remote Visiting Scholar in TIME Lab, contributing in a non-research service role!
 - 17/03/2025: Welcome <font color="blue">Xi Ding</font> (ANU) to the ARC Research Hub at Griffith University as an ARC Hub Scholar in TIME Lab!
 - 02/03/2025: My proposed project, "TIME Space", has been officially included in the 2025 TechLauncher program. <font color="blue">Xi Ding</font> and <font color="blue">Xiuyuan (Jack) Yuan</font> will serve as the delegated clients at TIME Lab on behalf of Lei Wang.
-- 14/02/2025: TIME Lab has moved to Griffith University and joined the ARC Research Hub, enhancing its industry-focused research and collaboration within the broader Griffith community.
 - 28/01/2025: Three papers (two orals and one poster) have been accepted to the Companion Proceedings of the ACM Web Conference (WWW Companion 2025). Congratulations to <font color="blue">Xi Ding</font> and <font color="blue">Jushang Qiu</font>.
 - 23/01/2025: The TIME Lab, composed of honors and master's students, achieved significant milestones under my primary supervision, including three top-tier publications (NeurIPS'24, ICLR'25, ICML'24), an oral presentation at ACML'24 (a respected ML conference in Asia-Pacific), and a paper at ICASSP'25 (a prestigious signal processing venue) from November 20, 2023, to October 25, 2024.
 - 23/01/2025: One paper has been accepted at **ICLR 2025**. Congratulations to <font color="blue">Dexuan Ding</font>.
@@ -127,6 +127,8 @@ I personally do not have any news; the most exciting updates are coming from my 
 - 04/01/2024: My research group is currently at full capacity, and I do not have openings for research interns and assistants. All available industry research sponsorships will be prioritized for my existing students until the end of 2024.
 - 19/09/2023: Congratulations to <font color="blue">Arjun Raj</font>, <font color="blue">Liyun Zhu</font>, <font color="blue">Liwen Luo</font>, and <font color="blue">Qixiang Chen</font>, who were awarded *the Active Intelligence Research Challenge Award* as four master's/honors students! Thanks to the research sponsorship provided by Active Intelligence Corp.
 - 18/09/2023: Congratulations to <font color="blue">Xiuyuan (Jack) Yuan</font> for being awarded *the Summer Research Internship*! Thanks to the ANU School of Computing for providing research funding.
+
+<!-- - 14/02/2025: TIME Lab has moved to Griffith University and joined the ARC Research Hub, enhancing its industry-focused research and collaboration within the broader Griffith community. -->
 
 <!-- - 16/10/2024: TIME Lab has announced the selection criteria for its inaugural medal, which will honor the top ANU honours or master's student completing their final-year research project under the lab’s supervision. -->
 
