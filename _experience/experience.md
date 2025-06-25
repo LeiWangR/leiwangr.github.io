@@ -88,11 +88,11 @@ I am also working to bridge the gap between academic research and industry resea
     * Chair of panel: [Prof. Stephen Gould](http://users.cecs.anu.edu.au/~sgould/) (ANU)
     * Primary supervisor: [Dr. Piotr Koniusz](https://www.koniusz.com) (Data61/CSIRO & ANU)
     * Associate supervisor: Assoc. Prof. Liang Zheng (ANU)
-  * <font color="red">One paper has been accepted for the IJCV special issue</font>
+  * <font color="red">One paper has been accepted for the <strong>IJCV</strong> special issue</font>
   * <font color="red">2 papers (one oral) have been accepted for ICASSP 2024</font>
   * <font color="red">Granted the <strong>research award</strong> of Doctor of Philosophy (01/11/2023)</font>
   * <font color="red">Received <strong>the Sang Uk Lee Best Student Paper Award</strong> from ACCV’22</font>
-  * <font color="red">One paper each published at CVPR, ICCV, ECCV, ACM-MM, TPAMI & TIP</font>
+  * <font color="red">One paper each published at <strong>CVPR</strong>, <strong>ICCV</strong>, <strong>ECCV</strong>, <strong>ACM-MM</strong>, <strong>TPAMI</strong> & <strong>TIP</strong></font>
   
 
 * *10/10/2018-09/10/2019*: **Visiting Researcher**
