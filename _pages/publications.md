@@ -45,7 +45,7 @@ $^\dagger$: Corresponding author.
 				<div class="gs_gray"><strong>L Wang</strong>$^\dagger$, P Koniusz</div>
 				<div class="gs_gray">International Journal of Computer Vision (<strong>IJCV</strong>)</div>
 			</td>
-			<td class="gsc_a_c">[<font color="red"><strong>IF: 19.5</strong></font>]</td>
+			<td class="gsc_a_c">(Extension of our ICCV'19 and ACMMM'21)<br>[<font color="red"><strong>IF: 19.5</strong></font>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
 		</tr>
 		<tr class="gsc_a_tr" style="background-color:#E0FFFF"> 
