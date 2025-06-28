@@ -40,6 +40,7 @@ I am also working to bridge the gap between academic research and industry resea
   * Postdoc advisor: [Prof. Yongsheng Gao](https://experts.griffith.edu.au/19112-yongsheng-gao) (Griffith University) and [Prof. Piotr Koniusz](https://www.koniusz.com) (Data61/CSIRO & ANU & UNSW)
   * <font color="red">One paper has been accepted for publication in <strong>IJCV</strong></font>
   * <font color="red">I am serving as a <strong>Guest Editor</strong> for MDPI Electronics special issue on ‘Trustworthy AI for Video, Web, and Social Applications’</font>
+  * <font color="red">Recipient of the <strong>Best Paper Award</strong> at TheWebConf 2025 Workshop</font>
   * <font color="red">I am serving as an <strong>Area Chair</strong> for ACM Multimedia 2025</font>
  
 * *05/03/2025-<font color="blue">present</font>*: **Visiting Scientist**
