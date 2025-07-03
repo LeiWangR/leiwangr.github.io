@@ -86,6 +86,7 @@ He is an IEEE Student Member and an ACM Student Member. -->
 
 I personally do not have any news; the most exciting updates are coming from my talented students!
 
+- 03/07/2025: **Primarily supervised** 1 Honours and 2 Master’s students at ANU, resulting in 2 **High Distinction** theses. Congratulations to <font color="blue">Arjun Raj</font> and <font color="blue">Gennie Nguyen</font>! **Co-supervised** 3 ANU Master’s students, with 2 earning **Distinction** grades for their theses. 
 - **TIME Lab joins ARC Research Hub and Griffith University**: TIME Lab has been successfully reallocated to the ARC Research Hub and Griffith University. With this exciting transition, our research environment has been enriched by strong institutional support, new facilities, and a vibrant cohort of research students. Our team is thriving in a culture that values innovation, collaboration, and a healthy work–life balance. In line with this new chapter, we are currently renewing the TIME Lab website to reflect our refreshed vision and direction. The new site is expected to launch on December 1, 2025.
 - 30/05/2025: Welcome <font color="blue">Edwin Kwadwo Tenagyei</font> (Griffith & ARC Hub) to my research group as a PhD Research Trainee!
 - 26/05/2025: Welcome <font color="blue">Wenxiang Diao</font> (UNSW Sydney) to the ARC Research Hub at Griffith University as a TIME Lab Research Intern!
