@@ -86,6 +86,14 @@ $^\dagger$: Corresponding author.
 <h2>Conferences</h2>
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
+		<tr class="gsc_a_tr" style="background-color:#E5E4E2">
+			<td class="gsc_a_t"><a href="https://www.arxiv.org/abs/2506.02452"><strong><span class="gsc_a_at">ANT: Adaptive Neural Temporal-Aware Text-to-Motion Model</span></strong></a>
+				<div class="gs_gray">W Chen*, K Yu*, H Jia*, K Yuan, B Tian, S Lai, H Xiao, E Zhang, <strong>L Wang</strong>, Y Yue</div>
+				<div class="gs_gray">ACM Multimedia (<strong>ACM-MM</strong>) (* denotes equal contribution.)</div>
+			</td>
+			<td class="gsc_a_c">[<font color="red"><strong>A*</strong></font>]<br><a href="https://github.com/CCSCovenant/ANT" style="color:#000000;">Code</a></td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
+		</tr>
 		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2410.01506"><strong><span class="gsc_a_at">Learnable Expansion of Graph Operators for Multi-Modal Feature Fusion</span></strong></a>
 				<div class="gs_gray">D Ding, <strong>L Wang</strong>$^\dagger$, L Zhu, T Gedeon, P Koniusz</div>
@@ -311,14 +319,14 @@ $^\dagger$: Corresponding author.
 			<td class="gsc_a_c">Wenshuo Chen will begin his PhD studies in Fall 2025 at the Hong Kong University of Science and Technology (HKUST Guangzhou), under the supervision of Associate Professor Yutao Yue. <font color="blue">This paper is currently not publicly available.</font> </td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
 		</tr>
-		<tr class="gsc_a_tr" style="background-color:#E5E4E2">
+<!-- 		<tr class="gsc_a_tr" style="background-color:#E5E4E2">
 			<td class="gsc_a_t"><a href="https://www.arxiv.org/abs/2506.02452"><strong><span class="gsc_a_at">ANT: Adaptive Neural Temporal-Aware Text-to-Motion Model</span></strong></a>
 				<div class="gs_gray">W Chen*, K Yu*, H Jia*, K Yuan, B Tian, S Lai, H Xiao, E Zhang, <strong>L Wang</strong>, Y Yue</div>
 				<div class="gs_gray">arXiv preprint arXiv:2506.02452</div>
 			</td>
 			<td class="gsc_a_c">*Equal contribution. Research report. Wenshuo Chen will begin his PhD studies in Fall 2025 at the Hong Kong University of Science and Technology (HKUST Guangzhou), under the supervision of Associate Professor Yutao Yue. [<a href="https://github.com/CCSCovenant/ANT" style="color:#000000;">Code</a>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
-		</tr>
+		</tr> -->
 		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://arxiv.org/abs/2505.16702"><strong><span class="gsc_a_at">Truth and Trust: Fake News Detection via Biosignals</span></strong></a>
 				<div class="gs_gray">G Nguyen, <strong>L Wang</strong>, Y Jiang, T Gedeon</div>
