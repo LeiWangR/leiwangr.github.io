@@ -86,6 +86,7 @@ He is an IEEE Student Member and an ACM Student Member. -->
 
 I personally do not have any news; the most exciting updates are coming from my talented students!
 
+- 08/07/2025: Congratulations to <font color="blue">Xi Ding</font> on his recent research work, "Echoes in the Model: When Features Reflect Predictions", which was invited by Dr. Miaohua Zhang (Data61/CSIRO) to be presented at the ICVG Reading Group at Data61/CSIRO! 
 - 07/07/2025: We’re proud to share that TIME Lab students <font color="blue">Huilin Chen</font> and <font color="blue">Dexuan Ding</font> have started their PhDs at UTS (QS #96 globally, #9 in Australia, #62 in CS) and Macquarie University (QS #138 globally, #11 in Australia, #156 in CS), respectively. Congratulations to both, we wish them great success!
 - 05/07/2025: One paper has been accepted at **ACM-MM 2025**. Congratulations to Wenshuo Chen, Kuimou Yu, Haozhe Jia, Kaishen Yuan, Bowen Tian, Songning Lai, Hongru Xiao, and Erhang Zhang.
 - 03/07/2025: **Primarily supervised** 1 Honours and 2 Master’s students at ANU, resulting in 2 **High Distinction** theses. Congratulations to <font color="blue">Arjun Raj</font> and <font color="blue">Gennie Nguyen</font>! **Co-supervised** 3 ANU Master’s students, with 2 earning **Distinction** grades for their theses. 
