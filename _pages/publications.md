@@ -221,6 +221,14 @@ $^\dagger$: Corresponding author.
 
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
+		<tr class="gsc_a_tr" style="background-color:#E5E4E2">
+			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2405.10718"><strong><span class="gsc_a_at">SignLLM: Sign Languages Production Large Language Models</span></strong></a>
+				<div class="gs_gray">S Fang, C Chen, <strong>L Wang</strong>, C Zheng, C Sui, Y Tian</div>
+				<div class="gs_gray">Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops</div>
+			</td>
+			<td class="gsc_a_c">[<a href="https://signllm.github.io" style="color:#000000;">Project website</a>]</td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
+		</tr>
 		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://dl.acm.org/doi/pdf/10.1145/3701716.3717746"><strong><span class="gsc_a_at">The Journey of Action Recognition</span></strong></a>
 				<div class="gs_gray">X Ding, <strong>L Wang</strong>$^\dagger$</div>
@@ -472,14 +480,14 @@ $^\dagger$: Corresponding author.
 			<td class="gsc_a_c">*Equal contribution. Research report. [<a href="https://github.com/sato-team/Stable-Text-to-motion-Framework" style="color:#000000;">Code</a>, <a href="https://sato-team.github.io/Stable-Text-to-Motion-Framework/" style="color:#000000;">Project website</a>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
 		</tr> -->
-		<tr class="gsc_a_tr" style="background-color:#E5E4E2">
+<!-- 		<tr class="gsc_a_tr" style="background-color:#E5E4E2">
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2405.10718"><strong><span class="gsc_a_at">SignLLM: Sign Languages Production Large Language Models</span></strong></a>
 				<div class="gs_gray">S Fang, C Chen, <strong>L Wang</strong>, C Zheng, C Sui, Y Tian</div>
 				<div class="gs_gray">arXiv preprint arxiv:2405.10718</div>
 			</td>
 			<td class="gsc_a_c">Research report. [<a href="https://signllm.github.io" style="color:#000000;">Project website</a>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
-		</tr>
+		</tr> -->
 		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2404.13016.pdf"><strong><span class="gsc_a_at">Optimizing Calibration by Gaining Aware of Prediction Correctness</span></strong></a>
 				<div class="gs_gray">Y Liu, <strong>L Wang</strong>, Y Zou, J Zou, L Zheng</div>
