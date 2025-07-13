@@ -46,13 +46,13 @@ Sydney, Australia<br>
 
 <h2>Review</h2>
 
-I am serving as a **Guest Editor** ([service certificate](https://leiwangr.github.io/files/Editor-Certificate-733853.pdf)) for MDPI Electronics [Q2, h-index 83], Special Issue titled 'Trustworthy AI for Video, Web, and Social Applications'.
+I am serving as a **Guest Editor** ([service certificate](https://leiwangr.github.io/files/Editor-Certificate-733853.pdf)) for MDPI Electronics [Q2, h-index 110], Special Issue titled 'Trustworthy AI for Video, Web, and Social Applications'.
 
 I am serving as an **Area Chair** for ACM Multimedia 2025.
 
 I am serving as an **Area Chair** for the 2025 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2025).
 
-I am serving as a **Guest Editor** ([service certificate](https://leiwangr.github.io/files/Editor-Certificate-648661.pdf)) for the MDPI open-access journal Electronics [Q2, h-index 83], Special Issue titled 'Motion-centric Video Processing'. 
+I am serving as a **Guest Editor** ([service certificate](https://leiwangr.github.io/files/Editor-Certificate-648661.pdf)) for the MDPI open-access journal Electronics [Q2, h-index 110], Special Issue titled 'Motion-centric Video Processing'. 
 
 I am serving as an **Area Chair** for ACM Multimedia 2024 (<strong><font color="red">Outstanding Area Chair</font></strong>).
 
