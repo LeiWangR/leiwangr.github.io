@@ -43,7 +43,7 @@ $^\dagger$: Corresponding author.
 		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2506.20342"><strong><span class="gsc_a_at">Feature Hallucination for Self-supervised Action Recognition</span></strong></a>
 				<div class="gs_gray"><strong>L Wang</strong>$^\dagger$, P Koniusz</div>
-				<div class="gs_gray">International Journal of Computer Vision (<strong>IJCV</strong>)</div>
+				<div class="gs_gray">International Journal of Computer Vision (<strong>IJCV</strong>), 1-34</div>
 			</td>
 			<td class="gsc_a_c">(Extension of our ICCV'19 and ACMMM'21)<br>[<font color="red"><strong>IF: 19.5</strong></font>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
@@ -51,7 +51,7 @@ $^\dagger$: Corresponding author.
 		<tr class="gsc_a_tr" style="background-color:#E0FFFF"> 
 			<td class="gsc_a_t"><a href="https://link.springer.com/article/10.1007/s11263-024-02070-2"><strong><span class="gsc_a_at">Meet JEANIE: a Similarity Measure for 3D Skeleton Sequences via Temporal‑Viewpoint Alignment</span></strong></a>
 				<div class="gs_gray"><strong>L Wang</strong>$^\dagger$, J Liu, L Zheng, T Gedeon, P Koniusz</div>
-				<div class="gs_gray">International Journal of Computer Vision (<strong>IJCV</strong>), 1-32</div>
+				<div class="gs_gray">International Journal of Computer Vision (<strong>IJCV</strong>), 4091–4122</div>
 			</td>
 			<td class="gsc_a_c">(IJCV special issue on our ACCV'22)<br>[<font color="red"><strong>IF: 19.5</strong></font>] <br><a href="https://github.com/LeiWangR/JEANIE" style="color:#000000;"> Code </a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
