@@ -226,7 +226,7 @@ $^\dagger$: Corresponding author.
 				<div class="gs_gray">S Fang, C Chen, <strong>L Wang</strong>, C Zheng, C Sui, Y Tian</div>
 				<div class="gs_gray">Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops</div>
 			</td>
-			<td class="gsc_a_c">[<a href="https://signllm.github.io" style="color:#000000;">Project website</a>]</td>
+			<td class="gsc_a_c"><a href="https://signllm.github.io" style="color:#000000;">Project website</a><br><a href="https://github.com/SignLLM/Prompt2Sign" style="color:#000000;">Dataset & Code</a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
 		</tr>
 		<tr class="gsc_a_tr">
