@@ -319,6 +319,14 @@ $^\dagger$: Corresponding author.
 <!-- Below is a list of the <em>currently available</em> arXiv preprints. -->
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
+		<tr class="gsc_a_tr">
+			<td class="gsc_a_t"><a href=""><strong><span class="gsc_a_at">NA</span></strong></a>
+				<div class="gs_gray">W Diao, <strong>L Wang</strong>$^\dagger$, Y Gao</div>
+				<div class="gs_gray">NA</div>
+			</td>
+			<td class="gsc_a_c">Wenxiang Diao conducted this work under the supervision of Lei Wang as part of his role as a Research Intern at the TIME Lab, Griffith University (TIME@ARC Hub & Griffith). This work was supported by the National Computational Merit Allocation Scheme 2025 (NCMAS 2025), with computational resources provided by NCI Australia, an NCRIS-enabled capability supported by the Australian Government. <font color="blue">This paper is currently not publicly available.</font></td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
+		</tr>
 		<tr class="gsc_a_tr" style="background-color:#E5E4E2">
 			<td class="gsc_a_t"><a href=""><strong><span class="gsc_a_at">NA</span></strong></a>
 				<div class="gs_gray">H Jia, W Chen, Z Huang, <strong>L Wang</strong>, H Xiao, N Jia, K Wu, S Lai, B Tian, Y Yue</div>
