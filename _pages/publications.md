@@ -321,6 +321,14 @@ $^\dagger$: Corresponding author.
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href=""><strong><span class="gsc_a_at">NA</span></strong></a>
+				<div class="gs_gray">EK Tenagyei, <strong>L Wang</strong>$^\dagger$, J Zhou, Y Gao, P Koniusz</div>
+				<div class="gs_gray">NA</div>
+			</td>
+			<td class="gsc_a_c">Tenagyei Edwin Kwadwo conducted this work under the supervision of Lei Wang, as part of his PhD research training at at the TIME Lab, Griffith University (TIME@ARC Hub & Griffith). This work was supported by computational resources provided by the Australian Government through the National Computational Infrastructure (NCI) under the CSIRO Allocation Scheme. <font color="blue">This paper is currently not publicly available.</font></td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
+		</tr>
+		<tr class="gsc_a_tr">
+			<td class="gsc_a_t"><a href=""><strong><span class="gsc_a_at">NA</span></strong></a>
 				<div class="gs_gray">X Ding, <strong>L Wang</strong>$^\dagger$, P Koniusz, Y Gao</div>
 				<div class="gs_gray">NA</div>
 			</td>
