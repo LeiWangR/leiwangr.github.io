@@ -317,6 +317,9 @@ $^\dagger$: Corresponding author.
 <!-- <p>&nbsp;</p> -->
 <h2>arXiv preprints</h2>
 <!-- Below is a list of the <em>currently available</em> arXiv preprints. -->
+
+Please note that arXiv papers have not been peer-reviewed and should be considered as preliminary versions of research, subject to revision upon formal review and publication.
+
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr">
