@@ -38,6 +38,7 @@ I am also working to bridge the gap between academic research and industry resea
 * *17/02/2025-<font color="blue">present</font>*: **Research Fellow** (Grade 2)
   * ARC Industrial Transformation Research Hub (School of Engineering and Built Environment—Electrical and Electronic Engineering at Griffith University)
   * Postdoc advisor: [Prof. Yongsheng Gao](https://experts.griffith.edu.au/19112-yongsheng-gao) (Griffith University) and [Prof. Piotr Koniusz](https://www.koniusz.com) (Data61/CSIRO & ANU & UNSW)
+  * <font color="red">One paper has been accepted at <strong>BMVC 2025</strong></font>
   * <font color="red">One paper has been accepted to the ICCV 2025 Workshop on "Vision Foundation Models and Generative AI for Accessibility: Challenges and Opportunities"</font>
   * <font color="red">One paper has been accepted at <strong>ACM-MM 2025</strong></font>
   * <font color="red">One paper has been accepted for publication in <strong>IJCV</strong></font>
