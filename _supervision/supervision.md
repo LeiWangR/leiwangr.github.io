@@ -57,7 +57,7 @@ As part of my role at Griffith University, specifically through the TIME@ARC Hub
   * [Arjun Raj](https://arjunraj.com/) (1 x <font color="red"><strong>ICASSP'25</strong></font>), Thesis title: *Tracking high-speed and tiny objects in sports*, *Bachelor of Advanced Computing (R&D) (Honours)*, 2024/07/22 – 2025/05/23 -->
 
 <!-- * I am an **associate supervisor** for three ANU master’s students:
-  * Junliang Ye (1 x <font color="red"><strong>BMVC'25</strong></font>), Thesis title: *FreqSelect: Frequency-Aware Adaptive Filtering*, *Master of Computing (Advanced)*, 2024/07/22 – 2025/05/23
+  * Junliang Ye (1 x <font color="red"><strong>BMVC</strong></font>), Thesis title: *FreqSelect: Frequency-Aware Adaptive Filtering*, *Master of Computing (Advanced)*, 2024/07/22 – 2025/05/23
   * Haodong Yang (1 x <strong>arXiv preprint</strong>), Thesis title: *SRLoRA: Subspace Recomposition in Low-Rank Adaptation via Importance-Based Fusion and Reinitialization*, *Master of Machine Learning and Computer Vision*, 2024/07/22 – 2025/05/23 
   * Meitong Liu, Thesis title: *TBD*, *Master of Computing (Advanced)*, 2024/07/22 – <font color="blue">present</font> -->
 
