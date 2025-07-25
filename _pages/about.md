@@ -86,6 +86,7 @@ He is an IEEE Student Member and an ACM Student Member. -->
 
 I personally do not have any news; the most exciting updates are coming from my talented students!
 
+- 26/07/2025: One paper has been accepted at **BMVC 2025**. Congratulations to <font color="blue">Junliang Ye</font>!
 - 11/07/2025: One paper has been accepted to the ICCV 2025 Workshop on "Vision Foundation Models and Generative AI for Accessibility: Challenges and Opportunities". Congratulations to Sen Fang (Rutgers University)!
 - 08/07/2025: Congratulations to <font color="blue">Xi Ding</font> on being invited by Dr. Miaohua Zhang (Data61/CSIRO) to present his talk, "Echoes in the Model: When Features Reflect Predictions", at Data61's ICVG Reading Group. The presentation is based on his recent work at TIME@ARC Hub&Griffith!
 - 07/07/2025: We’re proud to share that TIME Lab students <font color="blue">Huilin Chen</font> and <font color="blue">Dexuan Ding</font> have started their PhDs at UTS (QS #96 globally, #9 in Australia) and Macquarie University (QS #138 globally, #11 in Australia), respectively. Congratulations to both, we wish them great success!
