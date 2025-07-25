@@ -89,7 +89,7 @@ $^\dagger$: Corresponding author.
 		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://arxiv.org/abs/2505.12552"><strong><span class="gsc_a_at">FreqSelect: Frequency-Aware fMRI-to-Image Reconstruction</span></strong></a>
 				<div class="gs_gray">J Ye, <strong>L Wang</strong>$^\dagger$, MZ Hossain</div>
-				<div class="gs_gray">British Machine Vision Conference (BMVC 2025)</div>
+				<div class="gs_gray">British Machine Vision Conference (<strong>BMVC</strong>)</div>
 			</td>
 			<td class="gsc_a_c">[<font color="red"><strong>A</strong></font>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
