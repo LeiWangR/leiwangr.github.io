@@ -86,6 +86,14 @@ $^\dagger$: Corresponding author.
 <h2>Conferences</h2>
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
+		<tr class="gsc_a_tr">
+			<td class="gsc_a_t"><a href="https://arxiv.org/abs/2505.12552"><strong><span class="gsc_a_at">FreqSelect: Frequency-Aware fMRI-to-Image Reconstruction</span></strong></a>
+				<div class="gs_gray">J Ye, <strong>L Wang</strong>$^\dagger$, MZ Hossain</div>
+				<div class="gs_gray">British Machine Vision Conference (BMVC 2025)</div>
+			</td>
+			<td class="gsc_a_c">[<font color="red"><strong>A</strong></font>]</td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
+		</tr>
 		<tr class="gsc_a_tr" style="background-color:#E5E4E2">
 			<td class="gsc_a_t"><a href="https://www.arxiv.org/abs/2506.02452"><strong><span class="gsc_a_at">ANT: Adaptive Neural Temporal-Aware Text-to-Motion Model</span></strong></a>
 				<div class="gs_gray">W Chen*, K Yu*, H Jia*, K Yuan, B Tian, S Lai, H Xiao, E Zhang, <strong>L Wang</strong>, Y Yue</div>
@@ -386,14 +394,14 @@ Please note that arXiv papers have not been peer-reviewed and should be consider
 			<td class="gsc_a_c">Haodong Yang conducted this research under the supervision of Lei Wang and Md Zakir Hossain as part of his final year master's research project at ANU. This work was supported by computational resources provided by the Pawsey Supercomputing Centre, a high-performance computing facility funded by the Australian Government.</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
 		</tr>
-		<tr class="gsc_a_tr">
+<!-- 		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://arxiv.org/abs/2505.12552"><strong><span class="gsc_a_at">FreqSelect: Frequency-Aware fMRI-to-Image Reconstruction</span></strong></a>
 				<div class="gs_gray">J Ye, <strong>L Wang</strong>$^\dagger$, MZ Hossain</div>
 				<div class="gs_gray">arXiv preprint arXiv:2505.12552</div>
 			</td>
 			<td class="gsc_a_c">Junliang Ye conducted this research under the supervision of Lei Wang and Md Zakir Hossain as part of his final year master's research project at ANU. This work was supported by computational resources provided by the Pawsey Supercomputing Centre, a high-performance computing facility funded by the Australian Government.</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
-		</tr>
+		</tr> -->
 		<!-- <tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2501.02593"><strong><span class="gsc_a_at">Evolving Skeletons: Motion Dynamics in Action Recognition</span></strong></a>
 				<div class="gs_gray">J Qiu, <strong>L Wang</strong>$^\dagger$</div>
