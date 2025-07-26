@@ -84,6 +84,9 @@ $^\dagger$: Corresponding author.
 </table>  
 
 <h2>Conferences</h2>
+
+Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks/) system.
+
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr">
