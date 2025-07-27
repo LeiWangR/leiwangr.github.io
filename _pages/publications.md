@@ -103,9 +103,9 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 		<tr class="gsc_a_tr" style="background-color:#E5E4E2">
 			<td class="gsc_a_t"><a href="https://www.arxiv.org/abs/2506.02452"><strong><span class="gsc_a_at">ANT: Adaptive Neural Temporal-Aware Text-to-Motion Model</span></strong></a>
 				<div class="gs_gray">W Chen*, K Yu*, H Jia*, K Yuan, B Tian, S Lai, H Xiao, E Zhang, <strong>L Wang</strong>, Y Yue</div>
-				<div class="gs_gray">ACM Multimedia (<strong>ACM-MM</strong>) (* denotes equal contribution.)</div>
+				<div class="gs_gray">ACM Multimedia (<strong>ACM-MM</strong>)</div>
 			</td>
-			<td class="gsc_a_c">[<font color="red"><strong>A*</strong></font>]<br><a href="https://github.com/CCSCovenant/ANT" style="color:#000000;">Code</a></td>
+			<td class="gsc_a_c">(* denotes equal contribution.)<br>[<font color="red"><strong>A*</strong></font>]<br><a href="https://github.com/CCSCovenant/ANT" style="color:#000000;">Code</a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
 		</tr>
 		<tr class="gsc_a_tr">
@@ -119,7 +119,7 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 		<tr class="gsc_a_tr" style="background-color:#FFFFE0"> 
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2409.14543"><strong><span class="gsc_a_at">TrackNetV4: Enhancing Fast Sports Object Tracking with Motion Attention Maps</span></strong></a>
 				<div class="gs_gray">A Raj, <strong>L Wang</strong>$^\dagger$, T Gedeon</div>
-				<div class="gs_gray">IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</div>
+				<div class="gs_gray">IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 1-5</div>
 			</td>
 			<td class="gsc_a_c">[<font color="red"><strong>B</strong></font>]<br><a href="https://github.com/TrackNetV4/TrackNetV4" style="color:#000000;">Code</a>, <a href="https://tracknetv4.github.io/" style="color:#000000;">Project website</a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
@@ -127,7 +127,7 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 		<tr class="gsc_a_tr" style="background-color:#FFFFE0"> 
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2402.04857"><strong><span class="gsc_a_at">Advancing Video Anomaly Detection: A Concise Review and a New Dataset</span></strong></a>
 				<div class="gs_gray">L Zhu, <strong>L Wang</strong>$^\dagger$, A Raj, T Gedeon, C Chen</div>
-				<div class="gs_gray">Advances in Neural Information Processing Systems (<strong>NeurIPS</strong>)</div>
+				<div class="gs_gray">Advances in Neural Information Processing Systems (<strong>NeurIPS</strong>), 89943-89977</div>
 			</td>
 			<td class="gsc_a_c">[<font color="red"><strong>A*</strong></font>]<br><a href="https://github.com/Tom-roujiang/MSAD" style="color:#000000;">Code</a>, <a href="https://time.griffith.edu.au/paper-sites/msad/" style="color:#000000;">Project website</a>, <a href="https://leiwangr.github.io/files/97585.png" style="color:#000000;">Poster</a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
@@ -135,7 +135,7 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 		<tr class="gsc_a_tr" style="background-color:#FFFFE0">
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2407.03179"><strong><span class="gsc_a_at">Motion meets Attention: Video Motion Prompts</span></strong></a>
 				<div class="gs_gray">Q Chen, <strong>L Wang</strong>$^\dagger$, P Koniusz, T Gedeon</div>
-				<div class="gs_gray">Asian Conference on Machine Learning (<strong>ACML</strong>)</div>
+				<div class="gs_gray">Asian Conference on Machine Learning (<strong>ACML</strong>), 591-606</div>
 			</td>
 			<td class="gsc_a_c">[<font color="red">Long presentation, <br>Conf. track: 20.11% accept.,<br>6.52% long pres.</font>]<br><a href="https://github.com/q1xiangchen/VMPs" style="color:#000000;">Code</a>, <a href="https://time.griffith.edu.au/paper-sites/motion-prompts/" style="color:#000000;">Project website</a>, <a href="https://leiwangr.github.io/files/u7227010_poster.png" style="color:#000000;">Poster</a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
@@ -143,15 +143,15 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 		<tr class="gsc_a_tr" style="background-color:#E5E4E2">
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2405.01461"><strong><span class="gsc_a_at">SATO: Stable Text-to-Motion Framework</span></strong></a>
 				<div class="gs_gray">W Chen*, H Xiao*, E Zhang*, L Hu, <strong>L Wang</strong>, M Liu, C Chen</div>
-				<div class="gs_gray">ACM Multimedia (<strong>ACM-MM</strong>) (* denotes equal contribution.)</div>
+				<div class="gs_gray">ACM Multimedia (<strong>ACM-MM</strong>), 6989 - 6997</div>
 			</td>
-			<td class="gsc_a_c">[<font color="red"><strong>A*</strong></font>]<br><a href="https://github.com/sato-team/Stable-Text-to-motion-Framework" style="color:#000000;">Code</a>, <a href="https://sato-team.github.io/Stable-Text-to-Motion-Framework/" style="color:#000000;">Project website</a></td>
+			<td class="gsc_a_c">(* denotes equal contribution.)<br>[<font color="red"><strong>A*</strong></font>]<br><a href="https://github.com/sato-team/Stable-Text-to-motion-Framework" style="color:#000000;">Code</a>, <a href="https://sato-team.github.io/Stable-Text-to-Motion-Framework/" style="color:#000000;">Project website</a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
 		</tr>
 		<tr class="gsc_a_tr"> <!--  style="background-color:#E0FFFF" -->
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2310.05615.pdf"><strong><span class="gsc_a_at">Adaptive Multi-head Contrastive Learning</span></strong></a>
 				<div class="gs_gray"><strong>L Wang</strong>$^\dagger$, P Koniusz, T Gedeon, L Zheng</div>
-				<div class="gs_gray">European Conference on Computer Vision (<strong>ECCV</strong>)</div>
+				<div class="gs_gray">European Conference on Computer Vision (<strong>ECCV</strong>), 404-421</div>
 			</td>
 			<td class="gsc_a_c">[<font color="red"><strong>A*</strong></font>]<br><a href="https://github.com/LeiWangR/cl" style="color:#000000;">Code</a>, <a href="https://leiwangr.github.io/files/eccv24_poster.pdf" style="color:#000000;">Poster </a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
@@ -159,7 +159,7 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 		<tr class="gsc_a_tr"> 
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2402.03019.pdf"><strong><span class="gsc_a_at">Taylor Videos for Action Recognition</span></strong></a>
 				<div class="gs_gray"><strong>L Wang</strong>$^\dagger$, X Yuan, T Gedeon, L Zheng</div>
-				<div class="gs_gray">International Conference on Machine Learning (<strong>ICML</strong>)</div>
+				<div class="gs_gray">International Conference on Machine Learning (<strong>ICML</strong>), 52117-52133</div>
 			</td>
 			<td class="gsc_a_c">[<font color="red"><strong>A*</strong></font>]<br><a href="https://github.com/LeiWangR/video-ar" style="color:#000000;">Code</a>, <a href="https://leiwangr.github.io/files/icml24-poster.pdf" style="color:#000000;">Poster </a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
