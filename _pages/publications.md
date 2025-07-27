@@ -336,44 +336,36 @@ Please note that arXiv papers have not been peer-reviewed and should be consider
 
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
-		<tr class="gsc_a_tr">
+<!-- 		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href=""><strong><span class="gsc_a_at">NA</span></strong></a>
 				<div class="gs_gray">EK Tenagyei, <strong>L Wang</strong>$^\dagger$, J Zhou, Y Gao, P Koniusz</div>
 				<div class="gs_gray">NA</div>
 			</td>
 			<td class="gsc_a_c">Tenagyei Edwin Kwadwo conducted this work under the supervision of Lei Wang, as part of his PhD research training at at the TIME Lab, Griffith University (TIME@ARC Hub & Griffith). This work was supported by computational resources provided by the Australian Government through the National Computational Infrastructure (NCI) under the CSIRO Allocation Scheme. <font color="blue">This paper is currently not publicly available.</font></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
-		</tr>
-		<tr class="gsc_a_tr">
+		</tr> -->
+<!-- 		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href=""><strong><span class="gsc_a_at">NA</span></strong></a>
 				<div class="gs_gray">X Ding, <strong>L Wang</strong>$^\dagger$, P Koniusz, Y Gao</div>
 				<div class="gs_gray">NA</div>
 			</td>
 			<td class="gsc_a_c">Xi Ding conducted this work under the supervision of Lei Wang, as part of his role as an ARC Hub Research Scholar at Griffith University (TIME@ARC Hub & Griffith). This work was supported by computational resources provided by the Australian Government through the National Computational Infrastructure (NCI) under the CSIRO Allocation Scheme. <font color="blue">This paper is currently not publicly available.</font></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
-		</tr>
-		<tr class="gsc_a_tr">
+		</tr> -->
+<!-- 		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href=""><strong><span class="gsc_a_at">NA</span></strong></a>
 				<div class="gs_gray">W Diao, <strong>L Wang</strong>$^\dagger$, A Busch, J Zhou, Y Gao</div>
 				<div class="gs_gray">NA</div>
 			</td>
 			<td class="gsc_a_c">Wenxiang Diao conducted this work under the supervision of Lei Wang as part of his role as a Research Intern at the TIME Lab, Griffith University (TIME@ARC Hub & Griffith). This work was supported by the National Computational Merit Allocation Scheme 2025 (NCMAS 2025), with computational resources provided by NCI Australia, an NCRIS-enabled capability supported by the Australian Government. <font color="blue">This paper is currently not publicly available.</font></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
-		</tr>
-		<tr class="gsc_a_tr" style="background-color:#E5E4E2">
+		</tr> -->
+<!-- 		<tr class="gsc_a_tr" style="background-color:#E5E4E2">
 			<td class="gsc_a_t"><a href=""><strong><span class="gsc_a_at">NA</span></strong></a>
 				<div class="gs_gray">H Jia, W Chen, Z Huang, <strong>L Wang</strong>, H Xiao, N Jia, K Wu, S Lai, B Tian, Y Yue</div>
 				<div class="gs_gray">NA</div>
 			</td>
 			<td class="gsc_a_c">Wenshuo Chen will begin his PhD studies in Fall 2025 at the Hong Kong University of Science and Technology (HKUST Guangzhou), under the supervision of Associate Professor Yutao Yue. <font color="blue">This paper is currently not publicly available.</font> </td>
-			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
-		</tr>
-<!-- 		<tr class="gsc_a_tr" style="background-color:#E5E4E2">
-			<td class="gsc_a_t"><a href="https://www.arxiv.org/abs/2506.02452"><strong><span class="gsc_a_at">ANT: Adaptive Neural Temporal-Aware Text-to-Motion Model</span></strong></a>
-				<div class="gs_gray">W Chen*, K Yu*, H Jia*, K Yuan, B Tian, S Lai, H Xiao, E Zhang, <strong>L Wang</strong>, Y Yue</div>
-				<div class="gs_gray">arXiv preprint arXiv:2506.02452</div>
-			</td>
-			<td class="gsc_a_c">*Equal contribution. Research report. Wenshuo Chen will begin his PhD studies in Fall 2025 at the Hong Kong University of Science and Technology (HKUST Guangzhou), under the supervision of Associate Professor Yutao Yue. [<a href="https://github.com/CCSCovenant/ANT" style="color:#000000;">Code</a>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
 		</tr> -->
 		<tr class="gsc_a_tr">
@@ -401,37 +393,13 @@ Please note that arXiv papers have not been peer-reviewed and should be consider
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
 		</tr>
 <!-- 		<tr class="gsc_a_tr">
-			<td class="gsc_a_t"><a href="https://arxiv.org/abs/2505.12552"><strong><span class="gsc_a_at">FreqSelect: Frequency-Aware fMRI-to-Image Reconstruction</span></strong></a>
-				<div class="gs_gray">J Ye, <strong>L Wang</strong>$^\dagger$, MZ Hossain</div>
-				<div class="gs_gray">arXiv preprint arXiv:2505.12552</div>
-			</td>
-			<td class="gsc_a_c">Junliang Ye conducted this research under the supervision of Lei Wang and Md Zakir Hossain as part of his final year master's research project at ANU. This work was supported by computational resources provided by the Pawsey Supercomputing Centre, a high-performance computing facility funded by the Australian Government.</td>
-			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
-		</tr> -->
-		<!-- <tr class="gsc_a_tr">
-			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2501.02593"><strong><span class="gsc_a_at">Evolving Skeletons: Motion Dynamics in Action Recognition</span></strong></a>
-				<div class="gs_gray">J Qiu, <strong>L Wang</strong>$^\dagger$</div>
-				<div class="gs_gray">arXiv preprint arXiv:2501.02593</div>
-			</td>
-			<td class="gsc_a_c">Jushang Qiu conducted this research under the supervision of Lei Wang as part of his final year master's research project at ANU. This work was supported by the National Computational Merit Allocation Scheme 2024 (NCMAS 2024), with computational resources provided by NCI Australia, an NCRIS-enabled capability supported by the Australian Government.</td>
-			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
-		</tr> -->
-		<!-- <tr class="gsc_a_tr">
-			<td class="gsc_a_t"><a href="https://leiwangr.github.io/files/xi-ar.pdf"><strong><span class="gsc_a_at">The Journey of Action Recognition</span></strong></a>
-				<div class="gs_gray">X Ding, <strong>L Wang</strong>$^\dagger$</div>
-				<div class="gs_gray">arXiv preprint</div>
-			</td>
-			<td class="gsc_a_c">Xi Ding, a Research Assistant with the Temporal Intelligence and Motion Extraction (TIME) Lab at ANU, contributed to this work. TIME Lab is a dynamic research team comprising master’s and honours students focused on advancing video processing and motion analysis. This research was conducted under the supervision of Lei Wang.</td>
-			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
-		</tr> -->
-		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href=""><strong><span class="gsc_a_at">NA</span></strong></a>
 				<div class="gs_gray">X Ding, <strong>L Wang</strong>$^\dagger$, P Koniusz, Y Gao</div>
 				<div class="gs_gray">NA</div>
 			</td>
 			<td class="gsc_a_c">Xi Ding conducted this work under the supervision of Lei Wang, as part of his role as an ARC Hub Research Scholar at Griffith University (TIME@ARC Hub & Griffith). This work was supported by computational resources provided by the Australian Government through the National Computational Infrastructure (NCI) under the ANU Merit Allocation Scheme. Additional support was provided through the NCI CSIRO Allocation Scheme. <font color="blue">This paper is currently not publicly available.</font></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
-		</tr>
+		</tr> -->
 		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2506.23863"><strong><span class="gsc_a_at">Puzzles: Unbounded Video-Depth Augmentation for Scalable End-to-End 3D Reconstruction
 </span></strong></a>
@@ -441,14 +409,14 @@ Please note that arXiv papers have not been peer-reviewed and should be consider
 			<td class="gsc_a_c">Jiahao Ma is a PhD candidate at the Australian National University (ANU) and Data61/CSIRO, formally supervised by Miaomiao Liu, David Ahmedt Aristizabal, and Chuong Nguyen. Lei Wang provides informal co-supervision, offering ongoing academic guidance and support throughout the project. [<a href="https://github.com/Jiahao-Ma/puzzles-code" style="color:#000000;">Code</a>, <a href="https://jiahao-ma.github.io/puzzles/" style="color:#000000;">Project website</a>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
 		</tr>
-		<tr class="gsc_a_tr">
+<!-- 		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href=""><strong><span class="gsc_a_at">NA</span></strong></a>
 				<div class="gs_gray">X Ding, <strong>L Wang</strong>$^\dagger$, Y Gao, P Koniusz</div>
 				<div class="gs_gray">NA</div>
 			</td>
 			<td class="gsc_a_c">Xi Ding conducted this work under the supervision of Lei Wang, as part of his role as an ARC Hub Research Scholar at Griffith University (TIME@ARC Hub & Griffith). This work was supported by computational resources provided by the Australian Government through the National Computational Infrastructure (NCI) under the ANU Merit Allocation Scheme. Additional support was provided through the NCI CSIRO Allocation Scheme. <font color="blue">This paper is currently not publicly available.</font></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
-		</tr>
+		</tr> -->
 		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2412.18298"><strong><span class="gsc_a_at">Quo Vadis, Anomaly Detection? LLMs and VLMs in the Spotlight</span></strong></a>
 				<div class="gs_gray">X Ding, <strong>L Wang</strong>$^\dagger$</div>
@@ -457,14 +425,6 @@ Please note that arXiv papers have not been peer-reviewed and should be consider
 			<td class="gsc_a_c">Xi Ding, a Research Assistant with the Temporal Intelligence and Motion Extraction (TIME) Lab at ANU, contributed to this work. TIME Lab is a dynamic research team comprising master’s and honours students focused on advancing video processing and motion analysis. This research was conducted under the supervision of Lei Wang. [<a href="https://github.com/Darcyddx/VAD-LLM" style="color:#000000;">Code</a>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
 		</tr>
-		<!-- <tr class="gsc_a_tr">
-			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2412.13845"><strong><span class="gsc_a_at">Do Language Models Understand Time?</span></strong></a>
-				<div class="gs_gray">X Ding, <strong>L Wang</strong>$^\dagger$</div>
-				<div class="gs_gray">arXiv preprint arXiv:2412.13845</div>
-			</td>
-			<td class="gsc_a_c">Xi Ding, a Research Assistant with the Temporal Intelligence and Motion Extraction (TIME) Lab at ANU, contributed to this work. TIME Lab is a dynamic research team comprising master’s and honours students focused on advancing video processing and motion analysis. This research was conducted under the supervision of Lei Wang. [<a href="https://github.com/Darcyddx/Video-LLM" style="color:#000000;">Code</a>]</td>
-			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
-		</tr> -->
 		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2411.15284"><strong><span class="gsc_a_at">When Spatial meets Temporal in Action Recognition</span></strong></a>
 				<div class="gs_gray">H Chen, <strong>L Wang</strong>$^\dagger$, Y Chen, T Gedeon, P Koniusz</div>
@@ -473,62 +433,6 @@ Please note that arXiv papers have not been peer-reviewed and should be consider
 			<td class="gsc_a_c">Huilin Chen conducted this research under the supervision of Lei Wang for her final year honors research project at ANU. This work was supported by the National Computational Merit Allocation Scheme 2024 (NCMAS 2024), with computational resources provided by NCI Australia, an NCRIS-enabled capability supported by the Australian Government.</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
 		</tr>
-		<!-- <tr class="gsc_a_tr">
-			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2410.01506"><strong><span class="gsc_a_at">LEGO: Learnable Expansion of Graph Operators for Multi-Modal Feature Fusion</span></strong></a>
-				<div class="gs_gray">D Ding, <strong>L Wang</strong>$^\dagger$, L Zhu, T Gedeon, P Koniusz</div>
-				<div class="gs_gray">arXiv preprint arXiv:2410.01506</div>
-			</td>
-			<td class="gsc_a_c">Dexuan Ding conducted this research under the supervision of Lei Wang as part of his final year honors project at ANU. We extend our gratitude to Qixiang Chen for reviewing the model code and producing excellent plots. This work was also supported by the NCI National AI Flagship Merit Allocation Scheme, and the National Computational Merit Allocation Scheme 2024 (NCMAS 2024), with computational resources provided by NCI Australia, an NCRIS-enabled capability supported by the Australian Government.</td>
-			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
-		</tr> -->
-		<!-- <tr class="gsc_a_tr" style="background-color:#FFFFE0">
-			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2409.14543"><strong><span class="gsc_a_at">TrackNetV4: Enhancing Fast Sports Object Tracking with Motion Attention Maps</span></strong></a>
-				<div class="gs_gray">A Raj, <strong>L Wang</strong>$^\dagger$, T Gedeon</div>
-				<div class="gs_gray">arXiv preprint arXiv:2409.14543</div>
-			</td>
-			<td class="gsc_a_c">Arjun Raj conducted this research under the supervision of Lei Wang for his COMP3770 Computing Research Project (R&D) at ANU. He is a recipient of research sponsorship from Active Intelligence Australia Pty Ltd in Perth, Western Australia, including The Active Intelligence Research Challenge Award. [<a href="https://time.griffith.edu.au/paper-sites/tracknet-v4/" style="color:#000000;">Project website</a>]</td>
-			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
-		</tr> -->
-		<!-- <tr class="gsc_a_tr" style="background-color:#FFFFE0">
-			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2407.03179"><strong><span class="gsc_a_at">Motion meets Attention: Video Motion Prompts</span></strong></a>
-				<div class="gs_gray">Q Chen, <strong>L Wang</strong>, P Koniusz, T Gedeon</div>
-				<div class="gs_gray">arXiv preprint arXiv:2407.03179</div>
-			</td>
-			<td class="gsc_a_c">Qixiang Chen conducted this research under the supervision of Lei Wang for his final year honors research project at ANU. He is a recipient of research sponsorship from Active Intelligence Australia Pty Ltd in Perth, Western Australia, including The Active Intelligence Research Challenge Award. [<a href="https://q1xiangchen.github.io/motion-prompts/" style="color:#000000;">Project website</a>]</td>
-			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
-		</tr> -->
-		<!-- <tr class="gsc_a_tr">
-			<td class="gsc_a_t"><a href=""><strong><span class="gsc_a_at">Feature Hallucination for Self-supervised Action Recognition</span></strong></a>
-				<div class="gs_gray"><strong>L Wang</strong>, P Koniusz</div>
-				<div class="gs_gray">NA</div>
-			</td>
-			<td class="gsc_a_c">First-round journal review received, now in revision.</td>
-			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
-		</tr> -->
-		<!-- <tr class="gsc_a_tr" style="background-color:#FFFFE0">
-			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2402.04857.pdf"><strong><span class="gsc_a_at">Advancing Video Anomaly Detection: A Concise Review and a New Dataset</span></strong></a>
-				<div class="gs_gray">L Zhu, <strong>L Wang</strong>, A Raj, T Gedeon, C Chen</div>
-				<div class="gs_gray">arXiv preprint arXiv:2402.04857</div>
-			</td>
-			<td class="gsc_a_c">Liyun Zhu conducted this research under the supervision of Lei Wang for master's final year research project at ANU. Liyun Zhu and Arjun Raj are recipients of research sponsorship from Active Intelligence Australia Pty Ltd in Perth, Western Australia, which includes The Active Intelligence Research Challenge Award. [<a href="https://msad-dataset.github.io" style="color:#000000;">Project website</a>]</td>
-			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
-		</tr> -->
-		<!-- <tr class="gsc_a_tr" style="background-color:#E5E4E2">
-			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2405.01461"><strong><span class="gsc_a_at">SATO: Stable Text-to-Motion Framework</span></strong></a>
-				<div class="gs_gray">W Chen*, H Xiao*, E Zhang*, L Hu, <strong>L Wang</strong>, M Liu, C Chen</div>
-				<div class="gs_gray">arXiv preprint arXiv:2405.01461</div>
-			</td>
-			<td class="gsc_a_c">*Equal contribution. Research report. [<a href="https://github.com/sato-team/Stable-Text-to-motion-Framework" style="color:#000000;">Code</a>, <a href="https://sato-team.github.io/Stable-Text-to-Motion-Framework/" style="color:#000000;">Project website</a>]</td>
-			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
-		</tr> -->
-<!-- 		<tr class="gsc_a_tr" style="background-color:#E5E4E2">
-			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2405.10718"><strong><span class="gsc_a_at">SignLLM: Sign Languages Production Large Language Models</span></strong></a>
-				<div class="gs_gray">S Fang, C Chen, <strong>L Wang</strong>, C Zheng, C Sui, Y Tian</div>
-				<div class="gs_gray">arXiv preprint arxiv:2405.10718</div>
-			</td>
-			<td class="gsc_a_c">Research report. [<a href="https://signllm.github.io" style="color:#000000;">Project website</a>]</td>
-			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
-		</tr> -->
 		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2404.13016.pdf"><strong><span class="gsc_a_at">Optimizing Calibration by Gaining Aware of Prediction Correctness</span></strong></a>
 				<div class="gs_gray">Y Liu, <strong>L Wang</strong>, Y Zou, J Zou, L Zheng</div>
@@ -537,14 +441,6 @@ Please note that arXiv papers have not been peer-reviewed and should be consider
 			<td class="gsc_a_c">Research report. [<a href="https://github.com/liuyvchi/Correctness-aware-calibration" style="color:#000000;">Code</a>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
 		</tr>
-		<!-- <tr class="gsc_a_tr">
-			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2402.03019.pdf"><strong><span class="gsc_a_at">Taylor Videos for Action Recognition</span></strong></a>
-				<div class="gs_gray"><strong>L Wang</strong>, X Yuan, T Gedeon, L Zheng</div>
-				<div class="gs_gray">arXiv preprint arXiv:2402.03019</div>
-			</td>
-			<td class="gsc_a_c">Xiuyuan Yuan conducted the research under the supervision of Dr. Lei Wang in the ANU Summer Scholars Program and is supported by a Summer Research Internship provided by the ANU School of Computing. [<a href="https://github.com/LeiWangR/video-ar" style="color:#000000;">Code</a>]</td>
-			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
-		</tr> -->
 		<tr class="gsc_a_tr" style="background-color:#E0FFFF">
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2112.12668.pdf"><strong><span class="gsc_a_at">3D Skeleton-based Few-shot Action Recognition with JEANIE is not so Naïve</span></strong></a>
 				<div class="gs_gray"><strong>L Wang</strong>, J Liu, P Koniusz</div>
