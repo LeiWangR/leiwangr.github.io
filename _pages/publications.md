@@ -38,6 +38,9 @@ a:active {
 $^\dagger$: Corresponding author.
 
 <h2>Journals</h2>
+
+Journal impact factors follow the [Clarivate JCR 2023](https://jcr.clarivate.com) system.
+
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr">
@@ -45,7 +48,7 @@ $^\dagger$: Corresponding author.
 				<div class="gs_gray"><strong>L Wang</strong>$^\dagger$, P Koniusz</div>
 				<div class="gs_gray">International Journal of Computer Vision (<strong>IJCV</strong>), 1-34</div>
 			</td>
-			<td class="gsc_a_c">(Extension of our ICCV'19 and ACMMM'21)<br>[<font color="red"><strong>IF: 19.5</strong></font>]</td>
+			<td class="gsc_a_c">(Extension of our ICCV'19 and ACMMM'21)<br>[<font color="red"><strong>IF: 11.6</strong></font>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
 		</tr>
 		<tr class="gsc_a_tr" style="background-color:#E0FFFF"> 
@@ -53,7 +56,7 @@ $^\dagger$: Corresponding author.
 				<div class="gs_gray"><strong>L Wang</strong>$^\dagger$, J Liu, L Zheng, T Gedeon, P Koniusz</div>
 				<div class="gs_gray">International Journal of Computer Vision (<strong>IJCV</strong>), 4091–4122</div>
 			</td>
-			<td class="gsc_a_c">(IJCV special issue on our ACCV'22)<br>[<font color="red"><strong>IF: 19.5</strong></font>] <br><a href="https://github.com/LeiWangR/JEANIE" style="color:#000000;"> Code </a></td>
+			<td class="gsc_a_c">(IJCV special issue on our ACCV'22)<br>[<font color="red"><strong>IF: 11.6</strong></font>] <br><a href="https://github.com/LeiWangR/JEANIE" style="color:#000000;"> Code </a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
 		</tr>
                 <tr class="gsc_a_tr" style="background-color:#E5E4E2">
@@ -61,7 +64,7 @@ $^\dagger$: Corresponding author.
 				<div class="gs_gray">Z Qin, Y Liu, P Ji, D Kim, <strong>L Wang</strong>, B McKay, S Anwar, T Gedeon</div>
 				<div class="gs_gray">IEEE Transactions on Neural Networks and Learning Systems (<strong>TNNLS</strong>), 4783-4797</div>
 			</td>
-			<td class="gsc_a_c">[<strong><font color="red">IF: 14.255</font></strong>]<br><a href="https://github.com/harutatsuakiyama/Angular-Skeleton-Encoding" style="color:#000000;">Code</a></td>
+			<td class="gsc_a_c">[<strong><font color="red">IF: 10.2</font></strong>]<br><a href="https://github.com/harutatsuakiyama/Angular-Skeleton-Encoding" style="color:#000000;">Code</a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2021</span></td>
 		</tr>
                 <tr class="gsc_a_tr" style="background-color:#E0FFFF">
@@ -69,7 +72,7 @@ $^\dagger$: Corresponding author.
 				<div class="gs_gray">P Koniusz,<strong> L Wang</strong>, A Cherian</div>
 				<div class="gs_gray">IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</strong>) 44 (2), 648-665</div>
 			</td>
-			<td class="gsc_a_c">[<strong><font color="red">IF: 24.314</font></strong>]</td>
+			<td class="gsc_a_c">[<strong><font color="red">IF: 20.8</font></strong>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2020</span></td>
 		</tr>
                 <tr class="gsc_a_tr" style="background-color:#E0FFFF">
@@ -77,7 +80,7 @@ $^\dagger$: Corresponding author.
 				<div class="gs_gray"><strong>L Wang</strong>$^\dagger$, DQ Huynh, P Koniusz</div>
 				<div class="gs_gray">IEEE Transactions on Image Processing (<strong>TIP</strong>) 29 (1), 15-28</div>
 			</td>
-			<td class="gsc_a_c">[<strong><font color="red">IF: 11.041</font></strong>]<br><a href="https://github.com/LeiWangR/HDG" style="color:#000000;">Dataset & Code</a></td>
+			<td class="gsc_a_c">[<strong><font color="red">IF: 10.8</font></strong>]<br><a href="https://github.com/LeiWangR/HDG" style="color:#000000;">Dataset & Code</a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2020</span></td>
 		</tr>
         </tbody>
