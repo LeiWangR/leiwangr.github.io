@@ -44,6 +44,14 @@ Journal impact factors follow the [Clarivate JCR 2023](https://jcr.clarivate.com
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr">
+			<td class="gsc_a_t"><a href="https://arxiv.org/abs/2505.16702"><strong><span class="gsc_a_at">Truth and Trust: Fake News Detection via Biosignals</span></strong></a>
+				<div class="gs_gray">G Nguyen, <strong>L Wang</strong>, Y Jiang, T Gedeon</div>
+				<div class="gs_gray">arXiv preprint arXiv:2505.16702</div>
+			</td>
+			<td class="gsc_a_c">Under major revision</td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
+		</tr>
+		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2506.20342"><strong><span class="gsc_a_at">Feature Hallucination for Self-supervised Action Recognition</span></strong></a>
 				<div class="gs_gray"><strong>L Wang</strong>$^\dagger$, P Koniusz</div>
 				<div class="gs_gray">International Journal of Computer Vision (<strong>IJCV</strong>), 1-34</div>
@@ -368,14 +376,14 @@ Please note that arXiv papers have not been peer-reviewed and should be consider
 			<td class="gsc_a_c">Wenshuo Chen will begin his PhD studies in Fall 2025 at the Hong Kong University of Science and Technology (HKUST Guangzhou), under the supervision of Associate Professor Yutao Yue. <font color="blue">This paper is currently not publicly available.</font> </td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
 		</tr> -->
-		<tr class="gsc_a_tr">
+<!-- 		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://arxiv.org/abs/2505.16702"><strong><span class="gsc_a_at">Truth and Trust: Fake News Detection via Biosignals</span></strong></a>
 				<div class="gs_gray">G Nguyen, <strong>L Wang</strong>, Y Jiang, T Gedeon</div>
 				<div class="gs_gray">arXiv preprint arXiv:2505.16702</div>
 			</td>
 			<td class="gsc_a_c">Gennie Nguyen conducted this research under the supervision of Lei Wang and Tom Gedeon as part of her final year master's research project at ANU. </td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
-		</tr>
+		</tr> -->
 		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://arxiv.org/abs/2505.16730"><strong><span class="gsc_a_at">Detecting Fake News Belief via Skin and Blood Flow Signals</span></strong></a>
 				<div class="gs_gray">G Nguyen, <strong>L Wang</strong>, Y Jiang, T Gedeon</div>
