@@ -86,6 +86,7 @@ He is an IEEE Student Member and an ACM Student Member. -->
 
 I personally do not have any news; the most exciting updates are coming from my talented students!
 
+- 01/08/2025: One paper has been accepted for **oral** presentation at the **ACMMM 2025** Brave New Ideas (BNI) Track. Congratulations to Jia Haozhe, Wenshuo Chen, Huang Zhihui, Hongru Xiao, Jia Nanqian, Keming Wu, Songning Lai, and Bowen Tian.
 - 26/07/2025: One paper has been accepted at **BMVC 2025**. Congratulations to <font color="blue">Junliang Ye</font>!
 - 11/07/2025: One paper has been accepted to the ICCV 2025 Workshop on "Vision Foundation Models and Generative AI for Accessibility: Challenges and Opportunities". Congratulations to Sen Fang (Rutgers University)!
 - 08/07/2025: Congratulations to <font color="blue">Xi Ding</font> on being invited by Dr. Miaohua Zhang (Data61/CSIRO) to present his talk, "Echoes in the Model: When Features Reflect Predictions", at Data61's ICVG Reading Group. The presentation is based on his recent work at TIME@ARC Hub&Griffith!
