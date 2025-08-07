@@ -118,7 +118,7 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 		</tr>
 		<tr class="gsc_a_tr" style="background-color:#E5E4E2">
 			<td class="gsc_a_t"><a href="https://www.arxiv.org/abs/2506.02452"><strong><span class="gsc_a_at">ANT: Adaptive Neural Temporal-Aware Text-to-Motion Model</span></strong></a>
-				<div class="gs_gray">W Chen*, K Yu*, H Jia*, K Yuan, B Tian, S Lai, H Xiao, E Zhang, <strong>L Wang</strong>, Y Yue</div>
+				<div class="gs_gray">W Chen*, K Yu*, H Jia*, K Yuan, Z Huang, B Tian, S Lai, H Xiao, E Zhang, <strong>L Wang</strong>, Y Yue</div>
 				<div class="gs_gray">ACM Multimedia (<strong>ACM-MM</strong>)</div>
 			</td>
 			<td class="gsc_a_c">(* denotes equal contribution.)<br>[<font color="red"><strong>A*</strong></font>]<br><a href="https://github.com/CCSCovenant/ANT" style="color:#000000;">Code</a></td>
