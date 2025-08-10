@@ -262,7 +262,7 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://dl.acm.org/doi/pdf/10.1145/3701716.3717746"><strong><span class="gsc_a_at">The Journey of Action Recognition</span></strong></a>
 				<div class="gs_gray">X Ding, <strong>L Wang</strong>$^\dagger$</div>
-				<div class="gs_gray">Companion Proceedings of the ACM Web Conference 2025</div>
+				<div class="gs_gray">Companion Proceedings of the ACM Web Conference 2025, 1869-1884</div>
 			</td>
 			<td class="gsc_a_c">[<font color="red">Oral, <strong>Best Paper Award</strong></font>]<br><a href="https://leiwangr.github.io/files/Transformative Insight Award.pdf" style="color:#000000;">Award certificate</a><br><a href="https://github.com/Darcyddx/Video-Action-Recognition" style="color:#000000;">Code</a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
@@ -270,7 +270,7 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://dl.acm.org/doi/pdf/10.1145/3701716.3717744"><strong><span class="gsc_a_at">Do Language Models Understand Time?</span></strong></a>
 				<div class="gs_gray">X Ding, <strong>L Wang</strong>$^\dagger$</div>
-				<div class="gs_gray">Companion Proceedings of the ACM Web Conference 2025</div>
+				<div class="gs_gray">Companion Proceedings of the ACM Web Conference 2025, 1855-1868</div>
 			</td>
 			<td class="gsc_a_c"><font color="red">Oral</font> <br> <a href="https://github.com/Darcyddx/Video-LLM" style="color:#000000;">Code</a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
@@ -278,7 +278,7 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://dl.acm.org/doi/pdf/10.1145/3701716.3717739"><strong><span class="gsc_a_at">Evolving Skeletons: Motion Dynamics in Action Recognition</span></strong></a>
 				<div class="gs_gray">J Qiu, <strong>L Wang</strong>$^\dagger$</div>
-				<div class="gs_gray">Companion Proceedings of the ACM Web Conference 2025</div>
+				<div class="gs_gray">Companion Proceedings of the ACM Web Conference 2025, 1916-1937</div>
 			</td>
 			<td class="gsc_a_c">Poster</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
@@ -286,7 +286,7 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://dl.acm.org/doi/pdf/10.1145/3701716.3717748"><strong><span class="gsc_a_at">TIME 2025: 1st International Workshop on Transformative Insights in Multi-faceted Evaluation</span></strong></a>
 				<div class="gs_gray"><strong>L Wang</strong>$^\dagger$, MZ Hossain, S Islam, T Gedeon, S Alghowinem, I Yu, S Bono, X Zhu, G Nguyen, NAH Haldar, SMJ Jalali, MA Razzaque, I Razzak, MR Islam, S Uddin, N Janjua, A Krishna, M Ashraf</div>
-				<div class="gs_gray">Companion Proceedings of the ACM Web Conference 2025</div>
+				<div class="gs_gray">Companion Proceedings of the ACM Web Conference 2025, 1848-1851</div>
 			</td>
 			<td class="gsc_a_c"><a href="https://time.griffith.edu.au/workshop/time2025/" style="color:#000000;">Workshop website</a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
