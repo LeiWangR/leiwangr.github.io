@@ -283,6 +283,14 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 			<td class="gsc_a_c">Poster</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
 		</tr>
+		<tr class="gsc_a_tr">
+			<td class="gsc_a_t"><a href="https://dl.acm.org/doi/pdf/10.1145/3701716.3717748"><strong><span class="gsc_a_at">TIME 2025: 1st International Workshop on Transformative Insights in Multi-faceted Evaluation</span></strong></a>
+				<div class="gs_gray"><strong>L Wang</strong>$^\dagger$, MZ Hossain, S Islam, T Gedeon, S Alghowinem, I Yu, S Bono, X Zhu, G Nguyen, NAH Haldar, SMJ Jalali, MA Razzaque, I Razzak, MR Islam, S Uddin, N Janjua, A Krishna, M Ashraf</div>
+				<div class="gs_gray">Companion Proceedings of the ACM Web Conference 2025</div>
+			</td>
+			<td class="gsc_a_c"><a href="https://time.griffith.edu.au/workshop/time2025/" style="color:#000000;">Workshop website</a></td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
+		</tr>
 	</tbody>
 </table>
 
