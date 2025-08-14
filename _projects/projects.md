@@ -81,6 +81,21 @@ TIME Lab 2024 medal criteria:
 
 <h2>Student Project</h2>
 
+<h3>Project 10: Fully Funded PhD Opportunity – TIME Lab, Griffith University (February 2026 Start) <font color="red">[Ongoing]</font></h3>
+
+A fully funded PhD project is available starting February 2026 to join TIME Lab at ARC Research Hub & Griffith, focusing on video-based AI research. The project aligns with the lab’s vision of developing Green AI, Responsible AI, Trustworthy AI, Interpretable AI, and Transparent AI in video understanding, and will contribute to advancing the next generation of AI methods for responsible and sustainable visual intelligence.
+
+Project focus:
+- Investigating AI approaches for interpretable and trustworthy video analysis
+- Developing transparent and responsible AI methods tailored to video data
+- Aligning with TIME Lab’s research aims of sustainable, ethical, and human-centric AI in multimedia and visual computing
+
+How to enquire:
+- To express your interest or request more information, please email me directly, with Professor Yongsheng Gao cc’d.
+- Interested candidates should include a CV and a brief statement of research interests, emphasizing relevant skills, experience, and alignment with the project and TIME Lab’s research vision.
+
+**Note**: Applicants are expected to demonstrate clear alignment between their expertise and research interests and the objectives of the TIME Lab project, particularly in areas of green, responsible, and interpretable AI for video analysis.
+
 <h3>Project 9: PhD + MPhil 2026 Cohort <font color="red">[Ongoing]</font></h3>
 
 Two fully funded PhD projects and one MPhil project will be available starting February 2026, focusing on fine-grained and ultra-fine-grained visual understanding.
