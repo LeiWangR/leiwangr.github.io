@@ -98,6 +98,12 @@ Appointed as an external examiner for ANU’s Master’s and Honours theses in S
     <th>Date</th>
   </tr>
   <tr>
+    <td>TBD (Knowledge Advancement and Breakthroughs)</a></td>
+    <td><a href="https://www.linkedin.com/in/amy-commins-85ba08184/">Amy Commins</a>, ARC Research Hub Manager <br>ARC Industrial Transformation Research Hub for Driving Farming Productivity and Disease Prevention, <br> Griffith University (Nathan Campus), <br> Brisbane, Australia</td>
+    <td>ARC Research Hub End-of-Project Showcase, <br> Audience: University leadership, Hub researchers, ARC representatives, students, government officials, and industry stakeholders.</td>
+    <td>14 Oct 2025</td>
+  </tr>
+  <tr>
     <td>Enhancing Video Understanding with New Representation & Fusion <a href="https://leiwangr.github.io/files/Griffith_lei_video.pdf">[slides]</a></td>
     <td><a href="https://experts.griffith.edu.au/7205-jun-zhou">Prof. Jun Zhou</a>, <br> School of Information and Communication Technology, <br> Griffith University (Nathan Campus), <br> Brisbane, Australia</td>
     <td>Hyperspectral Video Tracking Research Group</td>
