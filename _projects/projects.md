@@ -85,7 +85,7 @@ TIME Lab 2024 medal criteria:
 
 From TIME to <font color="green">TIME³</font>: TIME³ Lab integrates three levels (i) Temporal Intelligence and Motion Extraction, (ii) Transformative Insights in Multi-faceted Evaluation, and (iii) Transparent, Inclusive, Measured, Ethical AI, pioneering cross-disciplinary research for responsible, insightful, and transformative AI. The lab advances the **TIME³ vision** by building AI that is **T**ransparent, **I**nclusive, **M**easured, and **E**thical, while driving transformative research for deeper insights.
 
-A fully funded PhD project is available starting February 2026 to join TIME Lab at ARC Research Hub & Griffith University, focusing on video-based AI research. The project aligns with the lab’s vision of developing Green AI, Responsible AI, Trustworthy AI, Interpretable AI, and Transparent AI in video understanding, and will contribute to advancing the next generation of AI methods for responsible and sustainable visual intelligence.
+A fully funded PhD project is available starting February 2026 to join TIME Lab at ARC Research Hub & Griffith University, focusing on video-based AI research. The project aligns with the lab’s vision of developing <font color="green">Green</font> AI, Responsible AI, Trustworthy AI, Interpretable AI, and Transparent AI in video understanding, and will contribute to advancing the next generation of AI methods for responsible and sustainable visual intelligence.
 
 Project focus:
 - Investigating AI approaches for interpretable and trustworthy video analysis
