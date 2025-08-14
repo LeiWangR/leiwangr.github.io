@@ -83,25 +83,24 @@ TIME Lab 2024 medal criteria:
 
 <h3>Project 9: PhD + MPhil 2026 Cohort <font color="red">[Ongoing]</font></h3>
 
-Two fully funded PhD projects and one MPhil project will be available starting February 2026.
+Two fully funded PhD projects and one MPhil project will be available starting February 2026, focusing on fine-grained and ultra-fine-grained visual understanding.
 
 How to Enquire:
 
-- To express your interest or request more information, please email ARC Hub Director Professor Yongsheng Gao and me.
-- Interested candidates are encouraged to email a CV and a brief statement of research interests.
+- To express your interest or request more information, please email ARC Hub Director [Professor Yongsheng Gao](https://experts.griffith.edu.au/19112-yongsheng-gao) and me.
+- Interested candidates are encouraged to include a CV and a brief statement of research interests, highlighting relevant skills, experiences, and alignment with the project focus.
 
 How to Apply:
 
-- Please submit your academic transcripts, CV, and a cover letter outlining your motivation and relevant experience.
-- Applications will be reviewed on a rolling basis. Early enquiries are encouraged.
-- For further details or to schedule an informal discussion, please don’t hesitate to get in touch.
+- Submit the following documents: academic transcripts, CV, and a cover letter outlining your motivation, relevant experience, and alignment of your expertise with the project goals.
 
 Application Review Process:
 
-- All applications will be assessed by a selection committee based on academic qualifications, research experience, and the quality of the submitted documents.
-- Shortlisted candidates may be invited for an interview or a further discussion to evaluate their fit for the project.
+- All applications will be assessed by a selection committee based on (i) academic qualifications, (ii) research experience, (iii) alignment of skills, expertise, and proposed research with the project.
+- Shortlisted candidates may be invited for an interview or further discussion to evaluate their suitability and fit for the project.
 - Successful applicants will be notified via email with details about the next steps.
-- The review process aims to be thorough and fair, with decisions typically communicated within 4–6 weeks after the application deadline.
+
+**Note**: Applicants are expected to demonstrate how their research interests, skills, and experience align closely with the objectives of the project. Proposals that clearly connect the candidate’s expertise to the project aims are strongly encouraged.
 
 <h3>Project 8: ARC Research Hub Visiting Scholar (TIME@ARC Hub & Griffith)<font color="red"> [Ongoing]</font></h3>
 
