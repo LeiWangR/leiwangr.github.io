@@ -83,7 +83,7 @@ TIME Lab 2024 medal criteria:
 
 <h3>Project 10: Fully Funded PhD Opportunity – TIME@ARC Hub&Griffith (February 2026 Start) <font color="red">[Ongoing]</font></h3>
 
-From TIME to <font color="green">TIME³</font>: TIME³ Lab integrates three levels (i) Temporal Intelligence and Motion Extraction, (ii) Transformative Insights in Multi-faceted Evaluation, and (iii) Transparent, Inclusive, Measured, Ethical AI, pioneering cross-disciplinary research for responsible, insightful, and transformative AI. The lab advances the **TIME³ vision** by building AI that is **T**ransparent, **I**nclusive, **M**easured, and **E**thical, while driving transformative research for deeper insights.
+From TIME to <font color="green">TIME³</font>: TIME³ Lab integrates three levels (i) Temporal Intelligence and Motion Extraction, (ii) Transformative Insights in Multi-faceted Evaluation, and (iii) Transparent, Inclusive, Measured, Ethical AI, pioneering cross-disciplinary research for responsible, insightful, and transformative AI. The lab advances the <font color="green"><strong>TIME³ vision</strong></font> by building AI that is **T**ransparent, **I**nclusive, **M**easured, and **E**thical, while driving transformative research for deeper insights.
 
 A fully funded PhD project is available starting February 2026 to join TIME Lab at ARC Research Hub & Griffith University, focusing on video-based AI research. The project aligns with the lab’s vision of developing <font color="green">Green</font> AI, Responsible AI, Trustworthy AI, Interpretable AI, and Transparent AI in video understanding, and will contribute to advancing the next generation of AI methods for responsible and sustainable visual intelligence.
 
@@ -96,7 +96,7 @@ How to enquire:
 - To express your interest or request more information, please email me directly, with Professor Yongsheng Gao cc’d.
 - Interested candidates should include a CV and a brief statement of research interests, emphasizing relevant skills, experience, and alignment with the project and TIME Lab’s research vision.
 
-**Note**: Applicants are expected to demonstrate clear alignment between their expertise and research interests and the objectives of the TIME Lab project, particularly in areas of green, responsible, and interpretable AI for video analysis.
+**Note**: Applicants are expected to demonstrate clear alignment between their expertise and research interests and the objectives of the TIME Lab project, particularly in areas of <font color="green">green</font>, responsible, and interpretable AI for video analysis.
 
 <h3>Project 9: PhD + MPhil 2026 Cohort <font color="red">[Ongoing]</font></h3>
 
