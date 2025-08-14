@@ -34,7 +34,7 @@ My contact information is below.
   </tr>
   <tr>
     <th style="width:1px; white-space:nowrap; border: none;">Address/Office</th>
-         <td style="white-space:nowrap; border: none;">N66 1.30E (TIME Lab) <br> Nathan Campus <br> Griffith University <br> Nathan QLD 4111</td>
+         <td style="white-space:nowrap; border: none;">N66 1.30E (<font color="green"><strong>TIME³</strong></font> Lab) <br> Nathan Campus <br> Griffith University <br> Nathan QLD 4111</td>
   </tr>
   <tr>
     <th style="width:1px; white-space:nowrap; border: none;">Office hours</th>
