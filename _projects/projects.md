@@ -98,7 +98,7 @@ How to enquire:
 
 **Note**: Applicants are expected to demonstrate clear alignment between their expertise and research interests and the objectives of the <font color="green"><strong>TIME³</strong></font> Lab project, particularly in areas of <font color="green">green</font>, responsible, and interpretable AI for video analysis.
 
-Please note that only one position is currently available under <font color="green"><strong>TIME³</strong></font>. For further opportunities, please refer to *Project 9* below or to [Dr. Zicheng Pan](https://zichengpan.github.io)’s research group.
+Please note that only one position is currently available under <font color="green"><strong>TIME³</strong></font> group. For further opportunities, please refer to my *Project 9* below or to [Dr. Zicheng Pan](https://zichengpan.github.io)’s research group.
 
 <h3>Project 9: PhD + MPhil 2026 Cohort <font color="red">[Ongoing]</font></h3>
 
