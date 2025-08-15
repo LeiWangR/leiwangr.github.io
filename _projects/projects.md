@@ -81,7 +81,7 @@ TIME Lab 2024 medal criteria:
 
 <h2>Student Project</h2>
 
-<h3>Project 10: Fully Funded PhD Opportunity – <font color="green"><strong>TIME³</strong></font>@ARC Hub&Griffith (February/July 2026 Start) <font color="red">[Ongoing]</font></h3>
+<h3>Project 10: One Fully Funded PhD Opportunity – <font color="green"><strong>TIME³</strong></font>@ARC Hub&Griffith (February/July 2026 Start) <font color="red">[Ongoing]</font></h3>
 
 From TIME to <font color="green"><strong>TIME³</strong></font>: <font color="green"><strong>TIME³</strong></font> Lab integrates three levels (i) Temporal Intelligence and Motion Extraction, (ii) Transformative Insights in Multi-faceted Evaluation, and (iii) Transparent, Inclusive, Measured, Ethical AI, pioneering cross-disciplinary research for responsible, insightful, and transformative AI. The lab advances the <font color="green"><strong>TIME³</strong></font> vision by building AI that is **T**ransparent, **I**nclusive, **M**easured, and **E**thical, while driving transformative research for deeper insights.
 
@@ -98,7 +98,7 @@ How to enquire:
 
 **Note**: Applicants are expected to demonstrate clear alignment between their expertise and research interests and the objectives of the <font color="green"><strong>TIME³</strong></font> Lab project, particularly in areas of <font color="green">green</font>, responsible, and interpretable AI for video analysis.
 
-Please note that only one position is currently available under <font color="green"><strong>TIME³</strong></font> group. For further opportunities, please refer to my *Project 9* below or to [Dr. Zicheng Pan](https://zichengpan.github.io)’s research group.
+Please note that **only one** position is available in the <font color="green"><strong>TIME³</strong></font> group. For additional opportunities, refer to my *Project 9* below or to [Dr. Zicheng Pan](https://zichengpan.github.io)’s research group.
 
 <h3>Project 9: PhD + MPhil 2026 Cohort <font color="red">[Ongoing]</font></h3>
 
