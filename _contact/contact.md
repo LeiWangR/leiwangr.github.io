@@ -51,5 +51,5 @@ My contact information is below.
 
 If I can be of assistance, please contact me [via email](mailto:l.wang4@griffith.edu.au).
 
-TIME (<font color="green"><strong>TIME³</strong></font>) Lab email: time.lab@griffith.edu.au. Please note: *emails are checked and responded to only on Fridays*.
+TIME (<font color="green"><strong>TIME³</strong></font>) Lab email: [time.lab@griffith.edu.au](mailto:time.lab@griffith.edu.au). *We check and reply to emails every Friday*.
 
