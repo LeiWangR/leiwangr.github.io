@@ -136,4 +136,4 @@ I am also working to bridge the gap between academic research and industry resea
   * <font color="red">Filed a provisional <strong>patent</strong> [AU Patent AU 2,019,900,316]</font>
 
 <p>&nbsp;</p>
-<font size="3" color="blue">I would like to express my deepest appreciation to Assoc. Prof. Du Huynh (UWA), Mr. Graeme Woods (now at FinClear), Dr. Moussa Reda Mansour (now at Alcoa), Prof. Piotr Koniusz (Data61/CSIRO & ANU & UNSW), Assoc. Prof. Liang Zheng (ANU), and Prof. Yongsheng Gao (2025 ARC Industry Laureate Fellow, Griffith University). Last updated: 17/02/2025.</font>
+<font size="3" color="blue">I would like to express my deepest appreciation to Assoc. Prof. Du Huynh (UWA), Mr. Graeme Woods (now at FinClear), Dr. Moussa Reda Mansour (now at Alcoa), Prof. Piotr Koniusz (Data61/CSIRO & ANU & UNSW), Assoc. Prof. Liang Zheng (ANU), Prof. Tom Gedeon (Curtin University), and Prof. Yongsheng Gao (2025 ARC Industry Laureate Fellow, Griffith University). Last updated: 17/02/2025.</font>
