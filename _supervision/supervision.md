@@ -63,11 +63,11 @@ As part of my role at Griffith University, specifically through the TIME@ARC Hub
 
 <h2>Completed Supervision</h2>
 
-I have successfully supervised more than ten final-year research students, including master’s, honours, and interns, most of whom have produced arXiv preprints or publications in leading conferences such as ICLR, NeurIPS, and ICML. Their research spans video understanding, temporal modeling, and trustworthy AI.
+I have successfully supervised more than ten final-year research students, including master’s, honours, and interns, most of whom have produced arXiv preprints or publications in leading conferences such as ICLR, NeurIPS, and ICML. Their research spans video understanding, temporal modeling, and trustworthy AI. <font color="blue">First appointment following supervision noted.</font>
 
 * Former master's and honours students (**primary supervision**, TIME@ARC Hub&Griffith):
   * [Xi Ding](https://darcyddx.github.io) (2 x <font color="red">WWW Companion '25</font> including 1 <font color="red"><strong>Best Paper Award</strong></font>, 1 x <strong>arXiv preprint</strong>), Project title: *Do Language Models Understand Time?*, *Master's Student*@ANU, 2024/11/13 – 2025/03/17
-  * [Gennie Nguyen](https://www.gennienguyen.com/) (2 x <strong>arXiv preprint</strong>), Thesis title: *Physiological Signals for Detecting Belief and Truth in Fake News* (co-supervised with [Prof. Tom Gedeon](https://staffportal.curtin.edu.au/staff/profile/view/tom-gedeon-5e48a1fd/) from Curtin University), *Master of Computing (Advanced)*, 2024/07/22 – 2025/05/23 
+  * [Gennie Nguyen](https://www.gennienguyen.com/) (2 x <strong>arXiv preprint</strong>), Thesis title: *Physiological Signals for Detecting Belief and Truth in Fake News* (co-supervised with [Prof. Tom Gedeon](https://staffportal.curtin.edu.au/staff/profile/view/tom-gedeon-5e48a1fd/) from Curtin University), *Master of Computing (Advanced)*, 2024/07/22 – 2025/05/23, <font color="blue">Research Assistant under Associate Professor Gelareh Mohammadi at UNSW (QS #20 globally, #2 in Australia).</font>
   * Yifan Chen, Thesis title: *Understanding the behaviors of modern video models through signal perception*, *Master of Machine Learning and Computer Vision*, 2024/07/22 – 2025/05/23
   * [Arjun Raj](https://arjunraj.com/) (1 x <font color="red"><strong>ICASSP'25</strong></font>), Thesis title: *Tracking high-speed and tiny objects in sports*, *Bachelor of Advanced Computing (R&D) (Honours)*, 2024/07/22 – 2025/05/23
  
@@ -76,7 +76,7 @@ I have successfully supervised more than ten final-year research students, inclu
   * Haodong Yang (1 x <strong>arXiv preprint</strong>), Thesis title: *SRLoRA: Subspace Recomposition in Low-Rank Adaptation via Importance-Based Fusion and Reinitialization* (co-supervised with [Dr. Md Zakir Hossain](https://staffportal.curtin.edu.au/staff/profile/view/md-zakir-hossain-4fd95ece/) from Curtin University), *Master of Machine Learning and Computer Vision*, 2024/07/22 – 2025/05/23
   * Meitong Liu, Thesis title: *Improving Video‑to‑Audio Generation via Object‑Level Event Detection* (co-supervised with [Dr. Md Zakir Hossain](https://staffportal.curtin.edu.au/staff/profile/view/md-zakir-hossain-4fd95ece/) from Curtin University), *Master of Computing (Advanced)*, 2024/07/22 – 2025/05/23
  
-* Former master's, honours, and internship students (**primary supervision**, TIME@ANU; <font color="blue">first appointment following supervision noted</font>):
+* Former master's, honours, and internship students (**primary supervision**, TIME@ANU):
   * Dexuan Ding (1 x <font color="red"><strong>ICLR'25</strong></font>), Thesis title: *LEGO Fusion: Robust Video Anomaly Detection*, *Bachelor of Advanced Computing (Honours)*, 2024/02/19 – 2024/10/25, <font color="blue">pathway to PhD candidature at Macquarie University (QS #138 globally, #11 in Australia)</font>
   * [Qixiang Chen](https://q1xiangchen.github.io/) (1 x <font color="red"><strong>ACML'24</strong></font> <font color="red">oral</font>), Thesis title: *A Closer Look at Motions*, *Bachelor of Advanced Computing (Honours)*, 2024/02/19 – 2024/10/25 
   * Huilin Chen (1 x <strong>arXiv preprint</strong>), Thesis title: *When Spatial meets Temporal in Action Recognition*, *Bachelor of Advanced Computing (Honours)*, 2024/02/19 – 2024/10/25, <font color="blue">PhD candidate at UTS (QS #96 globally, #9 in Australia)</font>
