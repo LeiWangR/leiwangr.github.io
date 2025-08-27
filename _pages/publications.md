@@ -105,7 +105,7 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 				<div class="gs_gray">J Haozhe*, W Chen*, Z Huang*, <strong>L Wang</strong>, H Xiao, N Jia, K Wu, S Lai, B Tian, Y Yue</div>
 				<div class="gs_gray">ACM Multimedia (<strong>ACM-MM</strong>)</div>
 			</td>
-			<td class="gsc_a_c">(* denotes equal contribution.)<br>Brave New Ideas Track<br>[<font color="red"><strong>A*</strong>, oral</font>]</td>
+			<td class="gsc_a_c">(* denotes equal contribution.)<br>Brave New Ideas Track<br>[<font color="red"><strong>A*</strong>, oral</font>]<br><a href="https://github.com/Hxxxz0/RMDM" style="color:#000000;">Code</a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
 		</tr>
 		<tr class="gsc_a_tr">
