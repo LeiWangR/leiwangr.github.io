@@ -113,7 +113,7 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 				<div class="gs_gray">J Ye, <strong>L Wang</strong>$^\dagger$, MZ Hossain</div>
 				<div class="gs_gray">British Machine Vision Conference (<strong>BMVC</strong>)</div>
 			</td>
-			<td class="gsc_a_c">[<font color="red"><strong>A</strong></font>]</td>
+			<td class="gsc_a_c">[<font color="red"><strong>A</strong></font>]<br><a href="https://leiwangr.github.io/files/bmvc25.pdf" style="color:#000000;">Main paper + Appendix</a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
 		</tr>
 		<tr class="gsc_a_tr" style="background-color:#E5E4E2">
