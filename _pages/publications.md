@@ -354,12 +354,19 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
  
 <!-- <p>&nbsp;</p> -->
 <h2>arXiv preprints</h2>
-<!-- Below is a list of the <em>currently available</em> arXiv preprints. -->
 
 Please note that arXiv papers have not been peer-reviewed and should be considered as preliminary versions of research, subject to revision upon formal review and publication.
 
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
+		<tr class="gsc_a_tr">
+			<td class="gsc_a_t"><a href=""><strong><span class="gsc_a_at">Video Understanding by Design: How Datasets Shape Architectures and Insights</span></strong></a>
+				<div class="gs_gray"><strong>L Wang</strong>$^\dagger$, P Koniusz, Y Gao</div>
+				<div class="gs_gray">NA</div>
+			</td>
+			<td class="gsc_a_c">Research report.</td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
+		</tr>
 		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2205.02071"><strong><span class="gsc_a_at">Representation-Centric Survey of Skeletal Action Recognition and the ANUBIS Benchmark</span></strong></a>
 				<div class="gs_gray">Y Liu, J Yang, M Perera, P Ji, D Kim, M Xu, T Wang,
