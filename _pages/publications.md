@@ -360,9 +360,9 @@ Please note that arXiv papers have not been peer-reviewed and should be consider
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr">
-			<td class="gsc_a_t"><a href="https://leiwangr.github.io/files/lei-report.pdf"><strong><span class="gsc_a_at">Video Understanding by Design: How Datasets Shape Architectures and Insights</span></strong></a>
+			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2509.09151"><strong><span class="gsc_a_at">Video Understanding by Design: How Datasets Shape Architectures and Insights</span></strong></a>
 				<div class="gs_gray"><strong>L Wang</strong>$^\dagger$, P Koniusz, Y Gao</div>
-				<div class="gs_gray">NA</div>
+				<div class="gs_gray">arXiv preprint arXiv:2509.09151</div>
 			</td>
 			<td class="gsc_a_c">Research report.</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
