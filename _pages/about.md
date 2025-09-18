@@ -86,6 +86,7 @@ He is an IEEE Student Member and an ACM Student Member. -->
 
 I personally do not have any news; the most exciting updates are coming from my talented students!
 
+- 20/09/2025: Two papers have been accepted at **NeurIPS 2025**. Congratulations to <font color="blue">Xi Ding</font> and Jiahao Ma.
 - 15/08/2025: Launching the <font color="green"><strong>TIME³</strong></font> vision: At the ARC Research Hub & Griffith University, <font color="green"><strong>TIME³</strong></font> Lab, evolving from the original TIME Lab, unites three levels of AI research: Temporal Intelligence and Motion Extraction, Transformative Insights in Multi-faceted Evaluation, and Transparent, Inclusive, Measured, Ethical AI. The lab drives Green, responsible, and transformative AI, setting a new benchmark for sustainable, trustworthy, and cross-disciplinary research.
 - 01/08/2025: One paper has been accepted for an **oral** presentation at **ACM-MM 2025** (Brave New Ideas Track). Congratulations to Jia Haozhe, Wenshuo Chen, Huang Zhihui, Hongru Xiao, Jia Nanqian, Keming Wu, Songning Lai, and Bowen Tian.
 - 26/07/2025: One paper has been accepted at **BMVC 2025**. Congratulations to <font color="blue">Junliang Ye</font>!
