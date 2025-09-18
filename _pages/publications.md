@@ -100,6 +100,22 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
+		<tr class="gsc_a_tr">
+			<td class="gsc_a_t"><a href=""><strong><span class="gsc_a_at">Graph Your Own Prompt</span></strong></a>
+				<div class="gs_gray">X Ding, <strong>L Wang</strong>$^\dagger$, P Koniusz, Y Gao</div>
+				<div class="gs_gray">Advances in Neural Information Processing Systems (<strong>NeurIPS</strong>)</div>
+			</td>
+			<td class="gsc_a_c">[<font color="red"><strong>A*</strong>]</td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
+		</tr>
+		<tr class="gsc_a_tr">
+			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2506.23863"><strong><span class="gsc_a_at">Puzzles: Unbounded Video-Depth Augmentation for Scalable End-to-End 3D Reconstruction</span></strong></a>
+				<div class="gs_gray">J Ma, <strong>L Wang</strong>, M Liu, D Ahmedt-Aristizabal, C Nguyen</div>
+				<div class="gs_gray">Advances in Neural Information Processing Systems (<strong>NeurIPS</strong>)</div>
+			</td>
+			<td class="gsc_a_c">[<font color="red"><strong>A*</strong>]<br><a href="https://github.com/Jiahao-Ma/puzzles-code" style="color:#000000;">Code</a>, <a href="https://jiahao-ma.github.io/puzzles/" style="color:#000000;">Project website</a></td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
+		</tr>
 		<tr class="gsc_a_tr" style="background-color:#E5E4E2">
 			<td class="gsc_a_t"><a href=""><strong><span class="gsc_a_at">Physics-Informed Representation Alignment for Sparse Radio-Map Reconstruction</span></strong></a>
 				<div class="gs_gray">J Haozhe*, W Chen*, Z Huang*, <strong>L Wang</strong>, H Xiao, N Jia, K Wu, S Lai, B Tian, Y Yue</div>
@@ -440,7 +456,7 @@ S Anwar, T Gedeon, <strong>L Wang</strong>$^\dagger$, Z Qin</div>
 			<td class="gsc_a_c">Xi Ding conducted this work under the supervision of Lei Wang, as part of his role as an ARC Hub Research Scholar at Griffith University (TIME@ARC Hub & Griffith). This work was supported by computational resources provided by the Australian Government through the National Computational Infrastructure (NCI) under the ANU Merit Allocation Scheme. Additional support was provided through the NCI CSIRO Allocation Scheme. <font color="blue">This paper is currently not publicly available.</font></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
 		</tr> -->
-		<tr class="gsc_a_tr">
+<!-- 		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2506.23863"><strong><span class="gsc_a_at">Puzzles: Unbounded Video-Depth Augmentation for Scalable End-to-End 3D Reconstruction
 </span></strong></a>
 				<div class="gs_gray">J Ma, <strong>L Wang</strong>, M Liu, D Ahmedt-Aristizabal, C Nguyen</div>
@@ -448,7 +464,7 @@ S Anwar, T Gedeon, <strong>L Wang</strong>$^\dagger$, Z Qin</div>
 			</td>
 			<td class="gsc_a_c">Jiahao Ma is a PhD candidate at the Australian National University (ANU) and Data61/CSIRO, formally supervised by Miaomiao Liu, David Ahmedt Aristizabal, and Chuong Nguyen. Lei Wang provides informal co-supervision, offering ongoing academic guidance and support throughout the project. [<a href="https://github.com/Jiahao-Ma/puzzles-code" style="color:#000000;">Code</a>, <a href="https://jiahao-ma.github.io/puzzles/" style="color:#000000;">Project website</a>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
-		</tr>
+		</tr> -->
 <!-- 		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href=""><strong><span class="gsc_a_at">NA</span></strong></a>
 				<div class="gs_gray">X Ding, <strong>L Wang</strong>$^\dagger$, Y Gao, P Koniusz</div>
