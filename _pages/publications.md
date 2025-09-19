@@ -117,7 +117,7 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
 		</tr>
 		<tr class="gsc_a_tr" style="background-color:#E5E4E2">
-			<td class="gsc_a_t"><a href=""><strong><span class="gsc_a_at">Physics-Informed Representation Alignment for Sparse Radio-Map Reconstruction</span></strong></a>
+			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2501.19160"><strong><span class="gsc_a_at">Physics-Informed Representation Alignment for Sparse Radio-Map Reconstruction</span></strong></a>
 				<div class="gs_gray">J Haozhe*, W Chen*, Z Huang*, <strong>L Wang</strong>, H Xiao, N Jia, K Wu, S Lai, B Tian, Y Yue</div>
 				<div class="gs_gray">ACM Multimedia (<strong>ACM-MM</strong>)</div>
 			</td>
