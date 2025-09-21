@@ -44,22 +44,6 @@ As part of my role at Griffith University, specifically through the TIME@ARC Hub
 * Remote Research Trainee (prospective MPhil student):
   * Syuan-Hao Li, ARC Research Hub internal research project (co-supervised with [Prof. Yongsheng Gao](https://experts.griffith.edu.au/19112-yongsheng-gao)),  *Bachelor Student*@National Taitung University, 2025/06/05 – <font color="blue">present</font>
 
-<!-- * Remote Visiting Scholar (non-research service):
-  * [Arjun Raj](https://arjunraj.com/), Non-research service, *Bachelor of Advanced Computing (R&D) (Honours)*@ANU, 2025/03/19 – 2025/09/19 -->
-
-<!-- * I am the **primary supervisor** for two ANU master’s students for their final year research projects (24-unit):
-
-  * [Gennie Nguyen](https://www.gennienguyen.com/) (2 x <strong>arXiv preprint</strong>), Thesis title: *Physiological Signals for Detecting Belief and Truth in Fake News* (co-supervised with [Prof. Tom Gedeon](https://staffportal.curtin.edu.au/staff/profile/view/tom-gedeon-5e48a1fd/) from Curtin University), *Master of Computing (Advanced)*, 2024/07/22 – 2025/05/23 
-  * Yifan Chen, Thesis title: *Understanding the behaviors of modern video models through signal perception*, *Master of Machine Learning and Computer Vision*, 2024/07/22 – <font color="blue">present</font> -->
-
-<!-- * I also serve as the **primary supervisor** for the following honours student on a 1-year, 12-unit research project:
-
-  * [Arjun Raj](https://arjunraj.com/) (1 x <font color="red"><strong>ICASSP'25</strong></font>), Thesis title: *Tracking high-speed and tiny objects in sports*, *Bachelor of Advanced Computing (R&D) (Honours)*, 2024/07/22 – 2025/05/23 -->
-
-<!-- * I am an **associate supervisor** for three ANU master’s students:
-  * Junliang Ye (1 x <font color="red"><strong>BMVC</strong></font>), Thesis title: *FreqSelect: Frequency-Aware Adaptive Filtering*, *Master of Computing (Advanced)*, 2024/07/22 – 2025/05/23
-  * Haodong Yang (1 x <strong>arXiv preprint</strong>), Thesis title: *SRLoRA: Subspace Recomposition in Low-Rank Adaptation via Importance-Based Fusion and Reinitialization*, *Master of Machine Learning and Computer Vision*, 2024/07/22 – 2025/05/23 
-  * Meitong Liu, Thesis title: *TBD*, *Master of Computing (Advanced)*, 2024/07/22 – <font color="blue">present</font> -->
 
 <h2>Completed Supervision</h2>
 
@@ -112,5 +96,4 @@ I have successfully supervised more than ten final-year research students, inclu
     * Supervise laboratory classes
     * Help with assignment marking
 
-<!-- <font color="blue">I am currently a research-intensive staff working on academic and industrial research projects, and I am not engaged in any teaching at this time.</font> -->
 
