@@ -40,23 +40,6 @@ Before pursuing his PhD at ANU and Data61/CSIRO, Lei received several prestigiou
 
 His research interests include action recognition in videos, anomaly detection, video and image processing, one- and few-shot learning, deep learning, tensor learning, and domain adaptation.
 
-
-<!-- Lei Wang is a Research Fellow with the School of Computing, ANU College of Engineering, Computing and Cybernetics under the supervision of [Dr. Liang Zheng](https://zheng-lab.cecs.anu.edu.au/) (ANU) and [Prof. Tom Gedeon](https://staffportal.curtin.edu.au/staff/profile/view/tom-gedeon-5e48a1fd/) (Curtin University).
-
-He is currently also a Computer Scientist with the Active Intelligence Australia Pty Ltd, Perth. He leads the research and development of commercial anomaly detection solutions, and the project has raised 1.2 million US dollars. Since then, he has been granted the Incentive Unit Award. 
-
-He is also a Visiting Scientist in the Machine Learning Research Group (MLRG) at Data61 (formerly NICTA), The Commonwealth Scientific and Industrial Research Organisation (CSIRO).
-
-Since 2018, he has been a full-time Computer Vision Researcher with iCetana Pty Ltd in Perth. He was a Visiting Researcher in MLRG at Data61/CSIRO. He was also a Visiting Researcher with the Department of Computer Science and Software Engineering at The University of Western Australia (UWA).
-
-Before starting his PhD at ANU and Data61/CSIRO, he was offered a number of competitive full PhD scholarships, including the ARC Industrial Transformation Training Centre Scholarship, UWA International Fee Scholarship, University Postgraduate Award, Data61 PhD Scholarship, Data61 Top-up Scholarship, and ANU HDR Fee Remission Merit Scholarship.
-
-He has published a large number of first-author papers during his PhD candidature in high quality venues (Rank A* conferences or journals with impact factor > 10.0) including CVPR, ICCV, ECCV, ACM MM, TPAMI and TIP under the supervision of [Dr. Piotr Koniusz](http://users.cecs.anu.edu.au/~koniusz/) (Data61/CSIRO & ANU). He also received the Sang Uk Lee Best Student Paper Award from ACCV'22.
-
-His research interests include action recognition in videos, anomaly detection, video image processing, one- and few-shot learning, deep learning, tensor learning and domain adaptation.
-
-He is an IEEE Student Member and an ACM Student Member. -->
-
 <!-- <p>&nbsp;</p> -->
 
 <!-- Research interests
@@ -75,8 +58,8 @@ He is an IEEE Student Member and an ACM Student Member. -->
 <!-- <h2>Education</h2> -->
 <h3>Education</h3>
 
-* **Doctor of Philosophy** - PhD, Engineering and Computer Science, The Australian National University (ANU)<!-- <sup>[1](#myfootnote1)</sup> -->, *22 July 2019 - 12 Dec 2023*
-* **Master of Professional Engineering** - MPE, Software Engineering, The University of Western Australia (UWA)<!-- <sup>[2](#myfootnote2)</sup> -->, *29 Feb 2016 - 16 March 2018*
+* **Doctor of Philosophy** - PhD, Engineering and Computer Science, The Australian National University (ANU), *22 July 2019 - 12 Dec 2023*
+* **Master of Professional Engineering** - MPE, Software Engineering, The University of Western Australia (UWA), *29 Feb 2016 - 16 March 2018*
 
 
 
@@ -135,29 +118,6 @@ I personally do not have any news; the most exciting updates are coming from my 
 - 04/01/2024: My research group is currently at full capacity, and I do not have openings for research interns and assistants. All available industry research sponsorships will be prioritized for my existing students until the end of 2024.
 - 19/09/2023: Congratulations to <font color="blue">Arjun Raj</font>, <font color="blue">Liyun Zhu</font>, <font color="blue">Liwen Luo</font>, and <font color="blue">Qixiang Chen</font>, who were awarded *the Active Intelligence Research Challenge Award* as four master's/honors students! Thanks to the research sponsorship provided by Active Intelligence Corp.
 - 18/09/2023: Congratulations to <font color="blue">Xiuyuan (Jack) Yuan</font> for being awarded *the Summer Research Internship*! Thanks to the ANU School of Computing for providing research funding.
-
-<!-- - 19/03/2025: Welcome <font color="blue">Arjun Raj</font> (ANU) to the ARC Research Hub at Griffith University as a remote Visiting Scholar in TIME Lab, contributing in a non-research service role! -->
-
-<!-- - 14/02/2025: TIME Lab has moved to Griffith University and joined the ARC Research Hub, enhancing its industry-focused research and collaboration within the broader Griffith community. -->
-
-<!-- - 16/10/2024: TIME Lab has announced the selection criteria for its inaugural medal, which will honor the top ANU honours or master's student completing their final-year research project under the lab’s supervision. -->
-
-<!-- - 15/10/2024: The TIME Lab is currently operating at full capacity and is not accepting new final-year research students at this time. The lab is actively supporting six students who are completing their final-year research projects. As such, we kindly request that no further inquiries regarding final-year research opportunities be made. -->
-
-<!-- - 25/10/2023: Congratulations to Xiuyuan (Jack) Yuan on joining **the Australian Government Digital Cadet Program**! -->
-
-<!-- - 01/08/2023: The Active Intelligence Research Challenge Award (Industry AIR Award) was established. -->
-
-<!-- - 29/10/2023: I created the 'News' block on my personal website. -->
-
-<!-- <h2>Related Links</h2> -->
-
-<!-- <ul> -->
-<!-- 	<li><a href="https://scholar.google.com/citations?user=VWCZLXgAAAAJ&amp;hl=en">Google Scholar</a></li> -->
-<!--  <li><a href="https://cecc.anu.edu.au/people/lei-wang">Lei's ANU student profile</a></li> -->
-<!--	<li><a href="https://researchers.anu.edu.au/researchers/wang-lxxxxxxx">Lei's ANU researcher profile</a></li> -->
-<!--  <li><a href="https://people.csiro.au/W/L/lei-wang">Lei's CSIRO's Data61 profile</a></li> -->
-<!-- </ul> -->
 
 <!--<p>&nbsp;</p>
 
