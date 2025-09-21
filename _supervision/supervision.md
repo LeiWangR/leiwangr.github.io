@@ -44,8 +44,8 @@ As part of my role at Griffith University, specifically through the TIME@ARC Hub
 * Remote Research Trainee (prospective MPhil student):
   * Syuan-Hao Li, ARC Research Hub internal research project (co-supervised with [Prof. Yongsheng Gao](https://experts.griffith.edu.au/19112-yongsheng-gao)),  *Bachelor Student*@National Taitung University, 2025/06/05 – <font color="blue">present</font>
 
-* Remote Visiting Scholar (non-research service):
-  * [Arjun Raj](https://arjunraj.com/), Non-research service, *Bachelor of Advanced Computing (R&D) (Honours)*@ANU, 2025/03/19 – <font color="blue">present</font>
+<!-- * Remote Visiting Scholar (non-research service):
+  * [Arjun Raj](https://arjunraj.com/), Non-research service, *Bachelor of Advanced Computing (R&D) (Honours)*@ANU, 2025/03/19 – 2025/09/19 -->
 
 <!-- * I am the **primary supervisor** for two ANU master’s students for their final year research projects (24-unit):
 
