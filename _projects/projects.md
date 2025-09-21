@@ -23,40 +23,10 @@ a:active {
 }
 </style>
 
-<!-- Skills
-====== -->
 
-<!-- * Programming languages
-  * Python
-  * Matlab
-  * C/C++
-  * LATEX
-  * Unix shell scripts
-
-* Machine learning libraries
-  * Pytorch
-  * Scikit-learn
-  * TensorFlow
-  * MatConvNet -->
-
-
-
-<!-- * Action recognition
-* Anomaly detection
-* Video image processing
-* One- & few-shot learning
-* Deep learning
-* Tensor learning
-* Domain adaptation -->
-<!-- <p>&nbsp;</p> -->
-<!-- <h2>Research project</h2> -->
-
-
-<!-- I always look for motivated and hardworking students who are interested in doing research with me. However, applicants must possess good mathematical and computational skills, preferably with prior experience in machine learning and/or computer vision. Strong programming skills in Python, Matlab, and/or TensorFlow are essential, and hands-on deep learning expertise is important as well. Additionally, integrity, honesty, the ability to work under pressure, and the capacity to explore while adhering to strict directions are all essential qualities. -->
 
 Please visit my [TIME Lab project page](https://time.griffith.edu.au/about/) for more details.
 
-<!-- <font color="red">The TIME Lab has announced that it will not be accepting new final-year research projects for the upcoming semester. Students are encouraged to explore alternative opportunities for their projects. Special consideration requests must first be approved by Professor Liang Zheng and Professor Michael Norrish, with final registration contingent upon approval from Lei Wang. When submitting requests, students are asked to ensure all relevant parties are CC'd in the email correspondence.</font> -->
 
 <!-- <h2>TIME Lab announces criteria for inaugural medal</h2>
 
@@ -147,8 +117,6 @@ For more details, feel free to reach out.
   - [Mr. Zixuan Liu](https://www.linkedin.com/in/zixuanliu787/) <font color="blue"> (Bachelor of Information Technology, Queensland University of Technology)</font>
   - [Mr. Xi Ding](https://darcyddx.github.io) <font color="blue"> (Master of Computing, ANU)</font>
 
-<!-- - <font color="blue"> Visiting Scholar (non-research service):</font>
-  - [Mr. Arjun Raj](https://arjunraj.com/) <font color="blue"> (Bachelor of Advanced Computing (R&D) (Honours), ANU)</font> -->
 
 <h3>Project 7: TIME Lab Research Internship at Griffith<font color="red"> [Ongoing]</font></h3>
 
@@ -299,8 +267,6 @@ For more information regarding the application and award process, please contact
   -  [Mr. Liwen Luo](https://luoshanji99.github.io/) <font color="blue"> (Master of Machine Learning and Computer Vision), and </font>
   -  [Mr. Qixiang Chen](https://q1xiangchen.github.io/) <font color="blue"> (Bachelor of Advanced Computing (Honours)). </font>
 
-<!-- - <font color="blue"> Visiting student: </font>
-  - <font color="blue"> Mr. Zerui Wang (The University of Western Australia, Bachelor of Science), 16/06/2023 - 19/07/2023.</font> -->
 
 
 
@@ -416,23 +382,3 @@ general-purpose foundation model, we need a unified model architecture that can 
   * Key components of human-related anomaly detection in surveillance videos include: normal behavior modeling, anomaly detection algorithms, event classification, real-time alerts, post-event analysis, adaptability, etc.
   * Human-related anomaly detection can be applied in various scenarios, such as identifying potential shoplifting in retail stores, spotting unauthorized personnel in secure areas, detecting accidents or falls in elderly care facilities, or monitoring crowded places for public safety. The technology relies on a combination of machine learning, computer vision, and sensor data to make these determinations, and it plays a vital role in enhancing security and safety in modern surveillance systems.
 
- 
-
-<!-- <h2>Personal statement</h2> -->
-
-<!-- I am a hardworking, passionate and self-disciplined researcher. -->
-  
-<!-- I have worked with the <font color="blue">large-scale volumetric</font> action recognition datasets which are bigger by several orders of magnitude compared to ImageNet.  -->
-
-<!-- I have learnt to deal efficiently with complex projects given <font color="blue">limited computational resources</font> (albeit HPC-based). -->
-
-<!-- I have a solid background to work on <font color="blue">cross-dataset problems</font>, I understand very well (i) concepts of distribution shift between datasets (ii) issues with generalization to new class concepts (iii) issues underpinning model failures due to out-of-distribution situations (iv) issues resulting from low sample counts, and so forth.  -->
-
-<!-- My knowledge gained from past research experience span several <font color="blue">computer vision and machine learning disciplines</font> including camera projective geometry, graph neural networks, and optimal transportation (apart from action recognition and few-shot learning). -->
-
-<!-- I have delivered a number of strong scientific ideas as witnessed by my (i) academic outputs (papers in high quality venues) and (ii) practical knowledge of action recognition / anomaly detection systems (patents). -->
-
-<!-- <p>&nbsp;</p> -->
-<!-- <h2>Research interests</h2> -->
-
-<!-- My interests include action recognition in videos, anomaly detection, video image processing, one- and few-shot learning, deep learning, tensor learning and domain adaptation. -->
