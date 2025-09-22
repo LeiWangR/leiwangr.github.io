@@ -392,46 +392,6 @@ S Anwar, T Gedeon, <strong>L Wang</strong>$^\dagger$, Z Qin</div>
 			<td class="gsc_a_c">Jiyao Yang conducted this research under the supervision of Lei Wang, Zhenyue Qin, and Yang Liu. This work presents a systematic review of skeleton-based action recognition methods and the construction of a new large-scale benchmark dataset, aiming to advance robustness and generalization in complex real-world scenarios. [<a href="https://yliu1082.github.io/ANUBIS/" style="color:#000000;">Project website</a>][<a href="https://github.com/yliu1082/ANUBIS-Sourcecode" style="color:#000000;">Code</a>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
 		</tr>
-<!-- 		<tr class="gsc_a_tr">
-			<td class="gsc_a_t"><a href=""><strong><span class="gsc_a_at">NA</span></strong></a>
-				<div class="gs_gray">EK Tenagyei, <strong>L Wang</strong>$^\dagger$, J Zhou, Y Gao, P Koniusz</div>
-				<div class="gs_gray">NA</div>
-			</td>
-			<td class="gsc_a_c">Tenagyei Edwin Kwadwo conducted this work under the supervision of Lei Wang, as part of his PhD research training at at the TIME Lab, Griffith University (TIME@ARC Hub & Griffith). This work was supported by computational resources provided by the Australian Government through the National Computational Infrastructure (NCI) under the CSIRO Allocation Scheme. <font color="blue">This paper is currently not publicly available.</font></td>
-			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
-		</tr> -->
-<!-- 		<tr class="gsc_a_tr">
-			<td class="gsc_a_t"><a href=""><strong><span class="gsc_a_at">NA</span></strong></a>
-				<div class="gs_gray">X Ding, <strong>L Wang</strong>$^\dagger$, P Koniusz, Y Gao</div>
-				<div class="gs_gray">NA</div>
-			</td>
-			<td class="gsc_a_c">Xi Ding conducted this work under the supervision of Lei Wang, as part of his role as an ARC Hub Research Scholar at Griffith University (TIME@ARC Hub & Griffith). This work was supported by computational resources provided by the Australian Government through the National Computational Infrastructure (NCI) under the CSIRO Allocation Scheme. <font color="blue">This paper is currently not publicly available.</font></td>
-			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
-		</tr> -->
-<!-- 		<tr class="gsc_a_tr">
-			<td class="gsc_a_t"><a href=""><strong><span class="gsc_a_at">NA</span></strong></a>
-				<div class="gs_gray">W Diao, <strong>L Wang</strong>$^\dagger$, A Busch, J Zhou, Y Gao</div>
-				<div class="gs_gray">NA</div>
-			</td>
-			<td class="gsc_a_c">Wenxiang Diao conducted this work under the supervision of Lei Wang as part of his role as a Research Intern at the TIME Lab, Griffith University (TIME@ARC Hub & Griffith). This work was supported by the National Computational Merit Allocation Scheme 2025 (NCMAS 2025), with computational resources provided by NCI Australia, an NCRIS-enabled capability supported by the Australian Government. <font color="blue">This paper is currently not publicly available.</font></td>
-			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
-		</tr> -->
-<!-- 		<tr class="gsc_a_tr" style="background-color:#E5E4E2">
-			<td class="gsc_a_t"><a href=""><strong><span class="gsc_a_at">NA</span></strong></a>
-				<div class="gs_gray">H Jia, W Chen, Z Huang, <strong>L Wang</strong>, H Xiao, N Jia, K Wu, S Lai, B Tian, Y Yue</div>
-				<div class="gs_gray">NA</div>
-			</td>
-			<td class="gsc_a_c">Wenshuo Chen will begin his PhD studies in Fall 2025 at the Hong Kong University of Science and Technology (HKUST Guangzhou), under the supervision of Associate Professor Yutao Yue. <font color="blue">This paper is currently not publicly available.</font> </td>
-			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
-		</tr> -->
-<!-- 		<tr class="gsc_a_tr">
-			<td class="gsc_a_t"><a href="https://arxiv.org/abs/2505.16702"><strong><span class="gsc_a_at">Truth and Trust: Fake News Detection via Biosignals</span></strong></a>
-				<div class="gs_gray">G Nguyen, <strong>L Wang</strong>, Y Jiang, T Gedeon</div>
-				<div class="gs_gray">arXiv preprint arXiv:2505.16702</div>
-			</td>
-			<td class="gsc_a_c">Gennie Nguyen conducted this research under the supervision of Lei Wang and Tom Gedeon as part of her final year master's research project at ANU. </td>
-			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
-		</tr> -->
 		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://arxiv.org/abs/2505.16730"><strong><span class="gsc_a_at">Detecting Fake News Belief via Skin and Blood Flow Signals</span></strong></a>
 				<div class="gs_gray">G Nguyen, <strong>L Wang</strong>, Y Jiang, T Gedeon</div>
