@@ -408,31 +408,6 @@ S Anwar, T Gedeon, <strong>L Wang</strong>$^\dagger$, Z Qin</div>
 			<td class="gsc_a_c">Haodong Yang conducted this research under the supervision of Lei Wang and Md Zakir Hossain as part of his final year master's research project at ANU. This work was supported by computational resources provided by the Pawsey Supercomputing Centre, a high-performance computing facility funded by the Australian Government.</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
 		</tr>
-<!-- 		<tr class="gsc_a_tr">
-			<td class="gsc_a_t"><a href=""><strong><span class="gsc_a_at">NA</span></strong></a>
-				<div class="gs_gray">X Ding, <strong>L Wang</strong>$^\dagger$, P Koniusz, Y Gao</div>
-				<div class="gs_gray">NA</div>
-			</td>
-			<td class="gsc_a_c">Xi Ding conducted this work under the supervision of Lei Wang, as part of his role as an ARC Hub Research Scholar at Griffith University (TIME@ARC Hub & Griffith). This work was supported by computational resources provided by the Australian Government through the National Computational Infrastructure (NCI) under the ANU Merit Allocation Scheme. Additional support was provided through the NCI CSIRO Allocation Scheme. <font color="blue">This paper is currently not publicly available.</font></td>
-			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
-		</tr> -->
-<!-- 		<tr class="gsc_a_tr">
-			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2506.23863"><strong><span class="gsc_a_at">Puzzles: Unbounded Video-Depth Augmentation for Scalable End-to-End 3D Reconstruction
-</span></strong></a>
-				<div class="gs_gray">J Ma, <strong>L Wang</strong>, M Liu, D Ahmedt-Aristizabal, C Nguyen</div>
-				<div class="gs_gray">arXiv preprint arXiv:2506.23863</div>
-			</td>
-			<td class="gsc_a_c">Jiahao Ma is a PhD candidate at the Australian National University (ANU) and Data61/CSIRO, formally supervised by Miaomiao Liu, David Ahmedt Aristizabal, and Chuong Nguyen. Lei Wang provides informal co-supervision, offering ongoing academic guidance and support throughout the project. [<a href="https://github.com/Jiahao-Ma/puzzles-code" style="color:#000000;">Code</a>, <a href="https://jiahao-ma.github.io/puzzles/" style="color:#000000;">Project website</a>]</td>
-			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
-		</tr> -->
-<!-- 		<tr class="gsc_a_tr">
-			<td class="gsc_a_t"><a href=""><strong><span class="gsc_a_at">NA</span></strong></a>
-				<div class="gs_gray">X Ding, <strong>L Wang</strong>$^\dagger$, Y Gao, P Koniusz</div>
-				<div class="gs_gray">NA</div>
-			</td>
-			<td class="gsc_a_c">Xi Ding conducted this work under the supervision of Lei Wang, as part of his role as an ARC Hub Research Scholar at Griffith University (TIME@ARC Hub & Griffith). This work was supported by computational resources provided by the Australian Government through the National Computational Infrastructure (NCI) under the ANU Merit Allocation Scheme. Additional support was provided through the NCI CSIRO Allocation Scheme. <font color="blue">This paper is currently not publicly available.</font></td>
-			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
-		</tr> -->
 		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2412.18298"><strong><span class="gsc_a_at">Quo Vadis, Anomaly Detection? LLMs and VLMs in the Spotlight</span></strong></a>
 				<div class="gs_gray">X Ding, <strong>L Wang</strong>$^\dagger$</div>
