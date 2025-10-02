@@ -35,7 +35,7 @@ a:active {
 
 <!-- You can find my published articles on my [Google Scholar](https://scholar.google.com/citations?user=VWCZLXgAAAAJ&hl=en) profile. -->
 
-$^\dagger$: Corresponding author.
+$^\dagger$: Corresponding author; *: Co-first authors (equal contribution).
 
 <h2>Journals</h2>
 
@@ -121,7 +121,7 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 				<div class="gs_gray">J Haozhe*, W Chen*, Z Huang*, <strong>L Wang</strong>, H Xiao, N Jia, K Wu, S Lai, B Tian, Y Yue</div>
 				<div class="gs_gray">ACM Multimedia (<strong>ACM-MM</strong>)</div>
 			</td>
-			<td class="gsc_a_c">(* denotes equal contribution.)<br>Brave New Ideas Track<br>[<font color="red"><strong>A*</strong>, oral</font>]<br><a href="https://github.com/Hxxxz0/RMDM" style="color:#000000;">Code</a></td>
+			<td class="gsc_a_c">Brave New Ideas Track<br>[<font color="red"><strong>A*</strong>, oral</font>]<br><a href="https://github.com/Hxxxz0/RMDM" style="color:#000000;">Code</a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
 		</tr>
 		<tr class="gsc_a_tr">
@@ -137,7 +137,7 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 				<div class="gs_gray">W Chen*, K Yu*, J Haozhe*, K Yuan, Z Huang, B Tian, S Lai, H Xiao, E Zhang, <strong>L Wang</strong>, Y Yue</div>
 				<div class="gs_gray">ACM Multimedia (<strong>ACM-MM</strong>)</div>
 			</td>
-			<td class="gsc_a_c">(* denotes equal contribution.)<br>[<font color="red"><strong>A*</strong></font>]<br><a href="https://github.com/CCSCovenant/ANT" style="color:#000000;">Code</a></td>
+			<td class="gsc_a_c">[<font color="red"><strong>A*</strong></font>]<br><a href="https://github.com/CCSCovenant/ANT" style="color:#000000;">Code</a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
 		</tr>
 		<tr class="gsc_a_tr">
@@ -177,7 +177,7 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 				<div class="gs_gray">W Chen*, H Xiao*, E Zhang*, L Hu, <strong>L Wang</strong>, M Liu, C Chen</div>
 				<div class="gs_gray">ACM Multimedia (<strong>ACM-MM</strong>), 6989 - 6997</div>
 			</td>
-			<td class="gsc_a_c">(* denotes equal contribution.)<br>[<font color="red"><strong>A*</strong></font>]<br><a href="https://github.com/sato-team/Stable-Text-to-motion-Framework" style="color:#000000;">Code</a>, <a href="https://sato-team.github.io/Stable-Text-to-Motion-Framework/" style="color:#000000;">Project website</a></td>
+			<td class="gsc_a_c">[<font color="red"><strong>A*</strong></font>]<br><a href="https://github.com/sato-team/Stable-Text-to-motion-Framework" style="color:#000000;">Code</a>, <a href="https://sato-team.github.io/Stable-Text-to-Motion-Framework/" style="color:#000000;">Project website</a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
 		</tr>
 		<tr class="gsc_a_tr"> <!--  style="background-color:#E0FFFF" -->
