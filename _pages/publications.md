@@ -48,7 +48,7 @@ Journal impact factors follow the [Clarivate JCR 2023](https://jcr.clarivate.com
 				<div class="gs_gray">G Nguyen, <strong>L Wang</strong>, Y Jiang, T Gedeon</div>
 				<div class="gs_gray">International Journal of Information Technology (BJIT)</div>
 			</td>
-			<td class="gsc_a_c">[<font color="red"><strong>IF: 5.135</strong></font>]</td>
+			<td class="gsc_a_c">[<font color="red">CiteScore 8.5, SJR 0.717, SNIP 1.574 (2024)</font>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
 		</tr>
 		<tr class="gsc_a_tr">
