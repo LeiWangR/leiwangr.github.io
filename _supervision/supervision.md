@@ -32,6 +32,7 @@ I am currently a registered Higher Degree by Research (HDR) supervisor at Griffi
 As part of my role at Griffith University, specifically through the TIME@ARC Hub&Griffith, I have begun supervising research assistants, research interns, Master of Philosophy (MPhil) students, and Doctoral (PhD) candidates in both **co-principal and principal supervision** capacities.
 
 * On-site Research Interns:
+  * Ankur Singh, TIME Lab internal research project, *Bachelor Student*@ANU, 2025/10/08 – <font color="blue">present</font>
   * Wenxiang Diao, Project title: *Ultra‑Fine‑Grained Visual Categorization*, *Master's Student*@UNSW Sydney, 2025/05/26 – <font color="blue">present</font>
 
 * On-site Research Assistants:
