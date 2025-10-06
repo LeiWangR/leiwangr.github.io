@@ -46,6 +46,7 @@ I am also working to bridge the gap between academic research and industry resea
   * <font color="red">One paper has been accepted at <strong>BMVC 2025</strong></font>
   * <font color="red">One paper has been accepted to the ICCV 2025 Workshop on "Vision Foundation Models and Generative AI for Accessibility: Challenges and Opportunities"</font>
   * <font color="red">One paper has been accepted at <strong>ACM-MM 2025</strong></font>
+  * <font color="red"><strong>Primarily supervised</strong> 1 Honours and 2 Master’s students (TIME@ARC Hub&Griffith), resulting in <strong>2 HD theses</strong>; co-supervised 3 ANU Master’s students, with <strong>2 receiving D grades</strong></font>
   * <font color="red">One paper has been accepted for publication in <strong>IJCV</strong></font>
   * <font color="red">I am serving as a <strong>Guest Editor</strong> for MDPI Electronics special issue on ‘Trustworthy AI for Video, Web, and Social Applications’</font>
   * <font color="red">Recipient of the <strong>Best Paper Award</strong> at TheWebConf 2025 Workshop</font>
