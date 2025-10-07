@@ -133,6 +133,7 @@ Interested students should submit their CV and academic transcript to TIME Lab v
 For more information, feel free to reach out.
 
 - <font color="blue"> Research Intern (TIME@ARC Hub & Griffith):</font>
+  - Mr Bikash Kumar Badatya <font color="blue"> (Master of Science in Physics, Indian Institute of Technology Gandhinagar)</font>
   - Mr Syuan-Hao Li <font color="blue"> (Bachelor of Science, National Taitung University)</font>
   - Mr Wenxiang Diao <font color="blue"> (Master of Information Technology, UNSW Sydney)</font>
 
