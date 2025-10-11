@@ -100,7 +100,7 @@ Appointed as an external examiner for ANU’s Master’s and Honours theses in S
     <th>Date</th>
   </tr>
   <tr>
-    <td>TBD (Knowledge Advancement and Breakthroughs)</td>
+    <td>Beyond Pixels, Toward Understanding</td>
     <td><a href="https://www.linkedin.com/in/amy-commins-85ba08184/">Amy Commins</a>, ARC Research Hub Manager <br>ARC Industrial Transformation Research Hub for Driving Farming Productivity and Disease Prevention, <br> Griffith University (Nathan Campus), <br> Brisbane, Australia</td>
     <td>ARC Research Hub End-of-Project Showcase, <br> Audience: University leadership, Hub researchers, ARC representatives, students, government officials, and industry stakeholders.</td>
     <td>14 Oct 2025</td>
