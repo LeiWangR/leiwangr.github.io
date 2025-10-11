@@ -105,12 +105,12 @@ Appointed as an external examiner for ANU’s Master’s and Honours theses in S
     <td>ARC Research Hub End-of-Project Showcase, <br> Audience: University leadership, Hub researchers, ARC representatives, students, government officials, and industry stakeholders.</td>
     <td>14 Oct 2025</td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td>Enhancing Video Understanding with New Representation & Fusion <a href="https://leiwangr.github.io/files/Griffith_lei_video.pdf">[slides]</a></td>
     <td><a href="https://experts.griffith.edu.au/7205-jun-zhou">Prof. Jun Zhou</a>, <br> School of Information and Communication Technology, <br> Griffith University (Nathan Campus), <br> Brisbane, Australia</td>
     <td>Hyperspectral Video Tracking Research Group</td>
     <td>25 Feb 2025</td>
-  </tr>
+  </tr> -->
   <tr>
     <td>Action Recognition: Past, Present and Future <a href="https://leiwangr.github.io/files/AR_PPF_Lei.pdf">[slides]</a></td>
     <td><a href="https://dl2link.com">Prof. Haijun Zhang</a>, <br> Department of Computer Science, <br> Harbin Institute of Technology, <br> Shenzhen, China</td>
