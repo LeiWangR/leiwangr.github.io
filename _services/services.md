@@ -35,7 +35,7 @@ a:active {
   <tr>
     <td><strong><font color="red">TIME 2025</font></strong>: 1st International Workshop on <strong><font color="red">T</font></strong>ransformative <strong><font color="red">I</font></strong>nsights in <strong><font color="red">M</font></strong>ulti-faceted <strong><font color="red">E</font></strong>valuation<br><a href="https://time.griffith.edu.au/workshop/time2025/">[Homepage link]</a></td>
     <td>Dr Lei Wang, Dr Md Zakir Hossain, Dr Syed Islam, Prof Tom Gedeon, Dr Sharifa Alghowinem, Ms Isabella Yu, Ms Serena Bono, Dr Xuanying Zhu, Ms Gennie Nguyen, Dr Nur Haldar, Prof Abdur Razzaque, Dr Imran Razzak, Prof Rafiqul Islam, Dr Shahadat Uddin, Dr Naeem Janjua and A/Prof Aneesh Krishna</td>
-    <td>This new workshop focuses on cross-domain knowledge exchange and adaptation, aiming to bridge successful methodologies across diverse fields. Additionally, it seeks to close the gap between academic research and industry needs. Our discussions will cover the past, present, and future directions of research in web technologies. <a href="https://leiwangr.github.io/files/time2025.pdf">[Workshop summary]</a> </td>
+    <td>This new workshop focuses on cross-domain knowledge exchange and adaptation, aiming to bridge successful methodologies across diverse fields. Additionally, it seeks to close the gap between academic research and industry needs. Our discussions will cover the past, present, and future directions of research in web technologies. <br><a href="https://leiwangr.github.io/files/time2025.pdf">[Workshop summary]</a> </td>
     <td>The Web Conference 2025<br>
 Sydney, Australia<br>
 28 April - 2 May 2025</td>
@@ -149,13 +149,13 @@ Appointed as an external examiner for ANU’s Master’s and Honours theses in S
     <td>2 June 2023</td>
   </tr> -->
   <tr>
-    <td>Robust Human Action Modelling <a href="https://leiwangr.github.io/files/oral_presentation_slides.pdf">[slides]</a></td>
+    <td>Robust Human Action Modelling <br><a href="https://leiwangr.github.io/files/oral_presentation_slides.pdf">[slides]</a></td>
     <td>ANU College of Engineering, Computing and Cybernetics</td>
     <td>PhD completion seminar: This seminar covers the following topics (i) an introduction to action recognition (AR) and a comparative review of AR methods, (ii) video-based action recognition, (iii) skeleton-based action recognition, and (iv) one- and few-shot action recognition. </td>
     <td>2 Feb 2023</td>
   </tr>
   <tr>
-    <td>Analysis and Evaluation of Kinect-based Action Recognition Algorithms <a href="https://leiwangr.github.io/files/GENG5512ResearchSeminarv4.pdf">[slides]</a></td>
+    <td>Analysis and Evaluation of Kinect-based Action Recognition Algorithms <br><a href="https://leiwangr.github.io/files/GENG5512ResearchSeminarv4.pdf">[slides]</a></td>
     <td>UWA's Department of Computer Science and Software Engineering</td>
     <td>MPE Engineering Research Project: In this seminar, I discussed (i) applications, issues, and techniques in action recognition (AR) and (ii) an analysis and evaluation of four handcrafted AR algorithms. </td>
     <td>Oct 2017</td>
