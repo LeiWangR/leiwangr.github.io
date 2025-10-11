@@ -100,7 +100,7 @@ Appointed as an external examiner for ANU’s Master’s and Honours theses in S
     <th>Date</th>
   </tr>
   <tr>
-    <td>Beyond Pixels, Toward Understanding <a href="https://leiwangr.github.io/files/program-schedule.pdf">[Program]</a></td>
+    <td>Beyond Pixels, Toward Understanding <br><a href="https://leiwangr.github.io/files/program-schedule.pdf">[Program]</a><br>Slides coming soon.</td>
     <td><a href="https://www.linkedin.com/in/amy-commins-85ba08184/">Amy Commins</a>, ARC Research Hub Manager <br>ARC Industrial Transformation Research Hub for Driving Farming Productivity and Disease Prevention, <br> Griffith University (Nathan Campus), <br> Brisbane, Australia</td>
     <td>ARC Research Hub End-of-Project Showcase, <br> Audience: University leadership, Hub researchers, ARC representatives, students, government officials, and industry stakeholders.</td>
     <td>14 Oct 2025</td>
@@ -112,7 +112,7 @@ Appointed as an external examiner for ANU’s Master’s and Honours theses in S
     <td>25 Feb 2025</td>
   </tr> -->
   <tr>
-    <td>Action Recognition: Past, Present and Future <a href="https://leiwangr.github.io/files/AR_PPF_Lei.pdf">[slides]</a></td>
+    <td>Action Recognition: Past, Present and Future <br> <a href="https://leiwangr.github.io/files/AR_PPF_Lei.pdf">[Slides]</a></td>
     <td><a href="https://dl2link.com">Prof. Haijun Zhang</a>, <br> Department of Computer Science, <br> Harbin Institute of Technology, <br> Shenzhen, China</td>
     <td>"The next generation of international Chinese young students face to face" Issue 21 <br> International Cooperation and Exchange Program Series Activities of Harbin Institute of Technology (Shenzhen) </td>
     <td>12 Aug 2023</td>
