@@ -38,7 +38,7 @@ Since 2018, he has worked as a full-time Computer Vision Researcher at iCetana P
 
 Before pursuing his PhD at ANU and Data61/CSIRO, Lei received several prestigious PhD scholarships, including the ARC Industrial Transformation Training Centre Scholarship, UWA International Fee Scholarship, University Postgraduate Award, Data61 PhD Scholarship, Data61 Top-up Scholarship, and ANU HDR Fee Remission Merit Scholarship. During his PhD, he authored multiple first-author papers published in top-tier venues such as CVPR, ICCV, ECCV, ACM MM, TPAMI, IJCV, and TIP. His research, supervised by [Prof. Piotr Koniusz](https://www.koniusz.com) (Data61/CSIRO & ANU & UNSW), earned him the Sang Uk Lee Best Student Paper Award at ACCV 2022.
 
-His research interests include action recognition in videos, anomaly detection, video and image processing, one- and few-shot learning, deep learning, tensor learning, and domain adaptation.
+His research interests include human motion and video understanding, temporal and few-shot representation learning, generative motion, multimodal intelligence, and human-centric AI.
 
 <!-- <p>&nbsp;</p> -->
 
