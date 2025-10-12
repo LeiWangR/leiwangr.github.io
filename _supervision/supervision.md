@@ -37,7 +37,7 @@ As part of my role at Griffith University, specifically through the TIME@ARC Hub
 
 * On-site Research Assistants:
   * [Zixuan Liu](https://www.linkedin.com/in/zixuanliu787/), Project title: *Video Genes*, *Bachelor Student*@QUT, 2025/05/12 – <font color="blue">present</font>
-  * [Xi Ding](https://darcyddx.github.io) (1 x <font color="red"><strong>NeurIPS'25</strong></font>), Project title: *When Features Reflect Predictions*, *Master's Student*@ANU, 2025/03/17 – <font color="blue">present</font>
+  * [Xi Ding](https://darcyddx.github.io) (1 x <font color="red"><strong>NeurIPS'25</strong></font>, recipient of the <font color="red">NeurIPS 2025 Scholar Award</font>), Project title: *When Features Reflect Predictions*, *Master's Student*@ANU, 2025/03/17 – <font color="blue">present</font>
 
 * On-site PhD candidates:
   * [Edwin Kwadwo Tenagyei](https://scholar.google.de/citations?user=VoIFrp7h-tIC&hl=en), TIME Lab internal research project, *Doctoral candidate*@Griffith&ARC Hub, 2025/05/30 – <font color="blue">present</font>
