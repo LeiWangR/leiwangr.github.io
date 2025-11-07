@@ -106,7 +106,7 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 				<div class="gs_gray">AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>)</div>
 			</td>
 			<td class="gsc_a_c">[<font color="red"><strong>A*</strong></font>]</td>
-			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
 		</tr>
 		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2509.23373"><strong><span class="gsc_a_at">Graph Your Own Prompt</span></strong></a>
