@@ -38,6 +38,7 @@ I am also working to bridge the gap between academic research and industry resea
 * *17/02/2025-<font color="blue">present</font>*: **Research Fellow** (Grade 2)
   * ARC Industrial Transformation Research Hub (School of Engineering and Built Environment—Electrical and Electronic Engineering at Griffith University)
   * Postdoc advisor: [Prof. Yongsheng Gao](https://experts.griffith.edu.au/19112-yongsheng-gao) ([2025 ARC Industry Laureate Fellow](https://www.arc.gov.au/2025-industry-laureate-profile-professor-yongsheng-gao), Griffith University) and [Prof. Piotr Koniusz](https://www.koniusz.com) (Data61/CSIRO & ANU & UNSW)
+  * <font color="red">One paper has been accepted at <strong>AAAI 2026</strong></font>
   * <font color="red"><strong>Invited talk:</strong> "Beyond Pixels: Toward Understanding" at the End-of-Project Showcase, ARC Research Hub for Driving Farming Productivity and Disease Prevention</font>
   * <font color="red">One paper has been accepted for publication in International Journal of Information Technology (BJIT)</font>
   * <font color="red">Two papers have been accepted at <strong>NeurIPS 2025</strong></font>
