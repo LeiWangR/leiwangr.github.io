@@ -73,7 +73,7 @@ I personally do not have any news; the most exciting updates are coming from my 
 - 11/10/2025: Congratulations to <font color="blue">Xi Ding</font>, recipient of the NeurIPS 2025 Scholar Award! 
 - 08/10/2025: Welcome <font color="blue">Ankur Singh</font> (ANU) to the ARC Research Hub at Griffith University as an ARC Hub Scholar in TIME Lab!
 - 05/10/2025: One paper has been accepted for publication in International Journal of Information Technology (BJIT). Congratulations to <font color="blue">Gennie Nguyen</font>!
-- 19/09/2025: Two papers have been accepted at **NeurIPS 2025**. Congratulations to <font color="blue">Xi Ding</font> and Jiahao Ma!
+- 19/09/2025: Two papers have been accepted at **NeurIPS 2025** (24.52% acceptance rate). Congratulations to <font color="blue">Xi Ding</font> and Jiahao Ma!
 - 15/08/2025: Launching the <font color="green"><strong>TIME³</strong></font> vision: At the ARC Research Hub & Griffith University, <font color="green"><strong>TIME³</strong></font> Lab, evolving from the original TIME Lab, unites three levels of AI research: Temporal Intelligence and Motion Extraction, Transformative Insights in Multi-faceted Evaluation, and Transparent, Inclusive, Measured, Ethical AI. The lab drives Green, responsible, and transformative AI, setting a new benchmark for sustainable, trustworthy, and cross-disciplinary research.
 - 01/08/2025: One paper has been accepted for an **oral** presentation at **ACM-MM 2025** (Brave New Ideas Track). Congratulations to Jia Haozhe, Wenshuo Chen, Huang Zhihui, Hongru Xiao, Jia Nanqian, Keming Wu, Songning Lai, and Bowen Tian.
 - 26/07/2025: One paper has been accepted at **BMVC 2025**. Congratulations to <font color="blue">Junliang Ye</font>!
