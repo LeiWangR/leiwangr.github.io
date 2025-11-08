@@ -69,7 +69,7 @@ His research interests include human motion and video understanding, temporal an
 
 I personally do not have any news; the most exciting updates are coming from my talented students!
 
-- 08/11/2025: One paper has been accepted at **AAAI 2026**. Congratulations to <font color="blue">Xi Ding</font>!
+- 08/11/2025: One paper has been accepted at **AAAI 2026** (17.6% acceptance rate). Congratulations to <font color="blue">Xi Ding</font>!
 - 11/10/2025: Congratulations to <font color="blue">Xi Ding</font>, recipient of the NeurIPS 2025 Scholar Award! 
 - 08/10/2025: Welcome <font color="blue">Ankur Singh</font> (ANU) to the ARC Research Hub at Griffith University as an ARC Hub Scholar in TIME Lab!
 - 05/10/2025: One paper has been accepted for publication in International Journal of Information Technology (BJIT). Congratulations to <font color="blue">Gennie Nguyen</font>!
