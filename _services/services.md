@@ -33,6 +33,14 @@ a:active {
     <th>Conference details</th>
   </tr>
   <tr>
+    <td><strong><font color="red">TIME 2026</font></strong>: 2nd International Workshop on <strong><font color="red">T</font></strong>ransformative <strong><font color="red">I</font></strong>nsights in <strong><font color="red">M</font></strong>ulti-faceted <strong><font color="red">E</font></strong>valuation<br><a href="">[TBD]</a></td>
+    <td>Dr Lei Wang, Dr Md Zakir Hossain, Prof Tom Gedeon, Dr Syed Islam, Prof Rafiqul Islam, Dr Yasmeen George, Dr Shreya Ghosh</td>
+    <td>This new workshop focuses on cross-domain knowledge exchange and adaptation, aiming to bridge successful methodologies across diverse fields. Additionally, it seeks to close the gap between academic research and industry needs. Our discussions will cover the past, present, and future directions of research in web technologies. <br><a href="">[TBD]</a> </td>
+    <td>The Web Conference 2026<br>
+Dubai, UAE<br>
+13 April - 17 April 2026</td>
+  </tr>
+  <tr>
     <td><strong><font color="red">TIME 2025</font></strong>: 1st International Workshop on <strong><font color="red">T</font></strong>ransformative <strong><font color="red">I</font></strong>nsights in <strong><font color="red">M</font></strong>ulti-faceted <strong><font color="red">E</font></strong>valuation<br><a href="https://time.griffith.edu.au/workshop/time2025/">[Homepage link]</a></td>
     <td>Dr Lei Wang, Dr Md Zakir Hossain, Dr Syed Islam, Prof Tom Gedeon, Dr Sharifa Alghowinem, Ms Isabella Yu, Ms Serena Bono, Dr Xuanying Zhu, Ms Gennie Nguyen, Dr Nur Haldar, Prof Abdur Razzaque, Dr Imran Razzak, Prof Rafiqul Islam, Dr Shahadat Uddin, Dr Naeem Janjua and A/Prof Aneesh Krishna</td>
     <td>This new workshop focuses on cross-domain knowledge exchange and adaptation, aiming to bridge successful methodologies across diverse fields. Additionally, it seeks to close the gap between academic research and industry needs. Our discussions will cover the past, present, and future directions of research in web technologies. <br><a href="https://leiwangr.github.io/files/time2025.pdf">[Workshop summary]</a> </td>
