@@ -275,6 +275,14 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
+		<tr class="gsc_a_tr">
+			<td class="gsc_a_t"><a href=""><strong><span class="gsc_a_at">TIME 2026: 2nd International Workshop on Transformative Insights in Multi-faceted Evaluation</span></strong></a>
+				<div class="gs_gray"><strong>L Wang</strong>$^\dagger$, MZ Hossain, T Gedeon, S Islam, MR Islam, Y George, S Ghosh</div>
+				<div class="gs_gray">Companion Proceedings of the ACM Web Conference 2026</div>
+			</td>
+			<td class="gsc_a_c"><a href="" style="color:#000000;">TBD</a></td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
+		</tr>
 		<tr class="gsc_a_tr" style="background-color:#E5E4E2">
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2405.10718"><strong><span class="gsc_a_at">SignLLM: Sign Languages Production Large Language Models</span></strong></a>
 				<div class="gs_gray">S Fang, C Chen, <strong>L Wang</strong>, C Zheng, C Sui, Y Tian</div>
