@@ -69,7 +69,7 @@ His research interests include human motion and video understanding, temporal an
 
 I personally do not have any news; the most exciting updates are coming from my talented students!
 
-- 09/11/2025: One workshop proposal entitled "*TIME 2026: 2nd International Workshop on Transformative Insights in Multi-faceted Evaluation*" has been accepted at The Web Conference (WWW 2026, A*) as a half-day workshop.
+- 09/11/2025: One workshop proposal entitled "*TIME 2026: 2nd International Workshop on Transformative Insights in Multi-faceted Evaluation*" has been accepted at The Web Conference (WWW 2026, A*) as a half-day workshop. <font color="blue">Syuan-Hao Li</font> (TIME@ARC Hub&Griffith), <font color="blue">Zhicheng Zhang</font> (UNSW), and Dr <font color="blue">Zicheng Pan</font> (Griffith) have been appointed as TIME 2026 Workshop Coordinators.
 - 08/11/2025: One paper has been accepted at **AAAI 2026** (17.6% acceptance rate). Congratulations to <font color="blue">Xi Ding</font>!
 - 11/10/2025: Congratulations to <font color="blue">Xi Ding</font>, recipient of the NeurIPS 2025 Scholar Award! 
 - 08/10/2025: Welcome <font color="blue">Ankur Singh</font> (ANU) to the ARC Research Hub at Griffith University as an ARC Hub Scholar in TIME Lab!
