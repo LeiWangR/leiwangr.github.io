@@ -42,7 +42,7 @@ I am also working to bridge the gap between academic research and industry resea
   * <font color="red">One paper has been accepted at <strong>AAAI 2026</strong></font>
   * <font color="red"><strong>Invited talk:</strong> "Beyond Pixels: Toward Understanding" at the End-of-Project Showcase, ARC Research Hub for Driving Farming Productivity and Disease Prevention</font>
   * <font color="red">One paper has been accepted for publication in International Journal of Information Technology (BJIT)</font>
-  * <font color="red">Two papers have been accepted at <strong>NeurIPS 2025</strong></font>
+  * <font color="red"><strong>Two</strong> papers have been accepted at <strong>NeurIPS 2025</strong></font>
   * <font color="red">I lead the <strong>TIME³</strong> vision at ARC Hub&Griffith, transforming the original TIME Lab into a pioneering initiative for Green, responsible, and cross-disciplinary AI</font>
   * <font color="red">52.4% of my publications are among the <strong>top 10% most cited</strong>, ranking <strong>19th</strong> in the Griffith Sciences Group; my Field-Weighted Citation Impact (FWCI) of 6.04 (2020–2025) ranks <strong>5th</strong> across the Group (source: SciVal, Scopus data, Griffith Sciences Research Report, Aug 2025)</font>
   * <font color="red">One paper has been accepted for an <strong>oral</strong> presentation at <strong>ACM-MM 2025</strong> (Brave New Ideas Track)</font>
