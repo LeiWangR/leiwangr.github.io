@@ -101,6 +101,14 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr">
+			<td class="gsc_a_t"><a href=""><strong><span class="gsc_a_at">Feature Hallucination for Self-supervised Action Recognition</span></strong></a>
+				<div class="gs_gray"><strong>L Wang</strong>$^\dagger$, P Koniusz</div>
+				<div class="gs_gray">AAAI-26 Journal Track</div>
+			</td>
+			<td class="gsc_a_c">AAAI-26 Journal Track</td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
+		</tr>
+		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href=""><strong><span class="gsc_a_at">Learning Time in Static Classifiers</span></strong></a>
 				<div class="gs_gray">X Ding*, <strong>L Wang</strong>*, P Koniusz, Y Gao</div>
 				<div class="gs_gray">AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>)</div>
