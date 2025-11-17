@@ -36,7 +36,6 @@ As part of my role at Griffith University, specifically through the TIME@ARC Hub
   * Wenxiang Diao, Project title: *Ultra‑Fine‑Grained Visual Categorization*, *Master's Student*@UNSW Sydney, 2025/05/26 – <font color="blue">present</font>
 
 * On-site Research Assistants:
-  * [Zixuan Liu](https://www.linkedin.com/in/zixuanliu787/), Project title: *Video Genes*, *Bachelor Student*@QUT, 2025/05/12 – <font color="blue">present</font>
   * [Xi Ding](https://darcyddx.github.io) (1 x <font color="red"><strong>AAAI'26</strong></font>, 1 x <font color="red"><strong>NeurIPS'25</strong></font>, recipient of the <font color="red"><strong>NeurIPS 2025 Scholar Award</strong></font>), Project title: *When Features Reflect Predictions*, *Master's Student*@ANU, 2025/03/17 – <font color="blue">present</font>
 
 * On-site PhD candidates:
