@@ -115,7 +115,6 @@ For more details, feel free to reach out.
 
 - <font color="blue"> Research Assistant:</font>
   - Mr Ankur Singh <font color="blue"> (Bachelor of Philosophy (Honours) - Science, ANU)</font>
-  - Mr [Zixuan Liu](https://www.linkedin.com/in/zixuanliu787/) <font color="blue"> (Bachelor of Information Technology, Queensland University of Technology)</font>
   - Mr [Xi Ding](https://darcyddx.github.io) <font color="blue"> (Master of Computing, ANU)</font>
 
 
