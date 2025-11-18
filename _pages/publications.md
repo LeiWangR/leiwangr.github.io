@@ -54,7 +54,7 @@ Journal impact factors follow the [Clarivate JCR 2023](https://jcr.clarivate.com
 		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://link.springer.com/article/10.1007/s11263-025-02513-4"><strong><span class="gsc_a_at">Feature Hallucination for Self-supervised Action Recognition</span></strong></a>
 				<div class="gs_gray"><strong>L Wang</strong>$^\dagger$, P Koniusz</div>
-				<div class="gs_gray">International Journal of Computer Vision (<strong>IJCV</strong>), 1-34</div>
+				<div class="gs_gray">International Journal of Computer Vision (<strong>IJCV</strong>), 7612-7646</div>
 			</td>
 			<td class="gsc_a_c">(Extension of our ICCV'19 and ACMMM'21)<br>[<font color="red"><strong>IF: 11.6</strong></font>]<br><a href="https://github.com/LeiWangR/ODFSDF" style="color:#000000;">Code</a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
@@ -62,7 +62,7 @@ Journal impact factors follow the [Clarivate JCR 2023](https://jcr.clarivate.com
 		<tr class="gsc_a_tr" style="background-color:#E0FFFF"> 
 			<td class="gsc_a_t"><a href="https://link.springer.com/article/10.1007/s11263-024-02070-2"><strong><span class="gsc_a_at">Meet JEANIE: a Similarity Measure for 3D Skeleton Sequences via Temporal‑Viewpoint Alignment</span></strong></a>
 				<div class="gs_gray"><strong>L Wang</strong>$^\dagger$, J Liu, L Zheng, T Gedeon, P Koniusz</div>
-				<div class="gs_gray">International Journal of Computer Vision (<strong>IJCV</strong>), 4091–4122</div>
+				<div class="gs_gray">International Journal of Computer Vision (<strong>IJCV</strong>), 4091-4122</div>
 			</td>
 			<td class="gsc_a_c">(IJCV special issue on our ACCV'22)<br>[<font color="red"><strong>IF: 11.6</strong></font>] <br><a href="https://github.com/LeiWangR/JEANIE" style="color:#000000;"> Code </a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
@@ -101,11 +101,11 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr">
-			<td class="gsc_a_t"><a href=""><strong><span class="gsc_a_at">Feature Hallucination for Self-supervised Action Recognition</span></strong></a>
+			<td class="gsc_a_t"><a href="https://link.springer.com/article/10.1007/s11263-025-02513-4"><strong><span class="gsc_a_at">Feature Hallucination for Self-supervised Action Recognition</span></strong></a>
 				<div class="gs_gray"><strong>L Wang</strong>$^\dagger$, P Koniusz</div>
 				<div class="gs_gray">AAAI-26 Journal Track</div>
 			</td>
-			<td class="gsc_a_c">AAAI-26 Journal Track</td>
+			<td class="gsc_a_c">AAAI-26 Journal Track<br>(based on IJCV 2025)</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
 		</tr>
 		<tr class="gsc_a_tr">
