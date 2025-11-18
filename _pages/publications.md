@@ -35,7 +35,7 @@ a:active {
 
 <!-- You can find my published articles on my [Google Scholar](https://scholar.google.com/citations?user=VWCZLXgAAAAJ&hl=en) profile. -->
 
-$^\dagger$: Corresponding author; *: Co-first authors (equal contribution).
+*: Co-first authors (equal contribution); $^\dagger$: Corresponding author.
 
 <h2>Journals</h2>
 
