@@ -91,7 +91,26 @@ Application Review Process:
 
 **Note**: Applicants are expected to demonstrate how their research interests, skills, and experience align closely with the objectives of the project. Proposals that clearly connect the candidate’s expertise to the project aims are strongly encouraged.
 
-<h3>Project 8: ARC Research Hub Visiting Scholar (TIME@ARC Hub & Griffith)<font color="red"> [Ongoing]</font></h3>
+
+<h3>Project 8: TIME Lab Research Internship at Griffith<font color="red"> [Ongoing]</font></h3>
+
+We are offering an on-site research internship at TIME Lab, Griffith University.
+
+📍 Location: Griffith University (on-site)
+
+📅 Duration: 26 to 52 weeks
+
+How to Apply:
+Interested students should submit their CV and academic transcript to TIME Lab via email at [time.lab@griffith.edu.au](mailto:time.lab@griffith.edu.au).
+
+For more information, feel free to reach out.
+
+- <font color="blue"> Research Intern (TIME@ARC Hub & Griffith):</font>
+  - Mr [Bikash Kumar Badatya](https://sites.google.com/alumni.iitgn.ac.in/bikashkumar) <font color="blue"> (Master of Science in Physics, Indian Institute of Technology Gandhinagar)</font>
+  - Mr [Syuan-Hao Li](https://github.com/hibana2077) <font color="blue"> (Bachelor of Science, National Taitung University)</font>
+  - Mr Wenxiang Diao <font color="blue"> (Master of Information Technology, UNSW Sydney)</font>
+
+<h3>Project 7: ARC Research Hub Visiting Scholar (TIME@ARC Hub & Griffith)<font color="red">[Completed]</font></h3>
 
 TIME Lab at Griffith University invites applications for an on-site research experience.
 
@@ -117,27 +136,7 @@ For more details, feel free to reach out.
   - Mr Ankur Singh <font color="blue"> (Bachelor of Philosophy (Honours) - Science, ANU)</font>
   - Mr [Xi Ding](https://darcyddx.github.io) <font color="blue"> (Master of Computing, ANU)</font>
 
-
-<h3>Project 7: TIME Lab Research Internship at Griffith<font color="red"> [Ongoing]</font></h3>
-
-We are offering an on-site research internship at TIME Lab, Griffith University.
-
-📍 Location: Griffith University (on-site)
-
-📅 Duration: 26 to 52 weeks
-
-How to Apply:
-Interested students should submit their CV and academic transcript to TIME Lab via email at [time.lab@griffith.edu.au](mailto:time.lab@griffith.edu.au).
-
-For more information, feel free to reach out.
-
-- <font color="blue"> Research Intern (TIME@ARC Hub & Griffith):</font>
-  - Mr [Bikash Kumar Badatya](https://sites.google.com/alumni.iitgn.ac.in/bikashkumar) <font color="blue"> (Master of Science in Physics, Indian Institute of Technology Gandhinagar)</font>
-  - Mr [Syuan-Hao Li](https://github.com/hibana2077) <font color="blue"> (Bachelor of Science, National Taitung University)</font>
-  - Mr Wenxiang Diao <font color="blue"> (Master of Information Technology, UNSW Sydney)</font>
-
-
-<h3>Project 6: ANU TechLauncher - TIME Lab’s TIME Space <font color="red">[Ongoing]</font></h3>
+<h3>Project 6: ANU TechLauncher - TIME Lab’s TIME Space <font color="red">[Completed]</font></h3>
 
 [TIME Lab](https://time.griffith.edu.au/) is a dynamic team of honours and master's students working on final-year research projects under the supervision of Lei Wang. Over the past year, the team has made significant strides, not only in research but also in achieving a healthy work-life balance. To celebrate this progress, TIME Lab aims to design a website, TIME Space, to showcase the memorable moments of the past year. TIME Space will be a fully interactive platform where photos loop endlessly, following the dynamic motion of the TIME Lab logo. Users will be able to engage with the space by selecting specific time frames, locations, or individuals involved in the memories, creating a personalized experience that brings the past year to life.
 
