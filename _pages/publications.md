@@ -399,7 +399,7 @@ Please note that arXiv papers have not been peer-reviewed and should be consider
 
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
-		<tr class="gsc_a_tr">
+		<tr class="gsc_a_tr" style="background-color:#E5E4E2">
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2501.18232"><strong><span class="gsc_a_at">Free-T2M: Robust Text-to-Motion Generation for Humanoid Robots via Frequency-Domain</span></strong></a>
 				<div class="gs_gray">W Chen, H Jia, S Lai, <strong>L Wang</strong>, Y Lin, H Xiao, L Hu, Y Yue</div>
 				<div class="gs_gray">arXiv preprint arXiv:2501.18232</div>
@@ -407,7 +407,7 @@ Please note that arXiv papers have not been peer-reviewed and should be consider
 			<td class="gsc_a_c">Research report.</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
 		</tr>
-		<tr class="gsc_a_tr">
+		<tr class="gsc_a_tr" style="background-color:#E5E4E2">
 			<td class="gsc_a_t"><a href="https://www.arxiv.org/pdf/2509.25304"><strong><span class="gsc_a_at">LUMA: Low-Dimension Unified Motion Alignment with Dual-Path Anchoring for Text-to-Motion Diffusion Model</span></strong></a>
 				<div class="gs_gray">H Jia, W Chen, Y Lin, Y Yang, <strong>L Wang</strong>, M Ning, B Tian, S Lai, N Jia, Y Chen, Y Yue</div>
 				<div class="gs_gray">arXiv preprint arXiv:2509.25304</div>
