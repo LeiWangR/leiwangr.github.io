@@ -108,7 +108,7 @@ For more information, feel free to reach out.
 - <font color="blue"> Research Intern (TIME@ARC Hub & Griffith):</font>
   - Mr [Bikash Kumar Badatya](https://sites.google.com/alumni.iitgn.ac.in/bikashkumar) <font color="blue"> (Master of Science in Physics, Indian Institute of Technology Gandhinagar)</font>
   - Mr [Syuan-Hao Li](https://github.com/hibana2077) <font color="blue"> (Bachelor of Science, National Taitung University)</font>
-  - Mr Wenxiang Diao <font color="blue"> (Master of Information Technology, UNSW Sydney)</font>
+
 
 <h3>Project 7: ARC Research Hub Visiting Scholar (TIME@ARC Hub & Griffith)<font color="red">[Completed]</font></h3>
 
@@ -133,6 +133,7 @@ Interested students should submit their CV and academic transcript via email to 
 For more details, feel free to reach out.
 
 - <font color="blue"> Research Assistant:</font>
+  - Mr Wenxiang Diao <font color="blue"> (Master of Information Technology, UNSW Sydney)</font>
   - Mr Ankur Singh <font color="blue"> (Bachelor of Philosophy (Honours) - Science, ANU)</font>
   - Mr [Xi Ding](https://darcyddx.github.io) <font color="blue"> (Master of Computing, ANU)</font>
 
