@@ -101,11 +101,11 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr">
-			<td class="gsc_a_t"><a href="https://link.springer.com/article/10.1007/s11263-025-02513-4"><strong><span class="gsc_a_at">Feature Hallucination for Self-supervised Action Recognition</span></strong></a>
+			<td class="gsc_a_t"><a href="https://leiwangr.github.io/files/aaai26_journal_track.pdf"><strong><span class="gsc_a_at">Feature Hallucination for Self-supervised Action Recognition</span></strong></a>
 				<div class="gs_gray"><strong>L Wang</strong>$^\dagger$, P Koniusz</div>
-				<div class="gs_gray">AAAI-26 Journal Track</div>
+				<div class="gs_gray">AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>)</div>
 			</td>
-			<td class="gsc_a_c">AAAI-26 Journal Track<br>(based on IJCV 2025)</td>
+			<td class="gsc_a_c">AAAI-26 Journal Track<br>(based on <a href="https://link.springer.com/article/10.1007/s11263-025-02513-4">IJCV 2025</a>)</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
 		</tr>
 		<tr class="gsc_a_tr">
