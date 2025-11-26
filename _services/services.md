@@ -33,7 +33,7 @@ a:active {
     <th>Conference details</th>
   </tr>
   <tr>
-    <td><strong><font color="green">TIME 2026</font></strong>: 2nd International Workshop on <strong><font color="green">T</font></strong>ransformative <strong><font color="green">I</font></strong>nsights in <strong><font color="green">M</font></strong>ulti-faceted <strong><font color="green">E</font></strong>valuation<br><a href="">[TBD]</a></td>
+    <td><strong><font color="green">TIME 2026</font></strong>: 2nd International Workshop on <strong><font color="green">T</font></strong>ransformative <strong><font color="green">I</font></strong>nsights in <strong><font color="green">M</font></strong>ulti-faceted <strong><font color="green">E</font></strong>valuation<br><a href="https://time.griffith.edu.au/workshop/time2026/">[Homepage link]</a></td>
     <td>Dr Lei Wang, Dr Md Zakir Hossain, Prof Tom Gedeon, Dr Syed Islam, Prof Rafiqul Islam, Dr Yasmeen George, Dr Shreya Ghosh</td>
     <td>This new workshop focuses on cross-domain knowledge exchange and adaptation, aiming to bridge successful methodologies across diverse fields. Additionally, it seeks to close the gap between academic research and industry needs. Our discussions will cover the past, present, and future directions of research in web technologies. <br><a href="https://leiwangr.github.io/files/time26-workshop.pdf">[Call for paper submission]</a> </td>
     <td>The Web Conference 2026<br>
