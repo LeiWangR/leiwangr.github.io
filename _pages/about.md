@@ -69,6 +69,7 @@ His research interests include human motion and video understanding, temporal an
 
 I personally do not have any news; the most exciting updates are coming from my talented students!
 
+- 26/11/2025: We’re proud to share that TIME Lab student <font color="blue">Xi Ding</font> has begun his research internship at Carnegie Mellon University (CMU, QS #52 globally), and <font color="blue">Gennie Nguyen</font> has started her PhD studies at Nanyang Technological University (NTU, QS #12 globally and #2 in QS Asia). Congratulations to both, we wish them great success!
 - 25/11/2025: Our workshop, “*TIME 2026: 2nd International Workshop on Transformative Insights in Multi-faceted Evaluation*”, held at The Web Conference (WWW 2026, A*), is now open for [paper submissions](https://openreview.net/group?id=ACM.org/TheWebConf/2026/Workshop/TIME#tab-recent-activity). More details are available on our [TIME 2026 call for paper submission](https://leiwangr.github.io/files/time26-workshop.pdf).
 - 16/11/2025: Congratulations to <font color="blue">Xi Ding</font> on the successful completion of the “When Features Reflect Predictions” project as a Visiting Scholar at the TIME@ARC Hub&Griffith!
 - 11/11/2025: One paper has been accepted for the AAAI-26 Journal Track.
