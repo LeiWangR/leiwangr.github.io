@@ -44,7 +44,7 @@ Journal impact factors follow the [Clarivate JCR 2023](https://jcr.clarivate.com
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr">
-			<td class="gsc_a_t"><a href="https://arxiv.org/abs/2505.16702"><strong><span class="gsc_a_at">Truth and Trust: Fake News Detection via Biosignals</span></strong></a>
+			<td class="gsc_a_t"><a href="https://link.springer.com/article/10.1007/s41870-025-02836-y"><strong><span class="gsc_a_at">Truth and Trust: Fake News Detection via Biosignals</span></strong></a>
 				<div class="gs_gray">G Nguyen, <strong>L Wang</strong>, Y Jiang, T Gedeon</div>
 				<div class="gs_gray">International Journal of Information Technology (BJIT)</div>
 			</td>
