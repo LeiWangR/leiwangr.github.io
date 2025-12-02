@@ -399,6 +399,14 @@ Please note that arXiv papers have not been peer-reviewed and should be consider
 
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
+		<tr class="gsc_a_tr">
+			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2512.00369"><strong><span class="gsc_a_at">POLARIS: Projection-Orthogonal Least Squares for Robust and Adaptive Inversion in Diffusion Models</span></strong></a>
+				<div class="gs_gray">W Chen, H Li, S Liang, <strong>L Wang</strong>, H Jia, K Yuan, J Wu, B Tian, Y Yue</div>
+				<div class="gs_gray">arXiv preprint arXiv:2512.00369</div>
+			</td>
+			<td class="gsc_a_c">Research report.[<a href="https://polaris-code-official.github.io/" style="color:#000000;">Project website</a>][<a href="https://github.com/Chatonz/POLARIS" style="color:#000000;">Code</a>]</td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
+		</tr>
 		<tr class="gsc_a_tr" style="background-color:#E5E4E2">
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2501.18232"><strong><span class="gsc_a_at">Free-T2M: Robust Text-to-Motion Generation for Humanoid Robots via Frequency-Domain</span></strong></a>
 				<div class="gs_gray">W Chen, H Jia, S Lai, <strong>L Wang</strong>, Y Lin, H Xiao, L Hu, Y Yue</div>
