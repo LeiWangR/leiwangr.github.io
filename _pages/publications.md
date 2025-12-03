@@ -288,7 +288,7 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 				<div class="gs_gray"><strong>L Wang</strong>$^\dagger$, MZ Hossain, T Gedeon, S Islam, MR Islam, Y George, S Ghosh</div>
 				<div class="gs_gray">Companion Proceedings of the ACM Web Conference 2026</div>
 			</td>
-			<td class="gsc_a_c"><a href="" style="color:#000000;">TBD</a></td>
+			<td class="gsc_a_c"><a href="https://time.griffith.edu.au/workshop/time2026/" style="color:#000000;">Workshop website</a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
 		</tr>
 		<tr class="gsc_a_tr" style="background-color:#E5E4E2">
