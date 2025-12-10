@@ -44,6 +44,14 @@ Journal impact factors follow the [Clarivate JCR 2023](https://jcr.clarivate.com
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr">
+			<td class="gsc_a_t"><a href="https://arxiv.org/abs/2505.16730"><strong><span class="gsc_a_at">Detecting Fake News Belief via Skin and Blood Flow Signals</span></strong></a>
+				<div class="gs_gray">G Nguyen, <strong>L Wang</strong>, Y Jiang, T Gedeon</div>
+				<div class="gs_gray">arXiv preprint arXiv:2505.16730</div>
+			</td>
+			<td class="gsc_a_c">Under major revision.</td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
+		</tr>
+		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://link.springer.com/article/10.1007/s41870-025-02836-y"><strong><span class="gsc_a_at">Truth and Trust: Fake News Detection via Biosignals</span></strong></a>
 				<div class="gs_gray">G Nguyen, <strong>L Wang</strong>, Y Jiang, T Gedeon</div>
 				<div class="gs_gray">International Journal of Information Technology (BJIT)</div>
@@ -440,14 +448,14 @@ S Anwar, T Gedeon, <strong>L Wang</strong>$^\dagger$, Z Qin</div>
 			<td class="gsc_a_c">Jiyao Yang conducted this research under the supervision of Lei Wang, Zhenyue Qin, and Yang Liu. This work presents a systematic review of skeleton-based action recognition methods and the construction of a new large-scale benchmark dataset, aiming to advance robustness and generalization in complex real-world scenarios. [<a href="https://yliu1082.github.io/ANUBIS/" style="color:#000000;">Project website</a>][<a href="https://github.com/yliu1082/ANUBIS-Sourcecode" style="color:#000000;">Code</a>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
 		</tr>
-		<tr class="gsc_a_tr">
+		<!-- <tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://arxiv.org/abs/2505.16730"><strong><span class="gsc_a_at">Detecting Fake News Belief via Skin and Blood Flow Signals</span></strong></a>
 				<div class="gs_gray">G Nguyen, <strong>L Wang</strong>, Y Jiang, T Gedeon</div>
 				<div class="gs_gray">arXiv preprint arXiv:2505.16730</div>
 			</td>
 			<td class="gsc_a_c">Gennie Nguyen conducted this research under the supervision of Lei Wang and Tom Gedeon as part of her final year master's research project at ANU. </td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
-		</tr>
+		</tr> -->
 		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://arxiv.org/abs/2505.12433"><strong><span class="gsc_a_at">SRLoRA: Subspace Recomposition in Low-Rank Adaptation via Importance-Based Fusion and Reinitialization</span></strong></a>
 				<div class="gs_gray">H Yang, <strong>L Wang</strong>$^\dagger$, MZ Hossain</div>
