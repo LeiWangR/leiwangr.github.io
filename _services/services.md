@@ -109,8 +109,7 @@ Appointed as an external examiner for ANU’s Master’s and Honours theses in S
   </tr>
   <tr>
     <td>Feature Hallucination for Self-supervised Action Recognition <br><a href="">[TBD]</a><br>Slides coming soon.</td>
-    <td>Sponsored by the Association for the Advancement of Artificial Intelligence
-January 22 – January 25, 2026 | Singapore EXPO | Singapore</td>
+    <td>Sponsored by the Association for the Advancement of Artificial Intelligence <br> January 22 – January 25, 2026 <br> Singapore EXPO <br> Singapore</td>
     <td>AAAI-26 Journal Track Program</td>
     <td>23 Jan 2026</td>
   </tr>
