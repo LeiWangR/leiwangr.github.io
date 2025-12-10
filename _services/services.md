@@ -108,6 +108,13 @@ Appointed as an external examiner for ANU’s Master’s and Honours theses in S
     <th>Date</th>
   </tr>
   <tr>
+    <td>Feature Hallucination for Self-supervised Action Recognition <br><a href="">[TBD]</a><br>Slides coming soon.</td>
+    <td>Sponsored by the Association for the Advancement of Artificial Intelligence
+January 22 – January 25, 2026 | Singapore EXPO | Singapore</td>
+    <td>AAAI-26 Journal Track Program</td>
+    <td>23 Jan 2026</td>
+  </tr>
+  <tr>
     <td>Beyond Pixels, Toward Understanding <br><a href="https://leiwangr.github.io/files/program-schedule.pdf">[Program]</a><br>Slides coming soon.</td>
     <td><a href="https://www.linkedin.com/in/amy-commins-85ba08184/">Amy Commins</a>, ARC Research Hub Manager <br>ARC Industrial Transformation Research Hub for Driving Farming Productivity and Disease Prevention, <br> Griffith University (Nathan Campus), <br> Brisbane, Australia</td>
     <td>ARC Research Hub End-of-Project Showcase, <br> Audience: University leadership, Hub researchers, ARC representatives, students, government officials, and industry stakeholders.</td>
