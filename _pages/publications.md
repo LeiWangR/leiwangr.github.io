@@ -48,7 +48,7 @@ Journal impact factors follow the [Clarivate JCR 2023](https://jcr.clarivate.com
 				<div class="gs_gray">G Nguyen, <strong>L Wang</strong>, Y Jiang, T Gedeon</div>
 				<div class="gs_gray">arXiv preprint arXiv:2505.16730</div>
 			</td>
-			<td class="gsc_a_c">Under major revision.</td>
+			<td class="gsc_a_c">Under revision.</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
 		</tr>
 		<tr class="gsc_a_tr">
