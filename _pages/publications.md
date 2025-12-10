@@ -113,7 +113,7 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 				<div class="gs_gray"><strong>L Wang</strong>$^\dagger$, P Koniusz</div>
 				<div class="gs_gray">AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>)</div>
 			</td>
-			<td class="gsc_a_c">AAAI-26 Journal Track<br>(based on <a href="https://link.springer.com/article/10.1007/s11263-025-02513-4" style="color:#000000;">IJCV 2025</a>)</td>
+			<td class="gsc_a_c">AAAI-26 Journal Track<br>(based on <a href="https://link.springer.com/article/10.1007/s11263-025-02513-4" style="color:#000000;">IJCV 2025</a>)<br>[<font color="red">Oral</font>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
 		</tr>
 		<tr class="gsc_a_tr">
