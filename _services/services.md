@@ -74,12 +74,12 @@ I regularly review technical papers for the following journals, conferences & wo
 
 * **Journals**:
   * IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), International Journal of Computer Vision (IJCV), ACM Computing Surveys (ACM CSUR), Big Data Mining and Analytics (BDMA),
-  * IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), IEEE Transactions on Multimedia (T-MM), IEEE Transactions on Information Forensics and Security (TIFS), Pattern Recognition (PR), Computer Vision and Image Understanding (CVIU), Neurocomputing, ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), IEEE Access,
+  * IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), IEEE Transactions on Industrial Informatics (TII), IEEE Transactions on Multimedia (T-MM), IEEE Transactions on Information Forensics and Security (TIFS), Pattern Recognition (PR), Computer Vision and Image Understanding (CVIU), Neurocomputing, ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), IEEE Access, CAAI Transactions on Intelligence Technology, 
   * Neural Computing and Applications (NCAA), Image and Vision Computing, Journal of Visual Communication and Image Representation (JVCI), Signal, Image and Video Processing (SIVP), The Visual Computer (TVCJ), SN Computer Science, Algorithms, Multimedia Systems, Machine Learning and Knowledge Extraction  (MAKE), International Journal of Clinical and Health Psychology (IJCHP), Sensors, Electronics, Neural Networks, Journal of Imaging, Future Internet, Information, Healthcare, IET Computer Vision, Electronics Letters, AI Communications, Global Health Economics and Sustainability, PeerJ Computer Science, Computers
  
 * **Conferences**:
   * AISTATS 2026, ICLR 2026, AAAI 2026, NeurIPS 2025, ICML 2025, AISTATS 2025, ICLR 2025, AAAI 2025, NeurIPS 2024, ICML 2024, ICLR 2024, AAAI 2024, NeurIPS 2023, ICML 2023, ICLR 2023, AAAI 2023, NeurIPS 2022, AAAI 2022, ICML 2022, 
-  * ICCV 2025, CVPR 2025, ECCV 2024, CVPR 2024, ICCV 2023, CVPR 2023, CVPR 2022, ECCV 2022 (<strong><font color="red">Outstanding Reviewer</font></strong>),
+  * CVPR 2026, ICCV 2025, CVPR 2025, ECCV 2024, CVPR 2024, ICCV 2023, CVPR 2023, CVPR 2022, ECCV 2022 (<strong><font color="red">Outstanding Reviewer</font></strong>),
   * WACV 2026, WACV 2025, WACV 2024, BMVC 2025, BMVC 2024, BMVC 2023, BMVC 2022, BMVC 2021, BMVC 2020, ACCV 2024, ICASSP 2026, ICASSP 2025, ICME 2025, IJCNN 2025,
   * ACM SIGCHI Conference on Computer-Supported Cooperative Work & Social Computing (CSCW 2026),
   * IEEE VIS 2025,
