@@ -408,7 +408,7 @@ Please note that arXiv papers have not been peer-reviewed and should be consider
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr" style="background-color:#E5E4E2">
-			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2501.18232"><strong><span class="gsc_a_at">Guided Path Sampling: Steering Diffusion Models Back on Track with Principled Path Guidance</span></strong></a>
+			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2512.22881"><strong><span class="gsc_a_at">Guided Path Sampling: Steering Diffusion Models Back on Track with Principled Path Guidance</span></strong></a>
 				<div class="gs_gray">H Li, W Chen, S Liang, <strong>L Wang</strong>, H Jia, Y Yue</div>
 				<div class="gs_gray">arXiv preprint arXiv:2512.22881</div>
 			</td>
