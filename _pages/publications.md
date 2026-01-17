@@ -307,7 +307,7 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 			<td class="gsc_a_c">[<font color="red">Oral</font>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
 		</tr>
-		<tr class="gsc_a_tr">
+		<tr class="gsc_a_tr" style="background-color:#E5E4E2">
 			<td class="gsc_a_t"><a href="https://openreview.net/forum?id=cBRJHXt89H"><strong><span class="gsc_a_at">Guided Path Sampling: Steering Diffusion Models Back on Track with Principled Path Guidance</span></strong></a>
 				<div class="gs_gray">H Li, W Chen, S Liang, <strong>L Wang</strong>, H Jia, Y Yue</div>
 				<div class="gs_gray">Companion Proceedings of the ACM Web Conference 2026</div>
@@ -315,7 +315,7 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 			<td class="gsc_a_c">[<font color="red">Oral</font>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
 		</tr>
-		<tr class="gsc_a_tr">
+		<tr class="gsc_a_tr" style="background-color:#E5E4E2">
 			<td class="gsc_a_t"><a href="https://openreview.net/forum?id=j4Kpj7AXBq"><strong><span class="gsc_a_at">RadioAR: Autoregressive Modeling for Accurate Radio Map Estimation</span></strong></a>
 				<div class="gs_gray">P Zheng, X Wang, W Chen, R Sun, <strong>L Wang</strong>, Y Yue, N Cheng</div>
 				<div class="gs_gray">Companion Proceedings of the ACM Web Conference 2026</div>
@@ -463,14 +463,14 @@ Please note that arXiv papers have not been peer-reviewed and should be consider
 
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
-		<tr class="gsc_a_tr" style="background-color:#E5E4E2">
+		<!-- <tr class="gsc_a_tr" style="background-color:#E5E4E2">
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2512.22881"><strong><span class="gsc_a_at">Guided Path Sampling: Steering Diffusion Models Back on Track with Principled Path Guidance</span></strong></a>
 				<div class="gs_gray">H Li, W Chen, S Liang, <strong>L Wang</strong>, H Jia, Y Yue</div>
 				<div class="gs_gray">arXiv preprint arXiv:2512.22881</div>
 			</td>
 			<td class="gsc_a_c">Research report.</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
-		</tr>
+		</tr> -->
 		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2512.00369"><strong><span class="gsc_a_at">POLARIS: Projection-Orthogonal Least Squares for Robust and Adaptive Inversion in Diffusion Models</span></strong></a>
 				<div class="gs_gray">W Chen*, H Li*, S Liang*, <strong>L Wang</strong>, H Jia, K Yuan, J Wu, B Tian, Y Yue</div>
