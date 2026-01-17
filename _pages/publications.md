@@ -325,7 +325,7 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 		</tr>
 		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://openreview.net/forum?id=QKftIi0ZIs"><strong><span class="gsc_a_at">Fine-Grained Visual Understanding for Multimodal and Trustworthy AI</span></strong></a>
-				<div class="gs_gray">S Li, <strong>L Wang</strong>$^\dagger$, Y Gao, Y Huang</div>
+				<div class="gs_gray">SH Li, <strong>L Wang</strong>$^\dagger$, Y Gao, Y Huang</div>
 				<div class="gs_gray">Companion Proceedings of the ACM Web Conference 2026</div>
 			</td>
 			<td class="gsc_a_c">Poster</td>
