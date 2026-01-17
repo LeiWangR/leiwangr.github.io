@@ -292,6 +292,62 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr">
+			<td class="gsc_a_t"><a href="https://openreview.net/forum?id=twzpn2VZv9"><strong><span class="gsc_a_at">Rethinking Object Detection and Tracking</span></strong></a>
+				<div class="gs_gray">A Sharma, <strong>L Wang</strong>$^\dagger$, Y Gao</div>
+				<div class="gs_gray">Companion Proceedings of the ACM Web Conference 2026</div>
+			</td>
+			<td class="gsc_a_c">[<font color="red">Oral</font>]</td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
+		</tr>
+		<tr class="gsc_a_tr">
+			<td class="gsc_a_t"><a href="https://openreview.net/forum?id=HCDyt0Z5vE"><strong><span class="gsc_a_at">Beyond Fine-Tuning: The Present and Future of Parameter-Efficient Fine-Tuning in Vision Transformers</span></strong></a>
+				<div class="gs_gray">EK Tenagyei, <strong>L Wang</strong>$^\dagger$, Y Gao</div>
+				<div class="gs_gray">Companion Proceedings of the ACM Web Conference 2026</div>
+			</td>
+			<td class="gsc_a_c">[<font color="red">Oral</font>]</td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
+		</tr>
+		<tr class="gsc_a_tr">
+			<td class="gsc_a_t"><a href="https://openreview.net/forum?id=cBRJHXt89H"><strong><span class="gsc_a_at">Guided Path Sampling: Steering Diffusion Models Back on Track with Principled Path Guidance</span></strong></a>
+				<div class="gs_gray">H Li, W Chen, S Liang, <strong>L Wang</strong>, H Jia, Y Yue</div>
+				<div class="gs_gray">Companion Proceedings of the ACM Web Conference 2026</div>
+			</td>
+			<td class="gsc_a_c">[<font color="red">Oral</font>]</td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
+		</tr>
+		<tr class="gsc_a_tr">
+			<td class="gsc_a_t"><a href="https://openreview.net/forum?id=j4Kpj7AXBq"><strong><span class="gsc_a_at">RadioAR: Autoregressive Modeling for Accurate Radio Map Estimation</span></strong></a>
+				<div class="gs_gray">P Zheng, X Wang, W Chen, R Sun, <strong>L Wang</strong>, Y Yue, N Cheng</div>
+				<div class="gs_gray">Companion Proceedings of the ACM Web Conference 2026</div>
+			</td>
+			<td class="gsc_a_c">[<font color="red">Oral</font>]</td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
+		</tr>
+		<tr class="gsc_a_tr">
+			<td class="gsc_a_t"><a href="https://openreview.net/forum?id=QKftIi0ZIs"><strong><span class="gsc_a_at">Fine-Grained Visual Understanding for Multimodal and Trustworthy AI</span></strong></a>
+				<div class="gs_gray">S Li, <strong>L Wang</strong>$^\dagger$, Y Gao, Y Huang</div>
+				<div class="gs_gray">Companion Proceedings of the ACM Web Conference 2026</div>
+			</td>
+			<td class="gsc_a_c">Poster</td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
+		</tr>
+		<tr class="gsc_a_tr">
+			<td class="gsc_a_t"><a href="https://openreview.net/forum?id=2GayLX5J9T"><strong><span class="gsc_a_at">Towards Better Evaluation Metrics for Text-to-Motion Generation</span></strong></a>
+				<div class="gs_gray">W Chen, H Jia, K Yu, S Lai, <strong>L Wang</strong>, Y Yue</div>
+				<div class="gs_gray">Companion Proceedings of the ACM Web Conference 2026</div>
+			</td>
+			<td class="gsc_a_c">[<font color="red">Oral</font>]</td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
+		</tr>
+		<tr class="gsc_a_tr">
+			<td class="gsc_a_t"><a href="https://openreview.net/forum?id=ns3TgZYQTZ"><strong><span class="gsc_a_at">Talking-Head Generation in Practice</span></strong></a>
+				<div class="gs_gray">Z Zhang*, <strong>L Wang</strong>*, Yongsheng Gao, Yu Zhang</div>
+				<div class="gs_gray">Companion Proceedings of the ACM Web Conference 2026</div>
+			</td>
+			<td class="gsc_a_c">[<font color="red">Oral</font>]</td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
+		</tr>
+		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href=""><strong><span class="gsc_a_at">TIME 2026: 2nd International Workshop on Transformative Insights in Multi-faceted Evaluation</span></strong></a>
 				<div class="gs_gray"><strong>L Wang</strong>$^\dagger$, MZ Hossain, T Gedeon, S Islam, MR Islam, Y George, S Ghosh</div>
 				<div class="gs_gray">Companion Proceedings of the ACM Web Conference 2026</div>
