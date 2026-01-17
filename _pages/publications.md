@@ -341,7 +341,7 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 		</tr>
 		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://openreview.net/forum?id=ns3TgZYQTZ"><strong><span class="gsc_a_at">Talking-Head Generation in Practice</span></strong></a>
-				<div class="gs_gray">Z Zhang*, <strong>L Wang</strong>*, Yongsheng Gao, Yu Zhang</div>
+				<div class="gs_gray">Z Zhang*, <strong>L Wang</strong>*, Y Gao, Y Zhang</div>
 				<div class="gs_gray">Companion Proceedings of the ACM Web Conference 2026</div>
 			</td>
 			<td class="gsc_a_c">[<font color="red">Oral</font>]</td>
