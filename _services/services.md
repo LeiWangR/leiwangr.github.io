@@ -50,9 +50,15 @@ Sydney, Australia<br>
   </tr>
 </table>
 
+<h2>Conference Service (Session Chair)</h2>
+
+- **Session Chair**, AAAI/ACM SIGAI Doctoral Dissertation Talk, AAAI 2026, Singapore EXPO, Singapore.
+
+- **Session Chair**, ML: Graph-Based Machine Learning 4 Session, AAAI 2026, Singapore EXPO, Singapore.
+
 <!-- Paper Reviewing====== -->
 
-<h2>Review</h2>
+<h2>Review (Area Chair, Guest Editor, Reviewer)</h2>
 
 I am serving as a **Guest Editor** ([service certificate](https://leiwangr.github.io/files/Editor-Certificate-733853.pdf)) for MDPI Electronics [Q2, h-index 110], Special Issue titled 'Trustworthy AI for Video, Web, and Social Applications'.
 
@@ -66,11 +72,8 @@ I am serving as an **Area Chair** for ACM Multimedia 2024 (<strong><font color="
 
 I am serving as an **Area Chair** for the 27th International Conference on Pattern Recognition (ICPR 2024).
 
-<!-- I have the honor of serving as an **Area Chair** for the 27th International Conference on Pattern Recognition (ICPR 2024) by invitation from [Prof. Cheng-Lin Liu](http://www.nlpr.ia.ac.cn/liucl/) (CASIA). -->
-
 I regularly review technical papers for the following journals, conferences & workshops. 
 
-<!-- <font color="blue">I write high quality reviews for papers in my research interests, e.g., action recognition, anomaly detection, one- and few-shot learning, deep learning, tensor learning, domain adaptation, etc.</font> -->
 
 * **Journals**:
   * IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), International Journal of Computer Vision (IJCV), ACM Computing Surveys (ACM CSUR), Big Data Mining and Analytics (BDMA),
@@ -91,10 +94,11 @@ I regularly review technical papers for the following journals, conferences & wo
   * Vision Datasets Understanding (1st VDU at CVPR 2022, 2nd VDU at CVPR 2023, 3rd VDU at CVPR 2024, 4th DataCV at ICCV 2025),
   * The AI City Challenge Workshop at CVPR 2023, CVPR 2024, ICCV 2025
  
-<!-- I also serve as a thesis examiner for master's and honors theses at the ANU College of Engineering, Computing & Cybernetics: S1 2023, S2 2023. -->
-I also serve as a **thesis examiner** for master's and honors theses at the ANU College of Engineering, Computing & Cybernetics for the academic terms S1 2023, S2 2023, S1 2024, and S2 2024.
+<h2>Thesis Examination</h2>
 
-Appointed as an external examiner for ANU’s Master’s and Honours theses in Semester 1, 2025.
+- I also serve as a **thesis examiner** for master's and honors theses at the ANU College of Engineering, Computing & Cybernetics for the academic terms S1 2023, S2 2023, S1 2024, and S2 2024.
+
+- Appointed as an external examiner for ANU’s Master’s and Honours theses in Semester 1, 2025.
 
 
 <h2>Invited Talk</h2>
