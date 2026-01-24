@@ -113,7 +113,7 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 				<div class="gs_gray"><strong>L Wang</strong>$^\dagger$, P Koniusz</div>
 				<div class="gs_gray">AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>)</div>
 			</td>
-			<td class="gsc_a_c">AAAI-26 Journal Track<br>(based on <a href="https://link.springer.com/article/10.1007/s11263-025-02513-4" style="color:#000000;">IJCV 2025</a>)<br>[<font color="red">Oral</font>]</td>
+			<td class="gsc_a_c">AAAI-26 Journal Track<br>(based on <a href="https://link.springer.com/article/10.1007/s11263-025-02513-4" style="color:#000000;">IJCV 2025</a>)<br>[<font color="red">Oral</font>]<br><a href="https://leiwangr.github.io/files/aaai26_jt_slide.pdf" style="color:#000000;">Slides</a>, <a href="https://leiwangr.github.io/files/aaai26_jt_poster.pdf" style="color:#000000;">Poster</a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
 		</tr>
 		<tr class="gsc_a_tr">
@@ -121,7 +121,7 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 				<div class="gs_gray">X Ding*, <strong>L Wang</strong>*, P Koniusz, Y Gao</div>
 				<div class="gs_gray">AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>)</div>
 			</td>
-			<td class="gsc_a_c">[<font color="red"><strong>A*</strong></font>]<br><a href="https://github.com/Darcyddx/time-seq" style="color:#000000;">Code</a></td>
+			<td class="gsc_a_c">[<font color="red"><strong>A*</strong></font>]<br><a href="https://github.com/Darcyddx/time-seq" style="color:#000000;">Code</a>, <a href="https://darcyddx.github.io/seq/" style="color:#000000;">Project website</a>, <a href="https://leiwangr.github.io/files/aaai26_mt_poster.pdf" style="color:#000000;">Poster</a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
 		</tr>
 		<tr class="gsc_a_tr">
@@ -325,7 +325,7 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 		</tr>
 		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://openreview.net/forum?id=QKftIi0ZIs"><strong><span class="gsc_a_at">Fine-Grained Visual Understanding for Multimodal and Trustworthy AI</span></strong></a>
-				<div class="gs_gray">SH Li, <strong>L Wang</strong>$^\dagger$, Y Gao, Y Huang</div>
+				<div class="gs_gray">SH Li, Y Huang, <strong>L Wang</strong>, Y Gao</div>
 				<div class="gs_gray">Companion Proceedings of the ACM Web Conference 2026</div>
 			</td>
 			<td class="gsc_a_c">Poster</td>
