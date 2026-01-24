@@ -349,7 +349,7 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 		</tr>
 		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href=""><strong><span class="gsc_a_at">TIME 2026: 2nd International Workshop on Transformative Insights in Multi-faceted Evaluation</span></strong></a>
-				<div class="gs_gray"><strong>L Wang</strong>$^\dagger$, MZ Hossain, T Gedeon, S Islam, MR Islam, Y George, S Ghosh</div>
+				<div class="gs_gray"><strong>L Wang</strong>$^\dagger$, MZ Hossain, T Gedeon, Z Pan, S Islam, MR Islam, Y George, S Ghosh</div>
 				<div class="gs_gray">Companion Proceedings of the ACM Web Conference 2026</div>
 			</td>
 			<td class="gsc_a_c"><a href="https://time.griffith.edu.au/workshop/time2026/" style="color:#000000;">Workshop website</a></td>
