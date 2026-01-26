@@ -109,6 +109,14 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr">
+			<td class="gsc_a_t"><a href=""><strong><span class="gsc_a_at">Subspace Kernel Learning on Tensor Sequences</span></strong></a>
+				<div class="gs_gray"><strong>L Wang</strong>, X Ding, Y Gao, P Koniusz</div>
+				<div class="gs_gray">International Conference on Learning Representations (<strong>ICLR</strong>)</div>
+			</td>
+			<td class="gsc_a_c">[<font color="red"><strong>A*</strong></font>]</td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
+		</tr>
+		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://leiwangr.github.io/files/aaai26_journal_track.pdf"><strong><span class="gsc_a_at">Feature Hallucination for Self-supervised Action Recognition</span></strong></a>
 				<div class="gs_gray"><strong>L Wang</strong>$^\dagger$, P Koniusz</div>
 				<div class="gs_gray">AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>)</div>
