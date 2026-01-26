@@ -35,6 +35,7 @@ As part of my role at Griffith University, specifically through the TIME@ARC Hub
   * [Syuan-Hao Li](https://github.com/hibana2077) (1 x <font color="red">WWW Companion'26</font>), ARC Research Hub internal research project (co-supervised with [Prof. Yongsheng Gao](https://experts.griffith.edu.au/19112-yongsheng-gao)),  *Bachelor Student*@National Taitung University, 2025/06/05 – <font color="blue">present</font>
 
 * On-site PhD candidates:
+  * Rongchang Wang, Project title: *Appliance of vision-based action recognition in dental surgical training*, *Doctoral candidate*@Griffith, 2025/12/08 – <font color="blue">present</font>
   * [Edwin Kwadwo Tenagyei](https://scholar.google.de/citations?user=VoIFrp7h-tIC&hl=en) (1 x <font color="red">WWW Companion'26 oral</font>), TIME Lab internal research project, *Doctoral candidate*@Griffith&ARC Hub, 2025/05/30 – <font color="blue">present</font>
 
 * Remote PhD candidates:
