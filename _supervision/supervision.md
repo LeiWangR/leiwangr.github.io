@@ -50,7 +50,7 @@ I have successfully supervised more than ten final-year research students, inclu
 
 * Former research assistants (**primary supervision**, TIME@ARC Hub&Griffith):
   * Wenxiang Diao, Project title: *Ultra‑Fine‑Grained Visual Categorization*, *Master's Student*@UNSW Sydney, 2025/05/26 – 2025/11/25
-  * Ankur Singh, TIME Lab internal research project, *Bachelor Student*@ANU, 2025/10/08 – 2025/11/15
+  * Ankur Singh, Project title: *Adapting TrackNetV4 for Egocentric Vision*, *Bachelor Student*@ANU, 2025/10/08 – 2025/11/15
   * [Xi Ding](https://darcyddx.github.io) (1 x <font color="red"><strong>ICLR'26</strong></font>, 1 x <font color="red"><strong>AAAI'26</strong></font>, 1 x <font color="red"><strong>NeurIPS'25</strong></font>, recipient of the <font color="red"><strong>NeurIPS 2025 Scholar Award</strong></font>), Project title: *When Features Reflect Predictions*, *Master's Student*@ANU, 2025/03/17 – 2025/11/16, <font color="blue">Research Internship at CMU (QS #52 globally)</font>
 
 * Former master's and honours students (**primary supervision**, TIME@ARC Hub&Griffith):
