@@ -69,7 +69,7 @@ His research interests include human motion and video understanding, temporal an
 
 I personally do not have any news; the most exciting updates are coming from my talented students!
 
-- 26/01/2026: One paper has been accepted at **ICLR 2026**. Congratulations to <font color="blue">Xi Ding</font>.
+- 26/01/2026: One paper has been accepted at **ICLR 2026** (28% acceptance rate). Congratulations to <font color="blue">Xi Ding</font>.
 - 19/01/2026: Seven papers (six orals and one poster) have been accepted to the Companion Proceedings of the ACM Web Conference (WWW Companion 2026). Congratulations to <font color="blue">Zhicheng Zhang</font>, <font color="blue">Wenshuo Chen</font>, <font color="blue">Syuan-Hao Li</font>, Peilin Zheng, Haosen Li, <font color="blue">Edwin Kwadwo Tenagyei</font>, and <font color="blue">Arpit Sharma</font>.
 - 18/12/2025: I am the Lead Chief Investigator (Lead CI) for the project "LiteMotion: Learning Efficient and Scalable Video Motion Representations", under the National Computational Merit Allocation Scheme (**NCMAS 2026**). 
 - 26/11/2025: We’re proud to share that TIME Lab student <font color="blue">Xi Ding</font> has begun his research internship at Carnegie Mellon University (CMU, QS #52 globally), and <font color="blue">Gennie Nguyen</font> has started her PhD studies at Nanyang Technological University (NTU, QS #12 globally and #2 in QS Asia). Congratulations to both, we wish them great success!
