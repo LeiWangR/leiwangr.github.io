@@ -42,6 +42,7 @@ As part of my role at Griffith University, specifically through the TIME@ARC Hub
   * Zhicheng Zhang (1 x <font color="red">WWW Companion'26 oral</font>), TIME Lab internal research project, *Doctoral candidate*@UNSW Canberra, 2025/10/10 – <font color="blue">present</font>
 
 * Remote Research Trainee:
+  * [Arpit Sharma](https://sites.google.com/cmrit.ac.in/arpitsharma) (1 x <font color="red">WWW Companion'26 oral</font>), TIME Lab internal research project, *Master's Student*@Christ University, 2025/12/07 – <font color="blue">present</font>
   * [Bikash Kumar Badatya](https://sites.google.com/alumni.iitgn.ac.in/bikashkumar), TIME Lab internal research project, *Master's Student*@IIT Gandhinagar, 2025/10/06 – <font color="blue">present</font>
 
 
