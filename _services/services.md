@@ -118,7 +118,7 @@ I regularly review technical papers for the following journals, conferences & wo
     <td>23 Jan 2026</td>
   </tr>
   <tr>
-    <td>Beyond Pixels, Toward Understanding <br><a href="https://leiwangr.github.io/files/program-schedule.pdf">[Program]</a><br>Slides coming soon.</td>
+    <td>Beyond Pixels, Toward Understanding <br><a href="https://leiwangr.github.io/files/program-schedule.pdf">[Program]</a><br><a href="https://leiwangr.github.io/files/arc_showcase_lei.pdf">[Slides]</a></td>
     <td><a href="https://www.linkedin.com/in/amy-commins-85ba08184/">Amy Commins</a>, ARC Research Hub Manager <br>ARC Industrial Transformation Research Hub for Driving Farming Productivity and Disease Prevention, <br> Griffith University (Nathan Campus), <br> Brisbane, Australia</td>
     <td>ARC Research Hub End-of-Project Showcase, <br> Audience: University leadership, Hub researchers, ARC representatives, students, government officials, and industry stakeholders.</td>
     <td>14 Oct 2025</td>
