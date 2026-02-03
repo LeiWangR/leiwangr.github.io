@@ -356,7 +356,7 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
 		</tr>
 		<tr class="gsc_a_tr">
-			<td class="gsc_a_t"><a href=""><strong><span class="gsc_a_at">TIME 2026: 2nd International Workshop on Transformative Insights in Multi-faceted Evaluation</span></strong></a>
+			<td class="gsc_a_t"><a href="https://leiwangr.github.io/files/time26.pdf"><strong><span class="gsc_a_at">TIME 2026: 2nd International Workshop on Transformative Insights in Multi-faceted Evaluation</span></strong></a>
 				<div class="gs_gray"><strong>L Wang</strong>$^\dagger$, MZ Hossain, T Gedeon, Z Pan, S Islam, MR Islam, Y George, S Ghosh</div>
 				<div class="gs_gray">Companion Proceedings of the ACM Web Conference 2026</div>
 			</td>
