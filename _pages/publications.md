@@ -476,7 +476,7 @@ Please note that arXiv papers have not been peer-reviewed and should be consider
 				<div class="gs_gray">SH Li*, <strong>L Wang</strong>*, Y Gao</div>
 				<div class="gs_gray"><a href="https://openreview.net/forum?id=X6QN8is120" style="color:#000000;">OpenReview</a></div>
 			</td>
-			<td class="gsc_a_c">Research report.</td>
+			<td class="gsc_a_c">Research report. Syuan-Hao Li conducted this research under the supervision of Lei Wang. Lei Wang led the mathematical analysis and modeling, while Syuan-Hao Li implemented the method and carried out the experiments.</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
 		</tr>
 		<tr class="gsc_a_tr">
@@ -484,7 +484,7 @@ Please note that arXiv papers have not been peer-reviewed and should be consider
 				<div class="gs_gray"><strong>L Wang</strong>, W Diao, A Busch, J Zhou, Y Gao</div>
 				<div class="gs_gray"><a href="https://openreview.net/forum?id=RmUy70TbFv" style="color:#000000;">OpenReview</a></div>
 			</td>
-			<td class="gsc_a_c">Research report.</td>
+			<td class="gsc_a_c">Research report. Wenxiang Diao conducted this research under the supervision of Lei Wang. Lei Wang proposed the algorithm and developed the theoretical framework, while Wenxiang Diao implemented the method and carried out the experiments.</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
 		</tr>
 		<tr class="gsc_a_tr">
@@ -492,7 +492,7 @@ Please note that arXiv papers have not been peer-reviewed and should be consider
 				<div class="gs_gray">EK Tenagyei*, <strong>L Wang</strong>*, Y Gao, J Zhou, P Koniusz</div>
 				<div class="gs_gray"><a href="https://openreview.net/forum?id=edgZd6BVzx" style="color:#000000;">OpenReview</a></div>
 			</td>
-			<td class="gsc_a_c">Research report.</td>
+			<td class="gsc_a_c">Research report. Edwin Kwadwo Tenagyei conducted this research under the supervision of Lei Wang. Lei Wang proposed the algorithm and developed the theoretical framework, while Edwin Kwadwo Tenagyei implemented the method and carried out the experiments.</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
 		</tr>
 		<tr class="gsc_a_tr">
