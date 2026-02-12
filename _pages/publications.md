@@ -471,14 +471,46 @@ Please note that arXiv papers have not been peer-reviewed and should be consider
 
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
-		<!-- <tr class="gsc_a_tr" style="background-color:#E5E4E2">
-			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2512.22881"><strong><span class="gsc_a_at">Guided Path Sampling: Steering Diffusion Models Back on Track with Principled Path Guidance</span></strong></a>
-				<div class="gs_gray">H Li, W Chen, S Liang, <strong>L Wang</strong>, H Jia, Y Yue</div>
-				<div class="gs_gray">arXiv preprint arXiv:2512.22881</div>
+		<tr class="gsc_a_tr">
+			<td class="gsc_a_t"><a href="https://openreview.net/forum?id=X6QN8is120"><strong><span class="gsc_a_at">Blur to Focus Attention in Fine-Grained Visual Recognition</span></strong></a>
+				<div class="gs_gray">SH Li*, <strong>L Wang</strong>*, Y Gao</div>
+				<div class="gs_gray"><a href="https://openreview.net/forum?id=X6QN8is120" style="color:#000000;">OpenReview</a></div>
 			</td>
 			<td class="gsc_a_c">Research report.</td>
-			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
-		</tr> -->
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
+		</tr>
+		<tr class="gsc_a_tr">
+			<td class="gsc_a_t"><a href=""><strong><span class="gsc_a_at">Privacy-Aware Video Anomaly Detection through Orthogonal Subspace Projection</span></strong></a>
+				<div class="gs_gray"><strong>L Wang</strong>, W Diao, A Busch, J Zhou, Y Gao</div>
+				<div class="gs_gray"><a href="https://openreview.net/forum?id=RmUy70TbFv" style="color:#000000;">OpenReview</a></div>
+			</td>
+			<td class="gsc_a_c">Research report.</td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
+		</tr>
+		<tr class="gsc_a_tr">
+			<td class="gsc_a_t"><a href=""><strong><span class="gsc_a_at">Efficient Fine-Tuning via Behavior-Guided Spectral Alignment</span></strong></a>
+				<div class="gs_gray">EK Tenagyei*, <strong>L Wang</strong>*, Y Gao, J Zhou, P Koniusz</div>
+				<div class="gs_gray"><a href="https://openreview.net/forum?id=edgZd6BVzx" style="color:#000000;">OpenReview</a></div>
+			</td>
+			<td class="gsc_a_c">Research report.</td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
+		</tr>
+		<tr class="gsc_a_tr">
+			<td class="gsc_a_t"><a href=""><strong><span class="gsc_a_at">When the Brain Sees Beyond Pixels: Creative Brain-to-Vision Reconstruction</span></strong></a>
+				<div class="gs_gray">X Ding, <strong>L Wang</strong>, P Koniusz, Y Gao</div>
+				<div class="gs_gray"><a href="https://openreview.net/forum?id=ad1A3bZpkf" style="color:#000000;">OpenReview</a></div>
+			</td>
+			<td class="gsc_a_c">Research report.</td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
+		</tr>
+		<tr class="gsc_a_tr">
+			<td class="gsc_a_t"><a href=""><strong><span class="gsc_a_at">A Dimensional Analysis of Video Anomaly Detection Benchmarks</span></strong></a>
+				<div class="gs_gray">W Diao, <strong>L Wang</strong>, Y Gao</div>
+				<div class="gs_gray"><a href="https://openreview.net/forum?id=I1TBgjF9FU" style="color:#000000;">OpenReview</a></div>
+			</td>
+			<td class="gsc_a_c">Research report.</td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
+		</tr>
 		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2512.00369"><strong><span class="gsc_a_at">POLARIS: Projection-Orthogonal Least Squares for Robust and Adaptive Inversion in Diffusion Models</span></strong></a>
 				<div class="gs_gray">W Chen*, H Li*, S Liang*, <strong>L Wang</strong>, H Jia, K Yuan, J Wu, B Tian, Y Yue</div>
@@ -520,14 +552,6 @@ S Anwar, T Gedeon, <strong>L Wang</strong>$^\dagger$, Z Qin</div>
 			<td class="gsc_a_c">Jiyao Yang conducted this research under the supervision of Lei Wang, Zhenyue Qin, and Yang Liu. This work presents a systematic review of skeleton-based action recognition methods and the construction of a new large-scale benchmark dataset, aiming to advance robustness and generalization in complex real-world scenarios. [<a href="https://yliu1082.github.io/ANUBIS/" style="color:#000000;">Project website</a>][<a href="https://github.com/yliu1082/ANUBIS-Sourcecode" style="color:#000000;">Code</a>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
 		</tr>
-		<!-- <tr class="gsc_a_tr">
-			<td class="gsc_a_t"><a href="https://arxiv.org/abs/2505.16730"><strong><span class="gsc_a_at">Detecting Fake News Belief via Skin and Blood Flow Signals</span></strong></a>
-				<div class="gs_gray">G Nguyen, <strong>L Wang</strong>, Y Jiang, T Gedeon</div>
-				<div class="gs_gray">arXiv preprint arXiv:2505.16730</div>
-			</td>
-			<td class="gsc_a_c">Gennie Nguyen conducted this research under the supervision of Lei Wang and Tom Gedeon as part of her final year master's research project at ANU. </td>
-			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
-		</tr> -->
 		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://arxiv.org/abs/2505.12433"><strong><span class="gsc_a_at">SRLoRA: Subspace Recomposition in Low-Rank Adaptation via Importance-Based Fusion and Reinitialization</span></strong></a>
 				<div class="gs_gray">H Yang, <strong>L Wang</strong>$^\dagger$, MZ Hossain</div>
