@@ -32,11 +32,11 @@ I am currently a registered Higher Degree by Research (HDR) supervisor at Griffi
 As part of my role at Griffith University, specifically through the TIME@ARC Hub&Griffith, I have begun supervising research assistants, research interns, Master of Philosophy (MPhil) students, and Doctoral (PhD) candidates in both **co-principal and principal supervision** capacities.
 
 * On-site Research Interns:
-  * [Syuan-Hao Li](https://github.com/hibana2077) (1 x <font color="red">WWW Companion'26</font>), ARC Research Hub internal research project (co-supervised with [Prof. Yongsheng Gao](https://experts.griffith.edu.au/19112-yongsheng-gao)),  *Bachelor Student*@National Taitung University, 2025/06/05 – <font color="blue">present</font>
+  * [Syuan-Hao Li](https://github.com/hibana2077) (1 x <font color="red">WWW Companion'26</font>, 1 x <strong>arXiv preprint</strong>), ARC Research Hub internal research project (co-supervised with [Prof. Yongsheng Gao](https://experts.griffith.edu.au/19112-yongsheng-gao)),  *Bachelor Student*@National Taitung University, 2025/06/05 – <font color="blue">present</font>
 
 * On-site PhD candidates:
   * Rongchang Wang, Project title: *Appliance of vision-based action recognition in dental surgical training*, *Doctoral candidate*@Griffith, 2025/12/08 – <font color="blue">present</font>
-  * [Edwin Kwadwo Tenagyei](https://scholar.google.de/citations?user=VoIFrp7h-tIC&hl=en) (1 x <font color="red">WWW Companion'26 oral</font>), TIME Lab internal research project, *Doctoral candidate*@Griffith&ARC Hub, 2025/05/30 – <font color="blue">present</font>
+  * [Edwin Kwadwo Tenagyei](https://scholar.google.de/citations?user=VoIFrp7h-tIC&hl=en) (1 x <font color="red">WWW Companion'26 oral</font>, 1 x <strong>arXiv preprint</strong>), TIME Lab internal research project, *Doctoral candidate*@Griffith&ARC Hub, 2025/05/30 – <font color="blue">present</font>
 
 * Remote PhD candidates:
   * Zhicheng Zhang (1 x <font color="red">WWW Companion'26 oral</font>), TIME Lab internal research project, *Doctoral candidate*@UNSW Canberra, 2025/10/10 – <font color="blue">present</font>
@@ -49,9 +49,9 @@ As part of my role at Griffith University, specifically through the TIME@ARC Hub
 I have successfully supervised more than ten final-year research students, including master’s, honours, and interns, most of whom have produced arXiv preprints or publications in leading conferences such as ICLR, NeurIPS, and ICML. Their research spans video understanding, temporal modeling, and trustworthy AI. <font color="blue">First appointment following supervision noted.</font>
 
 * Former research assistants (**primary supervision**, TIME@ARC Hub&Griffith):
-  * Wenxiang Diao, Project title: *Ultra‑Fine‑Grained Visual Categorization*, *Master's Student*@UNSW Sydney, 2025/05/26 – 2025/11/25
+  * Wenxiang Diao (2 x <strong>arXiv preprint</strong>), Project title: *Ultra‑Fine‑Grained Visual Categorization*, *Master's Student*@UNSW Sydney, 2025/05/26 – 2025/11/25
   * Ankur Singh, Project title: *Adapting TrackNetV4 for Egocentric Vision*, *Bachelor Student*@ANU, 2025/10/08 – 2025/11/15
-  * [Xi Ding](https://darcyddx.github.io) (1 x <font color="red"><strong>ICLR'26</strong></font>, 1 x <font color="red"><strong>AAAI'26</strong></font>, 1 x <font color="red"><strong>NeurIPS'25</strong></font>, recipient of the <font color="red"><strong>NeurIPS 2025 Scholar Award</strong></font>), Project title: *When Features Reflect Predictions*, *Master's Student*@ANU, 2025/03/17 – 2025/11/16, <font color="blue">Research Internship at CMU (QS #52 globally)</font>
+  * [Xi Ding](https://darcyddx.github.io) (1 x <font color="red"><strong>ICLR'26</strong></font>, 1 x <font color="red"><strong>AAAI'26</strong></font>, 1 x <font color="red"><strong>NeurIPS'25</strong></font>, recipient of the <font color="red"><strong>NeurIPS 2025 Scholar Award</strong></font>, 1 x <strong>arXiv preprint</strong>), Project title: *When Features Reflect Predictions*, *Master's Student*@ANU, 2025/03/17 – 2025/11/16, <font color="blue">Research Internship at CMU (QS #52 globally)</font>
 
 * Former master's and honours students (**primary supervision**, TIME@ARC Hub&Griffith):
   * [Xi Ding](https://darcyddx.github.io) (2 x <font color="red">WWW Companion '25</font> including 1 <font color="red"><strong>Best Paper Award</strong></font>, 1 x <strong>arXiv preprint</strong>), Project title: *Do Language Models Understand Time?*, *Master's Student*@ANU, 2024/11/13 – 2025/03/17
