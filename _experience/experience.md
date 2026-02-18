@@ -38,7 +38,7 @@ I am also working to bridge the gap between academic research and industry resea
 * *17/02/2025-<font color="blue">present</font>*: **Research Fellow** (Grade 2)
   * ARC Industrial Transformation Research Hub (School of Engineering and Built Environment—Electrical and Electronic Engineering at Griffith University)
   * Postdoc advisor: [Prof. Yongsheng Gao](https://experts.griffith.edu.au/19112-yongsheng-gao) ([2025 ARC Industry Laureate Fellow](https://www.arc.gov.au/2025-industry-laureate-profile-professor-yongsheng-gao), Griffith University) and [Prof. Piotr Koniusz](https://www.koniusz.com) (Data61/CSIRO & ANU & UNSW)
-  * <font color="red">One paper has been accepted for publication in IEEE Access (Master’s student first author)</font>
+  * <font color="red">One paper has been accepted for publication in IEEE Access 2026 (Master’s student first author)</font>
   * <font color="red">One paper has been accepted at <strong>ICLR 2026</strong></font>
   * <font color="red">I served as a <strong>session chair</strong> for the AAAI/ACM SIGAI Doctoral Dissertation Talk session and the ML: Graph-Based Machine Learning 4 session at AAAI 2026, held at the Singapore EXPO</font>
   * <font color="red">Seven papers (six orals and one poster) have been accepted to the WWW Companion 2026</font>
