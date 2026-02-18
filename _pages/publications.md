@@ -49,7 +49,7 @@ Journal impact factors follow the [Clarivate JCR 2023](https://jcr.clarivate.com
 				<div class="gs_gray">IEEE Access</div>
 			</td>
 			<td class="gsc_a_c">(Master’s student first author)</td>
-			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
 		</tr>
 		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://link.springer.com/article/10.1007/s41870-025-02836-y"><strong><span class="gsc_a_at">Truth and Trust: Fake News Detection via Biosignals</span></strong></a>
