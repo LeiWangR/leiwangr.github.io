@@ -38,6 +38,7 @@ I am also working to bridge the gap between academic research and industry resea
 * *17/02/2025-<font color="blue">present</font>*: **Research Fellow** (Grade 2)
   * ARC Industrial Transformation Research Hub (School of Engineering and Built Environment—Electrical and Electronic Engineering at Griffith University)
   * Postdoc advisor: [Prof. Yongsheng Gao](https://experts.griffith.edu.au/19112-yongsheng-gao) ([2025 ARC Industry Laureate Fellow](https://www.arc.gov.au/2025-industry-laureate-profile-professor-yongsheng-gao), Griffith University) and [Prof. Piotr Koniusz](https://www.koniusz.com) (Data61/CSIRO & ANU & UNSW)
+  * <font color="red">One paper has been accepted for publication in IEEE Access (Master’s student first author)</font>
   * <font color="red">One paper has been accepted at <strong>ICLR 2026</strong></font>
   * <font color="red">I served as a <strong>session chair</strong> for the AAAI/ACM SIGAI Doctoral Dissertation Talk session and the ML: Graph-Based Machine Learning 4 session at AAAI 2026, held at the Singapore EXPO</font>
   * <font color="red">Seven papers (six orals and one poster) have been accepted to the WWW Companion 2026</font>
@@ -46,7 +47,7 @@ I am also working to bridge the gap between academic research and industry resea
   * <font color="red">One workshop proposal entitled "TIME 2026: 2nd International Workshop on Transformative Insights in Multi-faceted Evaluation" has been accepted at <strong>WWW 2026</strong> as a full-day workshop</font>
   * <font color="red">One paper has been accepted at <strong>AAAI 2026</strong></font>
   * <font color="red"><strong>Invited talk:</strong> "Beyond Pixels: Toward Understanding" at the End-of-Project Showcase, ARC Research Hub for Driving Farming Productivity and Disease Prevention</font>
-  * <font color="red">One paper has been accepted for publication in International Journal of Information Technology (BJIT)</font>
+  * <font color="red">One paper has been accepted for publication in International Journal of Information Technology (Master’s student first author)</font>
   * <font color="red"><strong>Two</strong> papers have been accepted at <strong>NeurIPS 2025</strong></font>
   * <font color="red">I lead the <strong>TIME³</strong> vision at ARC Hub&Griffith, transforming the original TIME Lab into a pioneering initiative for Green, responsible, and cross-disciplinary AI</font>
   * <font color="red">52.4% of my publications are among the <strong>top 10% most cited</strong>, ranking <strong>19th</strong> in the Griffith Sciences Group; my Field-Weighted Citation Impact (FWCI) of 6.04 (2020–2025) ranks <strong>5th</strong> across the Group (source: SciVal, Scopus data, Griffith Sciences Research Report, Aug 2025)</font>
