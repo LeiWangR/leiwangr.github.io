@@ -329,7 +329,7 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 				<div class="gs_gray">P Zheng, X Wang, W Chen, R Sun, <strong>L Wang</strong>, Y Yue, N Cheng</div>
 				<div class="gs_gray">Companion Proceedings of the ACM Web Conference 2026</div>
 			</td>
-			<td class="gsc_a_c">[<font color="red">Oral</font>]</td>
+			<td class="gsc_a_c">[<font color="red">Oral, <strong>Best Student Paper Award</strong></font>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
 		</tr>
 		<tr class="gsc_a_tr">
@@ -345,7 +345,7 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 				<div class="gs_gray">W Chen, H Jia, K Yu, S Lai, <strong>L Wang</strong>, Y Yue</div>
 				<div class="gs_gray">Companion Proceedings of the ACM Web Conference 2026</div>
 			</td>
-			<td class="gsc_a_c">[<font color="red">Oral</font>]</td>
+			<td class="gsc_a_c">[<font color="red">Oral, <strong>Best Paper Runner-Up Award</strong></font>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
 		</tr>
 		<tr class="gsc_a_tr">
@@ -353,7 +353,7 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 				<div class="gs_gray">Z Zhang*, <strong>L Wang</strong>*, Y Gao, Y Zhang</div>
 				<div class="gs_gray">Companion Proceedings of the ACM Web Conference 2026</div>
 			</td>
-			<td class="gsc_a_c">[<font color="red">Oral</font>]</td>
+			<td class="gsc_a_c">[<font color="red">Oral, <strong>Best Paper Award</strong></font>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
 		</tr>
 		<tr class="gsc_a_tr">
