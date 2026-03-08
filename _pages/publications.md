@@ -340,7 +340,7 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 			<td class="gsc_a_c">Poster</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
 		</tr>
-		<tr class="gsc_a_tr">
+		<tr class="gsc_a_tr" style="background-color:#E5E4E2">
 			<td class="gsc_a_t"><a href="https://openreview.net/forum?id=2GayLX5J9T"><strong><span class="gsc_a_at">Towards Better Evaluation Metrics for Text-to-Motion Generation</span></strong></a>
 				<div class="gs_gray">W Chen, H Jia, K Yu, S Lai, <strong>L Wang</strong>, Y Yue</div>
 				<div class="gs_gray">Companion Proceedings of the ACM Web Conference 2026</div>
