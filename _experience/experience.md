@@ -39,6 +39,7 @@ I am also working to bridge the gap between academic research and industry resea
   * ARC Industrial Transformation Research Hub (School of Engineering and Built Environment—Electrical and Electronic Engineering at Griffith University)
   * Postdoc advisor: [Prof. Yongsheng Gao](https://experts.griffith.edu.au/19112-yongsheng-gao) ([2025 ARC Industry Laureate Fellow](https://www.arc.gov.au/2025-industry-laureate-profile-professor-yongsheng-gao), Griffith University) and [Prof. Piotr Koniusz](https://www.koniusz.com) (Data61/CSIRO & ANU & UNSW)
   * <font color="red">Recipient of ICLR 2026 Financial Assistance Award (<strong>travel grant</strong>)</font>
+  * <font color="red"><strong>Best Paper</strong>, Best Student Paper, and Best Paper Runner-Up at WWW 2026 Workshops</font>
   * <font color="red">2025 TPAMI Reviewer Certificate, signed by Editor-in-Chief Kyoung Mu Lee</font>
   * <font color="red">One paper has been accepted for publication in IEEE Access 2026 (Master’s student first author)</font>
   * <font color="red">One paper has been accepted at <strong>ICLR 2026</strong></font>
