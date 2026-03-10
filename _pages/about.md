@@ -70,7 +70,7 @@ His research interests include human motion and video understanding, temporal an
 I personally do not have any news; the most exciting updates are coming from my talented students!
 
 - 10/03/2026: Recipient of ICLR 2026 Financial Assistance Award (**travel grant**).
-- 03/03/2026: Congratulations to <font color="blue">Zhicheng Zhang</font> and collaborators (<font color="blue">Wenshuo Chen</font>, Peilin Zheng, et al.) on receiving the Best Paper Award, Best Student Paper Award, and Best Paper Runner-Up at the WWW 2026 workshops.
+- 03/03/2026: Congratulations to <font color="blue">Zhicheng Zhang</font> and collaborators (<font color="blue">Wenshuo Chen</font>, Peilin Zheng, et al.) on receiving the **Best Paper Award**, Best Student Paper Award, and Best Paper Runner-Up at the WWW 2026 workshops.
 - 18/02/2026: One paper has been accepted for publication in IEEE Access 2026. Congratulations to <font color="blue">Gennie Nguyen</font>!
 - 26/01/2026: One paper has been accepted at **ICLR 2026** (28% acceptance rate). Congratulations to <font color="blue">Xi Ding</font>.
 - 19/01/2026: Seven papers (six orals and one poster) have been accepted to the Companion Proceedings of the ACM Web Conference (WWW Companion 2026). Congratulations to <font color="blue">Zhicheng Zhang</font>, <font color="blue">Wenshuo Chen</font>, <font color="blue">Syuan-Hao Li</font>, Peilin Zheng, Haosen Li, <font color="blue">Edwin Kwadwo Tenagyei</font>, and <font color="blue">Arpit Sharma</font>.
