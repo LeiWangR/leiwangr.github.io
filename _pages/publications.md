@@ -282,7 +282,7 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 				<div class="gs_gray"><strong>L Wang</strong>, P Koniusz, DQ Huynh</div>
 				<div class="gs_gray">IEEE International Conference on Computer Vision (<strong>ICCV</strong>), 8698-8708</div>
 			</td>
-			<td class="gsc_a_c">[<strong><font color="red">A*</font></strong>]</td>
+			<td class="gsc_a_c">[<strong><font color="red">A*</font></strong>]<br><a href="https://leiwangr.github.io/files/iccv2019_poster.pdf" style="color:#000000;">Poster</a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2019</span></td>
 		</tr>
 		<tr class="gsc_a_tr" style="background-color:#FFFFE0">
