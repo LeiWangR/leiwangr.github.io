@@ -37,7 +37,7 @@ I am also working to bridge the gap between academic research and industry resea
 
 * *17/02/2025-<font color="blue">present</font>*: **Research Fellow** (Grade 2)
   * ARC Industrial Transformation Research Hub (School of Engineering and Built Environment—Electrical and Electronic Engineering at Griffith University)
-  * Postdoc advisor: [Prof. Yongsheng Gao](https://experts.griffith.edu.au/19112-yongsheng-gao) ([2025 ARC Industry Laureate Fellow](https://www.arc.gov.au/2025-industry-laureate-profile-professor-yongsheng-gao), Griffith University) and [Prof. Piotr Koniusz](https://www.koniusz.com) (Data61/CSIRO & ANU & UNSW)
+  * Postdoc advisor: [Prof. Yongsheng Gao](https://experts.griffith.edu.au/19112-yongsheng-gao) ([2025 ARC Industry Laureate Fellow](https://www.arc.gov.au/2025-industry-laureate-profile-professor-yongsheng-gao)), [Prof. Jun Zhou](https://experts.griffith.edu.au/7205-jun-zhou), and [Prof. Piotr Koniusz](https://www.koniusz.com) (UNSW & Data61/CSIRO)
   * <font color="red">Recipient of ICLR 2026 Financial Assistance Award (<strong>travel grant</strong>)</font>
   * <font color="red"><strong>Best Paper</strong>, Best Student Paper, and Best Paper Runner-Up at WWW 2026 Workshops</font>
   * <font color="red">2025 TPAMI Reviewer Certificate, signed by Editor-in-Chief Kyoung Mu Lee</font>
@@ -151,4 +151,4 @@ I am also working to bridge the gap between academic research and industry resea
   * <font color="red">Filed a provisional <strong>patent</strong> [AU Patent AU 2,019,900,316]</font>
 
 <p>&nbsp;</p>
-<font size="3" color="blue">I would like to express my deepest appreciation to Assoc. Prof. Du Huynh (UWA), Mr. Graeme Woods (now at FinClear), Dr. Moussa Reda Mansour (now at Alcoa), Prof. Piotr Koniusz (Data61/CSIRO & ANU & UNSW), Assoc. Prof. Liang Zheng (ANU), Prof. Tom Gedeon (Curtin University), and Prof. Yongsheng Gao (2025 ARC Industry Laureate Fellow, Griffith University). Last updated: 17/02/2025.</font>
+<font size="3" color="blue">I would like to express my deepest appreciation to Assoc. Prof. Du Huynh (UWA), Mr. Graeme Woods (now at FinClear), Dr. Moussa Reda Mansour (now at Alcoa), Prof. Piotr Koniusz (UNSW & Data61/CSIRO), Assoc. Prof. Liang Zheng (ANU), Prof. Tom Gedeon (Curtin University), Prof. Yongsheng Gao (2025 ARC Industry Laureate Fellow, Griffith University), and Prof. Jun Zhou (Griffith University). Last updated: 23/03/2026.</font>
