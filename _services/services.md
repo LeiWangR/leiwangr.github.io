@@ -112,7 +112,7 @@ I regularly review technical papers for the following journals, conferences & wo
     <th>Date</th>
   </tr>
   <tr>
-    <td>Feature Hallucination for Self-supervised Action Recognition <br><a href="https://ojs.aaai.org/index.php/AAAI/article/view/41417">[Abstract reprint]</a><br><a href="https://leiwangr.github.io/files/aaai26_jt_slide.pdf">[Slides]</a></td>
+    <td>Feature Hallucination for Self-supervised Action Recognition <br><a href="https://ojs.aaai.org/index.php/AAAI/article/view/41417">[Abstract reprint]</a><br><a href="https://leiwangr.github.io/files/aaai26_jt_slide.pdf">[Slides]</a><a href="https://underline.io/lecture/143524-feature-hallucination-for-self-supervised-action-recognition">[Video]</a></td>
     <td>Sponsored by the Association for the Advancement of Artificial Intelligence <br> January 22 – January 25, 2026 <br> Singapore EXPO <br> Singapore</td>
     <td>AAAI-26 Journal Track Program</td>
     <td>23 Jan 2026</td>
