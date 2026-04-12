@@ -60,6 +60,10 @@ Sydney, Australia<br>
 
 <h2>Review (Area Chair, Guest Editor, Reviewer)</h2>
 
+I am serving as an **Area Chair** for NeurIPS 2026.
+
+I am serving as an **Area Chair** for ACM Multimedia 2026.
+
 I am serving as a **Guest Editor** ([service certificate](https://leiwangr.github.io/files/Editor-Certificate-733853.pdf)) for MDPI Electronics [Q2, h-index 110], Special Issue titled 'Trustworthy AI for Video, Web, and Social Applications'.
 
 I am serving as an **Area Chair** for ACM Multimedia 2025.
