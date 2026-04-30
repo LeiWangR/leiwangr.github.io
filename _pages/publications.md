@@ -44,6 +44,23 @@ Journal impact factors follow the [Clarivate JCR 2023](https://jcr.clarivate.com
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr">
+			<td class="gsc_a_t"><a href="https://openreview.net/forum?id=edgZd6BVzx"><strong><span class="gsc_a_at">Behavior-Aligned Fine-Tuning without Extra Parameters</span></strong></a>
+				<div class="gs_gray">EK Tenagyei*, <strong>L Wang</strong>*, Y Gao, J Zhou, P Koniusz</div>
+				<div class="gs_gray">Pattern Recognition</div>
+			</td>
+			<td class="gsc_a_c">[<font color="red"><strong>IF: 7.6</strong></font>]<br>Under major revision</td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
+		</tr>
+		<tr class="gsc_a_tr">
+			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2205.02071"><strong><span class="gsc_a_at">Representation-Centric Survey of Skeletal Action Recognition and the New Benchmark</span></strong></a>
+				<div class="gs_gray">Y Liu, J Yang, M Perera, P Ji, D Kim, M Xu, T Wang,
+S Anwar, T Gedeon, <strong>L Wang</strong>$^\dagger$, Z Qin</div>
+				<div class="gs_gray">Pattern Recognition</div>
+			</td>
+			<td class="gsc_a_c">[<font color="red"><strong>IF: 7.6</strong></font>]<br>Under revision<br>[<a href="https://yliu1082.github.io/ANUBIS/" style="color:#000000;">Project website</a>][<a href="https://github.com/yliu1082/ANUBIS-Sourcecode" style="color:#000000;">Code</a>]</td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
+		</tr>
+		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://arxiv.org/abs/2505.16730"><strong><span class="gsc_a_at">Detecting Fake News Belief via Skin and Blood Flow Signals</span></strong></a>
 				<div class="gs_gray">G Nguyen, <strong>L Wang</strong>, Y Jiang, T Gedeon</div>
 				<div class="gs_gray">IEEE Access</div>
@@ -513,14 +530,6 @@ Please note that arXiv papers have not been peer-reviewed and should be consider
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
 		</tr>
 		<tr class="gsc_a_tr">
-			<td class="gsc_a_t"><a href="https://openreview.net/forum?id=edgZd6BVzx"><strong><span class="gsc_a_at">Efficient Fine-Tuning via Behavior-Guided Spectral Alignment</span></strong></a>
-				<div class="gs_gray">EK Tenagyei*, <strong>L Wang</strong>*, Y Gao, J Zhou, P Koniusz</div>
-				<div class="gs_gray">OpenReview</div>
-			</td>
-			<td class="gsc_a_c">Research report. Edwin Kwadwo Tenagyei conducted this research under the supervision of Lei Wang. Lei Wang proposed the algorithm and developed the theoretical framework, while Edwin Kwadwo Tenagyei implemented the method and carried out the experiments.</td>
-			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
-		</tr>
-		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://openreview.net/forum?id=ad1A3bZpkf"><strong><span class="gsc_a_at">When the Brain Sees Beyond Pixels: Creative Brain-to-Vision Reconstruction</span></strong></a>
 				<div class="gs_gray">X Ding, <strong>L Wang</strong>, P Koniusz, Y Gao</div>
 				<div class="gs_gray">OpenReview</div>
@@ -566,15 +575,6 @@ Please note that arXiv papers have not been peer-reviewed and should be consider
 				<div class="gs_gray">arXiv preprint arXiv:2509.09151</div>
 			</td>
 			<td class="gsc_a_c">Research report.</td>
-			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
-		</tr>
-		<tr class="gsc_a_tr">
-			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2205.02071"><strong><span class="gsc_a_at">Representation-Centric Survey of Skeletal Action Recognition and the ANUBIS Benchmark</span></strong></a>
-				<div class="gs_gray">Y Liu, J Yang, M Perera, P Ji, D Kim, M Xu, T Wang,
-S Anwar, T Gedeon, <strong>L Wang</strong>$^\dagger$, Z Qin</div>
-				<div class="gs_gray">arXiv preprint arXiv:2205.02071</div>
-			</td>
-			<td class="gsc_a_c">Jiyao Yang conducted this research under the supervision of Lei Wang, Zhenyue Qin, and Yang Liu. This work presents a systematic review of skeleton-based action recognition methods and the construction of a new large-scale benchmark dataset, aiming to advance robustness and generalization in complex real-world scenarios. [<a href="https://yliu1082.github.io/ANUBIS/" style="color:#000000;">Project website</a>][<a href="https://github.com/yliu1082/ANUBIS-Sourcecode" style="color:#000000;">Code</a>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
 		</tr>
 		<tr class="gsc_a_tr">
