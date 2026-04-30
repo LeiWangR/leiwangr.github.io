@@ -112,7 +112,7 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://openreview.net/forum?id=RmUy70TbFv"><strong><span class="gsc_a_at">Privacy-Aware Video Anomaly Detection through Orthogonal Subspace Projection</span></strong></a>
 				<div class="gs_gray"><strong>L Wang</strong>, W Diao, A Busch, J Zhou, Y Gao</div>
-				<div class="gs_gray">International Conference on Machine Learning (ICML)</div>
+				<div class="gs_gray">International Conference on Machine Learning (<strong>ICML</strong>)</div>
 			</td>
 			<td class="gsc_a_c">[<font color="red"><strong>A*</strong>, spotlight</font>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
@@ -120,7 +120,7 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://openreview.net/forum?id=RmUy70TbFv"><strong><span class="gsc_a_at">Learning to Think in Physics: Breaking Shortcut Learning in Scientific Diffusion via Representation Alignment</span></strong></a>
 				<div class="gs_gray">H Jia, P Yin, W Chen, S Liang, <strong>L Wang</strong>, B Tian, X Wang, N Jia, Y Yue</div>
-				<div class="gs_gray">International Conference on Machine Learning (ICML)</div>
+				<div class="gs_gray">International Conference on Machine Learning (<strong>ICML</strong>)</div>
 			</td>
 			<td class="gsc_a_c">[<font color="red"><strong>A*</strong></font>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
