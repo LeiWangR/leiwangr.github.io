@@ -473,6 +473,22 @@ Please note that arXiv papers have not been peer-reviewed and should be consider
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr">
+			<td class="gsc_a_t"><a href="https://arxiv.org/abs/2604.23540"><strong><span class="gsc_a_at">Oracle Noise: Faster Semantic Spherical Alignment for Interpretable Latent Optimization</span></strong></a>
+				<div class="gs_gray">H Li*, W Chen*, <strong>L Wang</strong>, S Liang, H Jia, Y Yue</div>
+				<div class="gs_gray">arXiv preprint arXiv:2604.23540</div>
+			</td>
+			<td class="gsc_a_c">Research report.</td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
+		</tr>
+		<tr class="gsc_a_tr">
+			<td class="gsc_a_t"><a href="https://arxiv.org/abs/2604.23536"><strong><span class="gsc_a_at">Z$^2$-Sampling: Zero-Cost Zigzag Trajectories for Semantic Alignment in Diffusion Models</span></strong></a>
+				<div class="gs_gray">H Li, W Chen, S Liang, <strong>L Wang</strong>, K Yuan, Y Yue</div>
+				<div class="gs_gray">arXiv preprint arXiv:2604.23536</div>
+			</td>
+			<td class="gsc_a_c">Research report.</td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
+		</tr>
+		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://openreview.net/forum?id=X6QN8is120"><strong><span class="gsc_a_at">Blur to Focus Attention in Fine-Grained Visual Recognition</span></strong></a>
 				<div class="gs_gray">SH Li*, <strong>L Wang</strong>*, Y Gao</div>
 				<div class="gs_gray">OpenReview</div>
