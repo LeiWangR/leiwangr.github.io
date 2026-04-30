@@ -46,7 +46,7 @@ Journal impact factors follow the [Clarivate JCR 2023](https://jcr.clarivate.com
 		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://openreview.net/forum?id=edgZd6BVzx"><strong><span class="gsc_a_at">Behavior-Aligned Fine-Tuning without Extra Parameters</span></strong></a>
 				<div class="gs_gray">EK Tenagyei*, <strong>L Wang</strong>*, Y Gao, J Zhou, P Koniusz</div>
-				<div class="gs_gray">Pattern Recognition</div>
+				<div class="gs_gray">Pattern Recognition (<strong>PR</strong>)</div>
 			</td>
 			<td class="gsc_a_c">[<font color="red"><strong>IF: 7.6</strong></font>]<br>Under major revision</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
@@ -55,7 +55,7 @@ Journal impact factors follow the [Clarivate JCR 2023](https://jcr.clarivate.com
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2205.02071"><strong><span class="gsc_a_at">Representation-Centric Survey of Skeletal Action Recognition and the New Benchmark</span></strong></a>
 				<div class="gs_gray">Y Liu, J Yang, M Perera, P Ji, D Kim, M Xu, T Wang,
 S Anwar, T Gedeon, <strong>L Wang</strong>$^\dagger$, Z Qin</div>
-				<div class="gs_gray">Pattern Recognition</div>
+				<div class="gs_gray">Pattern Recognition (<strong>PR</strong>)</div>
 			</td>
 			<td class="gsc_a_c">[<font color="red"><strong>IF: 7.6</strong></font>]<br>Under revision<br>[<a href="https://yliu1082.github.io/ANUBIS/" style="color:#000000;">Project website</a>][<a href="https://github.com/yliu1082/ANUBIS-Sourcecode" style="color:#000000;">Code</a>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
