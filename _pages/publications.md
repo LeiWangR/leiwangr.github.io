@@ -110,6 +110,22 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr">
+			<td class="gsc_a_t"><a href="https://openreview.net/forum?id=RmUy70TbFv"><strong><span class="gsc_a_at">Privacy-Aware Video Anomaly Detection through Orthogonal Subspace Projection</span></strong></a>
+				<div class="gs_gray"><strong>L Wang</strong>, W Diao, A Busch, J Zhou, Y Gao</div>
+				<div class="gs_gray">International Conference on Machine Learning (ICML)</div>
+			</td>
+			<td class="gsc_a_c">[<font color="red"><strong>A*</strong>, spotlight</font>]</td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
+		</tr>
+		<tr class="gsc_a_tr">
+			<td class="gsc_a_t"><a href="https://openreview.net/forum?id=RmUy70TbFv"><strong><span class="gsc_a_at">Learning to Think in Physics: Breaking Shortcut Learning in Scientific Diffusion via Representation Alignment</span></strong></a>
+				<div class="gs_gray">H Jia, P Yin, W Chen, S Liang, <strong>L Wang</strong>, B Tian, X Wang, N Jia, Y Yue</div>
+				<div class="gs_gray">International Conference on Machine Learning (ICML)</div>
+			</td>
+			<td class="gsc_a_c">[<font color="red"><strong>A*</strong></font>]</td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
+		</tr>
+		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://openreview.net/forum?id=kv22NbU2T2"><strong><span class="gsc_a_at">Subspace Kernel Learning on Tensor Sequences</span></strong></a>
 				<div class="gs_gray"><strong>L Wang</strong>, X Ding, Y Gao, P Koniusz</div>
 				<div class="gs_gray">International Conference on Learning Representations (<strong>ICLR</strong>)</div>
@@ -494,14 +510,6 @@ Please note that arXiv papers have not been peer-reviewed and should be consider
 				<div class="gs_gray">OpenReview</div>
 			</td>
 			<td class="gsc_a_c">Research report. Syuan-Hao Li conducted this research under the supervision of Lei Wang. Lei Wang led the mathematical analysis and modeling, while Syuan-Hao Li implemented the method and carried out the experiments.</td>
-			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
-		</tr>
-		<tr class="gsc_a_tr">
-			<td class="gsc_a_t"><a href="https://openreview.net/forum?id=RmUy70TbFv"><strong><span class="gsc_a_at">Privacy-Aware Video Anomaly Detection through Orthogonal Subspace Projection</span></strong></a>
-				<div class="gs_gray"><strong>L Wang</strong>, W Diao, A Busch, J Zhou, Y Gao</div>
-				<div class="gs_gray">OpenReview</div>
-			</td>
-			<td class="gsc_a_c">Research report. Wenxiang Diao conducted this research under the supervision of Lei Wang. Lei Wang proposed the algorithm and developed the theoretical framework, while Wenxiang Diao implemented the method and carried out the experiments.</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
 		</tr>
 		<tr class="gsc_a_tr">
