@@ -70,6 +70,7 @@ His research interests include human motion and video understanding, temporal an
 
 I personally do not have any news; the most exciting updates are coming from my talented students!
 
+- 13/05/2026: The MDPI open-access journal Electronics [Q2, h-index 137] has a special issue on ‘Fine-Grained Visual Understanding with Vision Language Models’ (Guest Editors: Dr. Lei Wang, Dr. Zicheng Pan) now [open for submission](https://www.mdpi.com/journal/electronics/special_issues/N5X631R6MF). The deadline for manuscript submissions is 15 December 2026.
 - 01/05/2026: **Two** papers have been accepted to **ICML 2026** (26.6% acceptance rate): one **Spotlight** (top 2.2% of all submissions) and one Regular paper. Congratulations to <font color="blue">Wenxiang Diao</font>, <font color="blue">Haozhe Jia</font>, Pengyu Yin, <font color="blue">Wenshuo Chen</font>, and Shaofeng Liang!
 - 10/03/2026: Recipient of ICLR 2026 Financial Assistance Award (**travel grant**).
 - 03/03/2026: Congratulations to <font color="blue">Zhicheng Zhang</font> and collaborators (<font color="blue">Wenshuo Chen</font>, Peilin Zheng, et al.) on receiving the **Best Paper Award**, Best Student Paper Award, and Best Paper Runner-Up at the WWW 2026 workshops.
