@@ -60,6 +60,8 @@ Sydney, Australia<br>
 
 <h2>Review (Area Chair, Guest Editor, Reviewer)</h2>
 
+I am serving as a **Guest Editor** ([service certificate](https://leiwangr.github.io/files/Editor-Certificate-830503.pdf)) for MDPI Electronics [Q2, h-index 110], Special Issue titled 'Fine-Grained Visual Understanding with Vision Language Models'. 
+
 I am serving as an **Area Chair** for NeurIPS 2026.
 
 I am serving as an **Area Chair** for ACM Multimedia 2026.
