@@ -506,6 +506,14 @@ Please note that arXiv papers have not been peer-reviewed and should be consider
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr">
+			<td class="gsc_a_t"><a href="https://arxiv.org/abs/2605.14417"><strong><span class="gsc_a_at">Before the Body Moves: Learning Anticipatory Joint Intent for Language-Conditioned Humanoid Control</span></strong></a>
+				<div class="gs_gray">H Jia, H Jin, Y Zhang, Y Fan, S Liang, L Wang, S Jin, K Yu, Z Zhang, J Song, W Chen, Y Yue</div>
+				<div class="gs_gray">arXiv preprint arxiv:2605.14417</div>
+			</td>
+			<td class="gsc_a_c">Research report.</td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
+		</tr>
+		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://arxiv.org/abs/2604.26503"><strong><span class="gsc_a_at">Delta Score Matters! Spatial Adaptive Multi Guidance in Diffusion Models</span></strong></a>
 				<div class="gs_gray">H Li*, W Chen*, <strong>L Wang</strong>, S Liang, B Tian, S Lai, Y Yue</div>
 				<div class="gs_gray">arXiv preprint arXiv:2604.26503</div>
