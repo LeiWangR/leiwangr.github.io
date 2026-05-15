@@ -510,7 +510,7 @@ Please note that arXiv papers have not been peer-reviewed and should be consider
 				<div class="gs_gray">H Jia, H Jin, Y Zhang, Y Fan, S Liang, L Wang, S Jin, K Yu, Z Zhang, J Song, W Chen, Y Yue</div>
 				<div class="gs_gray">arXiv preprint arxiv:2605.14417</div>
 			</td>
-			<td class="gsc_a_c">Research report.</td>
+			<td class="gsc_a_c">Research report.[<a href="https://hxxxz0.github.io/DAJI_PAGE/" style="color:#000000;">Project website</a>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
 		</tr>
 		<tr class="gsc_a_tr">
