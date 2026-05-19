@@ -510,7 +510,7 @@ Please note that arXiv papers have not been peer-reviewed and should be consider
 				<div class="gs_gray">H Jia, H Jin, Y Zhang, Y Fan, S Liang, L Wang, S Jin, K Yu, Z Zhang, J Song, W Chen, Y Yue</div>
 				<div class="gs_gray">arXiv preprint arxiv:2605.14417</div>
 			</td>
-			<td class="gsc_a_c">Research report.[<a href="https://hxxxz0.github.io/DAJI_PAGE/" style="color:#000000;">Project website</a>]</td>
+			<td class="gsc_a_c">Research report.[<a href="https://hxxxz0.github.io/DAJI_PAGE/" style="color:#000000;">Project website</a>][<a href="https://github.com/Hxxxz0/DAJI" style="color:#000000;">Code</a>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
 		</tr>
 		<tr class="gsc_a_tr">
@@ -574,7 +574,7 @@ Please note that arXiv papers have not been peer-reviewed and should be consider
 				<div class="gs_gray">W Chen, H Jia, S Lai, <strong>L Wang</strong>, Y Lin, H Xiao, L Hu, Y Yue</div>
 				<div class="gs_gray">arXiv preprint arXiv:2501.18232</div>
 			</td>
-			<td class="gsc_a_c">Research report.</td>
+			<td class="gsc_a_c">Research report.[<a href="https://github.com/Hxxxz0/Free-T2m" style="color:#000000;">Code</a>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
 		</tr>
 		<tr class="gsc_a_tr" style="background-color:#E5E4E2">
