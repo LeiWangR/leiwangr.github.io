@@ -139,7 +139,7 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 				<div class="gs_gray">H Jia, P Yin, W Chen, S Liang, <strong>L Wang</strong>, B Tian, X Wang, N Jia, Y Yue</div>
 				<div class="gs_gray">International Conference on Machine Learning (<strong>ICML</strong>)</div>
 			</td>
-			<td class="gsc_a_c">[<font color="red"><strong>A*</strong></font>]</td>
+			<td class="gsc_a_c">[<font color="red"><strong>A*</strong></font>]<br><a href="https://github.com/Hxxxz0/REPA-P" style="color:#000000;">Code</a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
 		</tr>
 		<tr class="gsc_a_tr">
