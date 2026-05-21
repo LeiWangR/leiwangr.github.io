@@ -506,8 +506,16 @@ Please note that arXiv papers have not been peer-reviewed and should be consider
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr">
+			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2605.20569"><strong><span class="gsc_a_at">End-to-End Unmixing with Material Prompts for Hyperspectral Object Tracking</span></strong></a>
+				<div class="gs_gray">X Han, MA Islam, <strong>L Wang</strong>, Z Long, G Fu, W Cai, KK Paliwal, J Zhou</div>
+				<div class="gs_gray">arXiv preprint arXiv:2605.20569</div>
+			</td>
+			<td class="gsc_a_c">Research report.[<a href="https://github.com/han030927/E2EMPT" style="color:#000000;">Code</a>]</td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
+		</tr>
+		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://arxiv.org/abs/2605.14417"><strong><span class="gsc_a_at">Before the Body Moves: Learning Anticipatory Joint Intent for Language-Conditioned Humanoid Control</span></strong></a>
-				<div class="gs_gray">H Jia, H Jin, Y Zhang, Y Fan, S Liang, L Wang, S Jin, K Yu, Z Zhang, J Song, W Chen, Y Yue</div>
+				<div class="gs_gray">H Jia, H Jin, Y Zhang, Y Fan, S Liang, <strong>L Wang</strong>, S Jin, K Yu, Z Zhang, J Song, W Chen, Y Yue</div>
 				<div class="gs_gray">arXiv preprint arxiv:2605.14417</div>
 			</td>
 			<td class="gsc_a_c">Research report.[<a href="https://hxxxz0.github.io/DAJI_PAGE/" style="color:#000000;">Project website</a>][<a href="https://github.com/Hxxxz0/DAJI" style="color:#000000;">Code</a>]</td>
