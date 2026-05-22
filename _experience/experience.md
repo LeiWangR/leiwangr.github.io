@@ -38,13 +38,14 @@ I am also working to bridge the gap between academic research and industry resea
 * *17/02/2025-<font color="blue">present</font>*: **Research Fellow** (Grade 2)
   * ARC Industrial Transformation Research Hub (School of Engineering and Built Environment—Electrical and Electronic Engineering at Griffith University)
   * Postdoc advisor: [Prof. Yongsheng Gao](https://experts.griffith.edu.au/19112-yongsheng-gao) ([2025 ARC Industry Laureate Fellow](https://www.arc.gov.au/2025-industry-laureate-profile-professor-yongsheng-gao)), [Prof. Jun Zhou](https://experts.griffith.edu.au/7205-jun-zhou), and [Prof. Piotr Koniusz](https://www.koniusz.com) (UNSW & Data61/CSIRO)
+  * <font color="red">Received the <strong>2025 IEEE Access Exceptional Reviewer Award</strong>, signed by Managing Editor Dr. Jenny Mahoney and Editor-in-Chief Prof. Mehrdad Saif</font>
   * <font color="red">I am serving as a <strong>Guest Editor</strong> for MDPI Electronics special issue on ‘Fine-Grained Visual Understanding with Vision Language Models’</font>
   * <font color="red"><strong>Two</strong> papers have been accepted to <strong>ICML 2026</strong>: one <strong>Spotlight</strong> paper and one Regular paper</font>
   * <font color="red">I am serving as an <strong>Area Chair</strong> for NeurIPS 2026</font>
   * <font color="red">I am serving as an <strong>Area Chair</strong> for ACM Multimedia 2026</font>
   * <font color="red">Recipient of ICLR 2026 Financial Assistance Award (<strong>travel grant</strong>)</font>
   * <font color="red"><strong>Best Paper</strong>, Best Student Paper, and Best Paper Runner-Up at WWW 2026 Workshops</font>
-  * <font color="red">2025 TPAMI Reviewer Certificate, signed by Editor-in-Chief Kyoung Mu Lee</font>
+  * <font color="red">Received the <strong>2025 TPAMI Peer Reviewer</strong> Certificate, signed by Editor-in-Chief Prof. Kyoung Mu Lee</font>
   * <font color="red">One paper has been accepted for publication in IEEE Access 2026 (Master’s student first author)</font>
   * <font color="red">One paper has been accepted at <strong>ICLR 2026</strong></font>
   * <font color="red">I served as a <strong>session chair</strong> for the AAAI/ACM SIGAI Doctoral Dissertation Talk session and the ML: Graph-Based Machine Learning 4 session at AAAI 2026, held at the Singapore EXPO</font>
