@@ -506,6 +506,30 @@ Please note that arXiv papers have not been peer-reviewed and should be consider
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr">
+			<td class="gsc_a_t"><a href=""><strong><span class="gsc_a_at">Test-Time Self-Adaptive Conditioning for Stable Audio-Driven Talking-Head Generation</span></strong></a>
+				<div class="gs_gray">Z Zhang*, <strong>L Wang</strong>*, Y Zhang, Y Gao</div>
+				<div class="gs_gray">arXiv preprint arXiv:</div>
+			</td>
+			<td class="gsc_a_c">Research report.</td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
+		</tr>
+		<tr class="gsc_a_tr">
+			<td class="gsc_a_t"><a href=""><strong><span class="gsc_a_at">Trust-Aware Joint Feature-Prediction Discrepancy for Robust Domain Adaptation</span></strong></a>
+				<div class="gs_gray">X Ding*, <strong>L Wang</strong>*, S Li, Y Gao</div>
+				<div class="gs_gray">arXiv preprint arXiv:</div>
+			</td>
+			<td class="gsc_a_c">Research report.</td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
+		</tr>
+		<tr class="gsc_a_tr">
+			<td class="gsc_a_t"><a href=""><strong><span class="gsc_a_at">Uncertainty-DTW for Sequences and Visual Tokens</span></strong></a>
+				<div class="gs_gray"><strong>L Wang</strong>, SH Li, Y Gao, P Koniusz</div>
+				<div class="gs_gray">arXiv preprint arXiv:</div>
+			</td>
+			<td class="gsc_a_c">Research report.</td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
+		</tr>
+		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2605.20569"><strong><span class="gsc_a_at">End-to-End Unmixing with Material Prompts for Hyperspectral Object Tracking</span></strong></a>
 				<div class="gs_gray">X Han, MA Islam, <strong>L Wang</strong>, Z Long, G Fu, W Cai, KK Paliwal, J Zhou</div>
 				<div class="gs_gray">arXiv preprint arXiv:2605.20569</div>
