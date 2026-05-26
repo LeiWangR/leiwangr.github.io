@@ -12,15 +12,15 @@ main:
   - title: "Supervision"
     url: /supervision/
 
+  - title: "Teaching"
+    url: /teaching/
+
   - title: "Services"
     url: /services/
 
 
 #   - title: "Talks"
 #     url: /talks/    
-
-#   - title: "Teaching"
-#     url: /teaching/
     
 #   - title: "Calendar"
 #     url: /calendar/
