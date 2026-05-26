@@ -5,6 +5,24 @@ permalink: /teaching/
 author_profile: true
 ---
 
+<style>
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: underline;
+}
+</style>
+
 <h2>Teaching</h2>
 
 * *22 July 2024 - 25 Oct 2024*: **TechLauncher Examiner**
