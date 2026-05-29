@@ -70,6 +70,7 @@ His research interests include human motion and video understanding, temporal an
 
 I personally do not have any news; the most exciting updates are coming from my talented students!
 
+- 30/05/2026: One paper has been accepted for publication in **Pattern Recognition**. Congratulations to <font color="blue">Jiyao Yang</font>!
 - 13/05/2026: The MDPI open-access journal Electronics [Q2, h-index 137] has a special issue on ‘Fine-Grained Visual Understanding with Vision Language Models’ (Guest Editors: Dr. Lei Wang, Dr. Zicheng Pan) now [open for submission](https://www.mdpi.com/journal/electronics/special_issues/N5X631R6MF). The deadline for manuscript submissions is 15 December 2026.
 - 01/05/2026: TIME Lab (TIME@ARC Hub & Griffith) achieved 10 top-tier publications in 2025 - 2026, including ICML ×2 (1 Spotlight), NeurIPS ×2, ACM MM ×2 (1 Oral), ICLR ×1, AAAI ×1, IJCV ×1, and BMVC ×1.
 - 01/05/2026: **Two** papers have been accepted to **ICML 2026** (26.6% acceptance rate): one **Spotlight** (top 2.2% of all submissions) and one Regular paper. Congratulations to <font color="blue">Wenxiang Diao</font>, <font color="blue">Haozhe Jia</font>, Pengyu Yin, <font color="blue">Wenshuo Chen</font>, and Shaofeng Liang!
