@@ -38,6 +38,7 @@ I am also working to bridge the gap between academic research and industry resea
 * *17/02/2025-<font color="blue">present</font>*: **Research Fellow** (Grade 2)
   * ARC Industrial Transformation Research Hub (School of Engineering and Built Environment—Electrical and Electronic Engineering at Griffith University)
   * Postdoc advisor: [Prof. Yongsheng Gao](https://experts.griffith.edu.au/19112-yongsheng-gao) ([2025 ARC Industry Laureate Fellow](https://www.arc.gov.au/2025-industry-laureate-profile-professor-yongsheng-gao)), [Prof. Jun Zhou](https://experts.griffith.edu.au/7205-jun-zhou), and [Prof. Piotr Koniusz](https://www.koniusz.com) (UNSW & Data61/CSIRO)
+  * <font color="red">One paper has been accepted for publication in <strong>Pattern Recognition</strong></font>
   * <font color="red">Received the <strong>2025 IEEE Access Exceptional Reviewer Award</strong>, signed by Managing Editor Dr. Jenny Mahoney and Editor-in-Chief Prof. Mehrdad Saif</font>
   * <font color="red">I am serving as a <strong>Guest Editor</strong> for MDPI Electronics special issue on ‘Fine-Grained Visual Understanding with Vision Language Models’</font>
   * <font color="red"><strong>Two</strong> papers have been accepted to <strong>ICML 2026</strong>: one <strong>Spotlight</strong> paper and one Regular paper</font>
