@@ -107,7 +107,7 @@ For more information, feel free to reach out.
 
 - <font color="blue"> Research Intern (TIME@ARC Hub & Griffith):</font>
   - Mr [Arpit Sharma](https://sites.google.com/cmrit.ac.in/arpitsharma) <font color="blue">(Master of Information Technology, Christ University)</font>
-  - Mr [Syuan-Hao Li](https://github.com/hibana2077) <font color="blue"> (Bachelor of Science, National Taitung University)</font>
+  - Mr [Syuan-Hao Li](https://hibana2077.com/) <font color="blue"> (Bachelor of Science, National Taitung University)</font>
 
 
 <h3>Project 7: ARC Research Hub Visiting Scholar (TIME@ARC Hub & Griffith)<font color="red">[Completed]</font></h3>
