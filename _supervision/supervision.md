@@ -32,7 +32,7 @@ I am currently a registered Higher Degree by Research (HDR) supervisor at Griffi
 As part of my role at Griffith University, specifically through the TIME@ARC Hub&Griffith, I have begun supervising research assistants, research interns, Master of Philosophy (MPhil) students, and Doctoral (PhD) candidates in both **co-principal and principal supervision** capacities.
 
 * On-site Research Interns:
-  * [Syuan-Hao Li](https://github.com/hibana2077) (1 x <font color="red">WWW Companion'26</font>, 1 x <strong>arXiv preprint</strong>), ARC Research Hub internal research project (co-supervised with [Prof. Yongsheng Gao](https://experts.griffith.edu.au/19112-yongsheng-gao)),  *Bachelor Student*@National Taitung University, 2025/06/05 – <font color="blue">present</font>
+  * [Syuan-Hao Li](https://hibana2077.com/) (1 x <font color="red">WWW Companion'26</font>, 1 x <strong>arXiv preprint</strong>), ARC Research Hub internal research project (co-supervised with [Prof. Yongsheng Gao](https://experts.griffith.edu.au/19112-yongsheng-gao)),  *Bachelor Student*@National Taitung University, 2025/06/05 – <font color="blue">present</font>
 
 * On-site PhD candidates:
   * Rongchang Wang, Project title: *Appliance of vision-based action recognition in dental surgical training*, *Doctoral candidate*@Griffith, 2025/12/08 – <font color="blue">present</font>
