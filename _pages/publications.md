@@ -52,7 +52,7 @@ Journal impact factors follow the [Clarivate JCR 2023](https://jcr.clarivate.com
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
 		</tr>
 		<tr class="gsc_a_tr">
-			<td class="gsc_a_t"><a href="https://leiwangr.github.io/files/pattreg26_jiyao.pdf"><strong><span class="gsc_a_at">Representation-Centric Survey of Supervised Skeletal Action Recognition and the New Benchmark</span></strong></a>
+			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2205.02071"><strong><span class="gsc_a_at">Representation-Centric Survey of Supervised Skeletal Action Recognition and the New Benchmark</span></strong></a>
 				<div class="gs_gray">Y Liu, J Yang, M Perera, P Ji, D Kim, M Xu, T Wang,
 S Anwar, T Gedeon, <strong>L Wang</strong>$^\dagger$, Z Qin</div>
 				<div class="gs_gray">Pattern Recognition (<strong>PR</strong>)</div>
@@ -506,9 +506,9 @@ Please note that arXiv papers have not been peer-reviewed and should be consider
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr">
-			<td class="gsc_a_t"><a href="https://leiwangr.github.io/files/arxiv-zhicheng.pdf"><strong><span class="gsc_a_at">Temporally-Aligned Evaluation for Audio-Driven Talking Head Generation</span></strong></a>
+			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2606.01031"><strong><span class="gsc_a_at">Temporally-Aligned Evaluation for Audio-Driven Talking Head Generation</span></strong></a>
 				<div class="gs_gray">Z Zhang*, <strong>L Wang</strong>*, Y Zhang, Y Gao</div>
-				<div class="gs_gray">arXiv preprint NA</div>
+				<div class="gs_gray">arXiv preprint arXiv:2606.01031</div>
 			</td>
 			<td class="gsc_a_c">Research report.</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
