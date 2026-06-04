@@ -506,6 +506,14 @@ Please note that arXiv papers have not been peer-reviewed and should be consider
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr">
+			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2606.03243"><strong><span class="gsc_a_at">MemoGen: Can Past Experience Improve Future Text-to-Image Generation?</span></strong></a>
+				<div class="gs_gray">W Chen, K Yu, B Tian, J Song, S Liang, H Jia, K Cheng, H Li, K Yuan, <strong>L Wang</strong>, J Wu, S Lai, Y Yue</div>
+				<div class="gs_gray">arXiv preprint arXiv:2606.03243</div>
+			</td>
+			<td class="gsc_a_c">Research report.</td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
+		</tr>
+		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2606.01031"><strong><span class="gsc_a_at">Temporally-Aligned Evaluation for Audio-Driven Talking Head Generation</span></strong></a>
 				<div class="gs_gray">Z Zhang*, <strong>L Wang</strong>*, Y Zhang, Y Gao</div>
 				<div class="gs_gray">arXiv preprint arXiv:2606.01031</div>
