@@ -135,7 +135,7 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
 		</tr>
 		<tr class="gsc_a_tr">
-			<td class="gsc_a_t"><a href=""><strong><span class="gsc_a_at">Learning to Think in Physics: Breaking Shortcut Learning in Scientific Diffusion via Representation Alignment</span></strong></a>
+			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2605.20780"><strong><span class="gsc_a_at">Learning to Think in Physics: Breaking Shortcut Learning in Scientific Diffusion via Representation Alignment</span></strong></a>
 				<div class="gs_gray">H Jia, P Yin, W Chen, S Liang, <strong>L Wang</strong>, B Tian, X Wang, N Jia, Y Yue</div>
 				<div class="gs_gray">International Conference on Machine Learning (<strong>ICML</strong>)</div>
 			</td>
