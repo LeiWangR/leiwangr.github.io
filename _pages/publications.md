@@ -507,7 +507,7 @@ Please note that arXiv papers have not been peer-reviewed and should be consider
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2509.09151"><strong><span class="gsc_a_at">Video Understanding by Design: How Datasets Shape Video Models</span></strong></a>
-				<div class="gs_gray"><strong>L Wang</strong>$^\dagger$, SH Li, P Koniusz, Y Gao</div>
+				<div class="gs_gray"><strong>L Wang</strong>, SH Li, P Koniusz, Y Gao</div>
 				<div class="gs_gray">arXiv preprint arXiv:2509.09151</div>
 			</td>
 			<td class="gsc_a_c">Research report. [<a href="https://time.griffith.edu.au/paper-sites/video-understanding/" style="color:#000000;">Project website</a>]</td>
