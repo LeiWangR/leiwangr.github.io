@@ -506,6 +506,14 @@ Please note that arXiv papers have not been peer-reviewed and should be consider
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr">
+			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2509.09151"><strong><span class="gsc_a_at">Video Understanding by Design: How Datasets Shape Video Models</span></strong></a>
+				<div class="gs_gray"><strong>L Wang</strong>$^\dagger$, SH Li, P Koniusz, Y Gao</div>
+				<div class="gs_gray">arXiv preprint arXiv:2509.09151</div>
+			</td>
+			<td class="gsc_a_c">Research report. [<a href="https://time.griffith.edu.au/paper-sites/video-understanding/" style="color:#000000;">Project website</a>]</td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
+		</tr>
+		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2606.03243"><strong><span class="gsc_a_at">MemoGen: Can Past Experience Improve Future Text-to-Image Generation?</span></strong></a>
 				<div class="gs_gray">W Chen, K Yu, B Tian, J Song, S Liang, H Jia, K Cheng, H Li, K Yuan, <strong>L Wang</strong>, J Wu, S Lai, Y Yue</div>
 				<div class="gs_gray">arXiv preprint arXiv:2606.03243</div>
@@ -531,7 +539,7 @@ Please note that arXiv papers have not been peer-reviewed and should be consider
 		</tr>
 		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2605.25119"><strong><span class="gsc_a_at">Trust-Aware Joint Feature-Prediction Discrepancy for Robust Domain Adaptation</span></strong></a>
-				<div class="gs_gray">X Ding*, <strong>L Wang</strong>*, S Li, Y Gao</div>
+				<div class="gs_gray">X Ding*, <strong>L Wang</strong>*, SH Li, Y Gao</div>
 				<div class="gs_gray">arXiv preprint arXiv:2605.25119</div>
 			</td>
 			<td class="gsc_a_c">Research report.</td>
@@ -550,7 +558,7 @@ Please note that arXiv papers have not been peer-reviewed and should be consider
 				<div class="gs_gray">X Han, MA Islam, <strong>L Wang</strong>, Z Long, G Fu, W Cai, KK Paliwal, J Zhou</div>
 				<div class="gs_gray">arXiv preprint arXiv:2605.20569</div>
 			</td>
-			<td class="gsc_a_c">Research report.[<a href="https://github.com/han030927/E2EMPT" style="color:#000000;">Code</a>]</td>
+			<td class="gsc_a_c">Research report. [<a href="https://github.com/han030927/E2EMPT" style="color:#000000;">Code</a>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
 		</tr>
 		<tr class="gsc_a_tr">
@@ -558,7 +566,7 @@ Please note that arXiv papers have not been peer-reviewed and should be consider
 				<div class="gs_gray">H Jia, H Jin, Y Zhang, Y Fan, S Liang, <strong>L Wang</strong>, S Jin, K Yu, Z Zhang, J Song, W Chen, Y Yue</div>
 				<div class="gs_gray">arXiv preprint arxiv:2605.14417</div>
 			</td>
-			<td class="gsc_a_c">Research report.[<a href="https://hxxxz0.github.io/DAJI_PAGE/" style="color:#000000;">Project website</a>][<a href="https://github.com/Hxxxz0/DAJI" style="color:#000000;">Code</a>]</td>
+			<td class="gsc_a_c">Research report. [<a href="https://hxxxz0.github.io/DAJI_PAGE/" style="color:#000000;">Project website</a>][<a href="https://github.com/Hxxxz0/DAJI" style="color:#000000;">Code</a>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
 		</tr>
 		<tr class="gsc_a_tr">
@@ -614,7 +622,7 @@ Please note that arXiv papers have not been peer-reviewed and should be consider
 				<div class="gs_gray">W Chen*, H Li*, S Liang*, <strong>L Wang</strong>, H Jia, K Yuan, J Wu, B Tian, Y Yue</div>
 				<div class="gs_gray">arXiv preprint arXiv:2512.00369</div>
 			</td>
-			<td class="gsc_a_c">Research report.[<a href="https://polaris-code-official.github.io/" style="color:#000000;">Project website</a>][<a href="https://github.com/Chatonz/POLARIS" style="color:#000000;">Code</a>]</td>
+			<td class="gsc_a_c">Research report. [<a href="https://polaris-code-official.github.io/" style="color:#000000;">Project website</a>][<a href="https://github.com/Chatonz/POLARIS" style="color:#000000;">Code</a>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
 		</tr>
 		<tr class="gsc_a_tr" style="background-color:#E5E4E2">
@@ -622,21 +630,13 @@ Please note that arXiv papers have not been peer-reviewed and should be consider
 				<div class="gs_gray">W Chen, H Jia, S Lai, <strong>L Wang</strong>, Y Lin, H Xiao, L Hu, Y Yue</div>
 				<div class="gs_gray">arXiv preprint arXiv:2501.18232</div>
 			</td>
-			<td class="gsc_a_c">Research report.[<a href="https://github.com/Hxxxz0/Free-T2m" style="color:#000000;">Code</a>]</td>
+			<td class="gsc_a_c">Research report. [<a href="https://github.com/Hxxxz0/Free-T2m" style="color:#000000;">Code</a>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
 		</tr>
 		<tr class="gsc_a_tr" style="background-color:#E5E4E2">
 			<td class="gsc_a_t"><a href="https://www.arxiv.org/pdf/2509.25304"><strong><span class="gsc_a_at">LUMA: Low-Dimension Unified Motion Alignment with Dual-Path Anchoring for Text-to-Motion Diffusion Model</span></strong></a>
 				<div class="gs_gray">H Jia, W Chen, Y Lin, Y Yang, <strong>L Wang</strong>, M Ning, B Tian, S Lai, N Jia, Y Chen, Y Yue</div>
 				<div class="gs_gray">arXiv preprint arXiv:2509.25304</div>
-			</td>
-			<td class="gsc_a_c">Research report.</td>
-			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
-		</tr>
-		<tr class="gsc_a_tr">
-			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2509.09151"><strong><span class="gsc_a_at">Video Understanding by Design: How Datasets Shape Architectures and Insights</span></strong></a>
-				<div class="gs_gray"><strong>L Wang</strong>$^\dagger$, P Koniusz, Y Gao</div>
-				<div class="gs_gray">arXiv preprint arXiv:2509.09151</div>
 			</td>
 			<td class="gsc_a_c">Research report.</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
