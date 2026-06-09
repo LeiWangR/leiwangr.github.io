@@ -41,16 +41,13 @@ a:active {
 
 Journal impact factors follow the [Clarivate JCR 2023](https://jcr.clarivate.com) system.
 
+<details open>
+  <summary>
+    <strong>Featured journal articles</strong>
+  </summary>
+
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
-		<tr class="gsc_a_tr">
-			<td class="gsc_a_t"><a href="https://openreview.net/forum?id=edgZd6BVzx"><strong><span class="gsc_a_at">Behavior-Aligned Fine-Tuning without Extra Parameters</span></strong></a>
-				<div class="gs_gray">EK Tenagyei*, <strong>L Wang</strong>*, Y Gao, J Zhou, P Koniusz</div>
-				<div class="gs_gray">Pattern Recognition (<strong>PR</strong>)</div>
-			</td>
-			<td class="gsc_a_c">[<font color="red"><strong>IF: 7.6</strong></font>]<br><font color="red">Under major revision</font></td>
-			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
-		</tr>
 		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://www.sciencedirect.com/science/article/pii/S0031320326011052"><strong><span class="gsc_a_at">Representation-Centric Survey of Supervised Skeletal Action Recognition and the New Benchmark</span></strong></a>
 				<div class="gs_gray">Y Liu, J Yang, M Perera, P Ji, D Kim, M Xu, T Wang,
@@ -59,23 +56,6 @@ S Anwar, T Gedeon, <strong>L Wang</strong>$^\dagger$, Z Qin</div>
 			</td>
 			<td class="gsc_a_c">[<font color="red"><strong>IF: 7.6</strong></font>]<br><a href="https://yliu1082.github.io/ANUBIS/" style="color:#000000;">Project website</a>, <a href="https://huggingface.co/datasets/Khat865/ANUBIS-Skeleton" style="color:#000000;">Dataset</a>, <a href="https://github.com/yliu1082/ANUBIS-Sourcecode" style="color:#000000;">Code</a><br><a href="https://leiwangr.github.io/files/pattreg26_appendix.pdf" style="color:#000000;">Appendix</a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
-		</tr>
-		<tr class="gsc_a_tr">
-			<td class="gsc_a_t"><a href="https://arxiv.org/abs/2505.16730"><strong><span class="gsc_a_at">Detecting Fake News Belief via Skin and Blood Flow Signals</span></strong></a>
-				<div class="gs_gray">G Nguyen, <strong>L Wang</strong>, Y Jiang, T Gedeon</div>
-				<div class="gs_gray">IEEE Access</div>
-			</td>
-			<td class="gsc_a_c">(Master’s student first author)</td>
-			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
-		</tr>
-		<tr class="gsc_a_tr">
-			<td class="gsc_a_t"><a href="https://link.springer.com/article/10.1007/s41870-025-02836-y"><strong><span class="gsc_a_at">Truth and Trust: Fake News Detection via Biosignals</span></strong></a>
-				<div class="gs_gray">G Nguyen, <strong>L Wang</strong>, Y Jiang, T Gedeon</div>
-				<div class="gs_gray">International Journal of Information Technology (BJIT)</div>
-			</td>
-			<!-- [<font color="red">CiteScore 8.5, SJR 0.717, SNIP 1.574; <br>metrics from Scopus/SCImago, 2025</font>] -->
-			<td class="gsc_a_c">(Master’s student first author)</td>
-			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
 		</tr>
 		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://link.springer.com/article/10.1007/s11263-025-02513-4"><strong><span class="gsc_a_at">Feature Hallucination for Self-supervised Action Recognition</span></strong></a>
@@ -92,14 +72,6 @@ S Anwar, T Gedeon, <strong>L Wang</strong>$^\dagger$, Z Qin</div>
 			</td>
 			<td class="gsc_a_c">(IJCV special issue on our ACCV'22)<br>[<font color="red"><strong>IF: 11.6</strong></font>] <br><a href="https://github.com/LeiWangR/JEANIE" style="color:#000000;"> Code </a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
-		</tr>
-                <tr class="gsc_a_tr" style="background-color:#E5E4E2">
-			<td class="gsc_a_t"><a href="https://ieeexplore.ieee.org/document/9895208"><strong><span class="gsc_a_at">Fusing Higher-Order Features in Graph Neural Networks for Skeleton-Based Action Recognition</span></strong></a>
-				<div class="gs_gray">Z Qin, Y Liu, P Ji, D Kim, <strong>L Wang</strong>, B McKay, S Anwar, T Gedeon</div>
-				<div class="gs_gray">IEEE Transactions on Neural Networks and Learning Systems (<strong>TNNLS</strong>), 4783-4797</div>
-			</td>
-			<td class="gsc_a_c">[<strong><font color="red">IF: 10.2</font></strong>]<br><a href="https://github.com/harutatsuakiyama/Angular-Skeleton-Encoding" style="color:#000000;">Code</a></td>
-			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2021</span></td>
 		</tr>
                 <tr class="gsc_a_tr" style="background-color:#E0FFFF">
 			<td class="gsc_a_t"><strong data-bind="text: title"><a href="https://ieeexplore.ieee.org/document/9521829">Tensor Representations for Action Recognition</a></strong>
@@ -119,6 +91,50 @@ S Anwar, T Gedeon, <strong>L Wang</strong>$^\dagger$, Z Qin</div>
 		</tr>
         </tbody>
 </table>  
+
+</details>
+
+<details>
+  <summary>
+    <strong>Additional journal articles</strong>
+  </summary>
+
+<table>
+	<tr class="gsc_a_tr">
+			<td class="gsc_a_t"><a href="https://openreview.net/forum?id=edgZd6BVzx"><strong><span class="gsc_a_at">Behavior-Aligned Fine-Tuning without Extra Parameters</span></strong></a>
+				<div class="gs_gray">EK Tenagyei*, <strong>L Wang</strong>*, Y Gao, J Zhou, P Koniusz</div>
+				<div class="gs_gray">Pattern Recognition (<strong>PR</strong>)</div>
+			</td>
+			<td class="gsc_a_c">[<font color="red"><strong>IF: 7.6</strong></font>]<br><font color="red">Under major revision</font></td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
+	</tr>
+	<tr class="gsc_a_tr">
+			<td class="gsc_a_t"><a href="https://arxiv.org/abs/2505.16730"><strong><span class="gsc_a_at">Detecting Fake News Belief via Skin and Blood Flow Signals</span></strong></a>
+				<div class="gs_gray">G Nguyen, <strong>L Wang</strong>, Y Jiang, T Gedeon</div>
+				<div class="gs_gray">IEEE Access</div>
+			</td>
+			<td class="gsc_a_c">(Master’s student first author)</td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
+		</tr>
+		<tr class="gsc_a_tr">
+			<td class="gsc_a_t"><a href="https://link.springer.com/article/10.1007/s41870-025-02836-y"><strong><span class="gsc_a_at">Truth and Trust: Fake News Detection via Biosignals</span></strong></a>
+				<div class="gs_gray">G Nguyen, <strong>L Wang</strong>, Y Jiang, T Gedeon</div>
+				<div class="gs_gray">International Journal of Information Technology (BJIT)</div>
+			</td>
+			<!-- [<font color="red">CiteScore 8.5, SJR 0.717, SNIP 1.574; <br>metrics from Scopus/SCImago, 2025</font>] -->
+			<td class="gsc_a_c">(Master’s student first author)</td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
+		</tr>
+	<tr class="gsc_a_tr" style="background-color:#E5E4E2">
+			<td class="gsc_a_t"><a href="https://ieeexplore.ieee.org/document/9895208"><strong><span class="gsc_a_at">Fusing Higher-Order Features in Graph Neural Networks for Skeleton-Based Action Recognition</span></strong></a>
+				<div class="gs_gray">Z Qin, Y Liu, P Ji, D Kim, <strong>L Wang</strong>, B McKay, S Anwar, T Gedeon</div>
+				<div class="gs_gray">IEEE Transactions on Neural Networks and Learning Systems (<strong>TNNLS</strong>), 4783-4797</div>
+			</td>
+			<td class="gsc_a_c">[<strong><font color="red">IF: 10.2</font></strong>]<br><a href="https://github.com/harutatsuakiyama/Angular-Skeleton-Encoding" style="color:#000000;">Code</a></td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2021</span></td>
+		</tr>
+</table>
+</details>
 
 <h2>Conferences</h2>
 
