@@ -70,6 +70,8 @@ His research interests include human motion and video understanding, temporal an
 
 I personally do not have any news; the most exciting updates are coming from my talented students!
 
+<div style="max-height: 350px; overflow-y: auto; border: 1px solid #ddd; padding: 10px;">
+
 - 30/05/2026: One paper has been accepted for publication in **Pattern Recognition**. Congratulations to <font color="blue">Jiyao Yang</font>!
 - 13/05/2026: The MDPI open-access journal Electronics [Q2, h-index 137] has a special issue on ‘Fine-Grained Visual Understanding with Vision Language Models’ (Guest Editors: Dr. Lei Wang, Dr. Zicheng Pan) now [open for submission](https://www.mdpi.com/journal/electronics/special_issues/N5X631R6MF). The deadline for manuscript submissions is 15 December 2026.
 - 01/05/2026: TIME Lab (TIME@ARC Hub & Griffith) achieved 10 top-tier publications in 2025 - 2026, including ICML ×2 (1 Spotlight), NeurIPS ×2, ACM MM ×2 (1 Oral), ICLR ×1, AAAI ×1, IJCV ×1, and BMVC ×1.
@@ -137,7 +139,4 @@ I personally do not have any news; the most exciting updates are coming from my 
 - 19/09/2023: Congratulations to <font color="blue">Arjun Raj</font>, <font color="blue">Liyun Zhu</font>, <font color="blue">Liwen Luo</font>, and <font color="blue">Qixiang Chen</font>, who were awarded *the Active Intelligence Research Challenge Award* as four master's/honors students! Thanks to the research sponsorship provided by Active Intelligence Corp.
 - 18/09/2023: Congratulations to <font color="blue">Xiuyuan (Jack) Yuan</font> for being awarded *the Summer Research Internship*! Thanks to the ANU School of Computing for providing research funding.
 
-<!--<p>&nbsp;</p>
-
-<a name="myfootnote1">1</a>: <font size="3" color="blue">ANU is ranked 27th in the world & 1st in Australia by the 2023 QS World University Rankings.</font>
-<a name="myfootnote2">2</a>: <font size="3" color="blue">UWA is ranked 90th in the world & 7th in Australia by the 2023 QS World University Rankings.</font>-->
+</div>
