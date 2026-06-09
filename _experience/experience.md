@@ -38,37 +38,41 @@ I am also working to bridge the gap between academic research and industry resea
 * *17/02/2025-<font color="blue">present</font>*: **Research Fellow** (Grade 2)
   * ARC Industrial Transformation Research Hub (School of Engineering and Built Environment—Electrical and Electronic Engineering at Griffith University)
   * Postdoc advisor: [Prof. Yongsheng Gao](https://experts.griffith.edu.au/19112-yongsheng-gao) ([2025 ARC Industry Laureate Fellow](https://www.arc.gov.au/2025-industry-laureate-profile-professor-yongsheng-gao)), [Prof. Jun Zhou](https://experts.griffith.edu.au/7205-jun-zhou), and [Prof. Piotr Koniusz](https://www.koniusz.com) (UNSW & Data61/CSIRO)
-  * <font color="red">One paper has been accepted for publication in <strong>Pattern Recognition</strong></font>
-  * <font color="red">Received the <strong>2025 IEEE Access Exceptional Reviewer Award</strong>, signed by Managing Editor Dr. Jenny Mahoney and Editor-in-Chief Prof. Mehrdad Saif</font>
-  * <font color="red">I am serving as a <strong>Guest Editor</strong> for MDPI Electronics special issue on ‘Fine-Grained Visual Understanding with Vision Language Models’</font>
-  * <font color="red"><strong>Two</strong> papers have been accepted to <strong>ICML 2026</strong>: one <strong>Spotlight</strong> paper and one Regular paper</font>
-  * <font color="red">I am serving as an <strong>Area Chair</strong> for NeurIPS 2026</font>
-  * <font color="red">I am serving as an <strong>Area Chair</strong> for ACM Multimedia 2026</font>
-  * <font color="red">Recipient of ICLR 2026 Financial Assistance Award (<strong>travel grant</strong>)</font>
-  * <font color="red"><strong>Best Paper</strong>, Best Student Paper, and Best Paper Runner-Up at WWW 2026 Workshops</font>
-  * <font color="red">Received the <strong>2025 TPAMI Peer Reviewer</strong> Certificate, signed by Editor-in-Chief Prof. Kyoung Mu Lee</font>
-  * <font color="red">One paper has been accepted for publication in IEEE Access 2026 (Master’s student first author)</font>
-  * <font color="red">One paper has been accepted at <strong>ICLR 2026</strong></font>
-  * <font color="red">I served as a <strong>session chair</strong> for the AAAI/ACM SIGAI Doctoral Dissertation Talk session and the ML: Graph-Based Machine Learning 4 session at AAAI 2026, held at the Singapore EXPO</font>
-  * <font color="red">Seven papers (six orals and one poster) have been accepted to the WWW Companion 2026</font>
-  * <font color="red">National Computational Merit Allocation Scheme (<strong>NCMAS 2026</strong>): I am a Lead Chief Investigator (Lead CI) on 'LiteMotion: Learning Efficient and Scalable Video Motion Representations'</font>
-  * <font color="red">One paper has been accepted for the AAAI-26 Journal Track</font>
-  * <font color="red">One workshop proposal entitled "TIME 2026: 2nd International Workshop on Transformative Insights in Multi-faceted Evaluation" has been accepted at <strong>WWW 2026</strong> as a full-day workshop</font>
-  * <font color="red">One paper has been accepted at <strong>AAAI 2026</strong></font>
-  * <font color="red"><strong>Invited talk:</strong> "Beyond Pixels: Toward Understanding" at the End-of-Project Showcase, ARC Research Hub for Driving Farming Productivity and Disease Prevention</font>
-  * <font color="red">One paper has been accepted for publication in International Journal of Information Technology (Master’s student first author)</font>
-  * <font color="red"><strong>Two</strong> papers have been accepted at <strong>NeurIPS 2025</strong></font>
-  * <font color="red">I lead the <strong>TIME³</strong> vision at ARC Hub&Griffith, transforming the original TIME Lab into a pioneering initiative for Green, responsible, and cross-disciplinary AI</font>
-  * <font color="red">52.4% of my publications are among the <strong>top 10% most cited</strong>, ranking <strong>19th</strong> in the Griffith Sciences Group; my Field-Weighted Citation Impact (FWCI) of 6.04 (2020–2025) ranks <strong>5th</strong> across the Group (source: SciVal, Scopus data, Griffith Sciences Research Report, Aug 2025)</font>
-  * <font color="red">One paper has been accepted for an <strong>oral</strong> presentation at <strong>ACM-MM 2025</strong> (Brave New Ideas Track)</font>
-  * <font color="red">One paper has been accepted at <strong>BMVC 2025</strong></font>
-  * <font color="red">One paper has been accepted to the ICCV 2025 Workshop on "Vision Foundation Models and Generative AI for Accessibility: Challenges and Opportunities"</font>
-  * <font color="red">One paper has been accepted at <strong>ACM-MM 2025</strong></font>
-  * <font color="red"><strong>Primarily supervised</strong> 1 Honours and 2 Master’s students (TIME@ARC Hub&Griffith), resulting in <strong>2 HD theses</strong>; co-supervised 3 ANU Master’s students, with <strong>2 receiving D grades</strong></font>
-  * <font color="red">One paper has been accepted for publication in <strong>IJCV</strong></font>
-  * <font color="red">I am serving as a <strong>Guest Editor</strong> for MDPI Electronics special issue on ‘Trustworthy AI for Video, Web, and Social Applications’</font>
-  * <font color="red">Recipient of the <strong>Best Paper Award</strong> at TheWebConf 2025 Workshop</font>
-  * <font color="red">I am serving as an <strong>Area Chair</strong> for ACM Multimedia 2025</font>
+  <div style="max-height: 360px; overflow-y: auto; border: 1px solid #ddd; padding: 10px;">
+  <ul>
+    <li> <font color="red">One paper has been accepted for publication in <strong>Pattern Recognition</strong></font></li>
+    <li> <font color="red">Received the <strong>2025 IEEE Access Exceptional Reviewer Award</strong>, signed by Managing Editor Dr. Jenny Mahoney and Editor-in-Chief Prof. Mehrdad Saif</font></li>
+    <li> <font color="red">I am serving as a <strong>Guest Editor</strong> for MDPI Electronics special issue on ‘Fine-Grained Visual Understanding with Vision Language Models’</font></li>
+    <li> <font color="red"><strong>Two</strong> papers have been accepted to <strong>ICML 2026</strong>: one <strong>Spotlight</strong> paper and one Regular paper</font></li>
+    <li> <font color="red">I am serving as an <strong>Area Chair</strong> for NeurIPS 2026</font></li>
+    <li> <font color="red">I am serving as an <strong>Area Chair</strong> for ACM Multimedia 2026</font></li>
+    <li> <font color="red">Recipient of ICLR 2026 Financial Assistance Award (<strong>travel grant</strong>)</font></li>
+    <li> <font color="red"><strong>Best Paper</strong>, Best Student Paper, and Best Paper Runner-Up at WWW 2026 Workshops</font></li>
+    <li> <font color="red">Received the <strong>2025 TPAMI Peer Reviewer</strong> Certificate, signed by Editor-in-Chief Prof. Kyoung Mu Lee</font></li>
+    <li> <font color="red">One paper has been accepted for publication in IEEE Access 2026 (Master’s student first author)</font></li>
+    <li> <font color="red">One paper has been accepted at <strong>ICLR 2026</strong></font></li>
+    <li> <font color="red">I served as a <strong>session chair</strong> for the AAAI/ACM SIGAI Doctoral Dissertation Talk session and the ML: Graph-Based Machine Learning 4 session at AAAI 2026, held at the Singapore EXPO</font></li>
+    <li> <font color="red">Seven papers (six orals and one poster) have been accepted to the WWW Companion 2026</font></li>
+    <li> <font color="red">National Computational Merit Allocation Scheme (<strong>NCMAS 2026</strong>): I am a Lead Chief Investigator (Lead CI) on 'LiteMotion: Learning Efficient and Scalable Video Motion Representations'</font></li>
+    <li> <font color="red">One paper has been accepted for the AAAI-26 Journal Track</font></li>
+    <li> <font color="red">One workshop proposal entitled "TIME 2026: 2nd International Workshop on Transformative Insights in Multi-faceted Evaluation" has been accepted at <strong>WWW 2026</strong> as a full-day workshop</font></li>
+    <li> <font color="red">One paper has been accepted at <strong>AAAI 2026</strong></font></li>
+    <li> <font color="red"><strong>Invited talk:</strong> "Beyond Pixels: Toward Understanding" at the End-of-Project Showcase, ARC Research Hub for Driving Farming Productivity and Disease Prevention</font></li>
+    <li> <font color="red">One paper has been accepted for publication in International Journal of Information Technology (Master’s student first author)</font></li>
+    <li> <font color="red"><strong>Two</strong> papers have been accepted at <strong>NeurIPS 2025</strong></font></li>
+    <li> <font color="red">I lead the <strong>TIME³</strong> vision at ARC Hub&Griffith, transforming the original TIME Lab into a pioneering initiative for Green, responsible, and cross-disciplinary AI</font></li>
+    <li> <font color="red">52.4% of my publications are among the <strong>top 10% most cited</strong>, ranking <strong>19th</strong> in the Griffith Sciences Group; my Field-Weighted Citation Impact (FWCI) of 6.04 (2020–2025) ranks <strong>5th</strong> across the Group (source: SciVal, Scopus data, Griffith Sciences Research Report, Aug 2025)</font></li>
+    <li> <font color="red">One paper has been accepted for an <strong>oral</strong> presentation at <strong>ACM-MM 2025</strong> (Brave New Ideas Track)</font></li>
+    <li> <font color="red">One paper has been accepted at <strong>BMVC 2025</strong></font></li>
+    <li> <font color="red">One paper has been accepted to the ICCV 2025 Workshop on "Vision Foundation Models and Generative AI for Accessibility: Challenges and Opportunities"</font></li>
+    <li> <font color="red">One paper has been accepted at <strong>ACM-MM 2025</strong></font></li>
+    <li> <font color="red"><strong>Primarily supervised</strong> 1 Honours and 2 Master’s students (TIME@ARC Hub&Griffith), resulting in <strong>2 HD theses</strong>; co-supervised 3 ANU Master’s students, with <strong>2 receiving D grades</strong></font></li>
+    <li> <font color="red">One paper has been accepted for publication in <strong>IJCV</strong></font></li>
+    <li> <font color="red">I am serving as a <strong>Guest Editor</strong> for MDPI Electronics special issue on ‘Trustworthy AI for Video, Web, and Social Applications’</font></li>
+    <li> <font color="red">Recipient of the <strong>Best Paper Award</strong> at TheWebConf 2025 Workshop</font></li>
+    <li> <font color="red">I am serving as an <strong>Area Chair</strong> for ACM Multimedia 2025</font></li>
+  </ul>
+</div>
  
 * *05/03/2025-<font color="blue">present</font>*: **Visiting Scientist**
   * Machine Learning Research Group (MLRG), Data61/CSIRO (Black Mountain ACT)
@@ -76,36 +80,40 @@ I am also working to bridge the gap between academic research and industry resea
 * *20/02/2023-19/02/2025*: **Research Fellow** (Level B)
   * School of Computing, ANU College of Engineering, Computing and Cybernetics
   * Postdoc advisor: [Assoc. Prof. Liang Zheng](https://zheng-lab-anu.github.io/) (ANU) and [Prof. Tom Gedeon](https://staffportal.curtin.edu.au/staff/profile/view/tom-gedeon-5e48a1fd/) (Curtin University)
-  * <font color="red">Three papers (two orals and one poster) have been accepted to the WWW Companion 2025</font>
-  * <font color="red">One paper has been accepted at <strong>ICLR 2025</strong></font>
-  * <font color="red">National Computational Merit Allocation Scheme (<strong>NCMAS 2025</strong>): I am a Chief Investigator (CI) / Delegated lead CI on 'MotionNetLite: Video Dynamics Distillation for Scalable Models'</font>
-  * <font color="red">ANU Merit Allocation Scheme  (<strong>ANUMAS 2025</strong>): I am a Lead Chief Investigator (Lead CI) on 'Efficient Video Models through Compression and Data Optimization'</font>
-  * <font color="red">One paper has been accepted at <strong>ICASSP 2025</strong></font>
-  * <font color="red">My Student Experience of Learning and Teaching (<strong>SELT</strong>) teacher survey results for ANU TechLauncher, Second Semester 2024: $4.11\pm0.80$ (on a 5-point scale, 413 enrollments)</font>
-  * <font color="red"><strong>Primarily supervised</strong> 3 Honours and 3 Master’s students in their final-year research projects, resulting in <strong>3 HD and 3 D theses</strong></font>
-  * <font color="red">One workshop proposal entitled "TIME 2025: 1st International Workshop on Transformative Insights in Multi-faceted Evaluation" has been accepted at <strong>TheWebConf 2025</strong> as a half-day workshop</font>
-  * <font color="red">I am an <strong>Outstanding Area Chair</strong> for ACM Multimedia 2024</font>
-  * <font color="red">I am serving as an <strong>Area Chair</strong> for ICASSP 2025</font>
-  * <font color="red">One paper has been accepted at <strong>NeurIPS</strong> D&B Track (25.3% acceptance rate)</font>
-  * <font color="red">As the ANU TechLauncher community, we are proud to be a finalist in the inaugural <strong>Australian AI Awards 2024</strong></font>
-  * <font color="red">One paper has been accepted at <strong>ACML 2024</strong> as a long presentation (26% overall acceptance rate, 5.67% for long presentations)</font>
-  * <font color="red">I lead a dynamic research team of ANU master's and honours students at the <strong>Temporal Intelligence and Motion Extraction (TIME) Lab</strong></font>
-  * <font color="red">One paper has been accepted at <strong>ACM-MM 2024</strong></font>
-  * <font color="red">One paper has been accepted at <strong>ECCV 2024</strong></font>
-  * <font color="red">As the ANU TechLauncher community, we are an <strong>ACT Merit recipient</strong> in the Student & Education category for the <strong>iAwards 2024</strong></font>
-  * <font color="red">As the ANU TechLauncher community, we are a <strong>finalist</strong> in the Business & Industry category for the <strong>iAwards 2024</strong></font>
-  * <font color="red">My Student Experience of Learning and Teaching (<strong>SELT</strong>) teacher survey results for ANU TechLauncher, First Semester 2024: $4.60\pm0.80$ (on a 5-point scale, 313 enrollments)</font>
-  * <font color="red">One paper has been accepted at <strong>ICML 2024</strong></font>
-  * <font color="red">I am serving as a <strong>Guest Editor</strong> for the MDPI open-access journal Electronics special issue on ‘Motion-centric Video Processing’</font>
-  * <font color="red">National Computational Merit Allocation Scheme (<strong>NCMAS 2024</strong>): I am a Chief Investigator (CI) / Delegated lead CI on 'MotionNetLite: Video Dynamics Distillation for Scalable Models'</font>
-  * <font color="red">The NCI <strong>National AI Flagship Merit Allocation Scheme</strong>: I am a Lead Chief Investigator (Lead CI) on 'Robust anomaly detection in human-centric videos'</font>
-  * <font color="red">I am serving as an <strong>Area Chair</strong> for ACM Multimedia 2024</font>
-  * <font color="red"><strong>Grant</strong>: I am a Co-Investigator (Co-I) on 'Review of Xailient’s technical pipeline of facial recognition'</font>
-  * <font color="red">I am serving as an <strong>Area Chair</strong> for ICPR 2024</font>
-  * <font color="red">NCI Adaptater Scheme Q4 2023 (<strong>HPC funding scheme</strong>): I am a Chief Investigator (CI) on 'Towards building general-purpose multimodal foundation models'</font>
-  * <font color="red"><strong>Grant / Project Award from Oracle</strong> (AU$48,000) for Research on 'Automatic, large-scale screening of failure cases in autonomous driving' </font>
-  * <font color="red"><strong>Invited talk</strong> on 'Action Recognition: Past, Present and Future' hosted by Harbin Institute of Technology, Shenzhen, China </font>
-  * <font color="red"><strong>Grant</strong>: I am a Co-Investigator (Co-I) on 'Sharing early insights for more resilient communities'</font>
+  <div style="max-height: 360px; overflow-y: auto; border: 1px solid #ddd; padding: 10px;">
+  <ul>
+    <li> <font color="red">Three papers (two orals and one poster) have been accepted to the WWW Companion 2025</font></li>
+    <li> <font color="red">One paper has been accepted at <strong>ICLR 2025</strong></font></li>
+    <li> <font color="red">National Computational Merit Allocation Scheme (<strong>NCMAS 2025</strong>): I am a Chief Investigator (CI) / Delegated lead CI on 'MotionNetLite: Video Dynamics Distillation for Scalable Models'</font></li>
+    <li> <font color="red">ANU Merit Allocation Scheme  (<strong>ANUMAS 2025</strong>): I am a Lead Chief Investigator (Lead CI) on 'Efficient Video Models through Compression and Data Optimization'</font></li>
+    <li> <font color="red">One paper has been accepted at <strong>ICASSP 2025</strong></font></li>
+    <li> <font color="red">My Student Experience of Learning and Teaching (<strong>SELT</strong>) teacher survey results for ANU TechLauncher, Second Semester 2024: $4.11\pm0.80$ (on a 5-point scale, 413 enrollments)</font></li>
+    <li> <font color="red"><strong>Primarily supervised</strong> 3 Honours and 3 Master’s students in their final-year research projects, resulting in <strong>3 HD and 3 D theses</strong></font></li>
+    <li> <font color="red">One workshop proposal entitled "TIME 2025: 1st International Workshop on Transformative Insights in Multi-faceted Evaluation" has been accepted at <strong>TheWebConf 2025</strong> as a half-day workshop</font></li>
+    <li> <font color="red">I am an <strong>Outstanding Area Chair</strong> for ACM Multimedia 2024</font></li>
+    <li> <font color="red">I am serving as an <strong>Area Chair</strong> for ICASSP 2025</font></li>
+    <li> <font color="red">One paper has been accepted at <strong>NeurIPS</strong> D&B Track (25.3% acceptance rate)</font></li>
+    <li> <font color="red">As the ANU TechLauncher community, we are proud to be a finalist in the inaugural <strong>Australian AI Awards 2024</strong></font></li>
+    <li> <font color="red">One paper has been accepted at <strong>ACML 2024</strong> as a long presentation (26% overall acceptance rate, 5.67% for long presentations)</font></li>
+    <li> <font color="red">I lead a dynamic research team of ANU master's and honours students at the <strong>Temporal Intelligence and Motion Extraction (TIME) Lab</strong></font></li>
+    <li> <font color="red">One paper has been accepted at <strong>ACM-MM 2024</strong></font></li>
+    <li> <font color="red">One paper has been accepted at <strong>ECCV 2024</strong></font></li>
+    <li> <font color="red">As the ANU TechLauncher community, we are an <strong>ACT Merit recipient</strong> in the Student & Education category for the <strong>iAwards 2024</strong></font></li>
+    <li> <font color="red">As the ANU TechLauncher community, we are a <strong>finalist</strong> in the Business & Industry category for the <strong>iAwards 2024</strong></font></li>
+    <li> <font color="red">My Student Experience of Learning and Teaching (<strong>SELT</strong>) teacher survey results for ANU TechLauncher, First Semester 2024: $4.60\pm0.80$ (on a 5-point scale, 313 enrollments)</font></li>
+    <li> <font color="red">One paper has been accepted at <strong>ICML 2024</strong></font></li>
+    <li> <font color="red">I am serving as a <strong>Guest Editor</strong> for the MDPI open-access journal Electronics special issue on ‘Motion-centric Video Processing’</font></li>
+    <li> <font color="red">National Computational Merit Allocation Scheme (<strong>NCMAS 2024</strong>): I am a Chief Investigator (CI) / Delegated lead CI on 'MotionNetLite: Video Dynamics Distillation for Scalable Models'</font></li>
+    <li> <font color="red">The NCI <strong>National AI Flagship Merit Allocation Scheme</strong>: I am a Lead Chief Investigator (Lead CI) on 'Robust anomaly detection in human-centric videos'</font></li>
+    <li> <font color="red">I am serving as an <strong>Area Chair</strong> for ACM Multimedia 2024</font></li>
+    <li> <font color="red"><strong>Grant</strong>: I am a Co-Investigator (Co-I) on 'Review of Xailient’s technical pipeline of facial recognition'</font></li>
+    <li> <font color="red">I am serving as an <strong>Area Chair</strong> for ICPR 2024</font></li>
+    <li> <font color="red">NCI Adaptater Scheme Q4 2023 (<strong>HPC funding scheme</strong>): I am a Chief Investigator (CI) on 'Towards building general-purpose multimodal foundation models'</font></li>
+    <li> <font color="red"><strong>Grant / Project Award from Oracle</strong> (AU$48,000) for Research on 'Automatic, large-scale screening of failure cases in autonomous driving' </font></li>
+    <li> <font color="red"><strong>Invited talk</strong> on 'Action Recognition: Past, Present and Future' hosted by Harbin Institute of Technology, Shenzhen, China </font></li>
+    <li> <font color="red"><strong>Grant</strong>: I am a Co-Investigator (Co-I) on 'Sharing early insights for more resilient communities'</font></li>
+  </ul>
+</div>
 
 * *30/06/2023-30/06/2024*: **Visiting Scientist**
   * Machine Learning Research Group (MLRG), Data61/CSIRO (Black Mountain ACT)
