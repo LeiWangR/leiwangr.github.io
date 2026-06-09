@@ -501,13 +501,14 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 <!-- <p>&nbsp;</p> -->
 <h2>arXiv preprints</h2>
 
+Please note that arXiv papers have not been peer-reviewed and should be considered as preliminary versions of research, subject to revision upon formal review and publication.
+
 <details>
   <summary>
     <strong>Show arXiv preprints</strong>
   </summary>
 	
   <br>
-  <p>Please note that arXiv papers have not been peer-reviewed and should be considered as preliminary versions of research, subject to revision upon formal review and publication.</p>
 
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
