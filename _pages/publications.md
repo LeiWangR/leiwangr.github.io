@@ -100,6 +100,7 @@ S Anwar, T Gedeon, <strong>L Wang</strong>$^\dagger$, Z Qin</div>
   </summary>
 
 <table>
+	<tbody id="gsc_a_b">
 	<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://openreview.net/forum?id=edgZd6BVzx"><strong><span class="gsc_a_at">Behavior-Aligned Fine-Tuning without Extra Parameters</span></strong></a>
 				<div class="gs_gray">EK Tenagyei*, <strong>L Wang</strong>*, Y Gao, J Zhou, P Koniusz</div>
@@ -133,12 +134,18 @@ S Anwar, T Gedeon, <strong>L Wang</strong>$^\dagger$, Z Qin</div>
 			<td class="gsc_a_c">[<strong><font color="red">IF: 10.2</font></strong>]<br><a href="https://github.com/harutatsuakiyama/Angular-Skeleton-Encoding" style="color:#000000;">Code</a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2021</span></td>
 		</tr>
+	</tbody>
 </table>
 </details>
 
 <h2>Conferences</h2>
 
 Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks/) system.
+
+<details open>
+  <summary>
+    <strong>Selected conference papers</strong>
+  </summary>
 
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
@@ -151,14 +158,6 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
 		</tr>
 		<tr class="gsc_a_tr">
-			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2605.20780"><strong><span class="gsc_a_at">Learning to Think in Physics: Breaking Shortcut Learning in Scientific Diffusion via Representation Alignment</span></strong></a>
-				<div class="gs_gray">H Jia, P Yin, W Chen, S Liang, <strong>L Wang</strong>, B Tian, X Wang, N Jia, Y Yue</div>
-				<div class="gs_gray">International Conference on Machine Learning (<strong>ICML</strong>)</div>
-			</td>
-			<td class="gsc_a_c">[<font color="red"><strong>A*</strong></font>]<br><a href="https://github.com/Hxxxz0/REPA-P" style="color:#000000;">Code</a></td>
-			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
-		</tr>
-		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://openreview.net/forum?id=kv22NbU2T2"><strong><span class="gsc_a_at">Subspace Kernel Learning on Tensor Sequences</span></strong></a>
 				<div class="gs_gray"><strong>L Wang</strong>, X Ding, Y Gao, P Koniusz</div>
 				<div class="gs_gray">International Conference on Learning Representations (<strong>ICLR</strong>)</div>
@@ -166,14 +165,6 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 			<td class="gsc_a_c">[<font color="red"><strong>A*</strong></font>]<br><a href="https://leiwangr.github.io/files/iclr26_tensor_poster.pdf" style="color:#000000;">Poster</a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
 		</tr>
-		<!-- <tr class="gsc_a_tr">
-			<td class="gsc_a_t"><a href="https://leiwangr.github.io/files/aaai26_journal_track.pdf"><strong><span class="gsc_a_at">Feature Hallucination for Self-supervised Action Recognition</span></strong></a>
-				<div class="gs_gray"><strong>L Wang</strong>$^\dagger$, P Koniusz</div>
-				<div class="gs_gray">AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>)</div>
-			</td>
-			<td class="gsc_a_c">AAAI-26 Journal Track<br>(based on <a href="https://link.springer.com/article/10.1007/s11263-025-02513-4" style="color:#000000;">IJCV 2025</a>)<br>[<font color="red">Oral</font>]<br><a href="https://leiwangr.github.io/files/aaai26_jt_slide.pdf" style="color:#000000;">Slides</a>, <a href="https://leiwangr.github.io/files/aaai26_jt_poster.pdf" style="color:#000000;">Poster</a></td>
-			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
-		</tr> -->
 		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://ojs.aaai.org/index.php/AAAI/article/view/39221"><strong><span class="gsc_a_at">Learning Time in Static Classifiers</span></strong></a>
 				<div class="gs_gray">X Ding*, <strong>L Wang</strong>*, P Koniusz, Y Gao</div>
@@ -207,35 +198,11 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
 		</tr>
 		<tr class="gsc_a_tr">
-			<td class="gsc_a_t"><a href="https://arxiv.org/abs/2505.12552"><strong><span class="gsc_a_at">FreqSelect: Frequency-Aware fMRI-to-Image Reconstruction</span></strong></a>
-				<div class="gs_gray">J Ye, <strong>L Wang</strong>$^\dagger$, MZ Hossain</div>
-				<div class="gs_gray">British Machine Vision Conference (<strong>BMVC</strong>)</div>
-			</td>
-			<td class="gsc_a_c">[<font color="red"><strong>A</strong></font>]<br><a href="https://leiwangr.github.io/files/bmvc25.pdf" style="color:#000000;">Main paper + Appendix</a></td>
-			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
-		</tr>
-		<tr class="gsc_a_tr" style="background-color:#E5E4E2">
-			<td class="gsc_a_t"><a href="https://www.arxiv.org/abs/2506.02452"><strong><span class="gsc_a_at">ANT: Adaptive Neural Temporal-Aware Text-to-Motion Model</span></strong></a>
-				<div class="gs_gray">W Chen*, K Yu*, J Haozhe*, K Yuan, Z Huang, B Tian, S Lai, H Xiao, E Zhang, <strong>L Wang</strong>, Y Yue</div>
-				<div class="gs_gray">ACM Multimedia (<strong>ACM-MM</strong>)</div>
-			</td>
-			<td class="gsc_a_c">[<font color="red"><strong>A*</strong></font>]<br><a href="https://github.com/CCSCovenant/ANT" style="color:#000000;">Code</a></td>
-			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
-		</tr>
-		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2410.01506"><strong><span class="gsc_a_at">Learnable Expansion of Graph Operators for Multi-Modal Feature Fusion</span></strong></a>
 				<div class="gs_gray">D Ding, <strong>L Wang</strong>$^\dagger$, L Zhu, T Gedeon, P Koniusz</div>
 				<div class="gs_gray">International Conference on Learning Representations (<strong>ICLR</strong>)</div>
 			</td>
 			<td class="gsc_a_c">[<font color="red"><strong>A*</strong></font>]<br><a href="https://leiwangr.github.io/files/iclr25-ego-poster.png" style="color:#000000;">Poster</a></td>
-			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
-		</tr>
-		<tr class="gsc_a_tr" style="background-color:#FFFFE0"> 
-			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2409.14543"><strong><span class="gsc_a_at">TrackNetV4: Enhancing Fast Sports Object Tracking with Motion Attention Maps</span></strong></a>
-				<div class="gs_gray">A Raj, <strong>L Wang</strong>$^\dagger$, T Gedeon</div>
-				<div class="gs_gray">IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 1-5</div>
-			</td>
-			<td class="gsc_a_c">[<font color="red"><strong>B</strong></font>]<br><a href="https://github.com/TrackNetV4/TrackNetV4" style="color:#000000;">Code</a>, <a href="https://tracknetv4.github.io/" style="color:#000000;">Project website</a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
 		</tr>
 		<tr class="gsc_a_tr" style="background-color:#FFFFE0"> 
@@ -254,14 +221,6 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 			<td class="gsc_a_c">[<font color="red">Long presentation, <br>Conf. track: 20.11% accept.,<br>6.52% long pres.</font>]<br><a href="https://github.com/q1xiangchen/VMPs" style="color:#000000;">Code</a>, <a href="https://time.griffith.edu.au/paper-sites/motion-prompts/" style="color:#000000;">Project website</a>, <a href="https://leiwangr.github.io/files/u7227010_poster.png" style="color:#000000;">Poster</a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
 		</tr>
-		<tr class="gsc_a_tr" style="background-color:#E5E4E2">
-			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2405.01461"><strong><span class="gsc_a_at">SATO: Stable Text-to-Motion Framework</span></strong></a>
-				<div class="gs_gray">W Chen*, H Xiao*, E Zhang*, L Hu, <strong>L Wang</strong>, M Liu, C Chen</div>
-				<div class="gs_gray">ACM Multimedia (<strong>ACM-MM</strong>), 6989 - 6997</div>
-			</td>
-			<td class="gsc_a_c">[<font color="red"><strong>A*</strong></font>]<br><a href="https://github.com/sato-team/Stable-Text-to-motion-Framework" style="color:#000000;">Code</a>, <a href="https://sato-team.github.io/Stable-Text-to-Motion-Framework/" style="color:#000000;">Project website</a></td>
-			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
-		</tr>
 		<tr class="gsc_a_tr"> <!--  style="background-color:#E0FFFF" -->
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2310.05615.pdf"><strong><span class="gsc_a_at">Adaptive Multi-head Contrastive Learning</span></strong></a>
 				<div class="gs_gray"><strong>L Wang</strong>$^\dagger$, P Koniusz, T Gedeon, L Zheng</div>
@@ -277,22 +236,6 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 			</td>
 			<td class="gsc_a_c">[<font color="red"><strong>A*</strong></font>]<br><a href="https://github.com/LeiWangR/video-ar" style="color:#000000;">Code</a>, <a href="https://leiwangr.github.io/files/icml24-poster.pdf" style="color:#000000;">Poster </a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
-		</tr>
-		<tr class="gsc_a_tr" style="background-color:#E0FFFF"> 
-			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2110.05216.pdf"><strong><span class="gsc_a_at">High-order Tensor Pooling with Attention for Action Recognition</span></strong></a>
-				<div class="gs_gray"><strong>L Wang</strong>, K Sun, P Koniusz</div>
-				<div class="gs_gray">IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 3885-3889</div>
-			</td>
-			<td class="gsc_a_c">(An extension of our TPAMI'20)<br>[<font color="red"><strong>B</strong>, oral</font>] <br><a href="https://github.com/LeiWangR/HoTP" style="color:#000000;"> Code (preprocessing)</a><br><a href="https://leiwangr.github.io/files/icassp24_hop_suppl.pdf" style="color:#000000;">Appendix</a>, <a href="https://leiwangr.github.io/files/icassp24_hot_lecture.pdf" style="color:#000000;">Slides</a></td>
-			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2023</span></td>
-		</tr>
-		<tr class="gsc_a_tr" style="background-color:#E0FFFF"> 
-			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2310.10059.pdf"><strong><span class="gsc_a_at">Flow Dynamics Correction for Action Recognition</span></strong></a>
-				<div class="gs_gray"><strong>L Wang</strong>, P Koniusz</div>
-				<div class="gs_gray">IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 3795-3799</div>
-			</td>
-			<td class="gsc_a_c">[<font color="red"><strong>B</strong></font>]<br> <a href="https://leiwangr.github.io/files/icassp24_hal_poster.pdf" style="color:#000000;">Poster </a></td>
-			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2023</span></td>
 		</tr>
 		<tr class="gsc_a_tr" style="background-color:#E0FFFF">
 			<td class="gsc_a_t"><a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_3Mformer_Multi-Order_Multi-Mode_Transformer_for_Skeletal_Action_Recognition_CVPR_2023_paper.pdf"><strong><span class="gsc_a_at">3Mformer: Multi-order Multi-mode Transformer for Skeletal Action Recognition</span></strong></a>
@@ -334,6 +277,74 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 			<td class="gsc_a_c">[<strong><font color="red">A*</font></strong>]<br><a href="https://leiwangr.github.io/files/iccv2019_poster.pdf" style="color:#000000;">Poster</a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2019</span></td>
 		</tr>
+	</tbody>
+</table>
+
+</details>
+
+<details>
+  <summary>
+    <strong>Additional conference papers</strong>
+  </summary>
+
+<table id="gsc_a_t">
+	<tbody id="gsc_a_b">
+		<tr class="gsc_a_tr">
+			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2605.20780"><strong><span class="gsc_a_at">Learning to Think in Physics: Breaking Shortcut Learning in Scientific Diffusion via Representation Alignment</span></strong></a>
+				<div class="gs_gray">H Jia, P Yin, W Chen, S Liang, <strong>L Wang</strong>, B Tian, X Wang, N Jia, Y Yue</div>
+				<div class="gs_gray">International Conference on Machine Learning (<strong>ICML</strong>)</div>
+			</td>
+			<td class="gsc_a_c">[<font color="red"><strong>A*</strong></font>]<br><a href="https://github.com/Hxxxz0/REPA-P" style="color:#000000;">Code</a></td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
+		</tr>
+		<tr class="gsc_a_tr">
+			<td class="gsc_a_t"><a href="https://arxiv.org/abs/2505.12552"><strong><span class="gsc_a_at">FreqSelect: Frequency-Aware fMRI-to-Image Reconstruction</span></strong></a>
+				<div class="gs_gray">J Ye, <strong>L Wang</strong>$^\dagger$, MZ Hossain</div>
+				<div class="gs_gray">British Machine Vision Conference (<strong>BMVC</strong>)</div>
+			</td>
+			<td class="gsc_a_c">[<font color="red"><strong>A</strong></font>]<br><a href="https://leiwangr.github.io/files/bmvc25.pdf" style="color:#000000;">Main paper + Appendix</a></td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
+		</tr>
+		<tr class="gsc_a_tr" style="background-color:#E5E4E2">
+			<td class="gsc_a_t"><a href="https://www.arxiv.org/abs/2506.02452"><strong><span class="gsc_a_at">ANT: Adaptive Neural Temporal-Aware Text-to-Motion Model</span></strong></a>
+				<div class="gs_gray">W Chen*, K Yu*, J Haozhe*, K Yuan, Z Huang, B Tian, S Lai, H Xiao, E Zhang, <strong>L Wang</strong>, Y Yue</div>
+				<div class="gs_gray">ACM Multimedia (<strong>ACM-MM</strong>)</div>
+			</td>
+			<td class="gsc_a_c">[<font color="red"><strong>A*</strong></font>]<br><a href="https://github.com/CCSCovenant/ANT" style="color:#000000;">Code</a></td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
+		</tr>
+		<tr class="gsc_a_tr" style="background-color:#FFFFE0"> 
+			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2409.14543"><strong><span class="gsc_a_at">TrackNetV4: Enhancing Fast Sports Object Tracking with Motion Attention Maps</span></strong></a>
+				<div class="gs_gray">A Raj, <strong>L Wang</strong>$^\dagger$, T Gedeon</div>
+				<div class="gs_gray">IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 1-5</div>
+			</td>
+			<td class="gsc_a_c">[<font color="red"><strong>B</strong></font>]<br><a href="https://github.com/TrackNetV4/TrackNetV4" style="color:#000000;">Code</a>, <a href="https://tracknetv4.github.io/" style="color:#000000;">Project website</a></td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
+		</tr>
+		<tr class="gsc_a_tr" style="background-color:#E5E4E2">
+			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2405.01461"><strong><span class="gsc_a_at">SATO: Stable Text-to-Motion Framework</span></strong></a>
+				<div class="gs_gray">W Chen*, H Xiao*, E Zhang*, L Hu, <strong>L Wang</strong>, M Liu, C Chen</div>
+				<div class="gs_gray">ACM Multimedia (<strong>ACM-MM</strong>), 6989 - 6997</div>
+			</td>
+			<td class="gsc_a_c">[<font color="red"><strong>A*</strong></font>]<br><a href="https://github.com/sato-team/Stable-Text-to-motion-Framework" style="color:#000000;">Code</a>, <a href="https://sato-team.github.io/Stable-Text-to-Motion-Framework/" style="color:#000000;">Project website</a></td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
+		</tr>
+		<tr class="gsc_a_tr" style="background-color:#E0FFFF"> 
+			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2110.05216.pdf"><strong><span class="gsc_a_at">High-order Tensor Pooling with Attention for Action Recognition</span></strong></a>
+				<div class="gs_gray"><strong>L Wang</strong>, K Sun, P Koniusz</div>
+				<div class="gs_gray">IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 3885-3889</div>
+			</td>
+			<td class="gsc_a_c">(An extension of our TPAMI'20)<br>[<font color="red"><strong>B</strong>, oral</font>] <br><a href="https://github.com/LeiWangR/HoTP" style="color:#000000;"> Code (preprocessing)</a><br><a href="https://leiwangr.github.io/files/icassp24_hop_suppl.pdf" style="color:#000000;">Appendix</a>, <a href="https://leiwangr.github.io/files/icassp24_hot_lecture.pdf" style="color:#000000;">Slides</a></td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2023</span></td>
+		</tr>
+		<tr class="gsc_a_tr" style="background-color:#E0FFFF"> 
+			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2310.10059.pdf"><strong><span class="gsc_a_at">Flow Dynamics Correction for Action Recognition</span></strong></a>
+				<div class="gs_gray"><strong>L Wang</strong>, P Koniusz</div>
+				<div class="gs_gray">IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 3795-3799</div>
+			</td>
+			<td class="gsc_a_c">[<font color="red"><strong>B</strong></font>]<br> <a href="https://leiwangr.github.io/files/icassp24_hal_poster.pdf" style="color:#000000;">Poster </a></td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2023</span></td>
+		</tr>
 		<tr class="gsc_a_tr" style="background-color:#FFFFE0">
 			<td class="gsc_a_t"><a href="https://ieeexplore.ieee.org/document/8803051"><strong><span class="gsc_a_at">Loss Switching Fusion with Similarity Search for Video Classification</span></strong></a>
 				<div class="gs_gray"><strong>L Wang</strong>, DQ Huynh, MR Mansour</div>
@@ -344,6 +355,8 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 		</tr>
 	</tbody>
 </table>
+
+</details>
 
 <h2>Workshops</h2>
 
