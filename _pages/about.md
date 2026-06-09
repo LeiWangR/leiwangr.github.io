@@ -70,7 +70,7 @@ His research interests include human motion and video understanding, temporal an
 
 I personally do not have any news; the most exciting updates are coming from my talented students!
 
-<div style="max-height: 680px; overflow-y: auto; border: 1px solid #ddd; padding: 10px;">
+<div style="max-height: 360px; overflow-y: auto; border: 1px solid #ddd; padding: 10px;">
 <ul>
   <li>30/05/2026: One paper has been accepted for publication in <strong>Pattern Recognition</strong>. Congratulations to <font color="blue">Jiyao Yang</font>!</li>
   <li>13/05/2026: The MDPI open-access journal Electronics [Q2, h-index 137] has a special issue on ‘Fine-Grained Visual Understanding with Vision Language Models’ (Guest Editors: Dr. Lei Wang, Dr. Zicheng Pan) now [open for submission](https://www.mdpi.com/journal/electronics/special_issues/N5X631R6MF). The deadline for manuscript submissions is 15 December 2026.</li>
