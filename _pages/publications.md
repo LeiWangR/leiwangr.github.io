@@ -331,6 +331,13 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 
 <h2>Workshops</h2>
 
+<details>
+  <summary>
+    <strong>Show workshops papers</strong>
+  </summary>
+	
+  <br>
+  
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr">
@@ -439,6 +446,8 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 		</tr>
 	</tbody>
 </table>
+
+</details>
 
 <!-- <h3>&nbsp;</h3> -->
 <h2>Patents</h2>
