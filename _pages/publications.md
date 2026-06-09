@@ -182,22 +182,6 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
 		</tr>
 		<tr class="gsc_a_tr">
-			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2506.23863"><strong><span class="gsc_a_at">Puzzles: Unbounded Video-Depth Augmentation for Scalable End-to-End 3D Reconstruction</span></strong></a>
-				<div class="gs_gray">J Ma, <strong>L Wang</strong>, M Liu, D Ahmedt-Aristizabal, C Nguyen</div>
-				<div class="gs_gray">Advances in Neural Information Processing Systems (<strong>NeurIPS</strong>)</div>
-			</td>
-			<td class="gsc_a_c">[<font color="red"><strong>A*</strong></font>]<br><a href="https://github.com/Jiahao-Ma/puzzles-code" style="color:#000000;">Code</a>, <a href="https://jiahao-ma.github.io/puzzles/" style="color:#000000;">Project website</a>, <a href="https://leiwangr.github.io/files/neurips25-puzzles-slides.pdf" style="color:#000000;">Slides</a>, <a href="https://leiwangr.github.io/files/neurips25-puzzles-poster.png" style="color:#000000;">Poster</a></td>
-			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
-		</tr>
-		<tr class="gsc_a_tr" style="background-color:#E5E4E2">
-			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2501.19160"><strong><span class="gsc_a_at">Physics-Informed Representation Alignment for Sparse Radio-Map Reconstruction</span></strong></a>
-				<div class="gs_gray">J Haozhe*, W Chen*, Z Huang*, <strong>L Wang</strong>, H Xiao, N Jia, K Wu, S Lai, B Tian, Y Yue</div>
-				<div class="gs_gray">ACM Multimedia (<strong>ACM-MM</strong>)</div>
-			</td>
-			<td class="gsc_a_c">Brave New Ideas Track<br>[<font color="red"><strong>A*</strong>, oral</font>]<br><a href="https://github.com/Hxxxz0/RMDM" style="color:#000000;">Code</a></td>
-			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
-		</tr>
-		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2410.01506"><strong><span class="gsc_a_at">Learnable Expansion of Graph Operators for Multi-Modal Feature Fusion</span></strong></a>
 				<div class="gs_gray">D Ding, <strong>L Wang</strong>$^\dagger$, L Zhu, T Gedeon, P Koniusz</div>
 				<div class="gs_gray">International Conference on Learning Representations (<strong>ICLR</strong>)</div>
@@ -211,14 +195,6 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 				<div class="gs_gray">Advances in Neural Information Processing Systems (<strong>NeurIPS</strong>), 89943-89977</div>
 			</td>
 			<td class="gsc_a_c">[<font color="red"><strong>A*</strong></font>]<br><a href="https://github.com/Tom-roujiang/MSAD" style="color:#000000;">Code</a>, <a href="https://time.griffith.edu.au/paper-sites/msad/" style="color:#000000;">Project website</a>, <a href="https://leiwangr.github.io/files/97585.png" style="color:#000000;">Poster</a></td>
-			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
-		</tr>
-		<tr class="gsc_a_tr" style="background-color:#FFFFE0">
-			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2407.03179"><strong><span class="gsc_a_at">Motion meets Attention: Video Motion Prompts</span></strong></a>
-				<div class="gs_gray">Q Chen, <strong>L Wang</strong>$^\dagger$, P Koniusz, T Gedeon</div>
-				<div class="gs_gray">Asian Conference on Machine Learning (<strong>ACML</strong>), 591-606</div>
-			</td>
-			<td class="gsc_a_c">[<font color="red">Long presentation, <br>Conf. track: 20.11% accept.,<br>6.52% long pres.</font>]<br><a href="https://github.com/q1xiangchen/VMPs" style="color:#000000;">Code</a>, <a href="https://time.griffith.edu.au/paper-sites/motion-prompts/" style="color:#000000;">Project website</a>, <a href="https://leiwangr.github.io/files/u7227010_poster.png" style="color:#000000;">Poster</a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
 		</tr>
 		<tr class="gsc_a_tr"> <!--  style="background-color:#E0FFFF" -->
@@ -298,6 +274,22 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
 		</tr>
 		<tr class="gsc_a_tr">
+			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2506.23863"><strong><span class="gsc_a_at">Puzzles: Unbounded Video-Depth Augmentation for Scalable End-to-End 3D Reconstruction</span></strong></a>
+				<div class="gs_gray">J Ma, <strong>L Wang</strong>, M Liu, D Ahmedt-Aristizabal, C Nguyen</div>
+				<div class="gs_gray">Advances in Neural Information Processing Systems (<strong>NeurIPS</strong>)</div>
+			</td>
+			<td class="gsc_a_c">[<font color="red"><strong>A*</strong></font>]<br><a href="https://github.com/Jiahao-Ma/puzzles-code" style="color:#000000;">Code</a>, <a href="https://jiahao-ma.github.io/puzzles/" style="color:#000000;">Project website</a>, <a href="https://leiwangr.github.io/files/neurips25-puzzles-slides.pdf" style="color:#000000;">Slides</a>, <a href="https://leiwangr.github.io/files/neurips25-puzzles-poster.png" style="color:#000000;">Poster</a></td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
+		</tr>
+		<tr class="gsc_a_tr" style="background-color:#E5E4E2">
+			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2501.19160"><strong><span class="gsc_a_at">Physics-Informed Representation Alignment for Sparse Radio-Map Reconstruction</span></strong></a>
+				<div class="gs_gray">J Haozhe*, W Chen*, Z Huang*, <strong>L Wang</strong>, H Xiao, N Jia, K Wu, S Lai, B Tian, Y Yue</div>
+				<div class="gs_gray">ACM Multimedia (<strong>ACM-MM</strong>)</div>
+			</td>
+			<td class="gsc_a_c">Brave New Ideas Track<br>[<font color="red"><strong>A*</strong>, oral</font>]<br><a href="https://github.com/Hxxxz0/RMDM" style="color:#000000;">Code</a></td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
+		</tr>
+		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://arxiv.org/abs/2505.12552"><strong><span class="gsc_a_at">FreqSelect: Frequency-Aware fMRI-to-Image Reconstruction</span></strong></a>
 				<div class="gs_gray">J Ye, <strong>L Wang</strong>$^\dagger$, MZ Hossain</div>
 				<div class="gs_gray">British Machine Vision Conference (<strong>BMVC</strong>)</div>
@@ -320,6 +312,14 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 			</td>
 			<td class="gsc_a_c">[<font color="red"><strong>B</strong></font>]<br><a href="https://github.com/TrackNetV4/TrackNetV4" style="color:#000000;">Code</a>, <a href="https://tracknetv4.github.io/" style="color:#000000;">Project website</a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
+		</tr>
+		<tr class="gsc_a_tr" style="background-color:#FFFFE0">
+			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2407.03179"><strong><span class="gsc_a_at">Motion meets Attention: Video Motion Prompts</span></strong></a>
+				<div class="gs_gray">Q Chen, <strong>L Wang</strong>$^\dagger$, P Koniusz, T Gedeon</div>
+				<div class="gs_gray">Asian Conference on Machine Learning (<strong>ACML</strong>), 591-606</div>
+			</td>
+			<td class="gsc_a_c">[<font color="red">Long presentation, <br>Conf. track: 20.11% accept.,<br>6.52% long pres.</font>]<br><a href="https://github.com/q1xiangchen/VMPs" style="color:#000000;">Code</a>, <a href="https://time.griffith.edu.au/paper-sites/motion-prompts/" style="color:#000000;">Project website</a>, <a href="https://leiwangr.github.io/files/u7227010_poster.png" style="color:#000000;">Poster</a></td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
 		</tr>
 		<tr class="gsc_a_tr" style="background-color:#E5E4E2">
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2405.01461"><strong><span class="gsc_a_at">SATO: Stable Text-to-Motion Framework</span></strong></a>
