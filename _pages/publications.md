@@ -364,9 +364,7 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
   <summary>
     <strong>Show workshops papers</strong>
   </summary>
-	
-  <br>
-  
+
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr">
@@ -545,8 +543,6 @@ Please note that arXiv papers have not been peer-reviewed and should be consider
   <summary>
     <strong>Show arXiv preprints</strong>
   </summary>
-	
-  <br>
 
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
