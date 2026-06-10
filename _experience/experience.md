@@ -39,7 +39,7 @@ I am also working to bridge the gap between academic research and industry resea
   * ARC Industrial Transformation Research Hub (School of Engineering and Built Environment—Electrical and Electronic Engineering at Griffith University)
   * Postdoc advisor: [Prof. Yongsheng Gao](https://experts.griffith.edu.au/19112-yongsheng-gao) ([2025 ARC Industry Laureate Fellow](https://www.arc.gov.au/2025-industry-laureate-profile-professor-yongsheng-gao)), [Prof. Jun Zhou](https://experts.griffith.edu.au/7205-jun-zhou), and [Prof. Piotr Koniusz](https://www.koniusz.com) (UNSW & Data61/CSIRO)
   
-<div markdown="0" style="max-height: 360px; overflow-y: auto; border: 1px solid #ddd; padding: 10px;">
+<div style="max-height: 360px; overflow-y: auto; border: 1px solid #ddd; padding: 10px;">
   <ul>
     <li> <font color="red">One paper has been accepted for publication in <strong>Pattern Recognition</strong></font></li>
     <li> <font color="red">Received the <strong>2025 IEEE Access Exceptional Reviewer Award</strong>, signed by Managing Editor Dr. Jenny Mahoney and Editor-in-Chief Prof. Mehrdad Saif</font></li>
@@ -82,7 +82,7 @@ I am also working to bridge the gap between academic research and industry resea
   * School of Computing, ANU College of Engineering, Computing and Cybernetics
   * Postdoc advisor: [Assoc. Prof. Liang Zheng](https://zheng-lab-anu.github.io/) (ANU) and [Prof. Tom Gedeon](https://staffportal.curtin.edu.au/staff/profile/view/tom-gedeon-5e48a1fd/) (Curtin University)
   
-<div markdown="0" style="max-height: 360px; overflow-y: auto; border: 1px solid #ddd; padding: 10px;">
+<div style="max-height: 360px; overflow-y: auto; border: 1px solid #ddd; padding: 10px;">
   <ul>
     <li> <font color="red">Three papers (two orals and one poster) have been accepted to the WWW Companion 2025</font></li>
     <li> <font color="red">One paper has been accepted at <strong>ICLR 2025</strong></font></li>
