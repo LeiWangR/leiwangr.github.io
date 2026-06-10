@@ -41,7 +41,8 @@ I am also working to bridge the gap between academic research and industry resea
   
 <div style="max-height: 360px; overflow-y: auto; border: 1px solid #ddd; padding: 10px;">
   <ul>
-    <li> <font color="red">One paper has been accepted for publication in <strong>Pattern Recognition</strong></font></li>
+    <li>
+    <ul><li><font color="red">One paper has been accepted for publication in <strong>Pattern Recognition</strong></font></li>
     <li> <font color="red">Received the <strong>2025 IEEE Access Exceptional Reviewer Award</strong>, signed by Managing Editor Dr. Jenny Mahoney and Editor-in-Chief Prof. Mehrdad Saif</font></li>
     <li> <font color="red">I am serving as a <strong>Guest Editor</strong> for MDPI Electronics special issue on ‘Fine-Grained Visual Understanding with Vision Language Models’</font></li>
     <li> <font color="red"><strong>Two</strong> papers have been accepted to <strong>ICML 2026</strong>: one <strong>Spotlight</strong> paper and one Regular paper</font></li>
@@ -72,6 +73,8 @@ I am also working to bridge the gap between academic research and industry resea
     <li> <font color="red">I am serving as a <strong>Guest Editor</strong> for MDPI Electronics special issue on ‘Trustworthy AI for Video, Web, and Social Applications’</font></li>
     <li> <font color="red">Recipient of the <strong>Best Paper Award</strong> at TheWebConf 2025 Workshop</font></li>
     <li> <font color="red">I am serving as an <strong>Area Chair</strong> for ACM Multimedia 2025</font></li>
+    </ul>
+    </li>
   </ul>
 </div>
  
@@ -84,7 +87,8 @@ I am also working to bridge the gap between academic research and industry resea
   
 <div style="max-height: 360px; overflow-y: auto; border: 1px solid #ddd; padding: 10px;">
   <ul>
-    <li> <font color="red">Three papers (two orals and one poster) have been accepted to the WWW Companion 2025</font></li>
+    <li> 
+      <ul><li><font color="red">Three papers (two orals and one poster) have been accepted to the WWW Companion 2025</font></li>
     <li> <font color="red">One paper has been accepted at <strong>ICLR 2025</strong></font></li>
     <li> <font color="red">National Computational Merit Allocation Scheme (<strong>NCMAS 2025</strong>): I am a Chief Investigator (CI) / Delegated lead CI on 'MotionNetLite: Video Dynamics Distillation for Scalable Models'</font></li>
     <li> <font color="red">ANU Merit Allocation Scheme  (<strong>ANUMAS 2025</strong>): I am a Lead Chief Investigator (Lead CI) on 'Efficient Video Models through Compression and Data Optimization'</font></li>
@@ -114,6 +118,8 @@ I am also working to bridge the gap between academic research and industry resea
     <li> <font color="red"><strong>Grant / Project Award from Oracle</strong> (AU$48,000) for Research on 'Automatic, large-scale screening of failure cases in autonomous driving' </font></li>
     <li> <font color="red"><strong>Invited talk</strong> on 'Action Recognition: Past, Present and Future' hosted by Harbin Institute of Technology, Shenzhen, China </font></li>
     <li> <font color="red"><strong>Grant</strong>: I am a Co-Investigator (Co-I) on 'Sharing early insights for more resilient communities'</font></li>
+  </ul>
+    </li>
   </ul>
 </div>
 
