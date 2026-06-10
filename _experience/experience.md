@@ -41,7 +41,7 @@ I am also working to bridge the gap between academic research and industry resea
   
 <div style="max-height: 360px; overflow-y: auto; border: 1px solid #ddd; padding: 10px;">
   <ul>
-    <li>
+    <li style="list-style-type:none;">
     <ul><li><font color="red">One paper has been accepted for publication in <strong>Pattern Recognition</strong></font></li>
     <li> <font color="red">Received the <strong>2025 IEEE Access Exceptional Reviewer Award</strong>, signed by Managing Editor Dr. Jenny Mahoney and Editor-in-Chief Prof. Mehrdad Saif</font></li>
     <li> <font color="red">I am serving as a <strong>Guest Editor</strong> for MDPI Electronics special issue on ‘Fine-Grained Visual Understanding with Vision Language Models’</font></li>
@@ -87,7 +87,7 @@ I am also working to bridge the gap between academic research and industry resea
   
 <div style="max-height: 360px; overflow-y: auto; border: 1px solid #ddd; padding: 10px;">
   <ul>
-    <li> 
+    <li style="list-style-type:none;">
       <ul><li><font color="red">Three papers (two orals and one poster) have been accepted to the WWW Companion 2025</font></li>
     <li> <font color="red">One paper has been accepted at <strong>ICLR 2025</strong></font></li>
     <li> <font color="red">National Computational Merit Allocation Scheme (<strong>NCMAS 2025</strong>): I am a Chief Investigator (CI) / Delegated lead CI on 'MotionNetLite: Video Dynamics Distillation for Scalable Models'</font></li>
