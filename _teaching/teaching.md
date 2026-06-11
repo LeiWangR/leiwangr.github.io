@@ -28,6 +28,7 @@ a:active {
 * 2026 Trimester 2, Brisbane City (South Bank) - In Person: **Course Convenor**
   * School of Information and Communication Technology, Griffith University
   * [1811ICT Programming Principles](https://www.griffith.edu.au/study/courses/programming-principles-1811ICT?location=dom#trimester-2-brisbane-city-south-bank)
+  * View [course profiles](https://leiwangr.github.io/files/1811ICT.pdf)
   * About this course:
     * Programming is a foundational skill for all computing disciplines. This course develops skills and concepts that are essential to good programming practice and problem solving. It covers fundamental programming concepts, object-oriented programming, basic data structures, and algorithmic processes.
     * Incompatible: must not have completed 2807ICT Programming Principles
@@ -35,6 +36,7 @@ a:active {
 * 2026 Trimester 2, Online: **Course Convenor**
   * School of Information and Communication Technology, Griffith University
   * [3006ICT Robotics and Computer Vision](https://www.griffith.edu.au/study/courses/robotics-and-computer-vision-3006ICT?location=dom#trimester-2-online)
+  * View [course profiles](https://leiwangr.github.io/files/3006ICT.pdf)
   * About this course:
     * This course introduces the principles and methods that enable robots to perceive and understand the physical world using cameras and vision-based sensing. It covers coordinate frames, image formation, camera calibration, geometric vision, feature extraction, motion estimation, depth perception, object perception, visual localisation, mapping, and vision-guided robotic operation. Students learn how computer vision supports embodied intelligence in mobile robots, robot manipulators, and other autonomous systems, and how perception modules are integrated into complete robotic pipelines. The course emphasises robotics-specific computer vision rather than general machine learning or generic image classification. Students will develop the conceptual and practical foundations needed to design perception pipelines for tasks such as localisation, mapping, tracking, grasping, navigation, and autonomous operation in real-world environments. Students must be enrolled in either 1534 Bachelor of Computer Science or 1585 B Engineering (Hon)/BComp Science.
     * Pre-requisites: must have completed 2801ICT Computing Algorithms AND must have completed 2802ICT Intelligent Systems
