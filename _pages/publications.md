@@ -510,7 +510,7 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr" style="background-color:#FFE4E1">
-			<td class="gsc_a_t"><a href="https://openresearch-repository.anu.edu.au/bitstream/1885/301236/1/ANU_PhD_Thesis_corrected.pdf"><strong><span class="gsc_a_at">Robust Human Action Modelling</span></strong></a><br />
+			<td class="gsc_a_t"><a href="https://researchportalplus.anu.edu.au/en/publications/robust-human-action-modelling/"><strong><span class="gsc_a_at">Robust Human Action Modelling</span></strong></a><br />
 				<div class="gs_gray"><strong>L Wang</strong></div>
 				<div class="gs_gray">PhD thesis<font color="blue">*</font>, The Australian National University</div>
 			</td>
