@@ -519,7 +519,7 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 		</tr>
 		<tr class="gsc_a_tr" style="background-color:#FFE4E1">
 			<!-- https://www.researchgate.net/profile/Lei_Wang51/publication/332369012_Analysis_and_Evaluation_of_Kinect-based_Action_Recognition_Algorithms/links/5cb001be4585156cd7916b18/Analysis-and-Evaluation-of-Kinect-based-Action-Recognition-Algorithms.pdf -->
-			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2112.08626.pdf"><strong><span class="gsc_a_at">Analysis and Evaluation of Kinect-based Action Recognition Algorithms</span></strong></a><br />
+			<td class="gsc_a_t"><a href="https://researchportalplus.anu.edu.au/en/publications/analysis-and-evaluation-of-kinect-based-action-recognition-algori/"><strong><span class="gsc_a_at">Analysis and Evaluation of Kinect-based Action Recognition Algorithms</span></strong></a><br />
 				<div class="gs_gray"><strong>L Wang</strong></div>
 				<div class="gs_gray">Master&rsquo;s thesis, The University of Western Australia</div>
 			</td>
