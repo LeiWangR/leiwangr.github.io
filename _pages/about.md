@@ -72,6 +72,7 @@ I personally do not have any news; the most exciting updates are coming from my 
 
 <div style="max-height: 360px; overflow-y: auto; border: 1px solid #ddd; padding: 10px;">
 <ul>
+  <li>22/06/2026: <strong>Two</strong> papers have been accepted at <strong>ECCV 2026</strong>. Congratulations to <font color="blue">Edwin Kwadwo Tenagyei</font>, <font color="blue">Mei Yuan</font>, Qi Long, Qifeng Wu, Zhenyang Li, and Yizhou Zhao!</li>
   <li>30/05/2026: One paper has been accepted for publication in <strong>Pattern Recognition</strong>. Congratulations to <font color="blue">Jiyao Yang</font>!</li>
   <li>13/05/2026: The MDPI open-access journal Electronics [Q2, h-index 137] has a special issue on ‘Fine-Grained Visual Understanding with Vision Language Models’ (Guest Editors: Dr. Lei Wang, Dr. Zicheng Pan) now <a href="https://www.mdpi.com/journal/electronics/special_issues/N5X631R6MF">open for submission</a>. The deadline for manuscript submissions is 15 December 2026.</li>
   <li>01/05/2026: TIME Lab (TIME@ARC Hub & Griffith) achieved 10 top-tier publications in 2025-2026, including ICML ×2 (1 Spotlight), NeurIPS ×2, ACM MM ×2 (1 Oral), ICLR ×1, AAAI ×1, IJCV ×1, and BMVC ×1.</li>
