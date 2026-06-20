@@ -54,7 +54,7 @@ Journal impact factors follow the [Clarivate JCR 2023](https://jcr.clarivate.com
 S Anwar, T Gedeon, <strong>L Wang</strong>$^\dagger$, Z Qin</div>
 				<div class="gs_gray">Pattern Recognition (<strong>PR</strong>)</div>
 			</td>
-			<td class="gsc_a_c">[<font color="red"><strong>IF: 7.6</strong></font>]<br><a href="https://yliu1082.github.io/ANUBIS/" style="color:#000000;">Project website</a>, <a href="https://huggingface.co/datasets/Khat865/ANUBIS-Skeleton" style="color:#000000;">Dataset</a>, <a href="https://github.com/yliu1082/ANUBIS-Sourcecode" style="color:#000000;">Code</a><br><a href="https://leiwangr.github.io/files/pattreg26_appendix.pdf" style="color:#000000;">Appendix</a></td>
+			<td class="gsc_a_c">[<font color="red"><strong>IF: 9.1</strong></font>]<br><a href="https://yliu1082.github.io/ANUBIS/" style="color:#000000;">Project website</a>, <a href="https://huggingface.co/datasets/Khat865/ANUBIS-Skeleton" style="color:#000000;">Dataset</a>, <a href="https://github.com/yliu1082/ANUBIS-Sourcecode" style="color:#000000;">Code</a><br><a href="https://leiwangr.github.io/files/pattreg26_appendix.pdf" style="color:#000000;">Appendix</a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
 		</tr>
 		<tr class="gsc_a_tr">
@@ -106,7 +106,7 @@ S Anwar, T Gedeon, <strong>L Wang</strong>$^\dagger$, Z Qin</div>
 				<div class="gs_gray">EK Tenagyei*, <strong>L Wang</strong>*, Y Gao, J Zhou, P Koniusz</div>
 				<div class="gs_gray">Pattern Recognition (<strong>PR</strong>)</div>
 			</td>
-			<td class="gsc_a_c">[<font color="red"><strong>IF: 7.6</strong></font>]<br><font color="red">Under major revision</font></td>
+			<td class="gsc_a_c">[<font color="red"><strong>IF: 9.1</strong></font>]<br><font color="red">Under major revision</font></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
 	</tr>
 	<tr class="gsc_a_tr">
