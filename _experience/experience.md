@@ -42,7 +42,9 @@ I am also working to bridge the gap between academic research and industry resea
 <div style="max-height: 360px; overflow-y: auto; border: 1px solid #ddd; padding: 10px;">
   <ul>
     <li style="list-style-type:none;">
-    <ul><li><font color="red">One paper has been accepted for publication in <strong>Pattern Recognition</strong></font></li>
+    <ul>
+      <li> <font color="red"><strong>Two</strong> papers have been accepted at <strong>ECCV 2026</strong></font></li>
+      <li> <font color="red">One paper has been accepted for publication in <strong>Pattern Recognition</strong></font></li>
     <li> <font color="red">Received the <strong>2025 IEEE Access Exceptional Reviewer Award</strong>, signed by Managing Editor Dr. Jenny Mahoney and Editor-in-Chief Prof. Mehrdad Saif</font></li>
     <li> <font color="red">I am serving as a <strong>Guest Editor</strong> for MDPI Electronics special issue on ‘Fine-Grained Visual Understanding with Vision Language Models’</font></li>
     <li> <font color="red"><strong>Two</strong> papers have been accepted to <strong>ICML 2026</strong>: one <strong>Spotlight</strong> paper and one Regular paper</font></li>
