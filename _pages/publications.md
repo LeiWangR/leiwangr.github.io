@@ -150,6 +150,14 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr">
+			<td class="gsc_a_t"><a href=""><strong><span class="gsc_a_at">Structured Hyperedge Adaptation for Parameter-Efficient Fine-Tuning of Vision Transformers</span></strong></a>
+				<div class="gs_gray">EK Tenagyei*, <strong>L Wang</strong>*, UE Akpudo, J Zhou, Y Gao</div>
+				<div class="gs_gray">European Conference on Computer Vision (<strong>ECCV</strong>)</div>
+			</td>
+			<td class="gsc_a_c">[<font color="red"><strong>A*</strong></font>]</td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
+		</tr>
+		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2605.08651"><strong><span class="gsc_a_at">Privacy-Aware Video Anomaly Detection through Orthogonal Subspace Projection</span></strong></a>
 				<div class="gs_gray"><strong>L Wang</strong>, W Diao, A Busch, J Zhou, Y Gao</div>
 				<div class="gs_gray">International Conference on Machine Learning (<strong>ICML</strong>)</div>
@@ -265,6 +273,14 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
+		<tr class="gsc_a_tr">
+			<td class="gsc_a_t"><a href=""><strong><span class="gsc_a_at">O-VAD: Industrial Video Anomaly Detection through Object-Centric Tracking and Reasoning</span></strong></a>
+				<div class="gs_gray">M Yuan, Q Long, Q Wu, Z Li, Y Zhao, <strong>L Wang</strong>, Y Liu, M Xu</div>
+				<div class="gs_gray">European Conference on Computer Vision (<strong>ECCV</strong>)</div>
+			</td>
+			<td class="gsc_a_c">[<font color="red"><strong>A*</strong></font>]</td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
+		</tr>
 		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2605.20780"><strong><span class="gsc_a_at">Learning to Think in Physics: Breaking Shortcut Learning in Scientific Diffusion via Representation Alignment</span></strong></a>
 				<div class="gs_gray">H Jia, P Yin, W Chen, S Liang, <strong>L Wang</strong>, B Tian, X Wang, N Jia, Y Yue</div>
