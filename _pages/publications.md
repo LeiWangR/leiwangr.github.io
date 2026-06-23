@@ -150,7 +150,7 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr">
-			<td class="gsc_a_t"><a href="https://leiwangr.github.io/files/eccv26-hyperadapter.pdf"><strong><span class="gsc_a_at">Structured Hyperedge Adaptation for Parameter-Efficient Fine-Tuning of Vision Transformers</span></strong></a>
+			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2606.22383"><strong><span class="gsc_a_at">Structured Hyperedge Adaptation for Parameter-Efficient Fine-Tuning of Vision Transformers</span></strong></a>
 				<div class="gs_gray">EK Tenagyei*, <strong>L Wang</strong>*, UE Akpudo, J Zhou, Y Gao</div>
 				<div class="gs_gray">European Conference on Computer Vision (<strong>ECCV</strong>)</div>
 			</td>
