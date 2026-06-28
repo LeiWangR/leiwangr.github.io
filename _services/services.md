@@ -91,8 +91,7 @@ I regularly review technical papers for the following journals, conferences & wo
   * ECCV 2026, CVPR 2026, ICCV 2025, CVPR 2025, ECCV 2024, CVPR 2024, ICCV 2023, CVPR 2023, CVPR 2022, ECCV 2022 (<strong><font color="red">Outstanding Reviewer</font></strong>),
   * WACV 2026, WACV 2025, WACV 2024, BMVC 2026, BMVC 2025, BMVC 2024, BMVC 2023, BMVC 2022, BMVC 2021, BMVC 2020, ACCV 2026, ACCV 2024, ICASSP 2026, ICASSP 2025, ICME 2026, ICME 2025, IJCNN 2025,
   * ACM SIGCHI Conference on Computer-Supported Cooperative Work & Social Computing (CSCW 2026), ACM International Conference on Multimodal Interaction (ICMI 2026),
-  * IEEE VIS 2025,
-  * IEEE Conference on Artificial Intelligence (IEEE CAI 2023), International Conference on Machine Intelligence and Nature-Inspired Computing (MIND 2025)
+  * IEEE VIS 2025, IEEE International Conference on Future Machine Learning and Data Science (FMLDS 2026), IEEE Conference on Artificial Intelligence (IEEE CAI 2023), International Conference on Machine Intelligence and Nature-Inspired Computing (MIND 2025)
 
 * **Workshops**:
   * Computer Vision for Metaverse Workshop (CV4Metaverse at ECCV 2024, CVPR 2025), 
