@@ -274,6 +274,22 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr">
+			<td class="gsc_a_t"><a href="https://arxiv.org/abs/2604.26503"><strong><span class="gsc_a_at">Delta Score Matters! Spatial Adaptive Multi Guidance in Diffusion Models</span></strong></a>
+				<div class="gs_gray">H Li*, W Chen*, <strong>L Wang</strong>, S Liang, B Tian, S Lai, Y Yue</div>
+				<div class="gs_gray">ACM Multimedia (<strong>ACM-MM</strong>)</div>
+			</td>
+			<td class="gsc_a_c">Brave New Ideas Track<br>[<font color="red"><strong>A*</strong>, oral</font>]</td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
+		</tr>
+		<tr class="gsc_a_tr">
+			<td class="gsc_a_t"><a href="https://arxiv.org/abs/2604.23540"><strong><span class="gsc_a_at">Oracle Noise: Faster Semantic Spherical Alignment for Interpretable Latent Optimization</span></strong></a>
+				<div class="gs_gray">H Li*, W Chen*, <strong>L Wang</strong>, S Liang, H Jia, Y Yue</div>
+				<div class="gs_gray">ACM Multimedia (<strong>ACM-MM</strong>)</div>
+			</td>
+			<td class="gsc_a_c">Brave New Ideas Track<br>[<font color="red"><strong>A*</strong></font>]</td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
+		</tr>
+		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href=""><strong><span class="gsc_a_at">O-VAD: Industrial Video Anomaly Detection through Object-Centric Tracking and Reasoning</span></strong></a>
 				<div class="gs_gray">M Yuan, Q Long, Q Wu, Z Li, Y Zhao, <strong>L Wang</strong>, Y Liu, M Xu</div>
 				<div class="gs_gray">European Conference on Computer Vision (<strong>ECCV</strong>)</div>
@@ -624,22 +640,6 @@ Please note that arXiv papers have not been peer-reviewed and should be consider
 				<div class="gs_gray">arXiv preprint arxiv:2605.14417</div>
 			</td>
 			<td class="gsc_a_c">Research report. [<a href="https://hxxxz0.github.io/DAJI_PAGE/" style="color:#000000;">Project website</a>][<a href="https://github.com/Hxxxz0/DAJI" style="color:#000000;">Code</a>]</td>
-			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
-		</tr>
-		<tr class="gsc_a_tr">
-			<td class="gsc_a_t"><a href="https://arxiv.org/abs/2604.26503"><strong><span class="gsc_a_at">Delta Score Matters! Spatial Adaptive Multi Guidance in Diffusion Models</span></strong></a>
-				<div class="gs_gray">H Li*, W Chen*, <strong>L Wang</strong>, S Liang, B Tian, S Lai, Y Yue</div>
-				<div class="gs_gray">arXiv preprint arXiv:2604.26503</div>
-			</td>
-			<td class="gsc_a_c">Research report.</td>
-			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
-		</tr>
-		<tr class="gsc_a_tr">
-			<td class="gsc_a_t"><a href="https://arxiv.org/abs/2604.23540"><strong><span class="gsc_a_at">Oracle Noise: Faster Semantic Spherical Alignment for Interpretable Latent Optimization</span></strong></a>
-				<div class="gs_gray">H Li*, W Chen*, <strong>L Wang</strong>, S Liang, H Jia, Y Yue</div>
-				<div class="gs_gray">arXiv preprint arXiv:2604.23540</div>
-			</td>
-			<td class="gsc_a_c">Research report.</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
 		</tr>
 		<tr class="gsc_a_tr">
