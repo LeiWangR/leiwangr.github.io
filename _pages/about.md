@@ -72,7 +72,7 @@ I personally do not have any news; the most exciting updates are coming from my 
 
 <div style="max-height: 360px; overflow-y: auto; border: 1px solid #ddd; padding: 10px;">
 <ul>
-  <li>29/06/2026: <strong>Three</strong> papers have been accepted at <strong>ACM-MM 2026</strong> (Brave New Ideas Track). Congratulations to <font color="blue">Wenshuo Chen</font>, <font color="blue">Haozhe Jia</font>, and <font color="blue">Haosen Li</font>!</li>
+  <li>29/06/2026: <strong>Three</strong> papers have been accepted at <strong>ACM-MM 2026</strong> (Brave New Ideas Track): : one oral and two posters. Congratulations to <font color="blue">Wenshuo Chen</font>, <font color="blue">Haozhe Jia</font>, and <font color="blue">Haosen Li</font>!</li>
   <li>22/06/2026: <strong>Two</strong> papers have been accepted at <strong>ECCV 2026</strong>. Congratulations to <font color="blue">Edwin Kwadwo Tenagyei</font>, <font color="blue">Mei Yuan</font>, Qi Long, Qifeng Wu, Zhenyang Li, and Yizhou Zhao!</li>
   <li>30/05/2026: One paper has been accepted for publication in <strong>Pattern Recognition</strong>. Congratulations to <font color="blue">Jiyao Yang</font>!</li>
   <li>13/05/2026: The MDPI open-access journal Electronics [Q2, h-index 137] has a special issue on ‘Fine-Grained Visual Understanding with Vision Language Models’ (Guest Editors: Dr. Lei Wang, Dr. Zicheng Pan) now <a href="https://www.mdpi.com/journal/electronics/special_issues/N5X631R6MF">open for submission</a>. The deadline for manuscript submissions is 15 December 2026.</li>
