@@ -289,6 +289,14 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 			<td class="gsc_a_c">Brave New Ideas Track<br>[<font color="red"><strong>A*</strong></font>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
 		</tr>
+		<tr class="gsc_a_tr" style="background-color:#E5E4E2">
+			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2501.18232"><strong><span class="gsc_a_at">Free-T2M: Frequency-Aware Coarse-to-Fine Text-to-Motion Generation</span></strong></a>
+				<div class="gs_gray">W Chen, H Jia, S Lai, <strong>L Wang</strong>, P Yin, S Liang, Y Lin, H Xiao, L Hu, Y Yue</div>
+				<div class="gs_gray">ACM Multimedia (<strong>ACM-MM</strong>)</div>
+			</td>
+			<td class="gsc_a_c">Brave New Ideas Track<br>[<font color="red"><strong>A*</strong></font>]<br><a href="https://github.com/Hxxxz0/Free-T2m" style="color:#000000;">Code</a></td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
+		</tr>
 		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href=""><strong><span class="gsc_a_at">O-VAD: Industrial Video Anomaly Detection through Object-Centric Tracking and Reasoning</span></strong></a>
 				<div class="gs_gray">M Yuan, Q Long, Q Wu, Z Li, Y Zhao, <strong>L Wang</strong>, Y Liu, M Xu</div>
@@ -680,14 +688,6 @@ Please note that arXiv papers have not been peer-reviewed and should be consider
 				<div class="gs_gray">arXiv preprint arXiv:2512.00369</div>
 			</td>
 			<td class="gsc_a_c">Research report. [<a href="https://polaris-code-official.github.io/" style="color:#000000;">Project website</a>][<a href="https://github.com/Chatonz/POLARIS" style="color:#000000;">Code</a>]</td>
-			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
-		</tr>
-		<tr class="gsc_a_tr" style="background-color:#E5E4E2">
-			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2501.18232"><strong><span class="gsc_a_at">Free-T2M: Robust Text-to-Motion Generation for Humanoid Robots via Frequency-Domain</span></strong></a>
-				<div class="gs_gray">W Chen, H Jia, S Lai, <strong>L Wang</strong>, Y Lin, H Xiao, L Hu, Y Yue</div>
-				<div class="gs_gray">arXiv preprint arXiv:2501.18232</div>
-			</td>
-			<td class="gsc_a_c">Research report. [<a href="https://github.com/Hxxxz0/Free-T2m" style="color:#000000;">Code</a>]</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2025</span></td>
 		</tr>
 		<tr class="gsc_a_tr" style="background-color:#E5E4E2">
