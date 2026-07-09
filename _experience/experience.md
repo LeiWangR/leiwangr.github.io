@@ -43,6 +43,7 @@ I am also working to bridge the gap between academic research and industry resea
   <ul>
     <li style="list-style-type:none;">
     <ul>
+      <li> <font color="red">I serve as an <strong>Associate Editor</strong> for the SN Computer Science journal</font></li>
       <li> <font color="red"><strong>Three</strong> papers have been accepted at <strong>ACM-MM 2026</strong> (Brave New Ideas Track): one <strong>oral</strong> and two posters</font></li>
       <li> <font color="red"><strong>Two</strong> papers have been accepted at <strong>ECCV 2026</strong></font></li>
       <li> <font color="red">One paper has been accepted for publication in <strong>Pattern Recognition</strong></font></li>
