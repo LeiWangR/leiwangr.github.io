@@ -162,7 +162,7 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 				<div class="gs_gray"><strong>L Wang</strong>, W Diao, A Busch, J Zhou, Y Gao</div>
 				<div class="gs_gray">International Conference on Machine Learning (<strong>ICML</strong>)</div>
 			</td>
-			<td class="gsc_a_c">[<font color="red"><strong>A*</strong>, spotlight, <br>oral, 2.64% acceptance rate</font>]<br><a href="https://github.com/Wenxiang-Diao/Privacy-Aware-VAD" style="color:#000000;">Code</a>, <a href="https://leiwangr.github.io/files/icml26_poster.pdf" style="color:#000000;">Poster</a></td>
+			<td class="gsc_a_c">[<font color="red"><strong>A*</strong>, spotlight, <br>oral, 2.64% acceptance rate</font>]<br><a href="https://github.com/Wenxiang-Diao/Privacy-Aware-VAD" style="color:#000000;">Code</a>, <a href="https://leiwangr.github.io/files/icml26-slides.pdf" style="color:#000000;">Slides</a>, <a href="https://leiwangr.github.io/files/icml26_poster.pdf" style="color:#000000;">Poster</a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
 		</tr>
 		<tr class="gsc_a_tr">
