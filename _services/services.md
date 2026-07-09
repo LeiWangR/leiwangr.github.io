@@ -58,7 +58,9 @@ Sydney, Australia<br>
 
 <!-- Paper Reviewing====== -->
 
-<h2>Review (Area Chair, Guest Editor, Reviewer)</h2>
+<h2>Review (Area Chair, Associate Editor, Guest Editor, Reviewer)</h2>
+
+I serve as an **Associate Editor** for the SN Computer Science journal.
 
 I am serving as a **Guest Editor** ([service certificate](https://leiwangr.github.io/files/Editor-Certificate-830503.pdf)) for MDPI Electronics [Q2, h-index 137], Special Issue titled 'Fine-Grained Visual Understanding with Vision Language Models'. 
 
