@@ -96,6 +96,7 @@ I regularly review technical papers for the following journals, conferences & wo
   * IEEE VIS 2025, IEEE International Conference on Future Machine Learning and Data Science (FMLDS 2026), IEEE Conference on Artificial Intelligence (IEEE CAI 2023), International Conference on Machine Intelligence and Nature-Inspired Computing (MIND 2025)
 
 * **Workshops**:
+  * Computer Vision for Multimedia Spatial Intelligence through Time (formerly CV4Metaverse, now MUSTCV at ECCV 2026)
   * Computer Vision for Metaverse Workshop (CV4Metaverse at ECCV 2024, CVPR 2025), 
   * Deep Vision Workshop (CVPR 2020), 
   * Vision Datasets Understanding (1st VDU at CVPR 2022, 2nd VDU at CVPR 2023, 3rd VDU at CVPR 2024, 4th DataCV at ICCV 2025),
