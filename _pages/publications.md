@@ -310,7 +310,7 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 				<div class="gs_gray">M Yuan, Q Long, Q Wu, Z Li, Y Zhao, <strong>L Wang</strong>, Y Liu, M Xu</div>
 				<div class="gs_gray">European Conference on Computer Vision (<strong>ECCV</strong>)</div>
 			</td>
-			<td class="gsc_a_c">[<font color="red"><strong>A*</strong></font>]</td>
+			<td class="gsc_a_c">[<font color="red"><strong>A*</strong></font>]<br><a href="https://o-vad.github.io" style="color:#000000;">Project website</a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
 		</tr>
 		<tr class="gsc_a_tr">
