@@ -306,7 +306,7 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
 		</tr>
 		<tr class="gsc_a_tr">
-			<td class="gsc_a_t"><a href=""><strong><span class="gsc_a_at">O-VAD: Industrial Video Anomaly Detection through Object-Centric Tracking and Reasoning</span></strong></a>
+			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2607.18142"><strong><span class="gsc_a_at">O-VAD: Industrial Video Anomaly Detection through Object-Centric Tracking and Reasoning</span></strong></a>
 				<div class="gs_gray">M Yuan, Q Long, Q Wu, Z Li, Y Zhao, <strong>L Wang</strong>, Y Liu, M Xu</div>
 				<div class="gs_gray">European Conference on Computer Vision (<strong>ECCV</strong>)</div>
 			</td>
