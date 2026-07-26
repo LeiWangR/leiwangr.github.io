@@ -60,6 +60,8 @@ Sydney, Australia<br>
 
 <h2>Review (Area Chair, Associate Editor, Guest Editor, Reviewer)</h2>
 
+I am serving as a **Senior Program Committee** member for AAAI 2027.
+
 I serve as an **Associate Editor** for the SN Computer Science journal.
 
 I am serving as a **Guest Editor** ([service certificate](https://leiwangr.github.io/files/Editor-Certificate-830503.pdf)) for MDPI Electronics [Q2, h-index 137], Special Issue titled 'Fine-Grained Visual Understanding with Vision Language Models'. 
