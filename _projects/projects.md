@@ -68,7 +68,7 @@ How to enquire:
 
 Please note that **only one** position is available in the <font color="green"><strong>TIME³</strong></font> group. For additional opportunities, refer to my *Project 9* below.
 
-The position has now been awarded to [Syuan-Hao Li](https://hibana2077.com), who will join the <font color="green"><strong>TIME³</strong></font> Lab at ARC Research Hub & Griffith University.
+**Update**: The position has now been awarded to [Syuan-Hao Li](https://hibana2077.com), who will join the <font color="green"><strong>TIME³</strong></font> Lab at ARC Research Hub & Griffith University.
 
 <h3>Project 9: PhD + MPhil 2026 Cohort <font color="red">[Awarded]</font></h3>
 
@@ -91,7 +91,7 @@ Application Review Process:
 
 **Note**: Applicants are expected to demonstrate how their research interests, skills, and experience align closely with the objectives of the project. Proposals that clearly connect the candidate’s expertise to the project aims are strongly encouraged.
 
-The two PhD positions have now been awarded to [Talha Usman](https://scholar.google.com/citations?user=DERa3cUAAAAJ&hl=en) and [Jingxi Zhang](https://scholar.google.com/citations?user=w-ck4k4AAAAJ&hl=en), who will join the ARC Research Hub & Griffith University research program.
+**Update**: The two PhD positions have now been awarded to [Talha Usman](https://scholar.google.com/citations?user=DERa3cUAAAAJ&hl=en) and [Jingxi Zhang](https://scholar.google.com/citations?user=w-ck4k4AAAAJ&hl=en), who will join the ARC Research Hub & Griffith University research program.
 
 <h3>Project 8: TIME Lab Research Internship at Griffith<font color="red"> [Ongoing]</font></h3>
 
