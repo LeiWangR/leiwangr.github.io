@@ -31,7 +31,7 @@ Please visit my [TIME Lab project page](https://time.griffith.edu.au/about/) for
 
 <h2>Student Project</h2>
 
-<h3>Project 11: 2026/27 Sciences Summer Research Program <font color="red">[Upcoming]</font></h3>
+<h3>Project 11: 2026/27 Sciences Summer Research Program <font color="red">[Upcoming/Ongoing]</font></h3>
 
 Griffith University’s Sciences Summer Research Program supports current Griffith University Sciences students undertaking an 8–12 week research project during Trimester 3, 2026. Eligible students include second-, third- or fourth-year undergraduate students and postgraduate master’s students considering the dissertation pathway, subject to the program’s academic and enrolment requirements.
 
@@ -49,7 +49,7 @@ This application is due for submission on:  5pm on Friday, 11 September 2026. If
 
 For more details, please refer to the [2026/27 Sciences Summer Research Program](https://griffitheduau.sharepoint.com/sites/scicomm/SitePages/2026_2027%20Sciences-Summer-Research-Program.aspx?d=w8ca3965421444259b647b98408010b64&csf=1&web=1&e=Kgvbts&CID=24903890-b17c-4a4f-8e90-63daa00b11a1&xsdata=MDV8MDJ8bC53YW5nNEBncmlmZml0aC5lZHUuYXV8NDg2MTE3NGZhNmUzNGUxYjY5OGEwOGRlZjlhYTAyMDF8NWE3Y2M4YWJhNGRjNGY5YmJmNjA2NjcxNDA0OWFkNjJ8MHwwfDYzOTIyMjcwNTc4NDgzODU4MHxVbmtub3dufFRXRnBiR1pzYjNkOGV5SkZiWEIwZVUxaGNHa2lPblJ5ZFdVc0lsWWlPaUl3TGpBdU1EQXdNQ0lzSWxBaU9pSlhhVzR6TWlJc0lrRk9Jam9pVFdGcGJDSXNJbGRVSWpveWZRPT18MHx8fA%3d%3d&sdata=SzJzR1g3SmdRWHNOWXQrM2tqS294eWJqbDZNMkp4SUsvL0tYam1XTHNMOD0%3d&SafelinksUrl=https%3a%2f%2fgriffitheduau.sharepoint.com%2fsites%2fscicomm%2fSitePages%2f2026_2027%2520Sciences-Summer-Research-Program.aspx). Interested Griffith Sciences students are welcome to get in touch to discuss research project opportunities.
 
-<h3>Project 10: One Fully Funded PhD Opportunity – <font color="green"><strong>TIME³</strong></font>@ARC Hub&Griffith (February/July 2026 Start) <font color="red">[Ongoing]</font></h3>
+<h3>Project 10: One Fully Funded PhD Opportunity – <font color="green"><strong>TIME³</strong></font>@ARC Hub&Griffith (February/July 2026 Start) <font color="red">[Awarded]</font></h3>
 
 From TIME to <font color="green"><strong>TIME³</strong></font>: <font color="green"><strong>TIME³</strong></font> Lab integrates three levels (i) Temporal Intelligence and Motion Extraction, (ii) Transformative Insights in Multi-faceted Evaluation, and (iii) Transparent, Inclusive, Measured, Ethical AI, pioneering cross-disciplinary research for responsible, insightful, and transformative AI. The lab advances the <font color="green"><strong>TIME³</strong></font> vision by building AI that is **T**ransparent, **I**nclusive, **M**easured, and **E**thical, while driving transformative research for deeper insights.
 
@@ -68,7 +68,9 @@ How to enquire:
 
 Please note that **only one** position is available in the <font color="green"><strong>TIME³</strong></font> group. For additional opportunities, refer to my *Project 9* below.
 
-<h3>Project 9: PhD + MPhil 2026 Cohort <font color="red">[Ongoing]</font></h3>
+The position has now been awarded to [Syuan-Hao Li](https://hibana2077.com), who will join the <font color="green"><strong>TIME³</strong></font> Lab at ARC Research Hub & Griffith University.
+
+<h3>Project 9: PhD + MPhil 2026 Cohort <font color="red">[Awarded]</font></h3>
 
 Two fully funded PhD projects and one MPhil project will be available starting February 2026, focusing on fine-grained and ultra-fine-grained visual understanding.
 
@@ -89,6 +91,7 @@ Application Review Process:
 
 **Note**: Applicants are expected to demonstrate how their research interests, skills, and experience align closely with the objectives of the project. Proposals that clearly connect the candidate’s expertise to the project aims are strongly encouraged.
 
+The two PhD positions have now been awarded to [Talha Usman](https://scholar.google.com/citations?user=DERa3cUAAAAJ&hl=en) and [Jingxi Zhang](https://scholar.google.com/citations?user=w-ck4k4AAAAJ&hl=en), who will join the ARC Research Hub & Griffith University research program.
 
 <h3>Project 8: TIME Lab Research Internship at Griffith<font color="red"> [Ongoing]</font></h3>
 
