@@ -66,9 +66,7 @@ How to enquire:
 - To express your interest or request more information, please email me directly, with Professor Yongsheng Gao cc’d.
 - Interested candidates should include a CV and a brief statement of research interests, emphasizing relevant skills, experience, and alignment with the project and <font color="green"><strong>TIME³</strong></font> Lab’s research vision.
 
-**Note**: Applicants are expected to demonstrate clear alignment between their expertise and research interests and the objectives of the <font color="green"><strong>TIME³</strong></font> Lab project, particularly in areas of <font color="green">green</font>, responsible, and interpretable AI for video analysis.
-
-Please note that **only one** position is available in the <font color="green"><strong>TIME³</strong></font> group. For additional opportunities, refer to my *Project 9* below.
+**Note**: Applicants are expected to demonstrate clear alignment between their expertise and research interests and the objectives of the <font color="green"><strong>TIME³</strong></font> Lab project, particularly in areas of <font color="green">green</font>, responsible, and interpretable AI for video analysis. Please note that **only one** position is available in the <font color="green"><strong>TIME³</strong></font> group. For additional opportunities, refer to my *Project 9* below.
 
 **Update**: The position has now been awarded to [Syuan-Hao Li](https://hibana2077.com), who will join the <font color="green"><strong>TIME³</strong></font> Lab at ARC Research Hub & Griffith University.
 
