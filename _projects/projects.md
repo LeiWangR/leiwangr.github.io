@@ -47,6 +47,8 @@ The following supporting documents are required to [complete and submit an appli
 
 This application is due for submission on:  5pm on Friday, 11 September 2026. If you experience any issues submitting your application, please contact gsc-dean-research@griffith.edu.au for assistance.
 
+The project may also provide a pathway towards an MPhil or other higher-degree research program, with interested students encouraged to discuss potential opportunities with the supervisor (see my *Project 9*).
+
 For more details, please refer to the [2026/27 Sciences Summer Research Program](https://griffitheduau.sharepoint.com/sites/scicomm/SitePages/2026_2027%20Sciences-Summer-Research-Program.aspx?d=w8ca3965421444259b647b98408010b64&csf=1&web=1&e=Kgvbts&CID=24903890-b17c-4a4f-8e90-63daa00b11a1&xsdata=MDV8MDJ8bC53YW5nNEBncmlmZml0aC5lZHUuYXV8NDg2MTE3NGZhNmUzNGUxYjY5OGEwOGRlZjlhYTAyMDF8NWE3Y2M4YWJhNGRjNGY5YmJmNjA2NjcxNDA0OWFkNjJ8MHwwfDYzOTIyMjcwNTc4NDgzODU4MHxVbmtub3dufFRXRnBiR1pzYjNkOGV5SkZiWEIwZVUxaGNHa2lPblJ5ZFdVc0lsWWlPaUl3TGpBdU1EQXdNQ0lzSWxBaU9pSlhhVzR6TWlJc0lrRk9Jam9pVFdGcGJDSXNJbGRVSWpveWZRPT18MHx8fA%3d%3d&sdata=SzJzR1g3SmdRWHNOWXQrM2tqS294eWJqbDZNMkp4SUsvL0tYam1XTHNMOD0%3d&SafelinksUrl=https%3a%2f%2fgriffitheduau.sharepoint.com%2fsites%2fscicomm%2fSitePages%2f2026_2027%2520Sciences-Summer-Research-Program.aspx). Interested Griffith Sciences students are welcome to get in touch to discuss research project opportunities.
 
 <h3>Project 10: One Fully Funded PhD Opportunity – <font color="green"><strong>TIME³</strong></font>@ARC Hub&Griffith <font color="red">[Awarded]</font></h3>
@@ -91,7 +93,7 @@ Application Review Process:
 
 **Note**: Applicants are expected to demonstrate how their research interests, skills, and experience align closely with the objectives of the project. Proposals that clearly connect the candidate’s expertise to the project aims are strongly encouraged.
 
-**Update**: The two PhD positions have now been awarded to [Talha Usman](https://scholar.google.com/citations?user=DERa3cUAAAAJ&hl=en) and [Jingxi Zhang](https://scholar.google.com/citations?user=w-ck4k4AAAAJ&hl=en), who will join the ARC Research Hub & Griffith University research program.
+**Update**: The two PhD positions have now been awarded to [Talha Usman](https://scholar.google.com/citations?user=DERa3cUAAAAJ&hl=en) and [Jingxi Zhang](https://scholar.google.com/citations?user=w-ck4k4AAAAJ&hl=en), who will join the ARC Research Hub & Griffith University research program. The MPhil opportunity will be developed in conjunction with the 2026/27 Sciences Summer Research Program (see my *Project 11*), providing a potential pathway for students interested in pursuing an MPhil.
 
 <h3>Project 8: TIME Lab Research Internship at Griffith<font color="red"> [Ongoing]</font></h3>
 
