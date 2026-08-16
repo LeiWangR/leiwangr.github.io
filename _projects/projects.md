@@ -43,7 +43,7 @@ The following supporting documents are required to [complete and submit an appli
 -  Current CV
 -  Current Griffith transcript
 -  Project plan/schedule e.g. GANTT charts or own format
--  Project Plan and Supervisor Approval Form (provided via a link in the Guidelines) 
+-  [Project Plan and Supervisor Approval Form](https://leiwangr.github.io/files/griffith-ssrp-form.pdf) (provided via a link in the [Guidelines](https://leiwangr.github.io/files/griffith-ssrp-guidelines.pdf)) 
 
 This application is due for submission on:  5pm on Friday, 11 September 2026. If you experience any issues submitting your application, please contact gsc-dean-research@griffith.edu.au for assistance.
 
