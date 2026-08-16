@@ -28,28 +28,18 @@ a:active {
 Please visit my [TIME Lab project page](https://time.griffith.edu.au/about/) for more details.
 
 
-<!-- <h2>TIME Lab announces criteria for inaugural medal</h2>
-
-The TIME Lab has officially revealed the selection criteria for its prestigious inaugural medal, which will recognize exceptional honours and master's students from ANU. Six students, currently completing their final-year, 24-unit research projects under TIME Lab supervision, are in contention. This highly coveted award will be presented to the top-ranking student who demonstrates an outstanding balance between life, study, work, and research. 
-
-TIME Lab 2024 medal criteria:
-
-- Research (40% total):
-  - Examiner reports highlight significant contributions and commend the work (20%)
-  - Skills developed throughout the research process (15%)
-  - Publication output (a minor focus in this first year, 5%)
-
-- Life balance and personal growth (40% total):
-  - Achieving a well-balanced life between work, study, and personal pursuits (20%)
-  - Lessons learned, with deep insights into all aspects of life (15%)
-  - Displaying positivity, hope, courage, and thoughtfulness (5%)
-
-- Contributions (20% total):
-  - To TIME Lab (10%): Service to the lab, including responsibilities such as planning, designing, delivering, and negotiating
-  - To the broader community (10%): Impact on the ANU or wider community, including addressing industry challenges or offering real-world solutions. -->
-
 
 <h2>Student Project</h2>
+
+<h3>Project 11: 2026/27 Sciences Summer Research Program <font color="red">[Upcoming]</font></h3>
+
+Griffith University’s Sciences Summer Research Program supports current Griffith University Sciences students undertaking an 8–12 week research project during Trimester 3, 2026. Eligible students include second-, third- or fourth-year undergraduate students and postgraduate master’s students considering the dissertation pathway, subject to the program’s academic and enrolment requirements.
+
+Successful students receive a $2,000 bursary and work with an academic supervisor on a research project, gaining practical experience in research methodology, data analysis, and academic research.
+
+The program runs from 2 November 2026 to 5 February 2027. Applications are assessed competitively based on academic merit, motivation, project availability, and alignment between the student’s skills and the proposed project.
+
+For more details, please refer to the [2026/27 Sciences Summer Research Program](https://griffitheduau.sharepoint.com/sites/scicomm/SitePages/2026_2027%20Sciences-Summer-Research-Program.aspx?d=w8ca3965421444259b647b98408010b64&csf=1&web=1&e=Kgvbts&CID=24903890-b17c-4a4f-8e90-63daa00b11a1&xsdata=MDV8MDJ8bC53YW5nNEBncmlmZml0aC5lZHUuYXV8NDg2MTE3NGZhNmUzNGUxYjY5OGEwOGRlZjlhYTAyMDF8NWE3Y2M4YWJhNGRjNGY5YmJmNjA2NjcxNDA0OWFkNjJ8MHwwfDYzOTIyMjcwNTc4NDgzODU4MHxVbmtub3dufFRXRnBiR1pzYjNkOGV5SkZiWEIwZVUxaGNHa2lPblJ5ZFdVc0lsWWlPaUl3TGpBdU1EQXdNQ0lzSWxBaU9pSlhhVzR6TWlJc0lrRk9Jam9pVFdGcGJDSXNJbGRVSWpveWZRPT18MHx8fA%3d%3d&sdata=SzJzR1g3SmdRWHNOWXQrM2tqS294eWJqbDZNMkp4SUsvL0tYam1XTHNMOD0%3d&SafelinksUrl=https%3a%2f%2fgriffitheduau.sharepoint.com%2fsites%2fscicomm%2fSitePages%2f2026_2027%2520Sciences-Summer-Research-Program.aspx). Interested Griffith Sciences students are welcome to get in touch to discuss research project opportunities.
 
 <h3>Project 10: One Fully Funded PhD Opportunity – <font color="green"><strong>TIME³</strong></font>@ARC Hub&Griffith (February/July 2026 Start) <font color="red">[Ongoing]</font></h3>
 
