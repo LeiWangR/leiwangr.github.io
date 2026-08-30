@@ -154,7 +154,7 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 				<div class="gs_gray">EK Tenagyei*, <strong>L Wang</strong>*, UE Akpudo, J Zhou, Y Gao</div>
 				<div class="gs_gray">European Conference on Computer Vision (<strong>ECCV</strong>)</div>
 			</td>
-			<td class="gsc_a_c">[<font color="red"><strong>A*</strong></font>]<br><a href="https://youtu.be/UJpv1r8OOwQ" style="color:#000000;">Video</a></td>
+			<td class="gsc_a_c">[<font color="red"><strong>A*</strong></font>]<br><a href="https://leiwangr.github.io/files/eccv26-edwin-poster.png" style="color:#000000;">Poster</a>, <a href="https://youtu.be/UJpv1r8OOwQ" style="color:#000000;">Video</a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
 		</tr>
 		<tr class="gsc_a_tr">
