@@ -33,17 +33,17 @@ a:active {
     * Programming is a foundational skill for all computing disciplines. This course develops skills and concepts that are essential to good programming practice and problem solving. It covers fundamental programming concepts, object-oriented programming, basic data structures, and algorithmic processes.
     * Incompatible: must not have completed 2807ICT Programming Principles
 
-The lecture materials are those used in this semester, while the workshop is based on the Mission Control Panel, which we progressively upgrade each week as new concepts are introduced in the lectures.
+The lecture materials are those used in this semester, while the workshop is based on the *Mission Control Panel*, which we progressively upgrade each week as new concepts are introduced in the lectures.
 
 | Week | Lecture materials | Workshop materials |
 |:---:|:---|:---|
-| 1 | Introduction | Workshop 1 |
-| 2 | Variables, Assignment Statements, Input and Output | Workshop 2 |
-| 3 | Booleans and Conditional Statements | Workshop 3 |
-| 4 | Loops (Iterations) | Workshop 4 |
-| 5 | [Functions](https://leiwangr.github.io/files/1811ICT/w05lec-functions.pdf) | Workshop 5 |
-| 6 | [Lists & Tuples](https://leiwangr.github.io/files/1811ICT/w06lec-lists-and-tuples.pdf) | [Workshop 6](https://leiwangr.github.io/files/1811ICT/workshop06-v6.pdf) |
-| 7 | [More About Strings](https://leiwangr.github.io/files/1811ICT/w07lec-strings.pdf) | Workshop 7 |
+| 1 | Introduction | v1.0: Building the Basic Mission Control Panel |
+| 2 | Variables, Assignment Statements, Input and Output | v2.0: Variables, User Input and Program Output |
+| 3 | Booleans and Conditional Statements | v3.0: Making Decisions with Conditions and Boolean Logic |
+| 4 | Loops (Iterations) | v4.0: Repeating Tasks with Loops |
+| 5 | [Functions](https://leiwangr.github.io/files/1811ICT/w05lec-functions.pdf) | v5.0: Organising Programs with Functions |
+| 6 | [Lists & Tuples](https://leiwangr.github.io/files/1811ICT/w06lec-lists-and-tuples.pdf) | [v6.0](https://leiwangr.github.io/files/1811ICT/workshop06-v6.pdf): Storing and Processing Data with Lists and Tuples |
+| 7 | [More About Strings](https://leiwangr.github.io/files/1811ICT/w07lec-strings.pdf) | v7.0: Working with Strings and Text Data |
 | 8 | Files and Error Handling | Workshop 8 |
 | 9 | Sets and Dictionaries | Workshop 9 |
 | 10 | Object-Oriented Programming | Workshop 10 |
