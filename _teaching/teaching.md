@@ -35,7 +35,7 @@ a:active {
 
 The lecture materials are those used in this semester, while the workshop is based on the Mission Control Panel, which we progressively upgrade each week as new concepts are introduced in the lectures.
 
-| Week | Lecture | Workshop |
+| Week | Lecture materials | Workshop materials |
 |:---:|:---|:---|
 | 1 | Introduction | Workshop 1 |
 | 2 | Variables, Assignment Statements, Input and Output | Workshop 2 |
