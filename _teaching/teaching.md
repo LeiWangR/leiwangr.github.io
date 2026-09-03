@@ -43,7 +43,7 @@ The lecture materials are those used in this semester, while the workshop is bas
 | 4 | Loops (Iterations) | v4.0: Repeating Tasks with Loops |
 | 5 | [Functions](https://leiwangr.github.io/files/1811ICT/w05lec-functions.pdf) | v5.0: Organising Programs with Functions |
 | 6 | [Lists & Tuples](https://leiwangr.github.io/files/1811ICT/w06lec-lists-and-tuples.pdf) | [v6.0](https://leiwangr.github.io/files/1811ICT/workshop06-v6.pdf): Storing and Processing Data with Lists and Tuples |
-| 7 | [More About Strings](https://leiwangr.github.io/files/1811ICT/w07lec-strings.pdf) | v7.0: Working with Strings and Text Data |
+| 7 | [More About Strings](https://leiwangr.github.io/files/1811ICT/w07lec-strings.pdf) | [v7.0](https://leiwangr.github.io/files/1811ICT/workshop07-v7.pdf): Working with Strings and Text Data |
 | 8 | Files and Error Handling | Workshop 8 |
 | 9 | Sets and Dictionaries | Workshop 9 |
 | 10 | Object-Oriented Programming | Workshop 10 |
