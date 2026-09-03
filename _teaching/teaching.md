@@ -32,21 +32,23 @@ a:active {
   * About this course:
     * Programming is a foundational skill for all computing disciplines. This course develops skills and concepts that are essential to good programming practice and problem solving. It covers fundamental programming concepts, object-oriented programming, basic data structures, and algorithmic processes.
     * Incompatible: must not have completed 2807ICT Programming Principles
-   
+
+The lecture materials are those used in this semester, while the workshop is based on the Mission Control Panel, which we progressively upgrade each week as new concepts are introduced in the lectures.
+
 | Week | Lecture | Workshop |
 |:---:|:---|:---|
-| 1 | **Lecture 1:** Introduction | Workshop 1 |
-| 2 | **Lecture 2:** Variables, Assignment Statements, Input and Output | Workshop 2 |
-| 3 | **Lecture 3:** Booleans and Conditional Statements | Workshop 3 |
-| 4 | **Lecture 4:** Loops (Iterations) | Workshop 4 |
-| 5 | **Lecture 5:** [Functions](https://leiwangr.github.io/files/1811ICT/w05lec-functions.pdf) | Workshop 5 |
-| 6 | **Lecture 6:** [Lists & Tuples](https://leiwangr.github.io/files/1811ICT/w06lec-lists-and-tuples.pdf) | [Workshop 6](https://leiwangr.github.io/files/1811ICT/workshop06-v6.pdf) |
-| 7 | **Lecture 7:** [More About Strings](https://leiwangr.github.io/files/1811ICT/w07lec-strings.pdf) | Workshop 7 |
-| 8 | **Lecture 8:** Files and Error Handling | Workshop 8 |
-| 9 | **Lecture 9:** Sets and Dictionaries | Workshop 9 |
-| 10 | **Lecture 10:** Object-Oriented Programming | Workshop 10 |
-| 11 | **Lecture 11:** Modules & Libraries | Workshop 11 |
-| 12 | **Lecture 12:** Revision & Exam Information | No Workshop |
+| 1 | Introduction | Workshop 1 |
+| 2 | Variables, Assignment Statements, Input and Output | Workshop 2 |
+| 3 | Booleans and Conditional Statements | Workshop 3 |
+| 4 | Loops (Iterations) | Workshop 4 |
+| 5 | [Functions](https://leiwangr.github.io/files/1811ICT/w05lec-functions.pdf) | Workshop 5 |
+| 6 | [Lists & Tuples](https://leiwangr.github.io/files/1811ICT/w06lec-lists-and-tuples.pdf) | [Workshop 6](https://leiwangr.github.io/files/1811ICT/workshop06-v6.pdf) |
+| 7 | [More About Strings](https://leiwangr.github.io/files/1811ICT/w07lec-strings.pdf) | Workshop 7 |
+| 8 | Files and Error Handling | Workshop 8 |
+| 9 | Sets and Dictionaries | Workshop 9 |
+| 10 | Object-Oriented Programming | Workshop 10 |
+| 11 | Modules & Libraries | Workshop 11 |
+| 12 | Revision & Exam Information | No Workshop |
 
 * 2026 Trimester 2, Online: **Course Convenor**
   * School of Information and Communication Technology, Griffith University
