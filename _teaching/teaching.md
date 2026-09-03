@@ -39,7 +39,7 @@ You will not build it all at once. Starting with a simple control panel in Week 
 
 - **Lectures:** Discover the Python concepts and problem-solving techniques behind each capability.
 
-- **Workshops:** Put those concepts into action by upgrading your Mission Control Panel from one version to the next.
+- **Workshops:** Put those concepts into action by upgrading your *Mission Control Panel* from one version to the next.
 
 
 | Week | Lecture materials | Workshop materials |
