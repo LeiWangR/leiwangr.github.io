@@ -39,8 +39,8 @@ The lecture materials are those used in this semester, while the workshop is bas
 |:---:|:---|:---|
 | 1 | [Introduction](https://leiwangr.github.io/files/1811ICT/w01lec-introduction.pdf) | v1.0: Building the Basic Mission Control Panel |
 | 2 | [Variables, Assignment Statements, Input and Output](https://leiwangr.github.io/files/1811ICT/w02lec-strings-variables-input-and-output.pdf) | v2.0: Variables, User Input and Program Output |
-| 3 | [Booleans and Conditional Statements](https://leiwangr.github.io/files/1811ICT/w03lec-booleans-and-decisions.pdf) | v3.0: Making Decisions with Conditions and Boolean Logic |
-| 4 | [Loops (Iterations)](https://leiwangr.github.io/files/1811ICT/w04lec-loops-and-repetition.pdf) | v4.0: Repeating Tasks with Loops |
+| 3 | [Booleans and Conditional Statements](https://leiwangr.github.io/files/1811ICT/w03lec-booleans-and-decisions.pdf) | [v3.0](https://leiwangr.github.io/files/1811ICT/workshop03-v3.pdf): Making Decisions with Conditions and Boolean Logic [[Code]](https://leiwangr.github.io/files/1811ICT/mission_control_v3.py) |
+| 4 | [Loops (Iterations)](https://leiwangr.github.io/files/1811ICT/w04lec-loops-and-repetition.pdf) | [v4.0](https://leiwangr.github.io/files/1811ICT/workshop04-v4.pdf): Repeating Tasks with Loops [[Code]](https://leiwangr.github.io/files/1811ICT/mission_control_v4.py) |
 | 5 | [Functions](https://leiwangr.github.io/files/1811ICT/w05lec-functions.pdf) | [v5.0](https://leiwangr.github.io/files/1811ICT/workshop05-v5.pdf): Organising Programs with Functions [[Code]](https://leiwangr.github.io/files/1811ICT/mission_control_v5.py) |
 | 6 | [Lists & Tuples](https://leiwangr.github.io/files/1811ICT/w06lec-lists-and-tuples.pdf) | [v6.0](https://leiwangr.github.io/files/1811ICT/workshop06-v6.pdf): Storing and Processing Data with Lists and Tuples [[Code]](https://leiwangr.github.io/files/1811ICT/mission_control_v6.py) |
 | 7 | [More About Strings](https://leiwangr.github.io/files/1811ICT/w07lec-strings.pdf) | [v7.0](https://leiwangr.github.io/files/1811ICT/workshop07-v7.pdf): Working with Strings and Text Data [[Code]](https://leiwangr.github.io/files/1811ICT/mission_control_v7.py) |
