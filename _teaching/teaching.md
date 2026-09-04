@@ -86,7 +86,7 @@ You will not build it all at once. Starting with a simple control panel in Week 
 | 9 | **Vision for Planar Object Grasping**<br>Explore how visual information about planar objects can support localisation and manipulation, connecting perception with robotic grasping tasks. | Workshop 9 |
 | 10 | **Learning-Based Robot Control**<br>Investigate how learned visual representations can be connected to robot control and decision-making, with attention to practical performance and reliability. | Workshop 10 |
 | 11 | **Foundation Models for Robotics: Vision-Language-Action and Embodied AI**<br>Explore emerging approaches that combine visual perception, language understanding, learning, and action for more capable robotic systems. | No Workshop |
-| 12 | *Project Presentation*<br>Present and reflect on the completed group project, including the problem, approach, results, and practical robotics insights. | *Project Presentation* |
+| 12 | *Group Project Presentation*<br>Present and reflect on the completed group project, including the problem, approach, results, and practical robotics insights. | *Group Project Presentation* |
 
 <h2>Teaching@ANU</h2>
 
