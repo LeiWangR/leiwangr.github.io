@@ -60,7 +60,7 @@ Sydney, Australia<br>
 
 <h2>Review (Area Chair, Associate Editor, Guest Editor, Reviewer)</h2>
 
-I am serving as a **Guest Editor** for Intelligent Computing [Q1, impact factor: 6.4], Special Issue titled 'Foundation Models Beyond Text: Towards General Multimodal Intelligence'.
+I am serving as a **Guest Editor** for Intelligent Computing [Q1, impact factor: 6.4], Special Issue titled '[Foundation Models Beyond Text: Towards General Multimodal Intelligence](https://spj.science.org/page/icomputing/si/models-beyond-text)'.
 
 I am serving as a **Senior Program Committee** member for AAAI 2027.
 
