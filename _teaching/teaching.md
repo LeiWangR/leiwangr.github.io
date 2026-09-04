@@ -66,7 +66,7 @@ You will not build it all at once. Starting with a simple control panel in Week 
 
 *How does a robot see, understand, and act in the world?* In these hands-on workshops, you will build the answer step by step. You will learn how cameras turn the 3D world into images, how robots recover geometric and depth information, how visual features reveal motion, and how modern vision models detect and understand objects. You will then bring these techniques together for tasks such as visual tracking, motion estimation, SLAM, navigation, and robotic manipulation. Along the way, you will develop practical skills in Python, OpenCV, computer-vision algorithms, deep learning, visualisation, experimentation, debugging, and engineering evaluation, learning not only how a method works, but also when it works, when it fails, and how to use it responsibly in a robotic system.
 
-| Week | Practical focus | Workshop materials |
+| Week | Practical focus | Workshops |
 |:---:|:---|:---|
 | 1 | **Introduction to Vision-Enabled Robotics**<br>Build a simple vision-to-action pipeline: load and inspect images, extract a visual target, estimate its image location, and use that information to make a basic robot-relevant decision. | Chapter 1: Getting Started with Vision-Enabled Robotics |
 | 2 | **Camera Models, Coordinate Systems and Robot Geometry**<br>Explore how 3D points are projected into image pixels, how camera intrinsics affect projection, and how depth enables reasoning back from pixels to 3D points. | Chapter 2: Camera Geometry — From 3D Points to Image Pixels and Back |
