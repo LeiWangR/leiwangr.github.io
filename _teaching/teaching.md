@@ -35,7 +35,7 @@ a:active {
 
 
 Welcome to the course! This semester, you will learn Python by building your own *Mission Control Panel*, a program that monitors mission data, checks system conditions, analyses information, and helps operators make decisions.
-You will not build it all at once. Starting with a simple control panel in Week 1, you will add new capabilities week by week as you learn new Python concepts. Each new topic gives you another tool to make your system smarter, more capable, and more complete: (i) *Lectures:* Discover the Python concepts and problem-solving techniques behind each capability. (ii) *Workshops:* Put those concepts into action by upgrading your *Mission Control Panel* from one version to the next.
+You will not build it all at once. Starting with a simple control panel in Week 1, you will add new capabilities week by week as you learn new Python concepts. Each new topic gives you another tool to make your system smarter, more capable, and more complete: (i) *Lectures:* Discover the Python concepts and problem-solving techniques behind each capability; (ii) *Workshops:* Put those concepts into action by upgrading your *Mission Control Panel* from one version to the next.
 
 
 | Week | Lecture materials | Workshop materials |
