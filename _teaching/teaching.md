@@ -68,6 +68,26 @@ You will not build it all at once. Starting with a simple control panel in Week 
     * Pre-requisites: must have completed 2801ICT Computing Algorithms AND must have completed 2802ICT Intelligent Systems
 
 
+Turn concepts into working vision systems. Each workshop gives you the opportunity to implement, visualise, experiment with, and critically evaluate robotics and computer-vision techniques, and to see how these ideas can be combined to solve practical problems.
+
+| Week | Practical focus | Workshop materials |
+|:---:|:---|:---|
+| 1 | **Introduction to Vision-Enabled Robotics**<br>Build a simple vision-to-action pipeline: load and inspect images, extract a visual target, estimate its image location, and use that information to make a basic robot-relevant decision. | Chapter 1: Getting Started with Vision-Enabled Robotics |
+| 2 | **Camera Models, Coordinate Systems and Robot Geometry**<br>Explore how 3D points are projected into image pixels, how camera intrinsics affect projection, and how depth enables reasoning back from pixels to 3D points. | Chapter 2: Camera Geometry — From 3D Points to Image Pixels and Back |
+| 3 | **Classical Computer Vision for Robotic Perception**<br>Extract distinctive visual features, track features between frames, estimate image motion, and investigate how classical vision methods behave under different conditions. | Chapter 3: Feature Detection, Optical Flow and Visual Tracking |
+| 4 | **Deep Learning for Robotic Vision**<br>Adapt a pretrained visual model to a new task, compare frozen and fine-tuned models, evaluate performance, and investigate robustness under visual changes. | Chapter 4: Transfer Learning, Fine-Tuning and Robustness |
+|  | *Student Vacation Week — No Teaching* | *Student Vacation Week — No Teaching* |
+| 5 | **Object Detection and Semantic Segmentation for Robotics**<br>Use pretrained vision models to detect objects, interpret bounding boxes and confidence scores, evaluate predictions, and connect visual perception to simple robot decisions. | Chapter 5: Object Detection and Robotic Decision Making |
+| | *Individual Project Available*<br>Detection-Assisted Visual Tracking: Apply concepts from the earlier workshops to develop a complete detection-assisted visual-tracking system. | Submission: 23:59, Sunday Week 7 (No presentation requirement) |
+| 6 | **Depth Estimation, RGB-D Vision and 3D Scene Understanding**<br>Explore how depth information can extend image-based perception into 3D, and investigate how visual information can support spatial understanding and robotic tasks. | Chapter 6 & Individual Project |
+| 7 | **Visual Motion Estimation and SLAM Concepts**<br>Build a visual-motion pipeline using feature correspondences, geometric verification, relative camera motion, visual odometry, keyframes, and loop-closure concepts. | Chapter 7: Visual Odometry and Visual SLAM |
+| | *Group Project Available*<br>Integrate robotics and computer-vision techniques into a larger team-based project. | Submission: 23:59, Sunday Week 11 (Team presentation: Week 12) |
+| 8 | **Vision-Based Robot Navigation**<br>Apply visual perception to navigation problems and consider how information extracted from images can support robot movement and decision-making. | Workshop 8 |
+| 9 | **Vision for Planar Object Grasping**<br>Explore how visual information about planar objects can support localisation and manipulation, connecting perception with robotic grasping tasks. | Workshop 9 |
+| 10 | **Learning-Based Robot Control**<br>Investigate how learned visual representations can be connected to robot control and decision-making, with attention to practical performance and reliability. | Workshop 10 |
+| 11 | **Foundation Models for Robotics: Vision-Language-Action and Embodied AI**<br>Explore emerging approaches that combine visual perception, language understanding, learning, and action for more capable robotic systems. | No Workshop |
+| 12 | *Project Presentation*<br>Present and reflect on the completed group project, including the problem, approach, results, and practical robotics insights. | *Project Presentation* |
+
 <h2>Teaching@ANU</h2>
 
 * *22 July 2024 - 25 Oct 2024*: **TechLauncher Examiner**
