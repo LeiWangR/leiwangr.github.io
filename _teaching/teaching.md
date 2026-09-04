@@ -68,7 +68,7 @@ You will not build it all at once. Starting with a simple control panel in Week 
     * Pre-requisites: must have completed 2801ICT Computing Algorithms AND must have completed 2802ICT Intelligent Systems
 
 
-Turn concepts into working vision systems. Each workshop gives you the opportunity to implement, visualise, experiment with, and critically evaluate robotics and computer-vision techniques, and to see how these ideas can be combined to solve practical problems.
+*How does a robot see, understand, and act in the world?* In these hands-on workshops, you will build the answer step by step. You will learn how cameras turn the 3D world into images, how robots recover geometric and depth information, how visual features reveal motion, and how modern vision models detect and understand objects. You will then bring these techniques together for tasks such as visual tracking, motion estimation, SLAM, navigation, and robotic manipulation. Along the way, you will develop practical skills in Python, OpenCV, computer-vision algorithms, deep learning, visualisation, experimentation, debugging, and engineering evaluation, learning not only how a method works, but also when it works, when it fails, and how to use it responsibly in a robotic system.
 
 | Week | Practical focus | Workshop materials |
 |:---:|:---|:---|
