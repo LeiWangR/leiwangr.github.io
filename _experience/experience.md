@@ -43,6 +43,7 @@ I am also working to bridge the gap between academic research and industry resea
   <ul>
     <li style="list-style-type:none;">
     <ul>
+      <li> <font color="red">I am serving as a <strong>Guest Editor</strong> for Intelligent Computing [Q1, impact factor: 6.4] special issue on ‘Foundation Models Beyond Text: Towards General Multimodal Intelligence’</font></li>
       <li> <font color="red">I am serving as a <strong>Senior Program Committee</strong> member for AAAI 2027</font></li>
       <li> <font color="red">One paper has been accepted at <strong>ACM-MM 2026</strong> Main Track</font></li>
       <li> <font color="red">I serve as an <strong>Associate Editor</strong> for the SN Computer Science journal</font></li>
