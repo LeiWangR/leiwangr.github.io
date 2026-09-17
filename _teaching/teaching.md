@@ -52,6 +52,7 @@ You will not build it all at once. Starting with a simple control panel in Week 
 | 8 | [Files and Error Handling](https://leiwangr.github.io/files/1811ICT/w08lec-files-exceptions-and-debugging.pdf) | [v8.0](https://leiwangr.github.io/files/1811ICT/workshop08-v8.pdf): Files, Exceptions and Debugging [[Support files]](https://leiwangr.github.io/files/1811ICT/Mission_Control_v8.zip) |
 | 9 | [Sets and Dictionaries](https://leiwangr.github.io/files/1811ICT/w09lec-sets_and_dictionaries.pdf) | [v9.0](https://leiwangr.github.io/files/1811ICT/workshop09-v9.pdf): Sets and Dictionaries [[Code]](https://leiwangr.github.io/files/1811ICT/mission_control_v9.py) |
 | 10 | Object-Oriented Programming | Workshop 10 |
+| **Quiz 2** | NA | NA |
 | 11 | Modules & Libraries | Workshop 11 |
 | 12 | Revision & Exam Information | No Workshop |
 
