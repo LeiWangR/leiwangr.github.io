@@ -107,6 +107,7 @@ I regularly review technical papers for the following journals, conferences & wo
   * Deep Vision Workshop (CVPR 2020), 
   * Vision Datasets Understanding (1st VDU at CVPR 2022, 2nd VDU at CVPR 2023, 3rd VDU at CVPR 2024, 4th DataCV at ICCV 2025),
   * The AI City Challenge Workshop at CVPR 2023, CVPR 2024, ICCV 2025, ECCV 2026
+  * WILD VISION workshop at BMVC 2026
  
 <h2>Thesis Examination</h2>
 
