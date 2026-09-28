@@ -28,7 +28,7 @@ a:active {
 
 <!-- style="color: blue" -->
 
-<a href="https://leiwangr.github.io/files/lei-cv.pdf" style="color: blue">[Lei's CV]</a> <a href="https://experts.griffith.edu.au/50888-lei-wang" style="color: blue"> [Griffith Researcher]</a> <a href="https://people.csiro.au/W/L/lei-wang" style="color: blue">[D61/CSIRO Researcher]</a>
+<a href="https://experts.griffith.edu.au/50888-lei-wang" style="color: blue"> [Griffith Researcher]</a> <a href="https://people.csiro.au/W/L/lei-wang" style="color: blue">[D61/CSIRO Researcher]</a>
 
 Lei Wang is a Research Fellow (Grade 2) in Electrical and Electronic Engineering within the School of Engineering and Built Environment at Griffith University. He works with [Prof. Yongsheng Gao](https://experts.griffith.edu.au/19112-yongsheng-gao) ([2025 ARC Industry Laureate Fellow](https://www.arc.gov.au/2025-industry-laureate-profile-professor-yongsheng-gao)), [Prof. Jun Zhou](https://experts.griffith.edu.au/7205-jun-zhou) and [Prof. Piotr Koniusz](https://www.koniusz.com) (UNSW & Data61/CSIRO), and is also a Visiting Scientist at Data61/CSIRO. 
 
