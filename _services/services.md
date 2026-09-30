@@ -60,6 +60,8 @@ Sydney, Australia<br>
 
 <h2>Review (Area Chair, Associate Editor, Guest Editor, Reviewer)</h2>
 
+I serve as an **Action Editor (AE)** for the Transactions on Machine Learning Research (TMLR).
+
 I am serving as an **Area Chair** for ICLR 2027.
 
 I am serving as a **Guest Editor** for Intelligent Computing [Q1, impact factor: 6.4], Special Issue titled '[Foundation Models Beyond Text: Towards General Multimodal Intelligence](https://spj.science.org/page/icomputing/si/models-beyond-text)'.
