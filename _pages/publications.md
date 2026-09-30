@@ -587,6 +587,14 @@ Please note that arXiv papers have not been peer-reviewed and should be consider
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr">
+			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2609.33723"><strong><span class="gsc_a_at">GeoShrink: Accelerating Diffusion Transformers with Two Lines of Code</span></strong></a>
+				<div class="gs_gray">H Li, W Chen, S Liang, <strong>L Wang</strong>, B Tian, Y Yue</div>
+				<div class="gs_gray">arXiv preprint arXiv:2609.33723</div>
+			</td>
+			<td class="gsc_a_c">Research report.</td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
+		</tr>
+		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2509.09151"><strong><span class="gsc_a_at">Video Understanding by Design: How Datasets Shape Video Models</span></strong></a>
 				<div class="gs_gray"><strong>L Wang</strong>, SH Li, P Koniusz, Y Gao</div>
 				<div class="gs_gray">arXiv preprint arXiv:2509.09151</div>
