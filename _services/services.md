@@ -60,7 +60,7 @@ Sydney, Australia<br>
 
 <h2>Review (Area Chair, Associate Editor, Guest Editor, Reviewer)</h2>
 
-I serve as an **Action Editor (AE)** for the Transactions on Machine Learning Research (TMLR).
+I serve as an **Action Editor** for the Transactions on Machine Learning Research (TMLR).
 
 I am serving as an **Area Chair** for ICLR 2027.
 
