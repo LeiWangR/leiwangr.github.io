@@ -53,7 +53,7 @@ You will not build it all at once. Starting with a simple control panel in Week 
 | 9 | [Sets and Dictionaries](https://leiwangr.github.io/files/1811ICT/w09lec-sets_and_dictionaries.pdf) | [v9.0](https://leiwangr.github.io/files/1811ICT/workshop09-v9.pdf): Sets and Dictionaries [[Code]](https://leiwangr.github.io/files/1811ICT/mission_control_v9.py) |
 | 10 | [Object-Oriented Programming](https://leiwangr.github.io/files/1811ICT/w10lec-OOP.pdf) | [v10.0](https://leiwangr.github.io/files/1811ICT/workshop10-v10.pdf): Object-Oriented Programming [[Code]](https://leiwangr.github.io/files/1811ICT/mission_control_v10.py) |
 | **Quiz 2** | NA | NA |
-| 11 | Modules & Libraries | Workshop 11 |
+| 11 | [Modules & Libraries](https://leiwangr.github.io/files/1811ICT/w11lec-modules-libraries.pdf) | No Workshop |
 | 12 | Revision & Exam Information | No Workshop |
 | **Final Exam** | NA | NA |
 
