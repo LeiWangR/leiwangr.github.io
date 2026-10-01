@@ -54,7 +54,7 @@ You will not build it all at once. Starting with a simple control panel in Week 
 | 10 | [Object-Oriented Programming](https://leiwangr.github.io/files/1811ICT/w10lec-OOP.pdf) | [v10.0](https://leiwangr.github.io/files/1811ICT/workshop10-v10.pdf): Object-Oriented Programming [[Code]](https://leiwangr.github.io/files/1811ICT/mission_control_v10.py) |
 | **Quiz 2** | NA | NA |
 | 11 | [Modules & Libraries](https://leiwangr.github.io/files/1811ICT/w11lec-modules-libraries.pdf) | No Workshop |
-| 12 | Revision & Exam Information | No Workshop |
+| 12 | Revision & Exam Information | No Workshop <br> [Sample exam questions & answers](https://leiwangr.github.io/files/1811ICT/Sample-exam-answers.pdf) |
 | **Final Exam** | NA | NA |
 
 * 2026 Trimester 2, Online: **Course Convenor**
