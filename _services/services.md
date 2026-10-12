@@ -33,6 +33,14 @@ a:active {
     <th>Conference details</th>
   </tr>
   <tr>
+    <td><strong><font color="blue">TIME 2027</font></strong>: 3rd International Workshop on <strong><font color="blue">T</font></strong>ransformative <strong><font color="blue">I</font></strong>nsights in <strong><font color="blue">M</font></strong>ulti-faceted <strong><font color="blue">E</font></strong>valuation</td>
+    <td>Lei Wang, Md Zakir Hossain, Zicheng Pan, Wenshuo Chen, Syed M. S. Islam, Tom Gedeon, Sabrina Caldwell, Rafiqul Islam, Mohammad Abdur Razzaque, Arjumand Younus </td>
+    <td>This new workshop focuses on cross-domain knowledge exchange and adaptation, aiming to bridge successful methodologies across diverse fields. Additionally, it seeks to close the gap between academic research and industry needs. Our discussions will cover the past, present, and future directions of research in web technologies. </td>
+    <td>The Web Conference 2027<br>
+Dublin, Ireland<br>
+10 May - 14 May 2027</td>
+  </tr>
+  <tr>
     <td><strong><font color="green">TIME 2026</font></strong>: 2nd International Workshop on <strong><font color="green">T</font></strong>ransformative <strong><font color="green">I</font></strong>nsights in <strong><font color="green">M</font></strong>ulti-faceted <strong><font color="green">E</font></strong>valuation<br><a href="https://time.griffith.edu.au/workshop/time2026/">[Homepage link]</a></td>
     <td>Dr Lei Wang, Dr Md Zakir Hossain, Prof Tom Gedeon, Dr Zicheng Pan, Dr Syed Islam, Prof Rafiqul Islam, Dr Yasmeen George, Dr Shreya Ghosh</td>
     <td>This new workshop focuses on cross-domain knowledge exchange and adaptation, aiming to bridge successful methodologies across diverse fields. Additionally, it seeks to close the gap between academic research and industry needs. Our discussions will cover the past, present, and future directions of research in web technologies. <br><a href="https://leiwangr.github.io/files/time26-workshop.pdf">[Call for paper submission]</a><a href="https://leiwangr.github.io/files/time26.pdf">[Workshop summary]</a></td>
