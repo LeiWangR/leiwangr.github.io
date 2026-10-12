@@ -72,7 +72,7 @@ I personally do not have any news; the most exciting updates are coming from my 
 
 <div style="max-height: 360px; overflow-y: auto; border: 1px solid #ddd; padding: 10px;">
 <ul>
-  <li>12/10/2025: One workshop proposal entitled "<em>TIME 2027: 3rd International Workshop on Transformative Insights in Multi-faceted Evaluation</em>" has been accepted at The Web Conference (WWW 2027, A*) as a full-day workshop. </li>
+  <li>12/10/2026: One workshop proposal entitled "<em>TIME 2027: 3rd International Workshop on Transformative Insights in Multi-faceted Evaluation</em>" has been accepted at The Web Conference (WWW 2027, A*) as a full-day workshop. </li>
   <li>04/09/2026: Intelligent Computing [Q1, impact factor: 6.4] has a special issue on ‘Foundation Models Beyond Text: Towards General Multimodal Intelligence’ (Guest Editors: Prof. Jieping Ye, Dr. Lei Wang, Dr. Zicheng Pan) now <a href="https://spj.science.org/page/icomputing/si/models-beyond-text">open for submission</a>. The deadline for manuscript submissions is June 30, 2027.</li>
   <li>10/07/2026: One paper has been accepted at <strong>ACM-MM 2026</strong> Main Track. Congratulations to <font color="blue">Haosen Li</font>, <font color="blue">Wenshuo Chen</font>, and <font color="blue">Shaofeng Liang</font>.</li>
   <li>29/06/2026: <strong>Three</strong> papers have been accepted at <strong>ACM-MM 2026</strong> (Brave New Ideas Track): one <strong>oral</strong> and two posters. Congratulations to <font color="blue">Wenshuo Chen</font>, <font color="blue">Haozhe Jia</font>, and <font color="blue">Haosen Li</font>!</li>
