@@ -37,8 +37,8 @@ As part of my role at Griffith University, specifically through the TIME@ARC Hub
 * On-site PhD candidates:
   * [Jingxi Zhang](https://scholar.google.com/citations?user=w-ck4k4AAAAJ&hl=en), *Doctoral candidate*@Griffith, 2026/10/12 – <font color="blue">present</font>
   * Xi Zhou, *Doctoral candidate*@Griffith, 2026/10/05 – <font color="blue">present</font>
-  * Xu Han, *Doctoral candidate*@Griffith, 2026/08/28 – <font color="blue">present</font>
-  * Wangshu Cai, *Doctoral candidate*@Griffith, 2026/03/25 – <font color="blue">present</font>
+  * [Xu Han](https://scholar.google.com/citations?user=ZtxlPc0AAAAJ&hl=en) (1 x <strong>arXiv preprint</strong>), *Doctoral candidate*@Griffith, 2026/08/28 – <font color="blue">present</font>
+  * [Wangshu Cai](https://scholar.google.com/citations?user=MRG0wLIAAAAJ&hl=en), *Doctoral candidate*@Griffith, 2026/03/25 – <font color="blue">present</font>
   * Rongchang Wang, Project title: *Appliance of vision-based action recognition in dental surgical training*, *Doctoral candidate*@Griffith, 2025/12/08 – <font color="blue">present</font>
   * [Edwin Kwadwo Tenagyei](https://scholar.google.de/citations?user=VoIFrp7h-tIC&hl=en) (1 x <font color="red"><strong>ECCV'26</strong></font>, 1 x <font color="red">WWW Companion'26 oral</font>, 1 x <strong>arXiv preprint</strong>), TIME Lab internal research project, *Doctoral candidate*@Griffith&ARC Hub, 2025/05/30 – <font color="blue">present</font>
 
