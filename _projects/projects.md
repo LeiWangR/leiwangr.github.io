@@ -91,7 +91,7 @@ Application Review Process:
 
 **Note**: Applicants are expected to demonstrate how their research interests, skills, and experience align closely with the objectives of the project. Proposals that clearly connect the candidate’s expertise to the project aims are strongly encouraged.
 
-**Update**: The two PhD positions have now been awarded to [Talha Usman](https://scholar.google.com/citations?user=DERa3cUAAAAJ&hl=en) and [Jingxi Zhang](https://scholar.google.com/citations?user=w-ck4k4AAAAJ&hl=en), who will join the ARC Research Hub & Griffith University research program. The MPhil opportunity will be developed in conjunction with the 2026/27 Sciences Summer Research Program (see my *Project 11*), providing a potential pathway for students interested in pursuing an MPhil.
+**Update**: One PhD position has now been awarded to [Jingxi Zhang](https://scholar.google.com/citations?user=w-ck4k4AAAAJ&hl=en), who will join the ARC Research Hub & Griffith University research program. The MPhil opportunity will be developed in conjunction with the 2026/27 Sciences Summer Research Program (see my *Project 11*), providing a potential pathway for students interested in pursuing an MPhil.
 
 <h3>Project 8: TIME Lab Research Internship at Griffith<font color="red"> [Ongoing]</font></h3>
 
