@@ -32,7 +32,7 @@ I am currently a registered Higher Degree by Research (HDR) supervisor at Griffi
 As part of my role at Griffith University, specifically through the TIME@ARC Hub&Griffith, I have begun supervising research assistants, research interns, Master of Philosophy (MPhil) students, and Doctoral (PhD) candidates in both **co-principal and principal supervision** capacities.
 
 * On-site Research Interns:
-  * [Syuan-Hao Li](https://hibana2077.com/) (1 x <font color="red">WWW Companion'26</font>, 1 x <strong>arXiv preprint</strong>), ARC Research Hub internal research project (co-supervised with [Prof. Yongsheng Gao](https://experts.griffith.edu.au/19112-yongsheng-gao)),  *Bachelor Student*@National Taitung University, 2025/06/05 – <font color="blue">present</font>
+  * [Syuan-Hao Li](https://hibana2077.com/) (1 x <font color="red">WWW Companion'26</font>, 3 x <strong>arXiv preprint</strong>), ARC Research Hub internal research project (co-supervised with [Prof. Yongsheng Gao](https://experts.griffith.edu.au/19112-yongsheng-gao)),  *Bachelor Student*@National Taitung University, 2025/06/05 – <font color="blue">present</font>
 
 * On-site PhD candidates:
   * [Jingxi Zhang](https://scholar.google.com/citations?user=w-ck4k4AAAAJ&hl=en), *Doctoral candidate*@Griffith, 2026/10/12 – <font color="blue">present</font>
@@ -43,7 +43,7 @@ As part of my role at Griffith University, specifically through the TIME@ARC Hub
   * [Edwin Kwadwo Tenagyei](https://scholar.google.de/citations?user=VoIFrp7h-tIC&hl=en) (1 x <font color="red"><strong>ECCV'26</strong></font>, 1 x <font color="red">WWW Companion'26 oral</font>, 1 x <strong>arXiv preprint</strong>), TIME Lab internal research project, *Doctoral candidate*@Griffith&ARC Hub, 2025/05/30 – <font color="blue">present</font>
 
 * Remote PhD candidates:
-  * Zhicheng Zhang (1 x <font color="red">WWW Companion'26 oral</font> (<font color="red"><strong>Best Paper Award</strong></font>)), TIME Lab internal research project, *Doctoral candidate*@UNSW Canberra, 2025/10/10 – <font color="blue">present</font>
+  * [Zhicheng Zhang](https://openreview.net/profile?id=~Zhicheng_Zhang9) (1 x <font color="red">WWW Companion'26 oral</font> (<font color="red"><strong>Best Paper Award</strong></font>), 2 x <strong>arXiv preprint</strong>), TIME Lab internal research project, *Doctoral candidate*@UNSW Canberra, 2025/10/10 – <font color="blue">present</font>
 
 * Remote Research Trainee:
   * [Arpit Sharma](https://sites.google.com/cmrit.ac.in/arpitsharma) (1 x <font color="red">WWW Companion'26 oral</font>), TIME Lab internal research project, *Master's Student*@Christ University, 2025/12/07 – <font color="blue">present</font>
