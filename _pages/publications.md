@@ -314,6 +314,14 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr">
+			<td class="gsc_a_t"><a href=""><strong><span class="gsc_a_at">Latent Spectral Prompting for Multimodal Hyperspectral Object Tracking</span></strong></a>
+				<div class="gs_gray">W Cai, J Zhou, <strong>L Wang</strong>, MA Islam, X Han, K Paliwal </div>
+				<div class="gs_gray">Winter Conference on Applications of Computer Vision (<strong>WACV</strong>)</div>
+			</td>
+			<td class="gsc_a_c">Algorithms Track<br>[<font color="red"><strong>A</strong></font>]</td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2027</span></td>
+		</tr>
+		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://arxiv.org/abs/2604.23536"><strong><span class="gsc_a_at">Z$^2$-Sampling: Zero-Cost Zigzag Trajectories for Semantic Alignment in Diffusion Models</span></strong></a>
 				<div class="gs_gray">H Li, W Chen, S Liang, <strong>L Wang</strong>, K Yuan, Y Yue</div>
 				<div class="gs_gray">ACM Multimedia (<strong>ACM-MM</strong>)</div>
