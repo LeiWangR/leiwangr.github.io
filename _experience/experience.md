@@ -43,6 +43,7 @@ I am also working to bridge the gap between academic research and industry resea
   <ul>
     <li style="list-style-type:none;">
     <ul>
+      <li> <font color="red">One paper has been accepted at <strong>WACV 2027</strong> Algorithms Track</font></li>
       <li> <font color="red">One workshop proposal entitled "TIME 2027: 3rd International Workshop on Transformative Insights in Multi-faceted Evaluation" has been accepted at <strong>WWW 2027</strong> as a full-day workshop</font></li>
       <li> <font color="red">I serve as an <strong>Action Editor</strong> for TMLR</font></li>
       <li> <font color="red">I am serving as an <strong>Area Chair</strong> for ICLR 2027</font></li>
