@@ -35,7 +35,7 @@ a:active {
   <tr>
     <td><strong><font color="blue">TIME 2027</font></strong>: 3rd International Workshop on <strong><font color="blue">T</font></strong>ransformative <strong><font color="blue">I</font></strong>nsights in <strong><font color="blue">M</font></strong>ulti-faceted <strong><font color="blue">E</font></strong>valuation<br><a href="https://time.griffith.edu.au/workshop/time2027/">[Homepage link]</a></td>
     <td>Lei Wang, Md Zakir Hossain, Zicheng Pan, Wenshuo Chen, Syed M. S. Islam, Tom Gedeon, Sabrina Caldwell, Rafiqul Islam, Mohammad Abdur Razzaque, Arjumand Younus </td>
-    <td>This new workshop focuses on cross-domain knowledge exchange and adaptation, aiming to bridge successful methodologies across diverse fields. Additionally, it seeks to close the gap between academic research and industry needs. Our discussions will cover the past, present, and future directions of research in web technologies. </td>
+    <td>This new workshop focuses on cross-domain knowledge exchange and adaptation, aiming to bridge successful methodologies across diverse fields. Additionally, it seeks to close the gap between academic research and industry needs. Our discussions will cover the past, present, and future directions of research in web technologies. <br><a href="https://leiwangr.github.io/files/time27-workshop.pdf">[Call for paper submission]</a></td>
     <td>The Web Conference 2027<br>
 Dublin, Ireland<br>
 10 May - 14 May 2027</td>
