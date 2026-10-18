@@ -43,7 +43,7 @@ As part of my role at Griffith University, specifically through the TIME@ARC Hub
   * [Edwin Kwadwo Tenagyei](https://scholar.google.de/citations?user=VoIFrp7h-tIC&hl=en) (1 x <font color="red"><strong>ECCV'26</strong></font>, 1 x <font color="red">WWW Companion'26 oral</font>, 1 x <strong>arXiv preprint</strong>), TIME Lab internal research project, *Doctoral candidate*@Griffith&ARC Hub, 2025/05/30 – <font color="blue">present</font>
 
 * Remote PhD candidates:
-  * [Zhicheng Zhang](https://openreview.net/profile?id=~Zhicheng_Zhang9) (1 x <font color="red">WWW Companion'26 oral</font> (<font color="red"><strong>Best Paper Award</strong></font>), 2 x <strong>arXiv preprint</strong>), TIME Lab internal research project, *Doctoral candidate*@UNSW Canberra, 2025/10/10 – <font color="blue">present</font>
+  * [Zhicheng Zhang](https://qzzhang3.github.io/ZhichengPW/) (1 x <font color="red">WWW Companion'26 oral</font> (<font color="red"><strong>Best Paper Award</strong></font>), 2 x <strong>arXiv preprint</strong>), TIME Lab internal research project, *Doctoral candidate*@UNSW Canberra, 2025/10/10 – <font color="blue">present</font>
 
 * Remote Research Trainee:
   * [Arpit Sharma](https://sites.google.com/cmrit.ac.in/arpitsharma) (1 x <font color="red">WWW Companion'26 oral</font>), TIME Lab internal research project, *Master's Student*@Christ University, 2025/12/07 – <font color="blue">present</font>
