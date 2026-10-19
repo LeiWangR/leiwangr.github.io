@@ -266,7 +266,7 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 				<div class="gs_gray"><strong>L Wang</strong>, P Koniusz</div>
 				<div class="gs_gray">Asian Conference on Computer Vision (ACCV), 307-326</div>
 			</td>
-			<td class="gsc_a_c">[<font color="red"><strong>B</strong>, oral, 4.9% acceptance rate, <br><strong>Best Student Paper Award</strong></font>]<br><a href="https://leiwangr.github.io/files/ACCV2022_Best Student Paper Award.pdf" style="color:#000000;">Award certificate</a><br><a href="https://github.com/LeiWangR/JEANIE" style="color:#000000;">Code</a></td>
+			<td class="gsc_a_c">[<font color="red"><strong>B</strong>, oral, 4.9% acceptance rate, <br><strong>Best Student Paper Award</strong></font>]<br><a href="https://leiwangr.github.io/files/ACCV2022_Best Student Paper Award.pdf" style="color:#000000;">Award certificate</a><br><a href="https://github.com/LeiWangR/JEANIE" style="color:#000000;">Code</a>, Faster version: <a href="https://github.com/hibana2077/torchwarp" style="color:#000000;"> Torchwarp</a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2022</span></td>
 		</tr>
 		<tr class="gsc_a_tr" style="background-color:#E0FFFF">
