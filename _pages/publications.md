@@ -70,7 +70,7 @@ S Anwar, T Gedeon, <strong>L Wang</strong>$^\dagger$, Z Qin</div>
 				<div class="gs_gray"><strong>L Wang</strong>$^\dagger$, J Liu, L Zheng, T Gedeon, P Koniusz</div>
 				<div class="gs_gray">International Journal of Computer Vision (<strong>IJCV</strong>), 4091-4122</div>
 			</td>
-			<td class="gsc_a_c">(IJCV special issue on our ACCV'22)<br>[<font color="red"><strong>IF: 11.6</strong></font>] <br><a href="https://github.com/LeiWangR/JEANIE" style="color:#000000;"> Code </a></td>
+			<td class="gsc_a_c">(IJCV special issue on our ACCV'22)<br>[<font color="red"><strong>IF: 11.6</strong></font>] <br><a href="https://github.com/LeiWangR/JEANIE" style="color:#000000;"> Code</a>, Faster version: <a href="https://github.com/hibana2077/torchwarp" style="color:#000000;"> Torchwarp</a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2024</span></td>
 		</tr>
                 <tr class="gsc_a_tr" style="background-color:#E0FFFF">
@@ -274,7 +274,7 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 				<div class="gs_gray"><strong>L Wang</strong>, P Koniusz</div>
 				<div class="gs_gray">European Conference on Computer Vision (<strong>ECCV</strong>), 176-195</div>
 			</td>
-			<td class="gsc_a_c">[<font color="red"><strong>A*</strong>, oral, 2.7% acceptance rate</font>]<br><a href="https://github.com/LeiWangR/uDTW" style="color:#000000;">Code</a></td>
+			<td class="gsc_a_c">[<font color="red"><strong>A*</strong>, oral, 2.7% acceptance rate</font>]<br><a href="https://github.com/LeiWangR/uDTW" style="color:#000000;">Code</a>, Faster version: <a href="https://github.com/hibana2077/torchwarp" style="color:#000000;"> Torchwarp</a></td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2022</span></td>
 		</tr>
 		<tr class="gsc_a_tr" style="background-color:#E0FFFF">
