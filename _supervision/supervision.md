@@ -32,6 +32,7 @@ I am currently a registered Higher Degree by Research (HDR) supervisor at Griffi
 As part of my role at Griffith University, specifically through the TIME@ARC Hub&Griffith, I have begun supervising research assistants, research interns, Master of Philosophy (MPhil) students, and Doctoral (PhD) candidates in both **co-principal and principal supervision** capacities.
 
 * On-site Research Interns:
+  * Thanh Y Nguyen, ARC Research Hub internal research project (co-supervised with [Prof. Yongsheng Gao](https://experts.griffith.edu.au/19112-yongsheng-gao)), *Bachelor(Honours) Student*@Griffith, 2026/10/23 – <font color="blue">present</font>
   * [Syuan-Hao Li](https://hibana2077.com/) (1 x <font color="red">WWW Companion'26</font>, 3 x <strong>arXiv preprint</strong>), ARC Research Hub internal research project (co-supervised with [Prof. Yongsheng Gao](https://experts.griffith.edu.au/19112-yongsheng-gao)),  *Bachelor Student*@National Taitung University, 2025/06/05 – <font color="blue">present</font>
 
 * On-site PhD candidates:
