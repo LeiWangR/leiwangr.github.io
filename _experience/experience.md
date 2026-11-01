@@ -37,7 +37,7 @@ I am also working to bridge the gap between academic research and industry resea
 
 * *17/02/2025-<font color="blue">present</font>*: **Research Fellow** (Grade 2)
   * ARC Industrial Transformation Research Hub (School of Engineering and Built Environment—Electrical and Electronic Engineering at Griffith University)
-  * Postdoc advisor: [Prof. Yongsheng Gao](https://experts.griffith.edu.au/19112-yongsheng-gao) (17 Feb 2025–present), [Prof. Jun Zhou](https://experts.griffith.edu.au/7205-jun-zhou) (20 Feb–19 Jun 2026), and [Prof. Piotr Koniusz](https://www.koniusz.com) (UNSW & Data61/CSIRO, 17 Feb 2025–19 Feb 2026)
+  * Postdoc advisor: [Prof. Yongsheng Gao](https://experts.griffith.edu.au/19112-yongsheng-gao) (17 Feb 2025-present), [Prof. Jun Zhou](https://experts.griffith.edu.au/7205-jun-zhou) (20 Feb-19 Jun 2026), and [Prof. Piotr Koniusz](https://www.koniusz.com) (UNSW & Data61/CSIRO, 17 Feb 2025-19 Feb 2026)
   
 <div style="max-height: 360px; overflow-y: auto; border: 1px solid #ddd; padding: 10px;">
   <ul>
