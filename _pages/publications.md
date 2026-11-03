@@ -150,7 +150,7 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr">
-			<td class="gsc_a_t"><a href="https://leiwangr.github.io/files/wacv27-wangshu.pdf"><strong><span class="gsc_a_at">Latent Spectral Prompting for Multimodal Hyperspectral Object Tracking</span></strong></a>
+			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2611.02512"><strong><span class="gsc_a_at">Latent Spectral Prompting for Multimodal Hyperspectral Object Tracking</span></strong></a>
 				<div class="gs_gray">W Cai, J Zhou, <strong>L Wang</strong>$^\dagger$, MA Islam, X Han, K Paliwal </div>
 				<div class="gs_gray">Winter Conference on Applications of Computer Vision (<strong>WACV</strong>)</div>
 			</td>
