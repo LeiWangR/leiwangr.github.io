@@ -416,7 +416,7 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr">
-			<td class="gsc_a_t"><a href=""><strong><span class="gsc_a_at">TIME 2026: 2nd International Workshop on Transformative Insights in Multi-faceted Evaluation</span></strong></a>
+			<td class="gsc_a_t"><a href=""><strong><span class="gsc_a_at">TIME 2027: 3rd International Workshop on Transformative Insights in Multi-faceted Evaluation</span></strong></a>
 				<div class="gs_gray"><strong>L Wang</strong>$^\dagger$, MZ Hossain, Z Pan, W Chen, S Islam, T Gedeon, S Caldwell, R Islam, MA Razzaque, A Younus</div>
 				<div class="gs_gray">Companion Proceedings of the ACM Web Conference 2027</div>
 			</td>
