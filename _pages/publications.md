@@ -416,6 +416,14 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr">
+			<td class="gsc_a_t"><a href=""><strong><span class="gsc_a_at">TIME 2026: 2nd International Workshop on Transformative Insights in Multi-faceted Evaluation</span></strong></a>
+				<div class="gs_gray"><strong>L Wang</strong>$^\dagger$, MZ Hossain, Z Pan, W Chen, S Islam, T Gedeon, S Caldwell, R Islam, MA Razzaque, A Younus</div>
+				<div class="gs_gray">Companion Proceedings of the ACM Web Conference 2027</div>
+			</td>
+			<td class="gsc_a_c"><a href="https://time.griffith.edu.au/workshop/time2027/" style="color:#000000;">Workshop website</a></td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2027</span></td>
+		</tr>
+		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://openreview.net/forum?id=twzpn2VZv9"><strong><span class="gsc_a_at">Rethinking Object Detection and Tracking</span></strong></a>
 				<div class="gs_gray">A Sharma, <strong>L Wang</strong>$^\dagger$, Y Gao</div>
 				<div class="gs_gray">Companion Proceedings of the ACM Web Conference 2026</div>
