@@ -63,7 +63,7 @@ I personally do not have any news; the most exciting updates are coming from my 
 
 <div style="max-height: 360px; overflow-y: auto; border: 1px solid #ddd; padding: 10px;">
 <ul>
-  <li>13/11/2026: An author-corrected version of "Graph Your Own Prompt" was released in October 2026, with updated experimental results and clarifications.</li>
+  <li>16/11/2026: An author-corrected version (October 2026) of <em>Graph Your Own Prompt</em> (NeurIPS 2025) was released.</li>
   <li>15/10/2026: One paper has been accepted at <strong>WACV 2027</strong> Algorithms Track. Congratulations to <font color="blue">Wangshu Cai</font>!</li>
   <li>12/10/2026: One workshop proposal entitled "<em>TIME 2027: 3rd International Workshop on Transformative Insights in Multi-faceted Evaluation</em>" has been accepted at The Web Conference (WWW 2027, A*) as a full-day workshop. </li>
   <li>04/09/2026: Intelligent Computing [Q1, impact factor: 6.4] has a special issue on ‘Foundation Models Beyond Text: Towards General Multimodal Intelligence’ (Guest Editors: Prof. Jieping Ye, Dr. Lei Wang, Dr. Zicheng Pan) now <a href="https://spj.science.org/page/icomputing/si/models-beyond-text">open for submission</a>. The deadline for manuscript submissions is June 30, 2027.</li>
