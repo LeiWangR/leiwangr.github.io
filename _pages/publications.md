@@ -190,7 +190,7 @@ Conference rankings follow the [CORE 2023](https://portal.core.edu.au/conf-ranks
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
 		</tr>
 		<tr class="gsc_a_tr">
-			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2509.23373"><strong><span class="gsc_a_at">Graph Your Own Prompt</span></strong></a>
+			<td class="gsc_a_t"><a href="https://leiwangr.github.io/files/NeurIPS2025-corrected-version.pdf"><strong><span class="gsc_a_at">Graph Your Own Prompt</span></strong></a>
 				<div class="gs_gray">X Ding*, <strong>L Wang</strong>*, P Koniusz, Y Gao</div>
 				<div class="gs_gray">Advances in Neural Information Processing Systems (<strong>NeurIPS</strong>)</div>
 			</td>
