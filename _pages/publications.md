@@ -611,6 +611,14 @@ Please note that arXiv papers have not been peer-reviewed and should be consider
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr">
+			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2611.15543"><strong><span class="gsc_a_at">Testing Conversation Preservation Across LLM APIs: A Rule-Based Oracle for Detecting Silent Information Loss</span></strong></a>
+				<div class="gs_gray">X Liu, X Han, Y Wang, H Song, M Zhao, <strong>L Wang</strong>$^\dagger$</div>
+				<div class="gs_gray">arXiv preprint arXiv:2611.15543</div>
+			</td>
+			<td class="gsc_a_c">Research report. [<a href="https://convpreserve.github.io/" style="color:#000000;">Project website</a>][<a href="https://github.com/convpreserve/conv-preserve" style="color:#000000;">Code</a>]</td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2026</span></td>
+		</tr>
+		<tr class="gsc_a_tr">
 			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2609.33723"><strong><span class="gsc_a_at">GeoShrink: Accelerating Diffusion Transformers with Two Lines of Code</span></strong></a>
 				<div class="gs_gray">H Li, W Chen, S Liang, <strong>L Wang</strong>, B Tian, Y Yue</div>
 				<div class="gs_gray">arXiv preprint arXiv:2609.33723</div>
