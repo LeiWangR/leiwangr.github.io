@@ -611,7 +611,7 @@ Please note that arXiv papers have not been peer-reviewed and should be consider
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr">
-			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2609.33723"><strong><span class="gsc_a_at">Trajectory-Calibrated Merging of Embodied Policies</span></strong></a>
+			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2611.25575"><strong><span class="gsc_a_at">Trajectory-Calibrated Merging of Embodied Policies</span></strong></a>
 				<div class="gs_gray">W Chen, H Jin, L Yang, J Song, S Liang, <strong>L Wang</strong>, J Zhu, K Wang, Z Jin, H Jia, H Chu, S Lai, X Wang, Y Yue</div>
 				<div class="gs_gray">arXiv preprint arXiv:2611.25575</div>
 			</td>
